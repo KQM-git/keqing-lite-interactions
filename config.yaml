@@ -8,4 +8,4 @@ permissions:
 
 activityStatus:
   message: with DEEZ NUTZ
-  activity: PLAYING
+  type: PLAYING
