@@ -4,16 +4,9 @@ embeds:
     thumbnail:
       url: ${ IMAGES.KQM_LOGO }
     description: |-
-      __**Links to Other Servers/Websites**__
-      `k!dg`
+      __**Links to Other Websites**__
       `k!map`
       `k!shinshin`
-      `k!wfp`
-
-      __**KQM Links**__
-      `k!links`
-      `k!partners`
-      `k!patreon`
       
 buttons:
   - customId: "liveInteraction#help/calculators"
