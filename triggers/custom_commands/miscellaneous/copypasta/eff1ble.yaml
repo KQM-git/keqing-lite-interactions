@@ -1,3 +1,0 @@
-match: ${ TRIGGER_PREFIX }(?:[eE]ff1ble)(?:\s|$)
-interaction: 
-  content: blackcliff? Stop coping and pull a good weapon

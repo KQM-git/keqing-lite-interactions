@@ -1,3 +1,0 @@
-interaction: triggers/steponme
-description: "Step on me"
-match: ${ TRIGGER_PREFIX }steponme(?:\s|$)

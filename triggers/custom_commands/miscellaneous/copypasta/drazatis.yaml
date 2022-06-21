@@ -1,3 +1,0 @@
-match: ${ TRIGGER_PREFIX }(?:[dD]razatis|[dD]raz)(?:\s|$)
-interaction: 
-  content: eat my ass

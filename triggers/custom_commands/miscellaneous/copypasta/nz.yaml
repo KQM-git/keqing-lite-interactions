@@ -1,2 +1,0 @@
-match: ${ TRIGGER_PREFIX }(?:[nN][zZ])(?:\s|$)
-interaction: tcl/srp

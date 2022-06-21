@@ -5,6 +5,7 @@ embeds:
       url: ${ IMAGES.KQM_LOGO }
     description: |-
       `k!bannerhistory`
+      `k!bookkeeping`
       `k!charshields`
       `k!crcd`
       `k!damage`
@@ -18,6 +19,7 @@ embeds:
       `k!glossary`
       `k!hitlag`
       `k!icd`
+      `k!infographics`
       `k!mvd`
       `k!parametric`
       `k!particles`
