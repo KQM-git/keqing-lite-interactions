@@ -24,3 +24,7 @@ buttons:
     label: Next - Guide Commands
     style: "PRIMARY"
     emoji: "▶️"
+
+permissions:
+  blacklist:
+    - "945927765318836254"
