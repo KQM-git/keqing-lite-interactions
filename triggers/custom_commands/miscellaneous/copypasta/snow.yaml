@@ -1,3 +1,0 @@
-match: ${ TRIGGER_PREFIX }(?:[sS]now)(?:\s|$)
-interaction: 
-  content: tc pillar (derogatory)

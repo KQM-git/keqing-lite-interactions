@@ -1,3 +1,0 @@
-interaction: miscellaneous/nuke
-description: nuke pre-tc
-match: ${ TRIGGER_PREFIX }nuke(?:\s|$)

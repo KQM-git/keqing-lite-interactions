@@ -1,2 +1,0 @@
-match: "${ TRIGGER_PREFIX }whale"
-interaction: triggers/whale

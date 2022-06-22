@@ -1,3 +1,0 @@
-interaction: miscellaneous/feedback
-description: for leaving feedback on KQM
-match: ${ TRIGGER_PREFIX }feedback(?:\s|$)

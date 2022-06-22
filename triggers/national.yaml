@@ -1,5 +1,0 @@
-match: "(nati|internat|rati|natxia|xia|eternati)onal|morgana|morganya|sukokomon|sukoko"
-interaction: triggers/national
-channels:
-  whitelist:
-    - "$ { CHANNELS.HELP.QPH }"

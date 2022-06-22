@@ -1,3 +1,0 @@
-match: ${ TRIGGER_PREFIX }(?:[pP]eekays)(?:\s|$)
-interaction: 
-  content: https://tenor.com/view/dont-care-didnt-ask-cope-_ratio-skill-issue-canceled-gif-24148064

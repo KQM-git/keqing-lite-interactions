@@ -1,3 +1,0 @@
-match: ${ TRIGGER_PREFIX }(?:[eE]ggs[dD])(?:\s|$)
-interaction: 
-  content: EggsD is here with more Alchemy Stars gospel!
