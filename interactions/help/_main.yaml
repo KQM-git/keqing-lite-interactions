@@ -27,4 +27,4 @@ buttons:
 
 permissions:
   blacklist:
-    - "945927765318836254"
+    - {ROLES.VERIFIED}
