@@ -27,4 +27,4 @@ buttons:
 
 permissions:
   blacklist:
-    - {ROLES.VERIFIED}
+    - "{ ROLES.VERIFIED }"
