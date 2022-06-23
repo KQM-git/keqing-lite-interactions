@@ -7,7 +7,7 @@ permissions:
     whitelist: ${ [ ROLES.PILLAR_STAFF, ...getValuesRecursive(ROLES.ADMIN) ] }
 
 activityStatus:
-  message: with DEEZ NUTZ
+  message: Genshin Impact with you!
 
   # PLAYING = 0
   # STREAMING = 1
