@@ -4,12 +4,12 @@ embeds:
     thumbnail:
       url: ${ IMAGES.KQM_LOGO }
     description: |-
-      `k!calc [equation]`: Simple calculator when you need to do math.
-      `k!fischlcalculator`:
-      `k!gcc` / `k!keqcalc`: Keqing Gear Comparison Calculator
-      `k!gcsim`: The gcsim
-      `k!optimizer / k!optimiser`: The Genshin optimizer
-      `k!wolfram`: Wolfram Alpha, for when the simple calculator fails.
+      `${ TRIGGER_PREFIX }calc [equation]`: Simple calculator when you need to do math.
+      `${ TRIGGER_PREFIX }fischlcalculator`:
+      `${ TRIGGER_PREFIX }gcc` / `${ TRIGGER_PREFIX }keqcalc`: Keqing Gear Comparison Calculator
+      `${ TRIGGER_PREFIX }gcsim`: The gcsim
+      `${ TRIGGER_PREFIX }optimizer / ${ TRIGGER_PREFIX }optimiser`: The Genshin optimizer
+      `${ TRIGGER_PREFIX }wolfram`: Wolfram Alpha, for when the simple calculator fails.
       
 buttons:
   - customId: "liveInteraction#help/guides"

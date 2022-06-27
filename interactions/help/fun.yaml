@@ -4,20 +4,20 @@ embeds:
     thumbnail:
       url: ${ IMAGES.KQM_LOGO }
     description: |-
-      `k!baka [name]`
-      `k!burger`
-      `k!checkpins`
-      `k!chill`
-      `k!depends`
-      `k!hug [name]`
-      `k!kiss [name]`
-      `k!laugh [name]`
-      `k!nuke`
-      `k!oceanid`
-      `k!shrimp`
-      `k!slap [name]`
-      `k!steponme`
-      `k!whale`
+      `${ TRIGGER_PREFIX }baka [name]`
+      `${ TRIGGER_PREFIX }burger`
+      `${ TRIGGER_PREFIX }checkpins`
+      `${ TRIGGER_PREFIX }chill`
+      `${ TRIGGER_PREFIX }depends`
+      `${ TRIGGER_PREFIX }hug [name]`
+      `${ TRIGGER_PREFIX }kiss [name]`
+      `${ TRIGGER_PREFIX }laugh [name]`
+      `${ TRIGGER_PREFIX }nuke`
+      `${ TRIGGER_PREFIX }oceanid`
+      `${ TRIGGER_PREFIX }shrimp`
+      `${ TRIGGER_PREFIX }slap [name]`
+      `${ TRIGGER_PREFIX }steponme`
+      `${ TRIGGER_PREFIX }whale`
       
 buttons:
   - customId: "liveInteraction#help/other"

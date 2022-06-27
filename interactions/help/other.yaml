@@ -4,16 +4,16 @@ embeds:
     thumbnail:
       url: ${ IMAGES.KQM_LOGO }
     description: |-
-      `k!2tf2no`
-      `k!4bsc`
-      `k!adc`
-      `k!cv`
-      `k!diminishing`
-      `k!fischlwep`
-      `k!microwave`
-      `k!sunfire`
-      `k!shinshin`
-      `k!usage`
+      `${ TRIGGER_PREFIX }2tf2no`
+      `${ TRIGGER_PREFIX }4bsc`
+      `${ TRIGGER_PREFIX }adc`
+      `${ TRIGGER_PREFIX }cv`
+      `${ TRIGGER_PREFIX }diminishing`
+      `${ TRIGGER_PREFIX }fischlwep`
+      `${ TRIGGER_PREFIX }microwave`
+      `${ TRIGGER_PREFIX }sunfire`
+      `${ TRIGGER_PREFIX }shinshin`
+      `${ TRIGGER_PREFIX }usage`
       
 buttons:
   - customId: "liveInteraction#help/links"
