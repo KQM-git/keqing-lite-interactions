@@ -7,3 +7,8 @@ buttons:
     style: "LINK"
     emoji: "📝"
     url: https://docs.google.com/spreadsheets/d/1MEkb0yDJJ-b1j289I337FRQEbD8IYotrJ77r1kQI-sQ
+    
+  - label: "Reruns View"
+    style: "LINK"
+    emoji: "📝"
+    url: https://docs.google.com/spreadsheets/d/18Vrb3n7CuQrxihAQ6cEreZyag4RtiVWRF3Mu3Q0OhSA/edit#gid=1799110820
