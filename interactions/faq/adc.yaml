@@ -1,2 +1,5 @@
-content: |-
-  Acronym for Attack%/Damage%/Crit
+embeds:
+  - title: ADC
+    color: ${COLORS.KQM_PURPLE}
+    description: |-
+      Acronym for Attack % / Damage % / Crit
