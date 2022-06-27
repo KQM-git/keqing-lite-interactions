@@ -6,6 +6,7 @@ embeds:
     thumbnail:
       url: "https://cdn.discordapp.com/attachments/945296189920776245/945581806596530206/unknown.png"
     description: |-
+      *Always energetic and full of life, Amber's the best — albeit only — Outrider of the Knights of Favonius.*
 
 buttons:
   - label: "Guide"

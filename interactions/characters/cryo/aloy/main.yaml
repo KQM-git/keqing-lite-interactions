@@ -4,6 +4,8 @@ embeds:
     thumbnail:
       url: "https://github.com/muakasan/genshin-portraits/blob/main/assets/UI_AvatarIcon_Aloy.png?raw=true"
     description: |-
+      *Formerly an outcast, now a hunter of unparalleled skill. Ready to do the right thing at any time.*
+
       Here are all of KQM's resources on how to build and play Aloy. Please select your desired build below. Enjoy!  
 
 options: #dropdown
