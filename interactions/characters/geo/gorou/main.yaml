@@ -6,6 +6,7 @@ embeds:
     thumbnail:
       url: "https://github.com/muakasan/genshin-portraits/blob/main/assets/UI_AvatarIcon_Gorou.png?raw=true"
     description: |-
+      *The great general of Watatsumi Island's forces. He is deeply trusted by his subordinates.*
 
 buttons:
 # update this when the guide is published

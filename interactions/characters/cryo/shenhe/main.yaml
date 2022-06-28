@@ -6,7 +6,7 @@ embeds:
     thumbnail:
       url: "https://github.com/muakasan/genshin-portraits/blob/main/assets/UI_AvatarIcon_Shenhe.png?raw=true"
     description: |-
-      
+      An adepti disciple with a most unusual air about her. Having spent much time cultivating in isolation in Liyue's mountains, she has become every bit as cool and distant as the adepti themselves.
 
 buttons:
   - label: "Guide"

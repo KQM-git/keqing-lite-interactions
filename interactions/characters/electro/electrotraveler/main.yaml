@@ -6,6 +6,7 @@ embeds:
     thumbnail:
       url: "https://github.com/muakasan/genshin-portraits/blob/main/assets/UI_AvatarIcon_PlayerGirl.png?raw=true"
     description: |-
+      *A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.*
 
 buttons:
   - label: "Guide"

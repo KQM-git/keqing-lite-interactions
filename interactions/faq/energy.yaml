@@ -14,3 +14,8 @@ buttons:
     url: "https://library.keqingmains.com/combat-mechanics/energy"
     emoji: "${ EMOJIS.MAGNIFY }"
     style: "LINK"
+
+  - label: "Elemental Skill Particle Info"
+    value: tcl/particles
+    emoji: "${ EMOJIS.ENERGY_RECHARGE }"
+    style: "LINK"

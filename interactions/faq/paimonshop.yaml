@@ -5,39 +5,47 @@ embeds: >-
 
     const c1 = ["Fischl", "Beidou", "Ningguang", "Razor", "Bennett", "Barbara"];
     const c2 = ["Xiangling", "Noelle", "Xingqiu", "Amber", "Lisa", "Kaeya"];
+    const w1 = ["Blackcliff Weapons", "Royal Weapons"];
+
+    const e1 = ["<:Fischl:953426425959034920>", "<:Beidou:953426424797200425>", "<:Ningguang:953426426370097182>","<:Razor:953426425095024730>", "<:Bennett:953426422289018881>", "<:Barbara:953426424465866802>"];
+    const e2 = ["<:Xiangling:953426425535422474>", "<:Noelle:953426427062124554>", "<:Xingqiu:953426423589265418>", "<:Amber:953426420430929930>", "<:Lisa:953426426995048468>", "<:Kaeya:953426424415543316>"];
+    const e3 = ["<:Blackcliff_Longsword:991223677846827028>", "<:Royal_Longsword:991223652928462848>"];
 
     const date = new Date();
     const currentMonth =  month[date.getMonth()];
 
     function getChars(month) {
-      return [c1[month % c1.length], c2[month % c2.length]];
+      return [c1[month % c1.length], c2[month % c2.length], e1[month % e1.length], e2[month % e2.length]];
+    }
+
+    function getWeps(month) {
+      return [w1[month % w1.length], e3[month % e3.length]];
     }
 
     const chars = getChars(date.getMonth());
     const nextChars = getChars(date.getMonth() + 1);
+    const weps = getWeps(date.getMonth());
+    const nextWeps = getWeps(date.getMonth() + 1);
 
     [
       {
         title: "Paimon's Bargains",
+        color: ${COLORS.KQM_PURPLE}
         thumbnail: {
           url: "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Item_Masterless_Starglitter.png/revision/latest?cb=20201117073223"
         },
         description: "Here are Paimon's Bargains for the month of " + currentMonth + "!"
-      },
-      {
-        title: chars[0],
-        thumbnail: {
-          url: 'https://github.com/muakasan/genshin-portraits/blob/main/assets/UI_AvatarIcon_' + chars[0] + '.png?raw=true'
-        }
-      },
-      {
-        title: chars[1],
-        thumbnail: {
-          url: 'https://github.com/muakasan/genshin-portraits/blob/main/assets/UI_AvatarIcon_' + chars[1] + '.png?raw=true'
-        }
-      },
-      {
-        description: "Next month's characters: " + nextChars[0] + " & " + nextChars[1]
+
+        "**Characters:**"
+        + chars[2] chars[0] + "\n"
+        + chars[3] chars[1] +
+
+        "**Weapons:**"
+        + weps[1] weps[0] + "\n"
+
+        "Next month's Bargains:
+        Characters: " + nextChars[2] nextChars[0] + " & " + nextChars[3] nextChars[1] + "
+        Weapons: " + nextWeps[1] nextWeps[0]
       }
     ];
   $>
@@ -45,5 +53,5 @@ embeds: >-
 buttons:    
   - label: "Shop History"
     style: "LINK"
-    emoji: "📝"
-    url: "https://docs.google.com/spreadsheets/d/1wfqCI8RkxwTPr78KYy_NKAlQe6JIa9Lj-A_By00MXO0/edit#gid=322777487"
+    emoji: ${EMOJIS.SHEETS}
+    url: "https://docs.google.com/spreadsheets/d/1wfqCI8RkxwTPr78KYy_NKAlQe6JIa9Lj-A_By00MXO0/edit"

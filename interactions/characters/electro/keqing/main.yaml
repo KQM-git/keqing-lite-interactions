@@ -4,6 +4,8 @@ embeds:
     thumbnail:
       url: "https://github.com/muakasan/genshin-portraits/blob/main/assets/UI_AvatarIcon_Keqing.png?raw=true"
     description: |-
+      *The Yuheng of the Liyue Qixing. Keqing has much to say about Rex Lapis's unilateral approach to policymaking in Liyue — but in truth, gods admire skeptics such as her quite a lot.*
+
       Here are all of KQM's resources on how to build and play Keqing. Please select your desired build below. Enjoy!
 
 options: #dropdown

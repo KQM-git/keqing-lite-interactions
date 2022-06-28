@@ -1,9 +1,11 @@
 embeds:
   - title: Who Can Hit What In Venti Q? (With Lift)
     color: ${COLORS.KQM_PURPLE}
+    thumbnail:
+      url: "https://github.com/muakasan/genshin-portraits/blob/main/assets/UI_AvatarIcon_Venti.png?raw=true"
 
 buttons:
   - label: "Sheet Link"
     style: "LINK"
-    emoji: "📝"
+    emoji: ${EMOJIS.GOOGLE_SHEETS}
     url: "https://docs.google.com/spreadsheets/d/1BAcB-wjjSrBOFep65vVXTq-yYDIlz59IlY4wUzJVVXQ"

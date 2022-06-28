@@ -6,7 +6,7 @@ embeds:
     thumbnail:
       url: "https://github.com/muakasan/genshin-portraits/blob/main/assets/UI_AvatarIcon_Rosaria.png?raw=true"
     description: |-
-      
+      *A sister of the church, though you wouldn't know it if it weren't for her attire. Known for her sharp, cold words and manner, she often works alone.*
 
 buttons:
   - label: "Guide"

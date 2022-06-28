@@ -6,7 +6,7 @@ embeds:
     thumbnail:
       url: "https://github.com/muakasan/genshin-portraits/blob/main/assets/UI_AvatarIcon_Sucrose.png?raw=true"
     description: |-
-      
+      *An alchemist filled with curiosity about all things. She researches bio-alchemy.*
 
 buttons:
   - label: "Guide"

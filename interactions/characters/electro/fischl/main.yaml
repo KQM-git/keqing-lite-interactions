@@ -6,6 +6,7 @@ embeds:
     thumbnail:
       url: "https://github.com/muakasan/genshin-portraits/blob/main/assets/UI_AvatarIcon_Fischl.png?raw=true"
     description: |-
+      *A mysterious girl who calls herself "Prinzessin der Verurteilung" and travels with a night raven named Oz.*
 
 buttons:
 # add this whenever the guide gets published
@@ -22,4 +23,9 @@ buttons:
   - label: "Quick Guide"
     url: "https://youtu.be/_9PPaCczgTo"
     emoji: ${ EMOJIS.YOUTUBE }
+    style: "LINK"
+
+  - label: "Weapon Ranking"
+    value: faq/fischlwep
+    emoji: <:Fischl:953426425959034920>"
     style: "LINK"

@@ -1,6 +1,6 @@
 embeds:
   - title: Genshin Bookkeeping
-    color: ${COLORS.KQM_PURPLE}
+    color: ${COLORS.KQM_PURPLE} 
     description: A history of limited banner wishes for F2P (Primogems + Intertwined Fates)
 
 buttons:

@@ -6,7 +6,7 @@ embeds:
     thumbnail:
       url: "https://github.com/muakasan/genshin-portraits/blob/main/assets/UI_AvatarIcon_Chongyun.png?raw=true"
     description: |-
-      
+      *A young exorcist from a family of exorcists. He does everything he can to suppress his abundance of yang energy.*
 
 buttons:
   - label: "Guide"

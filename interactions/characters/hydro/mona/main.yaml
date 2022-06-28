@@ -4,18 +4,20 @@ embeds:
     thumbnail:
       url: "https://muakasan.github.io/genshin-portraits/assets/UI_AvatarIcon_Mona.png"
     description: |-
+      *A mysterious young astrologer who proclaims herself to be "Astrologist Mona Megistus," and who possesses abilities to match the title. Erudite, but prideful.*
+
       Here are all of KQM's resources on how to build and play Mona. Please select your desired build below. Enjoy!
 
 options: #dropdown
   - label: On-field / Burst DPS 
     value: characters/hydro/mona/on-field
     description: KQM's resources for on-field/burst DPS Mona.
-    emoji: <:Element_Hydro:945557264314544139>
+    emoji: ${ EMOJIS.ELEMENT_HYDRO }
     
   - label: Support 
     value: characters/hydro/mona/support
     description: KQM's resources for support Mona.
-    emoji: <:Element_Hydro:945557264314544139>
+    emoji: ${ EMOJIS.ELEMENT_HYDRO }
 
 buttons:
   - label: "Guide"

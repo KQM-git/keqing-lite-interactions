@@ -6,7 +6,7 @@ embeds:
     thumbnail:
       url: "https://muakasan.github.io/genshin-portraits/assets/UI_AvatarIcon_Barbara.png"
     description: |-
-      
+      *Every citizen of Mondstadt adores Barbara. She learned the word "idol" from a magazine.*
 
 buttons:
   - label: "Guide"

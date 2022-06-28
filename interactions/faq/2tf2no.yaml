@@ -1,7 +1,7 @@
 embeds:
-  - title: 2TF/2NO with ElectroQueen
-    color: 0xc64dff
+  - title: 2TF/2NO with Electro Keqing ("ElectroQueen")
+    color: ${COLORS.KQM_PURPLE}
     description: |-
-      - can be better than 2G/2TF in Quickswap rosters against swarms of enemies, otherwise deals less single target
-      - another good generalist set for overworld, coop, and Abyss
-      - easier to farm NO pieces than G pieces
+      - Can be better than 2Glad/2TF in Quickswap rosters against swarms of enemies, otherwise deals less single target.
+      - Another good generalist set for overworld, coop, and Abyss.
+      - Easier to farm NO pieces than Gladiator pieces.
