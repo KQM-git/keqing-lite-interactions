@@ -42,6 +42,11 @@ options:
     description: KQM's resources on Sara!
     emoji: "<:Sara:953426425157931098>"
 
+  - label: Sara
+    value: characters/electro/shinobu/main
+    description: KQM's resources on Kuki Shinobu!
+    emoji: "<:Shinobu:991184311841738804>"
+
   - label: Yae
     value: characters/electro/yae/main
     description: KQM's resources on Yae Miko!

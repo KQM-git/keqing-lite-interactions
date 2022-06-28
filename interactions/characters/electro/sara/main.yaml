@@ -6,7 +6,7 @@ embeds:
     thumbnail:
       url: "https://muakasan.github.io/genshin-portraits/assets/UI_AvatarIcon_Sara.png"
     description: |-
-      
+      *A general of the Tenryou Commission. Bold, decisive, and skilled in battle.*
 
 buttons:
   - label: "Guide"

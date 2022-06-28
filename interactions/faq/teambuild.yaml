@@ -1,6 +1,6 @@
 embeds:
   - title: Team Building Guide
-    color: ${ COLORS.KQM_Purple }
+    color: ${COLORS.KQM_PURPLE}
     description: |- 
       This guide will walk you through how to build a good team. It’s focused mainly on building teams for Spiral Abyss, though the same principles apply outside of the Abyss. The summary gives a quick overview of the most important principles in team-building.
       

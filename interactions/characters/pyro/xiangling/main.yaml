@@ -6,6 +6,7 @@ embeds:
     thumbnail:
       url: "https://github.com/muakasan/genshin-portraits/blob/main/assets/UI_AvatarIcon_Xiangling.png?raw=true"
     description: |-
+      *A renowned chef from Liyue. She's extremely passionate about cooking and excels at making her signature hot and spicy dishes.*
       
 buttons:
   - label: "Guide"

@@ -1,0 +1,4 @@
+interaction: characters/electro/shinobu/main
+description: "Opens KQM's resouces on Kuki Shinobu"
+
+match: ${ TRIGGER_PREFIX }(?:[kK]uki|[sS]hinobu)(?:\s|$)

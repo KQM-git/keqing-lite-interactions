@@ -6,22 +6,24 @@ embeds:
     description: |-
       Here are all of KQM's resources available through the Keqing Bot. To see more commands use the buttons below.
 
-      **Character Commands**
-      `k!characters`: Display all of KQM's character resources.
+      All commands can be run with `<prefix>command` (default prefix is k!)
 
-      Character commands can also be used with `k![charactername]`.
+      **Character Commands**
+      `characters`: Display all of KQM's character resources.
+
+      Character commands can also be used with `[charactername]`.
 
 # button order:
 # characters (_main) > guides > calculators > links > other > fun
 
 buttons:
-  - customId: "liveInteraction#help/other"
-    label: Back - Other Commands
+  - customId: "liveInteraction#help/tcl"
+    label: Back - TCL Commands
     style: "PRIMARY"
     emoji: "◀️"
 
-  - customId: "liveInteraction#help/guides"
-    label: Next - Guide Commands
+  - customId: "liveInteraction#help/faq"
+    label: Next - FAQ Commands
     style: "PRIMARY"
     emoji: "▶️"
 

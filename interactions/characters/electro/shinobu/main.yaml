@@ -1,0 +1,20 @@
+embeds:
+  - title: Kuki Shinobu
+    color: ${ COLORS.ELECTRO_PURPLE }
+    #image: 
+    #  url: "https://cdn.discordapp.com/attachments/974036281162080307/991179134908768358/Shinobu_New.png"
+    thumbnail:
+      url: "https://cdn.discordapp.com/attachments/974036281162080307/991179134908768358/Shinobu_New.png"
+    description: |-
+      *The capable and reliable deputy leader of the "Arataki Gang." Please note: capable and reliable are not appellations for the "Arataki Gang," but for their deputy leader in specific.*
+
+buttons:
+#  - label: "Guide"
+#    url: "https://keqingmains.com/shinobu/"
+#    emoji: ${ EMOJIS.LOGO }
+#    style: "LINK"
+
+  - label: "Theorycrafting Library"
+    url: "https://library.keqingmains.com/characters/electro/shinobu"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"

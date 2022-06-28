@@ -31,3 +31,8 @@ options:
     value: characters/hydro/xingqiu/main
     description: KQM's resources on Xingqiu!
     emoji: "<:Xingqiu:953426423589265418>"
+
+  - label: Yelan
+    value: characters/hydro/yelan/main
+    description: KQM's resources on Yelan!
+    emoji: "<:Yelan:991184312936439808>"

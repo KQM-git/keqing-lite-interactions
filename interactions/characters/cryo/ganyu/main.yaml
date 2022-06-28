@@ -4,6 +4,8 @@ embeds:
     thumbnail:
       url: "https://github.com/muakasan/genshin-portraits/blob/main/assets/UI_AvatarIcon_Ganyu.png?raw=true"
     description: |-
+      *The secretary at Yuehai Pavilion. The blood of the qilin, an illuminated beast, flows within her veins.*
+
       Here are all of KQM's resources on how to build and play Ganyu. Please select your desired build below. Enjoy!
 
 options: #dropdown
