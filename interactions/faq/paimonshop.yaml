@@ -20,14 +20,14 @@ embeds:
         const currentMonth =  month[date.getMonth()];
 
         function getBargains(month) {
-          return [c1[month % c1.length], c2[month % c2.length], w1[month % w1.length], e1[month % e1.length], e2[month % e2.length], e3[month % e2.length]];
+          return [c1[month % c1.length], c2[month % c2.length], w1[month % w1.length], e1[month % e1.length], e2[month % e2.length], e3[month % e3.length]];
         }
 
         const bargains = getBargains(date.getMonth());
         const nextBargains = getBargains(date.getMonth() + 1);
 
         function execute() {  
-          return 'Here are Paimon\'s Bargains for the month of ' + currentMonth + '!\n**Characters:**' +  bargains[3] + bargains[0] + ' & ' + bargains[4] + bargains[1] + '\n**Weapons:**' + bargains[5] + bargains[2] + '\n\nNext month\'s Bargains:\n**Characters:** ' + nextBargains[3] + nextBargains[0] + ' & ' + nextBargains[4] + nextBargains[1] + '\n **Weapons:** ' + nextBargains[5] + nextBargains[1];
+          return 'Here are Paimon\'s Bargains for the month of ' + currentMonth + '!\n**Characters:** ' +  bargains[3] + bargains[0] + ' & ' + bargains[4] + bargains[1] + '\n**Weapons:** ' + bargains[5] + bargains[2] + '\n\nNext month\'s Bargains:\n**Characters:** ' + nextBargains[3] + nextBargains[0] + ' & ' + nextBargains[4] + nextBargains[1] + '\n **Weapons:** ' + nextBargains[5] + nextBargains[2];
         }
         execute();
       $>
