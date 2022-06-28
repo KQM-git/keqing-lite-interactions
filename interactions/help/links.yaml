@@ -5,8 +5,8 @@ embeds:
       url: ${ IMAGES.KQM_LOGO }
     description: |-
       __**KQM Links**__
-      `${ TRIGGER_PREFIX }map`
-      `${ TRIGGER_PREFIX }shinshin`
+      `map`
+      `shinshin`
       
 buttons:
   - customId: "liveInteraction#help/calculators"

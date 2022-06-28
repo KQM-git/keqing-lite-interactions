@@ -6,10 +6,12 @@ embeds:
     description: |-
       Here are all of KQM's resources available through the Keqing Bot. To see more commands use the buttons below.
 
-      **Character Commands**
-      `${ TRIGGER_PREFIX }characters`: Display all of KQM's character resources.
+      All commands can be run with `<prefix>command` (default prefix is k!)
 
-      Character commands can also be used with `${ TRIGGER_PREFIX }[charactername]`.
+      **Character Commands**
+      `characters`: Display all of KQM's character resources.
+
+      Character commands can also be used with `[charactername]`.
 
 # button order:
 # characters (_main) > guides > calculators > links > other > fun
