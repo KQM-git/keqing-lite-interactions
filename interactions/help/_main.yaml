@@ -20,8 +20,8 @@ buttons:
     style: "PRIMARY"
     emoji: "◀️"
 
-  - customId: "liveInteraction#help/guides"
-    label: Next - Guide Commands
+  - customId: "liveInteraction#help/faq"
+    label: Next - FAQ Commands
     style: "PRIMARY"
     emoji: "▶️"
 

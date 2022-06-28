@@ -1,4 +1,4 @@
 interaction: tcl/charshields
 description: "Opens the character shield TCL entry"
 
-match: ${ TRIGGER_PREFIX }charshields(?:\s|$)
+match: ${ TRIGGER_PREFIX }[cC]har(acter)?shields(?:\s|$)

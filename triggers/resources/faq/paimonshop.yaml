@@ -1,0 +1,2 @@
+match: ${ TRIGGER_PREFIX }[pP]aimonshop(?:\s|$)
+interaction: faq/paimonshop
