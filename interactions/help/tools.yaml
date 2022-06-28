@@ -4,7 +4,12 @@ embeds:
     thumbnail:
       url: ${ IMAGES.KQM_LOGO }
     description: |-
-      **Tools**
+      **Bot Tools**
+      `/fav`: Favonius weapon proc calculator
+      `/maxcv`: Artifact max CV calculator
+      `/sac`: Sacrificial wapon proc calculator
+      
+      **External Tools**
       `${ TRIGGER_PREFIX }tools`: Lists of useful Genshin & TC tools.
 
       `${ TRIGGER_PREFIX }compendium`
