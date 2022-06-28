@@ -1,8 +1,8 @@
 embeds:
   - title: Yelan
     color: ${ COLORS.HYDRO_BLUE }
-    image: 
-      url: "https://cdn.discordapp.com/attachments/974036281162080307/991115872661946388/Yelan_New.png"
+    #image: 
+    #  url: "https://cdn.discordapp.com/attachments/974036281162080307/991115872661946388/Yelan_New.png"
     thumbnail:
       url: "https://cdn.discordapp.com/attachments/974036281162080307/991115872661946388/Yelan_New.png"
     description: |-
@@ -19,10 +19,10 @@ buttons:
     emoji: ${ EMOJIS.MAGNIFY }
     style: "LINK"
 
-  - label: "Yelan ER Requirements"
-    value: faq/yelaner
+  - customId: "liveInteraction#faq/yelaner"
+    label: "Yelan ER Requirements"
+    style: "PRIMARY"
     emoji: ${ EMOJIS.ENERGY_RECHARGE }
-    style: "LINK"
 
 #  - label: "Quick Guide"
 #    url: "https://www.youtube.com/watch?v=EiOP60N4p58"

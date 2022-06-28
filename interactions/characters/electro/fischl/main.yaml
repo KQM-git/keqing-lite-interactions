@@ -25,7 +25,7 @@ buttons:
     emoji: ${ EMOJIS.YOUTUBE }
     style: "LINK"
 
-  - label: "Weapon Ranking"
-    value: faq/fischlwep
+  - customId: "liveInteraction#faq/fischlwep"
+    label: Weapon Ranking
+    style: "PRIMARY"
     emoji: <:Fischl:953426425959034920>
-    style: "LINK"

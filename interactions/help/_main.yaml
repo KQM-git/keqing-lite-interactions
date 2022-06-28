@@ -17,8 +17,8 @@ embeds:
 # characters (_main) > guides > calculators > links > other > fun
 
 buttons:
-  - customId: "liveInteraction#help/other"
-    label: Back - Other Commands
+  - customId: "liveInteraction#help/tcl"
+    label: Back - TCL Commands
     style: "PRIMARY"
     emoji: "◀️"
 
