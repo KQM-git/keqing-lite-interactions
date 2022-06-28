@@ -5,33 +5,33 @@ embeds:
       url: ${ IMAGES.KQM_LOGO }
     description: |-
       **Frequently Asked Questions**
-      `${ TRIGGER_PREFIX }2tf2no`
-      `${ TRIGGER_PREFIX }4bsc`
-      `${ TRIGGER_PREFIX }adc`
-      `${ TRIGGER_PREFIX }bannerhistory`
-      `${ TRIGGER_PREFIX }bookkeeping`
-      `${ TRIGGER_PREFIX }crcd`
-      `${ TRIGGER_PREFIX }cv`
-      `${ TRIGGER_PREFIX }diminishing`
-      `${ TRIGGER_PREFIX }driver`
-      `${ TRIGGER_PREFIX }energy`
-      `${ TRIGGER_PREFIX }fischlwep`
-      `${ TRIGGER_PREFIX }infographic`
-      `${ TRIGGER_PREFIX }keqcalc`
-      `${ TRIGGER_PREFIX }kqmc`
-      `${ TRIGGER_PREFIX }map`
-      `${ TRIGGER_PREFIX }microwave`
-      `${ TRIGGER_PREFIX }mvd`
-      `${ TRIGGER_PREFIX }paimonshop`
-      `${ TRIGGER_PREFIX }parametric`
-      `${ TRIGGER_PREFIX }sunfire`
-      `${ TRIGGER_PREFIX }swirl`
-      `${ TRIGGER_PREFIX }teambuild`
-      `${ TRIGGER_PREFIX }shinshin`
-      `${ TRIGGER_PREFIX }usage`
-      `${ TRIGGER_PREFIX }ventilift`
-      `${ TRIGGER_PREFIX }weakspot`
-      `${ TRIGGER_PREFIX }yelaner`
+      `2tf2no`
+      `4bsc`
+      `adc`
+      `bannerhistory`
+      `bookkeeping`
+      `crcd`
+      `cv`
+      `diminishing`
+      `driver`
+      `energy`
+      `fischlwep`
+      `infographic`
+      `keqcalc`
+      `kqmc`
+      `map`
+      `microwave`
+      `mvd`
+      `paimonshop`
+      `parametric`
+      `sunfire`
+      `swirl`
+      `teambuild`
+      `shinshin`
+      `usage`
+      `ventilift`
+      `weakspot`
+      `yelaner`
 
 buttons:
   - customId: "liveInteraction#help/_main"

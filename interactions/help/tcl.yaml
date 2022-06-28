@@ -5,30 +5,30 @@ embeds:
       url: ${ IMAGES.KQM_LOGO }
     description: |-
       **TCL**
-      `${ TRIGGER_PREFIX }tcl`: Lists KQM's Theorycrafting Library Topics
-      `${ TRIGGER_PREFIX }tclsearch`: Search the TCL
-      `${ TRIGGER_PREFIX }compendiums`: Lists KQM's curated sheets
+      `tcl`: Lists KQM's Theorycrafting Library Topics
+      `tclsearch`: Search the TCL
+      `compendiums`: Lists KQM's curated sheets
 
-      `${ TRIGGER_PREFIX }charshields`
-      `${ TRIGGER_PREFIX }damage`
-      `${ TRIGGER_PREFIX }ec`
-      `${ TRIGGER_PREFIX }egt`
-      `${ TRIGGER_PREFIX }enemyshields`
-      `${ TRIGGER_PREFIX }gauge`
-      `${ TRIGGER_PREFIX }glossary`
-      `${ TRIGGER_PREFIX }hitlag`
-      `${ TRIGGER_PREFIX }hpparticles`
-      `${ TRIGGER_PREFIX }icd`
-      `${ TRIGGER_PREFIX }particles`
-      `${ TRIGGER_PREFIX }poise`
-      `${ TRIGGER_PREFIX }reactions`
-      `${ TRIGGER_PREFIX }res`
-      `${ TRIGGER_PREFIX }royal`
-      `${ TRIGGER_PREFIX }scaling`
-      `${ TRIGGER_PREFIX }snapshot`
-      `${ TRIGGER_PREFIX }srp`
-      `${ TRIGGER_PREFIX }vm`
-      `${ TRIGGER_PREFIX }weakspot`
+      `charshields`
+      `damage`
+      `ec`
+      `egt`
+      `enemyshields`
+      `gauge`
+      `glossary`
+      `hitlag`
+      `hpparticles`
+      `icd`
+      `particles`
+      `poise`
+      `reactions`
+      `res`
+      `royal`
+      `scaling`
+      `snapshot`
+      `srp`
+      `vm`
+      `weakspot`
       
 buttons:
   - customId: "liveInteraction#help/tools"
