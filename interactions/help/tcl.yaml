@@ -7,7 +7,7 @@ embeds:
       **TCL**
       `tcl`: Lists KQM's Theorycrafting Library Topics
       `tclsearch`: Search the TCL
-      `compendiums`: Lists KQM's curated sheets
+      `databases`: Lists KQM's curated sheets & databases
 
       `charshields`
       `damage`
@@ -19,6 +19,7 @@ embeds:
       `hitlag`
       `hpparticles`
       `icd`
+      `lumberjack`
       `particles`
       `poise`
       `reactions`
