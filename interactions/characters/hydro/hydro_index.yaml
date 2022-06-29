@@ -3,7 +3,7 @@ content: Select a character!
 # Additional links that should be displayed in the initial message.
 options: 
   - label: Ayato
-    value: characters/hydro/ayato
+    value: characters/hydro/ayato/main
     description: KQM's resources on Ayato!
     emoji: "<:Ayato:958464814882099221>"
 
