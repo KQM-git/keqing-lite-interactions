@@ -10,5 +10,5 @@ buttons:
 
   - label: "Snapshot Timings Database"
     style: "LINK"
-    emoji: "📝"
+    emoji: ${EMOJI.GOOGLE_SHEETS}
     url: "https://docs.google.com/spreadsheets/d/1M2nTLogzYd2o4ZLkYEkzfovwiTznQOB5ujWuMlQbE0k"

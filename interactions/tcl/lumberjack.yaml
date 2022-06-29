@@ -1,0 +1,11 @@
+embeds:
+  - title: Lumberjack
+    color: ${COLORS.KQM_PURPLE}
+    description: Lumberjacking Tier List
+
+buttons:
+
+  - label: "Sheet"
+    style: "LINK"
+    emoji: ${EMOJI.GOOGLE_SHEETS}
+    url: "https://docs.google.com/spreadsheets/d/1Q4HKzkaw7YFNZyIJSjRINZJonFe1kiDwz1dEbpcZiNk/" 

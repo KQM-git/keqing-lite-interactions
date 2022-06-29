@@ -1,0 +1,3 @@
+interaction: tcl/lumberjack
+description: Lumberjack Tier List
+match: ${ TRIGGER_PREFIX }[lL]umberjack(?:\s|$)
