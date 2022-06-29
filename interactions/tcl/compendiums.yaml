@@ -30,9 +30,13 @@ options:
     description: Enemy base HP at level 100 and HP thresholds for Elemental Particles/Orbs.
 
   - label: Enemy Resistances & Shield/Armor Durabilities
-    url: tcl/res
+    value: tcl/res
     description: Includes the amount of Gauge Units required to destroy each shield/armor.
   
   - label: Enemy Weak Spots
     value: tcl/weakspots
     description: List of enemy weak spots and whether or not each one can proc bow passives.
+
+  - label: Lumberjack Tier List
+    value: tcl/lumberjack
+    description: List of characters who are the best lumberkacks in Teyvat!
