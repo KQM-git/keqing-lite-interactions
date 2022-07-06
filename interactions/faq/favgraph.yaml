@@ -1,0 +1,10 @@
+embeds:
+  - title: Interactive Fav Proc Rate/Crit Rate calculator
+    color: ${COLORS.KQM_PURPLE}
+
+buttons:
+  - label: "Desmos"
+    style: "LINK"
+    emoji: "🌐"
+    # https://library.keqingmains.com/evidence/equipment/weapons#favonius-proc-calculator
+    url: "https://www.desmos.com/calculator/bkyxyzdkld"
