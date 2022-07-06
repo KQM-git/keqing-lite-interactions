@@ -11,6 +11,6 @@ buttons:
 
   - label: "ICD Database"
     style: "LINK"
-    emoji: ${EMOJI.GOOGLE_SHEETS}
+    emoji: ${ EMOJIS.GOOGLE_SHEETS }
     # this sheet was linked in https://library.keqingmains.com/resources/compendiums
     url: "https://docs.google.com/spreadsheets/d/1dE8mTmRVlR1izKynvSD4Jk5igvWFMlVMENzUsel-n-0" 
