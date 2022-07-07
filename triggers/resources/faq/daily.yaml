@@ -1,0 +1,3 @@
+interaction: faq/daily
+description: Daily Check-In
+match: ${ TRIGGER_PREFIX }(?:[dD]aily|[cC]heck[ -]?[iI]n)(?:\s|$)

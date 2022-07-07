@@ -15,7 +15,7 @@ buttons:
 #    emoji: ${ EMOJIS.LOGO }
 #    style: "LINK"
 
-  - label: "Theorycrafting Library"
+  - label: "TCL"
     url: "https://library.keqingmains.com/characters/electro/fischl"
     emoji: ${ EMOJIS.MAGNIFY }
     style: "LINK"

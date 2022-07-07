@@ -1,4 +1,7 @@
-content: Select a character!  
+embeds:
+  - color: ${COLORS.HYDRO_BLUE}
+    description: |-
+      <${EMOJIS.ELEMENT_HYDRO}> Select a character!
 
 # Additional links that should be displayed in the initial message.
 options: 

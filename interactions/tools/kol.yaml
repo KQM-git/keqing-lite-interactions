@@ -7,10 +7,10 @@ embeds:
 buttons:
   - label: "Template Link"
     style: LINK
-    emoji: "📝"
+    emoji: ${EMOJIS.GOOGLE_SHEETS}
     url: "https://docs.google.com/spreadsheets/d/18QmYcmv5FfpZ8Dav01_COsFSDXJs5Y1j-RDQ0Z5sAIU/edit?usp=sharing"
 
   - label: "Template Instructions"
     style: LINK
-    emoji: "🤓"
+    emoji: ${EMOJIS.GOOGLE_DOCS}
     url: "https://docs.google.com/document/d/1F_zhi6JzdOtRfGQAP74poYa0rzdwG2EyugHigPgxskU/edit?usp=sharing"

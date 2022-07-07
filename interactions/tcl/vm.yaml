@@ -5,5 +5,5 @@ embeds:
 buttons:
   - label: "TCL Entry"
     style: "LINK"
-    emoji: "📝"
+    emoji: ${EMOJIS.MAGNIFY}
     url: "https://library.keqingmains.com/combat-mechanics/elemental-effects/elemental-gauge-theory#melt-and-vaporize"

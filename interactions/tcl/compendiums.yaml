@@ -2,7 +2,7 @@ embeds:
   - title: Compendiums
     color: ${COLORS.KQM_PURPLE}
     description: |-
-      Google Sheets.
+      List of useful Genshin sheets & databases.
 
 options: 
   - label: Particles

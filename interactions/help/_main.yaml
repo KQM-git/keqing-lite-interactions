@@ -1,10 +1,10 @@
 embeds:
-  - title: Keqing Help
+  - title: Kikin Help
     color: ${ COLORS.KQM_PURPLE }
     thumbnail:
       url: ${ IMAGES.KQM_LOGO }
     description: |-
-      Here are all of KQM's resources available through the Keqing Bot. To see more commands use the buttons below.
+      Here are all of KQM's resources available through the Kikin Bot. To see more commands use the buttons below.
 
       All commands can be run with `<prefix>command` (default prefix is k!)
 
@@ -26,6 +26,11 @@ buttons:
     label: Next - FAQ Commands
     style: "PRIMARY"
     emoji: "▶️"
+
+  - url: "https://keqingmains.com/"
+    label: KQM
+    style: "LINK"
+    emoji: ${EMOJIS.LOGO}
 
 permissions:
   blacklist:

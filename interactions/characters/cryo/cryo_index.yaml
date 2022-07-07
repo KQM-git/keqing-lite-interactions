@@ -1,4 +1,7 @@
-content: Select a character!
+embeds:
+  - color: ${COLORS.CRYO_BLUE}
+    description: |-
+      <${EMOJIS.ELEMENT_CRYO}> Select a character!
 
 # Additional links that should be displayed in the initial message.
 options: 

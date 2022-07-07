@@ -1,4 +1,7 @@
-content: Select a character!  
+embeds:
+  - color: ${COLORS.GEO_YELLOW}
+    description: |-
+      <${EMOJIS.ELEMENT_GEO}> Select a character!
 
 # Additional links that should be displayed in the initial message.
 options: 

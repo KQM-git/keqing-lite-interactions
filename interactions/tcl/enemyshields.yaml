@@ -7,5 +7,5 @@ embeds:
 buttons:
   - label: "Enemy Shields"
     style: LINK
-    emoji: "📝"
+    emoji: ${EMOJIS.MAGNIFY}
     url: "https://library.keqingmains.com/combat-mechanics/enemy-mechanics/enemy-shields-armor"

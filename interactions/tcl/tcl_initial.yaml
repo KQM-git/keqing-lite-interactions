@@ -31,7 +31,7 @@ options:
     emoji: "📝"
   
 buttons:
-  - label: "TCL Main Page"
+  - label: "KQM Theorycrafting Library"
     url: "https://library.keqingmains.com"
     emoji: "📝"
     style: "LINK"

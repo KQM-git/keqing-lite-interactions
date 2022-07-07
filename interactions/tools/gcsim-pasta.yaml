@@ -20,5 +20,5 @@ buttons:
 
   - label: "Discord"
     style: "LINK"
-    emoji: "<:discord:966055935808241684>"
+    emoji: ${EMOJIS.DISCORD}
     url: "https://discord.gg/m7jvjdxx7q"

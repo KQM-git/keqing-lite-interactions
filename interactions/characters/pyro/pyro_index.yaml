@@ -1,4 +1,7 @@
-content: Select a character!  
+embeds:
+  - color: ${COLORS.PYRO_ORANGE}
+    description: |-
+      <${EMOJIS.ELEMENT_PYRO}> Select a character!
 
 # Additional links that should be displayed in the initial message.
 options: 

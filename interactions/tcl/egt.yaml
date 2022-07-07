@@ -5,9 +5,9 @@ embeds:
       Elemental Gauge Theory is our current method of explaining all game mechanics involving elements.
 
 buttons:
-  - label: "TCL Entry"
+  - label: "TCL Page"
     url: "https://library.keqingmains.com/combat-mechanics/elemental-effects/elemental-gauge-theory"
-    emoji: "📝"
+    emoji: ${EMOJIS.MAGNIFY}
     style: "LINK"
 
   - label: "TCL Compendium"

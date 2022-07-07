@@ -1,4 +1,8 @@
-content: "**Search: **${ $MATCH[1] }"
+embeds:
+  - color: ${ COLORS.KQM_PURPLE }
+    description: |-
+      **Search: **${ $MATCH[1] }
+
 buttons:
   - label: RESULTS
     style: LINK
