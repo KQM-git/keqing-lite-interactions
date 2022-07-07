@@ -4,7 +4,7 @@ embeds:
     description: An explanation as to how outgoing damage is calculated.
 
 buttons:
-  - label: "TCL Page"
+  - label: "TCL - Damage Formula"
     style: "LINK"
-    emoji: "📝"
+    emoji: ${EMOJIS.MAGNIFY}
     url: "https://library.keqingmains.com/combat-mechanics/damage/damage-formula"

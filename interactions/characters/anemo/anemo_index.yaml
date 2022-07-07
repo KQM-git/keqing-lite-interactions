@@ -1,4 +1,7 @@
-content: Select a character!
+embeds:
+  - color: ${COLORS.ANEMO_GREEN}
+    description: |-
+      <${EMOJIS.ELEMENT_ANEMO}> Select a character!
 
 # Additional links that should be displayed in the initial message.
 options: 

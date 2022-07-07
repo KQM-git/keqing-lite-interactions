@@ -5,12 +5,12 @@ embeds:
       Ayzel's calculator. Can be used to calculate essentially anything in this game; constantly updated with updates posted in Ayzel's discord.
 
 buttons:
-  - label: "Link to Discord"
+  - label: "Discord"
     style: LINK
-    emoji: "📝"
+    emoji: ${EMOJIS.DISCORD}
     url: "https://discord.gg/ndS73F6meP"
 
   - label: "YouTube Guide"
     style: LINK
-    emoji: <:YouTube:869566016399769601>
+    emoji: ${EMOJIS.YOUTUBE}
     url: "https://www.youtube.com/watch?v=SClw2sO_2ww&ab_channel=Ayzel"

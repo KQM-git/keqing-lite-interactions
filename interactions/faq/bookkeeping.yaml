@@ -6,5 +6,5 @@ embeds:
 buttons:
   - label: "Sheet Link"
     style: "LINK"
-    emoji: "📝"
+    emoji: ${EMOJIS.GOOGLE_SHEETS}
     url: https://docs.google.com/spreadsheets/d/e/2PACX-1vToBPh4yTn4VioUuqSvnPiwLoG0rJodFe9_gz6qOKUy3z8dCWtXel5Aqa07qSTZG8qhu7Fwgx7AfxzU/pubhtml

@@ -7,5 +7,5 @@ embeds:
 buttons:
   - label: "Shield Sheet"
     style: LINK
-    emoji: "📕"
+    emoji: ${EMOJIS.GOOGLE_SHEETS}
     url: "https://docs.google.com/spreadsheets/d/15EC91O05E50puBkGWzO98iQG6RxHmi6j0nxwqjGdGd4/edit#gid=1757896286"

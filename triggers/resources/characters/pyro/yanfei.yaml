@@ -1,4 +1,3 @@
 interaction: characters/pyro/yanfei/main
 description: "Opens KQM's resources on Yanfei"
-
-match: ${ TRIGGER_PREFIX }[yY]anfei(?:\s|$)
+match: ${ TRIGGER_PREFIX }[yY]anfei(?!\s[oO]verload|\s[vV]ap(oriz)?e)(?:\s|$)

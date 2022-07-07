@@ -14,7 +14,7 @@ buttons:
     emoji: ${ EMOJIS.LOGO }
     style: "LINK"
 
-  - label: "Theorycrafting Library"
+  - label: "TCL"
     url: "https://library.keqingmains.com/characters/cryo/rosaria"
     emoji: ${ EMOJIS.MAGNIFY }
     style: "LINK"

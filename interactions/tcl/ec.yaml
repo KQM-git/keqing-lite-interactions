@@ -6,7 +6,7 @@ embeds:
     description: Learn more about the Electro-Charged reaction!
 
 buttons:
-  - label: "TCL Entry"
+  - label: "TCL - Electro-Charged"
     style: "LINK"
-    emoji: "📝"
+    emoji: ${EMOJIS.MAGNIFY}
     url: "https://library.keqingmains.com/combat-mechanics/elemental-effects/elemental-gauge-theory#electro-charged"

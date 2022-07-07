@@ -1,4 +1,7 @@
-content: Select a character!
+embeds:
+  - color: ${COLORS.ELECTRO_PURPLE}
+    description: |-
+      <${EMOJIS.ELEMENT_ELECTRO}> Select a character!
 
 # Additional links that should be displayed in the initial message.
 options: 
@@ -42,7 +45,7 @@ options:
     description: KQM's resources on Sara!
     emoji: "<:Sara:953426425157931098>"
 
-  - label: Sara
+  - label: Kuki Shinobu
     value: characters/electro/shinobu/main
     description: KQM's resources on Kuki Shinobu!
     emoji: "<:Shinobu:991184311841738804>"

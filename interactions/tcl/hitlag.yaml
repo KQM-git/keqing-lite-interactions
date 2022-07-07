@@ -7,5 +7,5 @@ embeds:
 buttons:
   - label: "TCL Page"
     style: "LINK"
-    emoji: "📝"
+    emoji: ${EMOJIS.MAGNIFY}
     url: "https://library.keqingmains.com/combat-mechanics/frames#hitlag"

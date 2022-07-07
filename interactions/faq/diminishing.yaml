@@ -13,5 +13,5 @@ embeds:
 buttons:
   - label: "Genshin Optimizer"
     url: "https://frzyc.github.io/genshin-optimizer/"
-    emoji: "📝"
+    emoji: ${EMOJIS.LOGO_GO}
     style: "LINK"

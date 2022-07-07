@@ -9,15 +9,15 @@ embeds:
 buttons:
   - label: "GO Website"
     url: "https://frzyc.github.io/genshin-optimizer/#/"
-    emoji: "📕"
+    emoji: ${EMOJIS.LOGO_GO}
     style: "LINK"
 
   - label: "Video Guides"
     style: "LINK"
-    emoji: "<:YouTube:869566016399769601>"
+    emoji: ${EMOJIS.YOUTUBE}
     url: "https://www.youtube.com/playlist?list=PLcVsEMZO5IVFQdeh8zteZwiNchObfQ684"
 
   - label: "Discord"
     style: "LINK"
-    emoji: "<:discord:966055935808241684>"
+    emoji: ${EMOJIS.DISCORD}
     url: "https://discord.gg/CXUbQXyfUs"

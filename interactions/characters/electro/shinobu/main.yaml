@@ -8,13 +8,15 @@ embeds:
     description: |-
       *The capable and reliable deputy leader of the "Arataki Gang." Please note: capable and reliable are not appellations for the "Arataki Gang," but for their deputy leader in specific.*
 
+      :construction: ***─ Infographic WIP ─*** :construction:
+
 buttons:
 #  - label: "Guide"
 #    url: "https://keqingmains.com/shinobu/"
 #    emoji: ${ EMOJIS.LOGO }
 #    style: "LINK"
 
-  - label: "Theorycrafting Library"
+  - label: "TCL"
     url: "https://library.keqingmains.com/characters/electro/shinobu"
     emoji: ${ EMOJIS.MAGNIFY }
     style: "LINK"

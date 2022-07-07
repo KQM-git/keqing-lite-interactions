@@ -1,6 +1,6 @@
 embeds:
   - title: KeqingMains Content
-    color: 0xc64dff
+    color: ${COLORS.KQM_PURPLE}
     description: |-
       Below, you can navigate through our menus to find KeqingMains' content derived from our work in #theorycrafting. 
     thumbnail: 

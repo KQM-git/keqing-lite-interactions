@@ -1,0 +1,11 @@
+embeds:
+  - title: Genshin Daily Check-In
+    color: ${ COLORS.KQM_PURPLE }
+
+buttons:
+  - label: "Check-In"
+    style: LINK
+    emoji: ${EMOJIS.PRIMOGEM}
+    url: "https://webstatic-sea.mihoyo.com/ys/event/signin-sea/index.html?act_id=e202102251931481"
+
+
