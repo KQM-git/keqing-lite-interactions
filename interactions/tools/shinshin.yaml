@@ -1,11 +1,12 @@
 embeds:
-  - title: Customized Character Build Cards
+  - title: Enka.Network - Customized Character Build Cards
     color: ${COLORS.KQM_PURPLE}
     description: Easily create your own customized Character Build Cards to share with others!
 
 buttons:
-  - label: Shinshin.moe
+  - label: Enka.Network
     style: LINK
+    emoji: ${EMOJIS.LOGO_ENKA}
     url: "https://enka.shinshin.moe/"
     
     

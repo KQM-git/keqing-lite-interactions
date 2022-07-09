@@ -1,4 +1,3 @@
 interaction: tools/shield
-description: "Opens the full character shield document"
-
+description: Full Character Shield Document
 match: ${ TRIGGER_PREFIX }[sS]hields?(?:\s|$)

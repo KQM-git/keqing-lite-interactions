@@ -1,2 +1,3 @@
-match: ${ TRIGGER_PREFIX }[pP]aimonshop(?:\s|$)
 interaction: faq/paimonshop
+description: Paimon Shop's Monthly Bargains
+match: ${ TRIGGER_PREFIX }[pP]aimonshop(?:\s|$)

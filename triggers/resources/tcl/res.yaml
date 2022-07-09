@@ -1,3 +1,3 @@
 interaction: tcl/res
-description: resistances compendium
+description: Resistances Compendium
 match: ${ TRIGGER_PREFIX }[rR]es(istance)?(s)?(?:\s|$)

@@ -1,4 +1,3 @@
 interaction: tcl/enemyshields
-description: "Opens the enemy shield TCL entry"
-
+description: TCL - Enemy Shields
 match: ${ TRIGGER_PREFIX }[eE]nemy[sS]hield(s)?(?:\s|$)
