@@ -1,3 +1,3 @@
 interaction: faq/bookkeeping
-description: bookeeping
+description: A history of limited banner wishes for F2P
 match: ${ TRIGGER_PREFIX }bookkeeping(?:\s|$)

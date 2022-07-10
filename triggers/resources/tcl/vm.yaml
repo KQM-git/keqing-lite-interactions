@@ -1,3 +1,3 @@
 interaction: tcl/vm
-description: vape/melt TCL entry
+description: TCL - Vape/Melt
 match: ${ TRIGGER_PREFIX }(?:[vV][mM]|[aA]mp)(?:\s|$)

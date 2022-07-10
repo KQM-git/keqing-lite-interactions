@@ -1,4 +1,3 @@
 interaction: tools/erc
-description: "Opens the energy calculator"
-
+description: Energy Recharge Calculator
 match: ${ TRIGGER_PREFIX }[eE][rR][cC](?:\s|$)

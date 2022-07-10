@@ -1,4 +1,3 @@
 interaction: faq/microwave
-description: "A Microwave gif"
-
-match: ${ TRIGGER_PREFIX }microwave(?:\s|$)
+description: Geo Traveler and Zhongli interaction
+match: ${ TRIGGER_PREFIX }[mM]icrowave(?:\s|$)

@@ -13,7 +13,7 @@ options:
   - label: Energy Recharge Calculator
     value: tools/erc
     description: Energy Recharge Calculator
-    emoji: "📕"
+    emoji: ${EMOJIS.ENERGY_RECHARGE}
   
   - label: gcsim
     value: tools/gcsim
@@ -23,14 +23,14 @@ options:
   - label: Calculation Templates
     value: tools/templates
     description: Spreadsheet Impact
-    emoji: "📕"
+    emoji: ${EMOJIS.GOOGLE_SHEETS}
   
   - label: Genshin Optimizer
     value: tools/optimizer
     description: Artifact Optimizer
-    emoji: "📕"
+    emoji: ${EMOJIS.LOGO_GO}
 
-  - label: ShinShin
+  - label: Enka.Network
     value: tools/shinshin
-    description: Genshin Impact build cards
-    emoji: "📕"
+    description: Genshin Impact character build cards
+    emoji: ${EMOJIS.LOGO_ENKA}

@@ -1,3 +1,3 @@
-interaction: tcl/scaling
-description: Talent/Scaling Compendium
+interaction: tcl/snapshot
+description: TCL - Snapshot
 match: ${ TRIGGER_PREFIX }[sS]caling(?:\s|$)

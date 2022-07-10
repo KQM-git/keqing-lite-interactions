@@ -1,4 +1,3 @@
 interaction: tools/compendium
-description: "Links to compendium site and submission form"
-
+description: KQM Compendium and Submission Form
 match: ${ TRIGGER_PREFIX }[cC]ompendium(?:\s|$)
