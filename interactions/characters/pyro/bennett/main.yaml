@@ -12,12 +12,12 @@ options: #dropdown
   - label: Support
     value: characters/pyro/bennett/support
     description: KQM's resources for support Bennett.
-    emoji: "<:BennettSmug:779046540190416896>"
+    emoji: "<:BennettSmug:997592555707453591>"
 
   - label: Main DPS
     value: characters/pyro/bennett/on-field
     description: KQM's resources for on-field DPS Bennett.
-    emoji: "<:BennettSmug:779046540190416896>"
+    emoji: "<:BennettSmug:997592555707453591>"
 
 buttons:
   - label: "Guide"
