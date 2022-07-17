@@ -4,7 +4,7 @@ embeds:
     #image: 
     #  url: ${INFOGRAPHICS.HEIZOU_1}
     thumbnail:
-      url: "https://cdn.discordapp.com/attachments/974036281162080307/991115872661946388/Yelan_New.png"
+      url: "https://cdn.discordapp.com/attachments/974036281162080307/998090937597182062/Heizou_New.png"
     description: |-
       *A young prodigy detective from the Tenryou Commission. His senses are sharp and his thoughts are clear.*
 
@@ -12,7 +12,7 @@ embeds:
     #footer:
     #  text: "Use \"Open original\" to view full size.\n\nCredits to: (Designer) | (Content)"
 
-#buttons:
+buttons:
 #  - customId: "liveInteraction#characters/hydro/heizou/main2"
 #    label: "Teams"
 #    style: "PRIMARY"
