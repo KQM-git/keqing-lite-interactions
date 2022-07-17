@@ -1,0 +1,3 @@
+interaction: faq/resonance
+description: Elemental Resonance
+match: ${ TRIGGER_PREFIX }[rR]esonance(?:\s|$)

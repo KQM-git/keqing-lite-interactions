@@ -10,6 +10,11 @@ options:
     description: KQM's resources on the Anemo Main Character!
     emoji: "<:Traveler:953430875788443709>"
 
+  - label: Heizou
+    value: characters/anemo/heizou/main
+    description: KQM's resources on Heizou!
+    emoji: "<:Heizou:998082439287160854>"
+
   - label: Jean
     value: characters/anemo/jean/main
     description: KQM's resources on Jean!

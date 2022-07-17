@@ -1,0 +1,26 @@
+embeds:
+  - title: Elemental Resonance
+    color: ${COLORS.KQM_PURPLE}
+    description: |-
+      When there are certain combinations of elemental characters in the party, the whole party will receive a bonus.
+
+      **Fervent Flames** - ${EMOJIS.ELEMENT_PYRO} ${EMOJIS.ELEMENT_PYRO}
+      Affected by Cryo for 40% less time. Increases ATK by 25%. 
+
+      **Soothing Water** - ${EMOJIS.ELEMENT_HYDRO} ${EMOJIS.ELEMENT_HYDRO}
+      Affected by Pyro for 40% less time. Increases incoming healing by 30%. 
+      
+      **High Voltage** - ${EMOJIS.ELEMENT_ELECTRO} ${EMOJIS.ELEMENT_ELECTRO}
+      Affected by Hydro for 40% less time. Superconduct, Overloaded, and Electro-Charged have a 100% chance to generate an Electro Elemental Particle (CD: 5s).
+
+      **Shattering Ice** - ${EMOJIS.ELEMENT_CRYO} ${EMOJIS.ELEMENT_CRYO}
+      Affected by Electro for 40% less time. Increases CRIT Rate against enemies that are Frozen or affected by Cryo by 15%. 
+
+      **Impetuous Winds** - ${EMOJIS.ELEMENT_ANEMO} ${EMOJIS.ELEMENT_ANEMO}
+      Decreases Stamina Consumption by 15%. Increases Movement SPD by 10%. Shortens Skill CD by 5%. 
+
+      **Enduring Rock** - ${EMOJIS.ELEMENT_GEO} ${EMOJIS.ELEMENT_GEO}
+      Increases shield strength by 15%. Additionally, characters protected by a shield will have the following special characteristics: DMG dealt increased by 15%, dealing DMG to enemies will decrease their Geo RES by 20% for 15s. 
+
+      **Protective Canopy** - Any 4 Unique Elements
+      All Elemental RES +15%, Physical RES +15%. 

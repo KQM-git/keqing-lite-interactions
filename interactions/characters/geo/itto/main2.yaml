@@ -2,7 +2,7 @@ embeds:
   - title: Arataki Itto
     color: ${ COLORS.GEO_YELLOW }
     image: 
-      url: ${INFOGRAPHICS.ITTO_1}
+      url: ${INFOGRAPHICS.ITTO_2}
     thumbnail:
       url: "https://github.com/muakasan/genshin-portraits/blob/main/assets/UI_AvatarIcon_Itto.png?raw=true"
     description: |-
@@ -11,10 +11,10 @@ embeds:
       text: "Use \"Open original\" to view full size.\n\nCredits to: xf3#3123 (Designer) | nxriaki#6316 & Merp#6832 (Content)"
 
 buttons:
-  - customId: "liveInteraction#characters/geo/itto/main2"
-    label: "Teams"
+  - customId: "liveInteraction#characters/geo/itto/main"
+    label: "Basics"
     style: "PRIMARY"
-    emoji: "▶️"
+    emoji: "◀️"
 
   - label: "Guide"
     url: "https://keqingmains.com/itto/"
