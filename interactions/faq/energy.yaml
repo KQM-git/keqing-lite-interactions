@@ -18,4 +18,4 @@ buttons:
   - label: "Elemental Skill Particle Info"
     value: tcl/particles
     emoji: "${ EMOJIS.ENERGY_RECHARGE }"
-    style: "LINK"
+    style: "PRIMARY"
