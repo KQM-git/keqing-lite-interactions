@@ -11,7 +11,7 @@ embeds:
 
         function getTeams() {
           return `**Team 1**: ${teams[0]}, ${teams[1]}, ${teams[2]}, ${teams[3]} \n**Team 2**: ${teams[4]}, ${teams[5]}, ${teams[6]}, ${teams[7]}\n\n**Replacements**
-          Missing any of these characters? Replace them in this order of priority: ${teams[8]}, ${teams[9]}, ${teams[10]}, ${teams[11]}`;
+          Missing any of these characters? Replace them in this order of priority:\n${teams[8]}, ${teams[9]}, ${teams[10]}, ${teams[11]}`;
         }
 
         getTeams();

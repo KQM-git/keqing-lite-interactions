@@ -22,6 +22,9 @@ embeds:
       `shield`
       `shinshin`
       `templates`
+
+      **Fun Stuff**
+      `abyssroll`
       
 buttons:
   - customId: "liveInteraction#help/faq"
