@@ -16,6 +16,6 @@ buttons:
     style: "LINK"
 
   - label: "Elemental Skill Particle Info"
-    value: tcl/particles
+    customId: "liveInteraction#tcl/particles"
     emoji: "${ EMOJIS.ENERGY_RECHARGE }"
-    style: "LINK"
+    style: "PRIMARY"
