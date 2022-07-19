@@ -17,4 +17,4 @@ embeds:
         getTeams();
       $>
     footer: 
-      text: "Still need another character? Use the `abyssroll` command to roll for an individual character."
+      text: "Still need another character? Use the k!abyssroll command to roll for an individual character."
