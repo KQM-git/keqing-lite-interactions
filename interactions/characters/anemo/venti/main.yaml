@@ -19,6 +19,11 @@ buttons:
     emoji: ${ EMOJIS.MAGNIFY }
     style: "LINK"
 
+  - label: "Who can hit lifted enemies?"
+    style: "LINK"
+    emoji: ${EMOJIS.GOOGLE_SHEETS}
+    url: "https://docs.google.com/spreadsheets/d/1BAcB-wjjSrBOFep65vVXTq-yYDIlz59IlY4wUzJVVXQ"
+
 #  - label: "Quick Guide"
 #    url: "https://www.youtube.com/watch?v=AWlLidtFiDw"
 #    emoji: ${ EMOJIS.YOUTUBE }
