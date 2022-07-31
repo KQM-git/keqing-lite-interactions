@@ -14,7 +14,7 @@ buttons:
   - customId: "liveInteraction#characters/electro/fischl/main"
     label: "Basics"
     style: "PRIMARY"
-    emoji: "▶️"
+    emoji: "◀️"
 
 # add this whenever the guide gets published
 #  - label: "Guide"
