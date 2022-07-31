@@ -11,7 +11,7 @@ embeds:
       text: "Use \"Open original\" to view full size.\n\nCredits to: Not Logic#6705 (Designer) | ItzSomebody#0029 & person formerly known as mathboi#2718 (Content)"
 
 buttons:
-  - customId: "liveInteraction#characters/pyro/fischl/main2"
+  - customId: "liveInteraction#characters/electro/fischl/main2"
     label: "Teams"
     style: "PRIMARY"
     emoji: "▶️"
