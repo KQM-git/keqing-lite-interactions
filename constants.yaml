@@ -31,6 +31,8 @@ IMAGES:
   KQM_LOGO: "https://i2.wp.com/keqingmains.com/wp-content/uploads/2021/10/kqm-logo-full-e1633177025729.png"
 
 INFOGRAPHICS:
+  FISCHL_1: "https://cdn.discordapp.com/attachments/953499138627104808/1003253163366817842/Fischl_1.png"
+  FISCHL_2: "https://cdn.discordapp.com/attachments/953499138627104808/1003343504640057434/Fischl_2.png"
   ITTO_1: "https://cdn.discordapp.com/attachments/953499138627104808/996864659728629760/Itto_1.png"
   ITTO_2: "https://cdn.discordapp.com/attachments/953499138627104808/996864660269715507/Itto_2.png"
   YELAN_1: "https://cdn.discordapp.com/attachments/953499138627104808/995386261579780096/Yelan_1.png"
@@ -39,6 +41,7 @@ INFOGRAPHICS:
   YOIMIYA_2: "https://cdn.discordapp.com/attachments/953499138627104808/1001386672627404820/unknown.png"
   ZHONGLI_1: "https://cdn.discordapp.com/attachments/953499138627104808/999769460187594902/Zhongli_1.png"
   ZHONGLI_2: "https://cdn.discordapp.com/attachments/953499138627104808/1001275488083378237/Zhongli_2.png"
+  
 
 EMOJIS:
   DISCORD: ":discord:966055935808241684"

@@ -2,7 +2,7 @@ embeds:
   - title: Fischl
     color: ${ COLORS.ELECTRO_PURPLE }
     image: 
-      url: ${INFOGRAPHICS.FISCHL_1}
+      url: ${INFOGRAPHICS.FISCHL_2}
     thumbnail:
       url: "https://github.com/muakasan/genshin-portraits/blob/main/assets/UI_AvatarIcon_Fischl.png?raw=true"
     description: |-
@@ -11,10 +11,10 @@ embeds:
       text: "Use \"Open original\" to view full size.\n\nCredits to: Not Logic#6705 (Designer) | ItzSomebody#0029 & person formerly known as mathboi#2718 (Content)"
 
 buttons:
-  - customId: "liveInteraction#characters/electro/fischl/main2"
-    label: "Teams"
+  - customId: "liveInteraction#characters/electro/fischl/main"
+    label: "Basics"
     style: "PRIMARY"
-    emoji: "▶️"
+    emoji: "◀️"
 
 # add this whenever the guide gets published
 #  - label: "Guide"
