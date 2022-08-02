@@ -2,7 +2,7 @@ embeds:
   - title: Kuki Shinobu
     color: ${ COLORS.ELECTRO_PURPLE }
     image: 
-      url: ${INFOGRAPHICS.SHINOBU_1}
+      url: ${INFOGRAPHICS.SHINOBU_2}
     thumbnail:
       url: "https://cdn.discordapp.com/attachments/974036281162080307/991179134908768358/Shinobu_New.png"
     description: |-
@@ -11,11 +11,11 @@ embeds:
       text: "Use \"Open original\" to view full size.\n\nCredits to: xf3#3123 (Designer) | Akane#0926 & rockidayo#6703 (Content)"
 
 buttons:
-  - customId: "liveInteraction#characters/electro/shinobu/main2"
-    label: "Teams"
+  - customId: "liveInteraction#characters/electro/shinobu/main"
+    label: "Basics"
     style: "PRIMARY"
-    emoji: "▶️"
-    
+    emoji: "◀️"
+
 #  - label: "Guide"
 #    url: "https://keqingmains.com/shinobu/"
 #    emoji: ${ EMOJIS.LOGO }
