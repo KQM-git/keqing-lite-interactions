@@ -1,0 +1,11 @@
+embeds:
+  - title: Description Database
+    color: ${COLORS.KQM_PURPLE}
+    description: Every character, weapon, and artifact description on one page.
+
+buttons:
+
+  - label: "Sheet"
+    style: "LINK"
+    emoji: ${EMOJIS.GOOGLE_SHEETS}
+    url: "https://docs.google.com/spreadsheets/d/1xcdmylnzZ7ycPjwAT50H68kHhSCL1ndao-b9fcv76xk/edit?usp=sharing" 
