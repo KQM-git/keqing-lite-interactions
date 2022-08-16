@@ -7,6 +7,8 @@ embeds:
       url: "https://github.com/muakasan/genshin-portraits/blob/main/assets/UI_AvatarIcon_Kazuha.png?raw=true"
     description: |-
       *A wandering samurai from Inazuma who is currently with Liyue's Crux Fleet. A gentle and carefree soul whose heart hides a great many burdens from the past.*
+    footer:
+      text: "Use \"Open original\" to view full size.\n\nCredits to: Prévisible#7440 & xf3#3123 (Designer) | Reens#9389 & Ayzel#7399 (Content)"
 
 buttons:
   - customId: "liveInteraction#characters/anemo/kazuha/main"
