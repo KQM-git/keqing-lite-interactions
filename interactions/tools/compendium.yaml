@@ -12,10 +12,15 @@ buttons:
     emoji: ${EMOJIS.LOGO}
     url: "https://compendium.keqingmains.com"
 
+  - label: "KQM Rotation Bank"
+    style: LINK
+    emoji: ${EMOJIS.LOGO}
+    url: "https://compendium.keqingmains.com/rotation-bank"
+
   - label: "Submission Form"
     style: "LINK"
     emoji: "<:googleforms:962843281765584986>"
-    url: "https://tinyurl.com/2f9apuc8"
+    url: "https://tinyurl.com/dmypzxf7"
     
   - label: "KQMC Standards"
     style: LINK
