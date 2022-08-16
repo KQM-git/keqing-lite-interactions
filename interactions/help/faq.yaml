@@ -25,6 +25,7 @@ embeds:
       `mvd`
       `paimonshop`
       `parametric`
+      `pity`
       `resonance`
       `sunfire`
       `swirl`
@@ -34,6 +35,7 @@ embeds:
       `ventilift`
       `weakspot`
       `yelaner`
+      
 
 buttons:
   - customId: "liveInteraction#help/_main"
