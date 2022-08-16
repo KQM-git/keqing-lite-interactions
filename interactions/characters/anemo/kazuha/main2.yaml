@@ -2,7 +2,7 @@ embeds:
   - title: Kaedehara Kazuha
     color: ${ COLORS.ANEMO_GREEN }
     image: 
-      url: ${INFOGRAPHICS.KAZUHA_1}
+      url: ${INFOGRAPHICS.KAZUHA_2}
     thumbnail:
       url: "https://github.com/muakasan/genshin-portraits/blob/main/assets/UI_AvatarIcon_Kazuha.png?raw=true"
     description: |-
@@ -11,11 +11,10 @@ embeds:
       text: "Use \"Open original\" to view full size.\n\nCredits to: Prévisible#7440 & xf3#3123 (Designer) | Reens#9389 & Ayzel#7399 (Content)"
 
 buttons:
-
-  - customId: "liveInteraction#characters/anemo/kazuha/main2"
-    label: "Teams"
+  - customId: "liveInteraction#characters/anemo/kazuha/main"
+    label: "Basics"
     style: "PRIMARY"
-    emoji: "▶️"
+    emoji: "◀️"
 
   - label: "Guide"
     url: "https://keqingmains.com/kazuha/"
