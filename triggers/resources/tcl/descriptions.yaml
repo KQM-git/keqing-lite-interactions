@@ -1,0 +1,3 @@
+interaction: tcl/descriptions
+description: Description Database
+match: ${ TRIGGER_PREFIX }(?:[dD]esc|[dD]escriptions?)(?:\s|$)
