@@ -24,7 +24,11 @@ options:
   - label: Snapshot Timings
     value: tcl/snapshot
     description: When each Skill/Burst is snapshotted if applicable.
-  
+
+  - label: Descriptions
+    value: tcl/descriptions
+    description: Every character, weapon, and artifact description on the same page.
+
   - label: Enemy HP & Particle Thresholds
     value: tcl/hpparticles
     description: Enemy base HP at level 100 and HP thresholds for Elemental Particles/Orbs.
