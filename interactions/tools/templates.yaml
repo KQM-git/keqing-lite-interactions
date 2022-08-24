@@ -15,8 +15,8 @@ options:
     description: Excel template.
     emoji: "📕"
   
-  - label: Elijam's calculation template
-    value: tools/elijam
+  - label: Jamberry's calculation template
+    value: tools/jamberry
     description: Google Sheets template.
     emoji: "📕"
 
