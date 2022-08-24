@@ -8,12 +8,12 @@ buttons:
   - label: "Team Template"
     style: LINK
     emoji: ${EMOJIS.GOOGLE_SHEETS}
-    url: "https://docs.google.com/spreadsheets/d/12fJGN5W_OYqp6sGxqkZnxyQ_67BMxltlpQ2iA8ECXVQ"
+    url: "https://docs.google.com/spreadsheets/d/18Oyqfuw03M7suZirzfUZmKF-t716e0sb4kP7q0YVzd8/edit?usp=sharing"
 
   - label: "Single Character Template"
     style: LINK
     emoji: ${EMOJIS.GOOGLE_SHEETS}
-    url: "https://docs.google.com/spreadsheets/d/1R_LPuZJZs7Qmoz9CnEXVQaCgxVmiS9OoQ-AXSfGenxc"
+    url: "https://docs.google.com/spreadsheets/d/1SaldS1gjL0E4oOJE7Z2RtlREgzn-4nLKOiiINH-ZhVY/edit?usp=sharing"
 
   - label: "Template Instructions"
     style: LINK
