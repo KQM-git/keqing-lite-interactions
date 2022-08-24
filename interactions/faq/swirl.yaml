@@ -1,6 +1,6 @@
 embeds:
   - title: Swirl Guide
-    description: Informative Swift Guide by Terraflop
+    description: Informative Swirl Guide by Terraflop
     color: ${COLORS.ANEMO_GREEN}
     image:
       url: https://img.youtube.com/vi/0AKterEZ-MY/0.jpg
