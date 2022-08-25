@@ -10,13 +10,11 @@ options:
     description: KQM's resources on Collei!
     emoji: "<:Collei:1012148992068558898>"
 
-options: 
   - label: Tighnari
     value: characters/dendro/tighnari/main
     description: KQM's resources on Tighnari!
     emoji: "<:Tighnari:1012148990374056047>"
 
-options: 
   - label: Dendro Traveler
     value: characters/dendro/dendrotraveler/main
     description: KQM's resources on the Dendro Traveler!
