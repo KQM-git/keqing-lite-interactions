@@ -6,7 +6,7 @@ embeds:
     thumbnail:
       url: ${IMAGES.KQM_LOGO}
     description: |-
-      "Information on Bloom & Bloom-related Reactions: Hyperbloom & Burgeon"
+      Information on Bloom & Bloom-related Reactions: Hyperbloom & Burgeon
 
 buttons:
   - customId: "liveInteraction#faq/dendro"

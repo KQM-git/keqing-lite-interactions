@@ -6,7 +6,7 @@ embeds:
     thumbnail:
       url: ${IMAGES.KQM_LOGO}
     description: |-
-      "Information on Catalyze related reactions: Quicken, Spread and Aggravate"
+      Information on Catalyze related reactions: Quicken, Spread and Aggravate
 
 buttons:
   - customId: "liveInteraction#faq/dendro"

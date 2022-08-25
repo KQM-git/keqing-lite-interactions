@@ -6,7 +6,7 @@ embeds:
     thumbnail:
       url: ${IMAGES.KQM_LOGO}
     description: |-
-      "Damage formula for Bloom-related"
+      Damage formula for Bloom-related reactions
 
 buttons:
   - customId: "liveInteraction#faq/dendro"

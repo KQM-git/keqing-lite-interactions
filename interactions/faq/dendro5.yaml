@@ -6,7 +6,7 @@ embeds:
     thumbnail:
       url: ${IMAGES.KQM_LOGO}
     description: |-
-      "Damage formula for Catalyze-related reactions"
+      Damage formula for Catalyze-related reactions
 
 buttons:
   - customId: "liveInteraction#faq/dendro"
