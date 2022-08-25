@@ -45,6 +45,11 @@ INFOGRAPHICS:
   YOIMIYA_2: "https://cdn.discordapp.com/attachments/953499138627104808/1001386672627404820/unknown.png"
   ZHONGLI_1: "https://cdn.discordapp.com/attachments/953499138627104808/999769460187594902/Zhongli_1.png"
   ZHONGLI_2: "https://cdn.discordapp.com/attachments/953499138627104808/1001275488083378237/Zhongli_2.png"
+  DENDRO_1: "https://cdn.discordapp.com/attachments/1009570422913773618/1011788788923641926/Dendro_Basics.png" # basic mechs
+  DENDRO_2: "https://cdn.discordapp.com/attachments/1009570422913773618/1011857379350036510/Bloom_Mechanics.png" # bloom
+  DENDRO_3: "https://cdn.discordapp.com/attachments/1009570422913773618/1011788788500013157/Catalyze_Mechanics.png" # catalyze
+  DENDRO_4: "https://cdn.discordapp.com/attachments/1009570422913773618/1011796942436708452/Bloom-based_reactions_infographic.png" # bloom dmg
+  DENDRO_5: "https://cdn.discordapp.com/attachments/1009570422913773618/1011796942008877056/Sread_and_Aggravate_Formula_WIP.png" # catalyze dmg
   
 
 EMOJIS:

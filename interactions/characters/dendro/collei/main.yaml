@@ -1,0 +1,22 @@
+embeds:
+  - title: Collei
+    color: ${COLORS.DENDRO_GREEN}
+#    image: 
+#      url: ${INFOGRAPHICS.COLLEI_1}
+    thumbnail:
+      url: "https://muakasan.github.io/genshin-portraits/assets/UI_AvatarIcon_Collei.png"
+    description: |-
+      *A trainee ranger active in Avidya Forest. Behind her enthusiastic words and actions hides a slightly introverted personality.*
+
+      :construction: ***─ Infographic WIP ─*** :construction:
+
+buttons:
+#  - label: "Guide"
+#    url: "https://keqingmains.com/"
+#    emoji: ${ EMOJIS.LOGO }
+#    style: "LINK"
+
+  - label: "TCL"
+    url: "https://library.keqingmains.com/characters/dendro/collei"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"
