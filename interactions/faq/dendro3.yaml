@@ -1,0 +1,26 @@
+embeds:
+  - title: Catalyze Mechanics
+    color: ${ COLORS.DENDRO_GREEN }
+    image: 
+      url: ${INFOGRAPHICS.DENDRO_3}
+    thumbnail:
+      url: ${IMAGES.KQM_LOGO}
+    description: |-
+      Information on Catalyze related reactions: Quicken, Spread and Aggravate
+
+buttons:
+  - customId: "liveInteraction#faq/dendro"
+    label: "Basic Dendro Mechanics"
+    style: "PRIMARY"
+    emoji: ${EMOJIS.ELEMENT_DENDRO}
+
+  - customId: "liveInteraction#faq/dendro5"
+    label: "Catalyze Damage Formulas"
+    style: "PRIMARY"
+    emoji: ${EMOJIS.ELEMENT_DENDRO}
+
+
+#  - label: "Guide"
+#    url: "https://keqingmains.com/dendro"
+#    emoji: ${ EMOJIS.LOGO }
+#    style: "LINK"

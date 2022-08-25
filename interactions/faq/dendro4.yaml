@@ -1,0 +1,20 @@
+embeds:
+  - title: Bloom Damage Formula
+    color: ${ COLORS.DENDRO_GREEN }
+    image: 
+      url: ${INFOGRAPHICS.DENDRO_4}
+    thumbnail:
+      url: ${IMAGES.KQM_LOGO}
+    description: |-
+      Damage formula for Bloom-related reactions
+
+buttons:
+  - customId: "liveInteraction#faq/dendro"
+    label: "Basic Dendro Mechanics"
+    style: "PRIMARY"
+    emoji: ${EMOJIS.ELEMENT_DENDRO}
+
+  - customId: "liveInteraction#faq/dendro4"
+    label: "Bloom Mechanics"
+    style: "PRIMARY"
+    emoji: ${EMOJIS.ELEMENT_DENDRO}

@@ -8,10 +8,10 @@ embeds:
       Affected by Cryo for 40% less time. Increases ATK by 25%. 
 
       **Soothing Water** - <${EMOJIS.ELEMENT_HYDRO}> <${EMOJIS.ELEMENT_HYDRO}>
-      Affected by Pyro for 40% less time. Increases incoming healing by 30%. 
+      Affected by Pyro for 40% less time. Increases Max HP by 25%.  
       
       **High Voltage** - <${EMOJIS.ELEMENT_ELECTRO}> <${EMOJIS.ELEMENT_ELECTRO}>
-      Affected by Hydro for 40% less time. Superconduct, Overloaded, and Electro-Charged have a 100% chance to generate an Electro Elemental Particle (CD: 5s).
+      Affected by Hydro for 40% less time. Superconduct, Overloaded, Electro-Charged, Quicken, Aggravate, or Hyperbloom have a 100% chance to generate an Electro Elemental Particle (CD: 5s). 
 
       **Shattering Ice** - <${EMOJIS.ELEMENT_CRYO}> <${EMOJIS.ELEMENT_CRYO}>
       Affected by Electro for 40% less time. Increases CRIT Rate against enemies that are Frozen or affected by Cryo by 15%. 
@@ -21,6 +21,9 @@ embeds:
 
       **Enduring Rock** - <${EMOJIS.ELEMENT_GEO}> <${EMOJIS.ELEMENT_GEO}>
       Increases shield strength by 15%. Additionally, characters protected by a shield will have the following special characteristics: DMG dealt increased by 15%, dealing DMG to enemies will decrease their Geo RES by 20% for 15s. 
+
+      **Sprawling Greenery** <${EMOJIS.ELEMENT_DENDRO}> <${EMOJIS.ELEMENT_DENDRO}>
+      After triggering Burning, Quicken, or Bloom reactions, all nearby party members gain 30 Elemental Mastery for 6s. After triggering Aggravate, Spread, Hyperbloom, or Burgeon reactions, all nearby party members gain 20 Elemental Mastery for 6s. The durations of the aforementioned effects will be counted independently. 
 
       **Protective Canopy** - Any 4 Unique Elements
       All Elemental RES +15%, Physical RES +15%. 

@@ -1,0 +1,21 @@
+embeds:
+  - color: ${COLORS.DENDRO_GREEN}
+    description: |-
+      <${EMOJIS.ELEMENT_DENDRO}> Select a character!
+
+# Additional links that should be displayed in the initial message.
+options: 
+  - label: Collei
+    value: characters/dendro/collei/main
+    description: KQM's resources on Collei!
+    emoji: "<:Collei:1012148992068558898>"
+
+  - label: Tighnari
+    value: characters/dendro/tighnari/main
+    description: KQM's resources on Tighnari!
+    emoji: "<:Tighnari:1012148990374056047>"
+
+  - label: Dendro Traveler
+    value: characters/dendro/dendrotraveler/main
+    description: KQM's resources on the Dendro Traveler!
+    emoji: "<:Lumine:1012148989333876839>"
