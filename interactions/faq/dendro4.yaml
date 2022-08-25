@@ -1,11 +1,12 @@
 embeds:
-  - title: Bloom Damage Formula | Bloom, Hyperbloom, Burgeon
+  - title: Bloom Damage Formula
     color: ${ COLORS.DENDRO_GREEN }
     image: 
-      url: ${INFOGRAPHICS.DENDRO_2}
+      url: ${INFOGRAPHICS.DENDRO_4}
     thumbnail:
       url: ${IMAGES.KQM_LOGO}
     description: |-
+      "Damage formula for Bloom-related"
 
 buttons:
   - customId: "liveInteraction#faq/dendro"

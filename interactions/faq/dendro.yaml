@@ -6,6 +6,7 @@ embeds:
     thumbnail:
       url: ${IMAGES.KQM_LOGO}
     description: |-
+      "Information on Dendro Reactions: Burning, Quicken, Spread, Aggravate, Bloom, Hyperbloom & Burgeon"
 
 buttons:
   - customId: "liveInteraction#faq/dendro2"

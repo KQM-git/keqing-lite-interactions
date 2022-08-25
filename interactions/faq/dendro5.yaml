@@ -1,11 +1,12 @@
 embeds:
-  - title: Catalyze Damage Formula | Spread and Aggravate
+  - title: Catalyze Damage Formula
     color: ${ COLORS.DENDRO_GREEN }
     image: 
-      url: ${INFOGRAPHICS.DENDRO_1}
+      url: ${INFOGRAPHICS.DENDRO_5}
     thumbnail:
       url: ${IMAGES.KQM_LOGO}
     description: |-
+      "Damage formula for Catalyze-related reactions"
 
 buttons:
   - customId: "liveInteraction#faq/dendro"

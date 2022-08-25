@@ -2,14 +2,15 @@ embeds:
   - title: Catalyze Mechanics
     color: ${ COLORS.DENDRO_GREEN }
     image: 
-      url: ${INFOGRAPHICS.DENDRO_1}
+      url: ${INFOGRAPHICS.DENDRO_3}
     thumbnail:
       url: ${IMAGES.KQM_LOGO}
     description: |-
+      "Information on Catalyze related reactions: Quicken, Spread and Aggravate"
 
 buttons:
   - customId: "liveInteraction#faq/dendro"
-    label: "Basic Dendro Mechanics "
+    label: "Basic Dendro Mechanics"
     style: "PRIMARY"
     emoji: ${EMOJIS.ELEMENT_DENDRO}
 
