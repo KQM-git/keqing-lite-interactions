@@ -1,0 +1,29 @@
+embeds:
+  - title: "https://guoba.keqingmains.com/"
+    url: "https://guoba.keqingmains.com/"
+    author:
+      name: "GUOBA | Genshin Userdata Optimization Basis Assessment"
+      url: "https://guoba.keqingmains.com/"
+      icon_url: "https://c.tenor.com/IUy56GCt4uwAAAAC/guoba-genshin-impact.gif"
+    color: ${ COLORS.KQM_PURPLE }
+    description: |-
+      **What is GUOBA?** <:GuobaStare:1014297605670453390>
+      A project meant to collect data across different accounts to improve standardization of calculations (such as KQMS). It's also a fun leaderboard to compare the state of your artifacts with others.
+
+      **What's the plan?** 
+      GUOBA will be run in two phases: one in 3.0, open until <t:1662497999> <t:1662497999:R>.
+      Later on, we open it again and keep it open for a while longer.
+
+      **How can I help?**
+      All you have to do is put your artifacts in Genshin Optimizer, export the database and fill in the form below. You will be asked to verify a handful of artifacts by equipping them on characters in your profile (so they are visible on [Enka.Network](https://enka.network/)).
+
+buttons:
+  - label: "Submit Artifacts!"
+    style: "LINK"
+    emoji: "<:GuobaStare:1014297605670453390>"
+    url: "https://guoba.keqingmains.com/"
+
+  - label: "Results"
+    style: "LINK"
+    emoji: "<:GuobaStare:1014297605670453390>"
+    url: "https://guoba.keqingmains.com/experiments"
