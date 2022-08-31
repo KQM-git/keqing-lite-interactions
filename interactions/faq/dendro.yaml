@@ -29,7 +29,7 @@ buttons:
     style: "PRIMARY"
     emoji: ${EMOJIS.ELEMENT_DENDRO}
 
-#  - label: "Guide"
-#    url: "https://keqingmains.com/dendro"
-#    emoji: ${ EMOJIS.LOGO }
-#    style: "LINK"
+  - label: "Guide"
+    url: "https://keqingmains.com/dendro"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
