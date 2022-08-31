@@ -24,5 +24,5 @@ buttons:
     
   - label: "KQMC Standards"
     style: LINK
-    emoji: ${EMOJIS.GOOGLE_DOCS}
-    url: "https://docs.google.com/document/d/1_UpwP0VziHehZVwdsD74wYuWD9pdSAknNVzs30U4vFE/edit"
+    emoji: ${EMOJIS.LOGO}
+    url: "https://compendium.keqingmains.com/kqm-standards"
