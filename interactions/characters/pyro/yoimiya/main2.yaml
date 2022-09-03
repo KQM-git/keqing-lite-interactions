@@ -31,10 +31,10 @@ buttons:
     emoji: ${ EMOJIS.YOUTUBE }
     style: "LINK"
     
-  - label: "Before You Wish"
-    url: "https://youtu.be/2gj3GUTEaBY"
-    emoji: ${ EMOJIS.PRIMOGEM }
-    style: "LINK"
+#  - label: "Before You Wish"
+#    url: "https://youtu.be/2gj3GUTEaBY"
+#    emoji: ${ EMOJIS.PRIMOGEM }
+#    style: "LINK"
 
   - customId: "liveInteraction#faq/yoimiyavape"
     label: "Vaporize Pattern"
