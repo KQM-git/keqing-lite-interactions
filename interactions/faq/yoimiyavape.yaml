@@ -2,7 +2,7 @@ embeds:
   - title: Yoimiya Vaporize 
     color: ${COLORS.PYRO_ORANGE}
     description: |-
-      "Infographic showing Yoimiya's pattern of reverse vaporizes in an N5 string. Keep in mind that the numbers shown may differ based on your Yoimiya's stats."
+      Infographic showing Yoimiya's pattern of reverse vaporizes in an N5 string. Keep in mind that the numbers shown may differ based on your Yoimiya's stats.
     image:
       url: https://i0.wp.com/keqingmains.com/wp-content/uploads/2022/08/yoi_vape_infog_euphorysm-min.jpg?resize=1536%2C1038&ssl=1
     thumbnail:

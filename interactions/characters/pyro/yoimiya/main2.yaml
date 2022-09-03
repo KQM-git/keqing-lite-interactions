@@ -35,3 +35,8 @@ buttons:
     url: "https://youtu.be/2gj3GUTEaBY"
     emoji: ${ EMOJIS.PRIMOGEM }
     style: "LINK"
+
+  - customId: "liveInteraction#faq/yoimiyavape"
+    label: "Vaporize Pattern"
+    style: "PRIMARY"
+    emoji: ${ EMOJIS.ELEMENT_PYRO }  
