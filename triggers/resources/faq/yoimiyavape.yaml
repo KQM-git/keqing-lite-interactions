@@ -1,3 +1,3 @@
 interaction: faq/yoimiyavape
 description: Yoimiya vape pattern explanation
-match: ${ TRIGGER_PREFIX }[yY]oi(?:miya)?(?:\s|$)
+match: ${ TRIGGER_PREFIX }[yY]oi(?:miya)?[vV]ape?(?:\s|$)
