@@ -2,7 +2,7 @@ embeds:
   - title: KQM Calc Compendium
     color: ${ COLORS.KQM_PURPLE }
     description: |-
-      KQM's centralized database of team compositions, including sheets and/or simulations, rotation notes, pros and cons, and more. All calculations should abide by KQMC (KQM Calculation Standards).
+      KQM's centralized database of team compositions, including sheets and/or simulations, rotation notes, pros and cons, and more. All calculations should abide by KQMC (KQM Calculation Standards). If something doesn't load, clear your cache or force refresh with CTRL+F5.
     thumbnail: 
       url: ${IMAGES.KQM_LOGO}
 
@@ -20,9 +20,9 @@ buttons:
   - label: "Submission Form"
     style: "LINK"
     emoji: "<:googleforms:962843281765584986>"
-    url: "https://tinyurl.com/dmypzxf7"
+    url: "https://tinyurl.com/63cu3pde"
     
-  - label: "KQMC Standards"
+  - label: "KQM Standards"
     style: LINK
-    emoji: ${EMOJIS.GOOGLE_DOCS}
-    url: "https://docs.google.com/document/d/1_UpwP0VziHehZVwdsD74wYuWD9pdSAknNVzs30U4vFE/edit"
+    emoji: ${EMOJIS.LOGO}
+    url: "https://compendium.keqingmains.com/kqm-standards"

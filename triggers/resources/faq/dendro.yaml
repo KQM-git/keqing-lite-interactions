@@ -1,0 +1,3 @@
+interaction: faq/dendro
+description: Dendro Reactions FAQ
+match: ${ TRIGGER_PREFIX }(?:[dD]endro)(?:\s|$)

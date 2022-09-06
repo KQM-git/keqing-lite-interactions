@@ -1,8 +1,8 @@
 embeds:
-  - title: KeqingMains Content
+  - title: KQM Character Information
     color: ${COLORS.KQM_PURPLE}
     description: |-
-      Below, you can navigate through our menus to find KeqingMains' content derived from our work in #theorycrafting. 
+      Below, you can navigate through our menus to find KeqingMains' character guide content. 
     thumbnail: 
       url: ${ IMAGES.KQM_LOGO }
     
@@ -10,32 +10,37 @@ embeds:
 # Additional links that should be displayed in the initial message.
 
 options: 
-  - label: Pyro
-    value: characters/pyro/pyro_index
-    description: Guides for Pyro vision holders
-    emoji: ${ EMOJIS.ELEMENT_PYRO }
-  
-  - label: Hydro
-    value: characters/hydro/hydro_index
-    description: Guides for Hydro vision holders
-    emoji: ${ EMOJIS.ELEMENT_HYDRO }
+  - label: Anemo
+    value: characters/anemo/anemo_index
+    description: Guides for Anemo vision holders
+    emoji: ${ EMOJIS.ELEMENT_ANEMO }
 
   - label: Cryo
     value: characters/cryo/cryo_index
     description: Guides for Cryo vision holders
     emoji: ${ EMOJIS.ELEMENT_CRYO }
-  
+
+  - label: Dendro
+    value: characters/dendro/dendro_index
+    description: Guides for Dendro vision holders
+    emoji: ${ EMOJIS.ELEMENT_DENRO }
+
   - label: Electro
     value: characters/electro/electro_index
     description: Guides for Electro vision holders
     emoji: ${ EMOJIS.ELEMENT_ELECTRO }
-  
-  - label: Anemo
-    value: characters/anemo/anemo_index
-    description: Guides for Anemo vision holders
-    emoji: ${ EMOJIS.ELEMENT_ANEMO }
-      
+
   - label: Geo
     value: characters/geo/geo_index
     description: Guides for Geo vision holders
     emoji: ${ EMOJIS.ELEMENT_GEO }
+
+  - label: Hydro
+    value: characters/hydro/hydro_index
+    description: Guides for Hydro vision holders
+    emoji: ${ EMOJIS.ELEMENT_HYDRO }
+
+  - label: Pyro
+    value: characters/pyro/pyro_index
+    description: Guides for Pyro vision holders
+    emoji: ${ EMOJIS.ELEMENT_PYRO }

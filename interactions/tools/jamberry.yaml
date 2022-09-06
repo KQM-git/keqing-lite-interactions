@@ -1,8 +1,8 @@
 embeds:
-  - title: Elijam's calculation template
+  - title: Jamberry's calculation template
     color: ${ COLORS.KQM_PURPLE }
     description: |-
-      Elijam's public Google Sheets calculation template. Can be used to calculate essentially anything in this game. Updated regularly; make a new copy from the original link. Ping <@292093270434250762> in KQM for help.
+      Jamberry's public Google Sheets calculation template. Can be used to calculate essentially anything in this game. Updated regularly; make a new copy from the original link. Ping <@292093270434250762> in KQM for help.
 
 buttons:
   - label: "Template Link"
