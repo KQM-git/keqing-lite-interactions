@@ -1,0 +1,14 @@
+embeds:
+  - title: Melt Ganyu
+    color: ${ COLORS.CRYO_BLUE }
+    image: 
+      url: ${INFOGRAPHICS.GANYU_MELT_1}
+    footer:
+      text: "Use \"Open original\" to view full size.\n\nCredits to: Prévisible#7440 (Designer & Content)
+
+buttons:
+  - label: "Guide"
+    url: "https://keqingmains.com/ganyu/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+

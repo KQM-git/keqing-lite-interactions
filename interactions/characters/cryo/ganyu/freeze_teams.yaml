@@ -2,8 +2,10 @@ embeds:
   - title: Freeze Ganyu
     color: ${ COLORS.CRYO_BLUE }
     image: 
-      url: "https://cdn.discordapp.com/attachments/953499138627104808/989367329798361209/Ganyu_Freeze_New.png"
-  
+      url: ${INFOGRAPHICS.GANYU_FREEZE_2}
+    footer:
+      text: "Use \"Open original\" to view full size.\n\nCredits to: Prévisible#7440 (Designer & Content)
+
     # fields:
     # - name: '<:ER:947725645104939079> Energy Recharge:'
     #   value: |
