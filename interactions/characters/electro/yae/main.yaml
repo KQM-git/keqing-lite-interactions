@@ -2,11 +2,13 @@ embeds:
   - title: Yae Miko
     color: ${ COLORS.ELECTRO_PURPLE }
     image: 
-      url: "https://cdn.discordapp.com/attachments/954058547702943744/966703720110887064/unknown.png"
+      url: ${INFOGRAPHICS.YAE_1}
     thumbnail:
       url: "https://github.com/muakasan/genshin-portraits/blob/main/assets/UI_AvatarIcon_Yae.png?raw=true"
     description: |-
       *Lady Guuji of the Grand Narukami Shrine. Also serves as the editor-in-chief of Yae Publishing House. Unimaginable intelligence and cunning are hidden under her beautiful appearance.*
+    footer:
+      text: "Use \"Open original\" to view full size. Page 2 Coming Soon!\n\nCredits to: xf3#3123 (Designer & Content)"
 
 buttons:
   - label: "Guide"

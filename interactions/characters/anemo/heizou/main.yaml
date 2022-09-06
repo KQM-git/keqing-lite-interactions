@@ -1,16 +1,14 @@
 embeds:
   - title: Heizou
     color: ${ COLORS.ANEMO_GREEN }
-    #image: 
-    #  url: ${INFOGRAPHICS.HEIZOU_1}
+    image: 
+      url: ${INFOGRAPHICS.HEIZOU_1}
     thumbnail:
       url: "https://cdn.discordapp.com/attachments/974036281162080307/998090937597182062/Heizou_New.png"
     description: |-
       *A young prodigy detective from the Tenryou Commission. His senses are sharp and his thoughts are clear.*
-
-      :construction: ***─ Infographic WIP ─*** :construction:
-    #footer:
-    #  text: "Use \"Open original\" to view full size.\n\nCredits to: (Designer) | (Content)"
+    footer:
+      text: "Use \"Open original\" to view full size. Page 2 Coming Soon!\n\nCredits to: Prévisible#7440 (Designer) | Cuzimori#1535 (Content)"
 
 buttons:
 #  - customId: "liveInteraction#characters/hydro/heizou/main2"

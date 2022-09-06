@@ -2,13 +2,13 @@ embeds:
   - title: Jean
     color: ${ COLORS.ANEMO_GREEN }
     image: 
-      url: "https://cdn.discordapp.com/attachments/953499138627104808/1004473459746807818/Jean_1.png"
+      url: ${INFOGRAPHICS.JEAN_1}
     thumbnail:
       url: "https://muakasan.github.io/genshin-portraits/assets/UI_AvatarIcon_Qin.png"
     description: |-
       *The righteous and rigorous Dandelion Knight, and Acting Grand Master of Mondstadt's Knights of Favonius.*
     footer:
-      text: "Use \"Open original\" to view full size. Page 2 Coming Soon!\n\nCredits to: xf3#3123 (Designer) | xf3#3123 (Content)"
+      text: "Use \"Open original\" to view full size. Page 2 Coming Soon!\n\nCredits to: xf3#3123 (Designer & Content)"
 
 buttons:
   - label: "Guide"
