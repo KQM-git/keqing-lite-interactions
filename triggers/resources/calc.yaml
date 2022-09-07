@@ -2,7 +2,8 @@ match: ${ TRIGGER_PREFIX }calc\s(.*)$
 
 interaction:
   content: >-
-    **Result:** ${
-      const result = mathjsEvaluate($MATCH[1]);
-      (typeof result == 'function') ? 'Expression is an unevaluated Function' : result;
-    }
+      no
+#     **Result:** ${
+#       const result = mathjsEvaluate($MATCH[1]);
+#       (typeof result == 'function') ? 'Expression is an unevaluated Function' : result;
+#     }
