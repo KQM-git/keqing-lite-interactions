@@ -7,6 +7,6 @@ interaction:
         if ($MATCH[1].includes('everyone')) { return 'no'; }
         
         const result = mathjsEvaluate($MATCH[1]);
-        return '**Result:**' + ((typeof result == 'function') ? 'Expression is an unevaluated Function' : result);
+        return '**Result:** ' + ((typeof result == 'function') ? 'Expression is an unevaluated Function' : result);
       })();
     $>
