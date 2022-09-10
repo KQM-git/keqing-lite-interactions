@@ -1,3 +1,3 @@
 interaction: characters/cryo/ganyu/melt_build
 description: "Opens KQM's resources on Melt Ganyu's Build"
-match: ${ TRIGGER_PREFIX }[gG]anyu [mM]elt(?:\s|$)
+name: Gantu Melt
