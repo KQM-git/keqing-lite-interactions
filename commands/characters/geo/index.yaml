@@ -1,0 +1,4 @@
+interaction: characters/geo/geo_index
+description: "List all the Geo character"
+
+match: ${ TRIGGER_PREFIX }characters(?:\s|$)

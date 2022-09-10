@@ -1,4 +1,4 @@
 interaction: characters/pyro/xiangling/main
 description: "Opens KQM's Resources on Xiangling"
 
-match: ${ TRIGGER_PREFIX }(?:[xX]iangling|[xX][lL])(?:\s|$)
+name: Xiangling
