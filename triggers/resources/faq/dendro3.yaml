@@ -1,0 +1,3 @@
+interaction: faq/dendro3
+description: Catalyze Mechanics
+match: ${ TRIGGER_PREFIX }(?:[Cc]atalyze|[Qq]uicken)(?:\s|$)
