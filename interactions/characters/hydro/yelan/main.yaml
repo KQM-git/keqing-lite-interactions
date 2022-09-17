@@ -21,10 +21,10 @@ buttons:
     style: "PRIMARY"
     emoji: ${ EMOJIS.ENERGY_RECHARGE }
 
-#  - label: "Guide"
-#    url: "https://keqingmains.com/yelan"
-#    emoji: ${ EMOJIS.LOGO }
-#    style: "LINK"
+  - label: "Guide"
+    url: "https://keqingmains.com/yelan"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
 
   - label: "TCL"
     url: "https://library.keqingmains.com/yelan"

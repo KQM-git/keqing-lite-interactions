@@ -9,14 +9,24 @@ embeds:
       Here are all of KQM's resources on how to build and play Ganyu. Please select your desired build below. Enjoy!
 
 options: #dropdown
-  - label: Melt Ganyu
-    value: characters/cryo/ganyu/melt
-    description: KQM's resources for Melt Ganyu.
+  - label: Melt Ganyu Build
+    value: characters/cryo/ganyu/melt_build
+    description: KQM's resources for Melt Ganyu's Build.
+    emoji: "<:melt:947715728683991120>"
+
+  - label: Melt Ganyu Teams
+    value: characters/cryo/ganyu/melt_teams
+    description: KQM's resources for Melt Ganyu's Teams.
     emoji: "<:melt:947715728683991120>"
     
-  - label: Freeze Ganyu
-    value: characters/cryo/ganyu/freeze
-    description: KQM's resources for Freeze Ganyu.
+  - label: Freeze Ganyu Build
+    value: characters/cryo/ganyu/freeze_build
+    description: KQM's resources for Freeze Ganyu's Build.
+    emoji: "<:frozen:947715728528773180>"
+
+  - label: Freeze Ganyu Teams
+    value: characters/cryo/ganyu/freeze_teams
+    description: KQM's resources for Freeze Ganyu's Teams.
     emoji: "<:frozen:947715728528773180>"
 
 buttons:
