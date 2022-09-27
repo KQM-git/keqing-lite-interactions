@@ -1,3 +1,4 @@
 interaction: faq/dendro4
 description: Bloom Damage Formula
-match: ${ TRIGGER_PREFIX }[Bb]loom(?:[Dd]mg|[Dd]amage)(?:\s|$)
+match: ${ TRIGGER_PREFIX }bloom\s?(?:dmg|damage)(?:\s|$)
+ignoreCase: true
