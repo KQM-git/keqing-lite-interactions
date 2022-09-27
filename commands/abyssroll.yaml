@@ -1,5 +1,3 @@
 interaction: triggers/abyssroll
 description: Roll a random Abyss Character
-match: ${ TRIGGER_PREFIX }abyssroll(?:\s|$)
-ignoreCase: true
-
+NAME: ABYSSROLL

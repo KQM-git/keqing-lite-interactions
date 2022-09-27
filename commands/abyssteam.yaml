@@ -1,4 +1,3 @@
 interaction: triggers/abyssteam
 description: Roll a random Abyss Team
-match: ${ TRIGGER_PREFIX }abyssteam(?:\s|$)
-ignoreCase: true
+NAME: ABYSSTEAM
