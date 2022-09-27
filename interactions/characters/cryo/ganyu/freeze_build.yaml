@@ -29,6 +29,11 @@ embeds:
     #   inline: true
 
 buttons:
+  - customId: "liveInteraction#characters/cryo/ganyu/freeze_teams"
+    label: "Teams"
+    style: "PRIMARY"
+    emoji: "▶️"
+
   - label: "Guide"
     url: "https://keqingmains.com/ganyu/"
     emoji: ${ EMOJIS.LOGO }

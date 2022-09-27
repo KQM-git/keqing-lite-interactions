@@ -1,3 +1,4 @@
 interaction: tcl/charshields
 description: TCL - Character Shields
-match: ${ TRIGGER_PREFIX }[cC]har(acter)?shields(?:\s|$)
+match: ${ TRIGGER_PREFIX }char(acter)?shields(?:\s|$)
+ignoreCase: true

@@ -1,3 +1,4 @@
 interaction: faq/energy
 description: Energy in Theory and Practice
-match: ${ TRIGGER_PREFIX }[eE]nergy(?:\s|$)
+match: ${ TRIGGER_PREFIX }energy(?:\s|$)
+ignoreCase: true

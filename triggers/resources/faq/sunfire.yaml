@@ -1,3 +1,4 @@
 interaction: faq/sunfire
 description: Sunfire Jean
-match: ${ TRIGGER_PREFIX }[sS]unfire(?:\s|$)
+match: ${ TRIGGER_PREFIX }sunfire(?:\s|$)
+ignoreCase: true

@@ -1,3 +1,4 @@
 interaction: tcl/reactions
 description: TCL - Elemental Reactions
-match: ${ TRIGGER_PREFIX }[rR]eactions(?:\s|$)
+match: ${ TRIGGER_PREFIX }reactions(?:\s|$)
+ignoreCase: true

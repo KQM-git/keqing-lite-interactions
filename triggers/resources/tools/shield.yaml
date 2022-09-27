@@ -1,3 +1,4 @@
 interaction: tools/shield
 description: Full Character Shield Document
-match: ${ TRIGGER_PREFIX }[sS]hields?(?:\s|$)
+match: ${ TRIGGER_PREFIX }shields?(?:\s|$)
+ignoreCase: true

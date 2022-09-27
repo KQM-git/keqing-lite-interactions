@@ -1,3 +1,4 @@
 interaction: faq/microwave
 description: Geo Traveler and Zhongli interaction
-match: ${ TRIGGER_PREFIX }[mM]icrowave(?:\s|$)
+match: ${ TRIGGER_PREFIX }microwave(?:\s|$)
+ignoreCase: true

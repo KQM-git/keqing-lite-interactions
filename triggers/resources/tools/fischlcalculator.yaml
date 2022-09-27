@@ -1,3 +1,4 @@
 interaction: tools/fischlcalculator
 description: Fischl Damage Calculator
-match: ${ TRIGGER_PREFIX }[fF]ischlcalc(ulator)?(?:\s|$)
+match: ${ TRIGGER_PREFIX }fischlcalc(ulator)?(?:\s|$)
+ignoreCase: true

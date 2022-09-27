@@ -1,3 +1,4 @@
 interaction: tcl/egt
 description: TCL - EGT page
-match: ${ TRIGGER_PREFIX }[gG]auge(s)?(?:\s|$)
+match: ${ TRIGGER_PREFIX }gauge(s)?(?:\s|$)
+ignoreCase: true

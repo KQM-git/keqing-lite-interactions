@@ -1,3 +1,4 @@
 interaction: faq/fischlwep
 description: Fischl Weapon Rankings
 match: ${ TRIGGER_PREFIX }fischlwep(?:\s|$)
+ignoreCase: true

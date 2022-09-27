@@ -1,3 +1,4 @@
 interaction: tcl/compendiums
 description: Dropdown of all the Google Sheets
-match: ${ TRIGGER_PREFIX }[dD]atabases?(?:\s|$)
+match: ${ TRIGGER_PREFIX }databases?(?:\s|$)
+ignoreCase: true

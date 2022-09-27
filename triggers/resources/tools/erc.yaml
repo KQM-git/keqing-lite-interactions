@@ -1,3 +1,4 @@
 interaction: tools/erc
 description: Energy Recharge Calculator
-match: ${ TRIGGER_PREFIX }[eE][rR][cC](?:\s|$)
+match: ${ TRIGGER_PREFIX }erc(?:\s|$)
+ignoreCase: true

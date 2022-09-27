@@ -1,3 +1,4 @@
 interaction: faq/bannerhistory
 description: Limited Banner History
 match: ${ TRIGGER_PREFIX }bannerhistory(?:\s|$)
+ignoreCase: true
