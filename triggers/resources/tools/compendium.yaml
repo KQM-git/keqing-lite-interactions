@@ -1,3 +1,4 @@
 interaction: tools/compendium
 description: KQM Compendium and Submission Form
-match: ${ TRIGGER_PREFIX }[cC]ompendium(?:\s|$)
+match: ${ TRIGGER_PREFIX }compendium(?:\s|$)
+ignoreCase: true

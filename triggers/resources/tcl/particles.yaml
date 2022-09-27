@@ -1,3 +1,4 @@
 interaction: tcl/particles
 description: Particle Production Table
-match: ${ TRIGGER_PREFIX }[pP]articles(?:\s|$)
+match: ${ TRIGGER_PREFIX }particles(?:\s|$)
+ignoreCase: true

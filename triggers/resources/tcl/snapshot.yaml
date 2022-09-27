@@ -1,3 +1,4 @@
 interaction: tcl/snapshot
 description: TCL - Snapshot
-match: ${ TRIGGER_PREFIX }[sS]napshot(?:\s|$)
+match: ${ TRIGGER_PREFIX }snapshot(?:\s|$)
+ignoreCase: true

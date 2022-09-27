@@ -1,3 +1,4 @@
 interaction: tools/gcsim
 description: gcsim pasta by shiro
 match: ${ TRIGGER_PREFIX }gcsim(?:\s|$)
+ignoreCase: true

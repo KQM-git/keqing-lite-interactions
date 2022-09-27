@@ -7,6 +7,11 @@ embeds:
       text: "Use \"Open original\" to view full size.\n\nCredits to: Prévisible#7440 (Designer & Content)"
 
 buttons:
+  - customId: "liveInteraction#characters/cryo/ganyu/melt_teams"
+    label: "Teams"
+    style: "PRIMARY"
+    emoji: "▶️"
+
   - label: "Guide"
     url: "https://keqingmains.com/ganyu/"
     emoji: ${ EMOJIS.LOGO }

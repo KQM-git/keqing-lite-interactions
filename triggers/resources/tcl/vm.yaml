@@ -1,3 +1,4 @@
 interaction: tcl/vm
 description: TCL - Vape/Melt
-match: ${ TRIGGER_PREFIX }(?:[vV][mM]|[aA]mp)(?:\s|$)
+match: ${ TRIGGER_PREFIX }(?:vm|amp|vapemelt)(?:\s|$)
+ignoreCase: true

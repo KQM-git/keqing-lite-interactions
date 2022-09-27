@@ -1,3 +1,4 @@
 interaction: tcl/hitlag
 description: TCL - hitlag
-match: ${ TRIGGER_PREFIX }[hH]itlag(?:\s|$)
+match: ${ TRIGGER_PREFIX }hitlag(?:\s|$)
+ignoreCase: true

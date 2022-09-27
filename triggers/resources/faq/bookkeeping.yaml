@@ -1,3 +1,4 @@
 interaction: faq/bookkeeping
 description: A history of limited banner wishes for F2P
 match: ${ TRIGGER_PREFIX }bookkeeping(?:\s|$)
+ignoreCase: true

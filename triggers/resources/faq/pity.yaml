@@ -1,3 +1,4 @@
 interaction: faq/pity
 description: Wish Pity Infographic
 match: ${ TRIGGER_PREFIX }pity(?:\s|$)
+ignoreCase: true

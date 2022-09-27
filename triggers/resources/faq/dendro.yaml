@@ -1,3 +1,4 @@
 interaction: faq/dendro
 description: Dendro Reactions FAQ
-match: ${ TRIGGER_PREFIX }(?:[dD]endro)(?:\s|$)
+match: ${ TRIGGER_PREFIX }(?:dendro)(?:\s|$)
+ignoreCase: true

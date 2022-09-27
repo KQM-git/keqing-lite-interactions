@@ -1,3 +1,4 @@
 interaction: tools/guoba
 description: GUOBA | Genshin Userdata Optimization Basis Assessment
-match: ${ TRIGGER_PREFIX }[gG][uU][oO][bB][aA](?:\s|$)
+match: ${ TRIGGER_PREFIX }guoba(?:\s|$)
+ignoreCase: true

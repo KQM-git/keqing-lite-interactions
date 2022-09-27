@@ -1,3 +1,4 @@
 interaction: tools/optimizer
 description: Genshin Optimizer by frzyc
-match: ${ TRIGGER_PREFIX }[oO]ptimi[sz]er(?:\s|$)
+match: ${ TRIGGER_PREFIX }optimi[sz]er(?:\s|$)
+ignoreCase: true

@@ -1,3 +1,4 @@
 interaction: tcl/lumberjack
 description: Lumberjack Tier List
-match: ${ TRIGGER_PREFIX }[lL]umberjack(?:\s|$)
+match: ${ TRIGGER_PREFIX }lumberjack(?:\s|$)
+ignoreCase: true
