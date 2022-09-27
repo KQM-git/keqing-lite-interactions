@@ -1,3 +1,4 @@
 interaction: faq/dendro2
 description: Bloom Mechanics
-match: ${ TRIGGER_PREFIX }[Bb]loom(?:\s|$)
+match: ${ TRIGGER_PREFIX }bloom(?:\s|$)
+ignoreCase: true
