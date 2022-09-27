@@ -1,11 +1,16 @@
 embeds:
-  - title: Who Can Hit What In Venti Q? (With Lift)
-    color: ${COLORS.KQM_PURPLE}
+  - title: Venti Succ Database
+    description: Characters and Talents tab shows who can hit enemies lifted by Venti's Burst. Enemies tab shows which enemies are affected by Venti's pull and to what degree.
+    color: ${COLORS.ANEMO_GREEN}
     thumbnail:
       url: "https://github.com/muakasan/genshin-portraits/blob/main/assets/UI_AvatarIcon_Venti.png?raw=true"
 
 buttons:
-  - label: "Sheet Link"
+  - label: "Characters/Talents"
     style: "LINK"
     emoji: ${EMOJIS.GOOGLE_SHEETS}
-    url: "https://docs.google.com/spreadsheets/d/1BAcB-wjjSrBOFep65vVXTq-yYDIlz59IlY4wUzJVVXQ"
+    url: "https://docs.google.com/spreadsheets/d/1BAcB-wjjSrBOFep65vVXTq-yYDIlz59IlY4wUzJVVXQ/edit#gid=0"
+  - label: "Enemies"
+    style: "LINK"
+    emoji: ${EMOJIS.GOOGLE_SHEETS}
+    url: "https://docs.google.com/spreadsheets/d/1BAcB-wjjSrBOFep65vVXTq-yYDIlz59IlY4wUzJVVXQ/edit#gid=339504633"
