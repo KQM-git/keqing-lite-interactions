@@ -1,3 +1,5 @@
 interaction: triggers/abyssroll
-description: Abyss Team Randomizer
-match: ${ TRIGGER_PREFIX }[aA]byssroll(?:\s|$)
+description: Roll a random Abyss Character
+match: ${ TRIGGER_PREFIX }abyssroll(?:\s|$)
+ignoreCase: true
+

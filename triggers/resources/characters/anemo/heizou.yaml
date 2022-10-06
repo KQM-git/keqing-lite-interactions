@@ -1,3 +1,4 @@
 interaction: characters/anemo/heizou/main
 description: "Opens KQM's resouces on Heizou"
-match: ${ TRIGGER_PREFIX }[hH]eizou(?:\s|$)
+match: ${ TRIGGER_PREFIX }heizou(?:\s|$)
+ignoreCase: true

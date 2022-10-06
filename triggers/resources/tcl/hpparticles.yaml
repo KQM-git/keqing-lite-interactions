@@ -1,3 +1,4 @@
 interaction: tcl/hpparticles
 description: Enemy HP and Particle Threshold Database
-match: ${ TRIGGER_PREFIX }[hH][pP]particle(s)?(?:\s|$)
+match: ${ TRIGGER_PREFIX }hpparticle(s)?(?:\s|$)
+ignoreCase: true

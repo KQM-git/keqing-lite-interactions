@@ -1,3 +1,4 @@
 interaction: characters/anemo/sucrose/main
 description: "Opens KQM's resouces on Sucrose"
-match: ${ TRIGGER_PREFIX }[sS]ucrose(?:\s|$)
+match: ${ TRIGGER_PREFIX }sucrose(?:\s|$)
+ignoreCase: true

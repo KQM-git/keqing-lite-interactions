@@ -1,2 +1,3 @@
 interaction: "triggers/tclsearch"
-match: ${ TRIGGER_PREFIX }[tT]clsearch\s(.*)
+match: ${ TRIGGER_PREFIX }tclsearch\s(.*)
+ignoreCase: true

@@ -1,3 +1,4 @@
 interaction: tools/templates
 description: Collection of public DPS calculation templates
-match: ${TRIGGER_PREFIX}(?:([cC]alc)?[tT]emplates?|[cC]alculators?|[sS]heets)(?:\s|$)
+match: ${TRIGGER_PREFIX}(?:(calc)?templates?|calculators?|sheets)(?:\s|$)
+ignoreCase: true

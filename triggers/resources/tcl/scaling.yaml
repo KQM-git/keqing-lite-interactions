@@ -1,3 +1,4 @@
 interaction: tcl/scaling
 description: Talent/Scaling Compendium
-match: ${ TRIGGER_PREFIX }[sS]caling(?:\s|$)
+match: ${ TRIGGER_PREFIX }scaling(?:\s|$)
+ignoreCase: true

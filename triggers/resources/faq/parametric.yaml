@@ -1,3 +1,4 @@
 interaction: faq/parametric
 description: Parametric Transformer Drop Rates
-match: ${ TRIGGER_PREFIX }[pP]arametric(?:\s|$)
+match: ${ TRIGGER_PREFIX }parametric(?:\s|$)
+ignoreCase: true

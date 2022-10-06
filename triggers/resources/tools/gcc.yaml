@@ -1,3 +1,4 @@
 interaction: tools/gcc
 description: Keqing Gear Comparison Calculator
-match: ${ TRIGGER_PREFIX }[gG][cC][cC](?:\s|$)
+match: ${ TRIGGER_PREFIX }gcc(?:\s|$)
+ignoreCase: true

@@ -1,3 +1,4 @@
 interaction: tcl/icd
 description: TCL - Internal Cooldown
-match: ${ TRIGGER_PREFIX }(?:[iI][cC][dD]|[iI]nternal [cC]ooldown)(?:\s|$)
+match: ${ TRIGGER_PREFIX }(?:icd|internal cooldown)(?:\s|$)
+ignoreCase: true

@@ -1,3 +1,4 @@
 interaction: faq/kqmc
 description: KQM Standard for Calculation
-match: ${ TRIGGER_PREFIX }[kK][qQ][mM]([cC]|[sS])(?:\s|$)
+match: ${ TRIGGER_PREFIX }kqm(c|s)(?:\s|$)
+ignoreCase: true

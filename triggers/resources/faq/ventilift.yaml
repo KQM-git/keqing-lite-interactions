@@ -1,3 +1,4 @@
 interaction: faq/ventilift
-description: Who can hit in Venti's Burst
-match: ${ TRIGGER_PREFIX }[vV]entilift(?:\s|$)
+description: Venti Succ Database
+match: ${ TRIGGER_PREFIX }ventilift(?:\s|$)
+ignoreCase: true
