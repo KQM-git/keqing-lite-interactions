@@ -10,7 +10,7 @@ embeds:
 
 buttons:
   - label: "Guide"
-    url: "https://keqingmains.com/hutao/"
+    url: "https://keqingmains.com/hu-tao/"
     emoji: ${ EMOJIS.LOGO }
     style: "LINK"
 
