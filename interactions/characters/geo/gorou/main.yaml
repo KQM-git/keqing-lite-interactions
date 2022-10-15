@@ -9,11 +9,10 @@ embeds:
       *The great general of Watatsumi Island's forces. He is deeply trusted by his subordinates.*
 
 buttons:
-# update this when the guide is published
-#  - label: "Guide"
-#    url: "https://keqingmains.com/"
-#    emoji: ${ EMOJIS.LOGO }
-#    style: "LINK"
+  - label: "Guide"
+    url: "https://keqingmains.com/gorou/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
 
   - label: "TCL"
     url: "https://library.keqingmains.com/characters/geo/gorou"
