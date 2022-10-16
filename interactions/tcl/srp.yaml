@@ -14,3 +14,9 @@ buttons:
     style: "PRIMARY"
     label: "Elemental Gauge Theory" 
     emoji: "📝"
+
+  - label: "Visual Guides"
+    url: "https://docs.google.com/spreadsheets/d/1tnaKI0MRn9LYmwYY7f5POx5umvzq3BvylLUhER1dvys/edit?usp=sharing"
+    style: "LINK"
+    emoji: ${EMOJIS.GOOGLE_SHEETS}
+    
