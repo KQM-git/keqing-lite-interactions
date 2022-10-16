@@ -1,0 +1,22 @@
+embeds:
+  - title: Nilou
+    color: ${COLORS.HYDRO_BLUE}
+#    image: 
+#      url: ${INFOGRAPHICS.NILOU_1}
+    thumbnail:
+      url: "https://library.keqingmains.com/img/characters/icon/Nilou.png"
+    description: |-
+      *    The star of the Zubayr Theater. She is full of warmth and innocence, and her dances are lively and elegant.*
+
+      :construction: ***─ Infographic WIP ─*** :construction:
+
+buttons:
+  # - label: "Guide"
+  #   url: "https://keqingmains.com/nilou/"
+  #   emoji: ${ EMOJIS.LOGO }
+  #   style: "LINK"
+
+  - label: "TCL"
+    url: "https://library.keqingmains.com/nilou"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"
