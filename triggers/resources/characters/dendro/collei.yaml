@@ -1,0 +1,4 @@
+interaction: characters/dendro/collei/main
+description: "Opens KQM's resources on Collei"
+match: ${ TRIGGER_PREFIX }collei(?:\s|$)
+ignoreCase: true

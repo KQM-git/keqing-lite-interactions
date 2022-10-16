@@ -1,0 +1,20 @@
+embeds:
+  - title: Dori
+    color: ${COLORS.ELECTRO_PURPLE}
+    # image: 
+    #   url: ${INFOGRAPHICs.DORI_1}
+    thumbnail:
+      url: "https://library.keqingmains.com/img/characters/icon/Dori.png"
+    description: |-
+      *An elusive merchant who has a fondness for glittering Mora.*
+
+buttons:
+  # - label: "Guide"
+  #   url: "https://keqingmains.com/dori/"
+  #   emoji: ${ EMOJIS.LOGO }
+  #   style: "LINK"
+
+  - label: "TCL"
+    url: "https://library.keqingmains.com/dori"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"
