@@ -16,6 +16,11 @@ buttons:
   #   emoji: ${ EMOJIS.LOGO }
   #   style: "LINK"
 
+  - label: "Overview"
+    url: "https://keqingmains.com/q/nilou-quickguide/" # change to https://keqingmains.com/q/nilou-overview/ after oct 23
+    emoji: $ { EMOJIS.LOGO}
+    style: "LINK"
+
   - label: "TCL"
     url: "https://library.keqingmains.com/nilou"
     emoji: ${ EMOJIS.MAGNIFY }
