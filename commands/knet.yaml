@@ -1,0 +1,4 @@
+interaction: triggers/knet
+description: Keqing Network Embed
+NAME: KNET
+serverPerm: MANAGE_GUILD

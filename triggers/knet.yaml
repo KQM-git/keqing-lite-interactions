@@ -1,0 +1,5 @@
+interaction: triggers/knet
+description: Keqing Network Embed
+match: ${ TRIGGER_PREFIX }knet(?:\s|$)
+ignoreCase: true
+serverPerm: MANAGE_GUILD

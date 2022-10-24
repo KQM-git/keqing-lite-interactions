@@ -1,4 +1,4 @@
 interaction: faq/paimonshop
 description: Paimon Shop's Monthly Bargains
-match: ${ TRIGGER_PREFIX }paimonshop(?:\s|$)
+match: ${ TRIGGER_PREFIX }(?:paimon)?shop(?:\s|$)
 ignoreCase: true
