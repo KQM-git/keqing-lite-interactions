@@ -16,9 +16,9 @@ buttons:
   #   emoji: ${ EMOJIS.LOGO }
   #   style: "LINK"
 
-  - label: "Quick Guide "
+  - label: "Quick Guide"
     url: "https://keqingmains.com/q/nilou-quickguide/"
-    emoji: $ { EMOJIS.LOGO}
+    emoji: ${ EMOJIS.LOGO }
     style: "LINK"
 
   - label: "TCL"
