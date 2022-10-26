@@ -1,0 +1,11 @@
+embeds:
+  - title: Teapot Guide
+    description: By Effab1e#2963, Rainfury#8343
+    color: ${COLORS.KQM_PURPLE}
+
+buttons:
+  - label: "Teapot Guide"
+    url: "https://keqingmains.com/misc/teapot/"
+    emoji: "${EMOJIS.LOGO}"
+    style: "LINK"
+    
