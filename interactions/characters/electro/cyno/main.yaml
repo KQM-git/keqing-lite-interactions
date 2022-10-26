@@ -1,0 +1,25 @@
+embeds:
+  - title: Cyno
+    color: ${COLORS.ELECTRO_PURPLE}
+    # image: 
+    #   url: ${INFOGRAPHICs.CYNO_1}
+    thumbnail:
+      url: "https://library.keqingmains.com/img/characters/icon/Cyno.png"
+    description: |-
+      *The General Mahamatra of the Akademiya, leader of all the Matras.*
+
+buttons:
+  # - label: "Guide"
+  #   url: "https://keqingmains.com/cyno/"
+  #   emoji: ${ EMOJIS.LOGO }
+  #   style: "LINK"
+
+- label: "Quick Guide"
+    url: "https://keqingmains.com/q/cyno-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "TCL"
+    url: "https://library.keqingmains.com/characters/electro/cyno"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"
