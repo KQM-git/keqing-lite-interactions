@@ -10,6 +10,16 @@ options:
     description: KQM's resources on Beidou!
     emoji: "<:Beidou:953426424797200425>"
 
+  - label: Candace
+    value: characters/electro/candace/main
+    description: KQM's resources on Candace!
+    # emoji: i have no idea where to get this
+
+  - label: Cyno
+    value: characters/electro/cyno/main
+    description: KQM's resources on Cyno!
+    # emoji: i have no idea where to get this pt 2
+
   - label: Electro Traveler
     value: characters/electro/electrotraveler/main
     description: KQM's resources on the Electro Main Character!

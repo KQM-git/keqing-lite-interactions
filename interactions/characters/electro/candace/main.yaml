@@ -1,0 +1,25 @@
+embeds:
+  - title: Candace
+    color: ${COLORS.ELECTRO_PURPLE}
+    # image: 
+    #   url: ${INFOGRAPHICs.CANDACE_1}
+    thumbnail:
+      url: "https://library.keqingmains.com/img/characters/icon/Candace.png"
+    description: |-
+      *The scion of Al-Ahmar and the Guardian of Aaru Village.*
+
+buttons:
+  # - label: "Guide"
+  #   url: "https://keqingmains.com/candace/"
+  #   emoji: ${ EMOJIS.LOGO }
+  #   style: "LINK"
+
+  # - label: "Quick Guide"
+  #    url: "https://keqingmains.com/q/candace-quickguide/"
+  #    emoji: ${ EMOJIS.LOGO }
+  #    style: "LINK"
+
+  - label: "TCL"
+    url: "https://library.keqingmains.com/characters/electro/candace/"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"
