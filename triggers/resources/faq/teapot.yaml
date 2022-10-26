@@ -1,0 +1,4 @@
+interaction: faq/teapot
+description: Teapot Guide 
+match: ${ TRIGGER_PREFIX }teapot(?:\s|$)
+ignoreCase: true
