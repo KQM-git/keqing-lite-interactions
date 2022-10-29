@@ -14,7 +14,7 @@ buttons:
   #   emoji: ${ EMOJIS.LOGO }
   #   style: "LINK"
 
-- label: "Quick Guide"
+  - label: "Quick Guide"
     url: "https://keqingmains.com/q/cyno-quickguide/"
     emoji: ${ EMOJIS.LOGO }
     style: "LINK"

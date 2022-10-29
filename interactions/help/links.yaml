@@ -6,7 +6,7 @@ embeds:
     description: |-
       __**KQM Links**__
       `map`
-      `shinshin`
+      `enka`
       
 buttons:
   - customId: "liveInteraction#help/calculators"
