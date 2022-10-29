@@ -1,11 +1,11 @@
 embeds:
   - title: "Random Abyss Character "
     color: ${COLORS.KQM_PURPLE}
-    #thumbnail:
-    #  url: "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Item_Masterless_Starglitter.png/revision/latest?cb=20201117073223"
+    thumbnail:
+      url: "https://cdn.discordapp.com/emojis/958207859936600084.webp"
     description: >-
       <$js
-        const characters = ["Albedo", "Aloy", "Amber", "Ayaka", "Ayato", "Barbara", "Beidou", "Bennett", "Candace", "Collei", "Chongyun", "Cyno", "Diluc", "Diona", "Dori", "Eula", "Fischl", "Ganyu", "Gorou", "Heizou", "Hu Tao", "Itto", "Jean", "Kaeya", "Kazuha", "Keqing", "Klee", "Kokomi", "Lisa", "Mona", "Ningguang", "Noelle", "Qiqi", "Raiden", "Razor", "Rosaria", "Sara", "Sayu", "Shenhe", "Sucrose", "Tartaglia", "Thoma", "Tighnari", "Traveler", "Venti", "Xiangling", "Xiao", "Xingqiu", "Xinyan", "Yae Miko", "Yanfei", "Yelan", "Yoimiya", "Yun Jin","Zhongli"]
+        const characters = ["Albedo", "Aloy", "Amber", "Ayaka", "Ayato", "Barbara", "Beidou", "Bennett", "Candace", "Collei", "Chongyun", "Cyno", "Diluc", "Diona", "Dori", "Eula", "Fischl", "Ganyu", "Gorou", "Heizou", "Hu Tao", "Itto", "Jean", "Kaeya", "Kazuha", "Keqing", "Klee", "Kokomi", "Lisa", "Mona", "Nilou", "Ningguang", "Noelle", "Qiqi", "Raiden", "Razor", "Rosaria", "Sara", "Sayu", "Shenhe", "Sucrose", "Tartaglia", "Thoma", "Tighnari", "Traveler", "Venti", "Xiangling", "Xiao", "Xingqiu", "Xinyan", "Yae Miko", "Yanfei", "Yelan", "Yoimiya", "Yun Jin","Zhongli"]
 
         const teams = characters.sort(() => Math.random() - 0.5).slice(0, 1);
 
