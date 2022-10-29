@@ -14,17 +14,18 @@ embeds:
 
       `compendium`
       `erc`
+      `enka`
       `fischlcalculator`
       `gachacalc`
       `gcc`
       `gcsim`
       `optimizer`
       `shield`
-      `shinshin`
       `templates`
 
       **Fun Stuff**
       `abyssroll`
+      `abyssteam`
       
 buttons:
   - customId: "liveInteraction#help/faq"
