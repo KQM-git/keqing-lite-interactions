@@ -16,18 +16,22 @@ buttons:
     style: "PRIMARY"
     emoji: "▶️"
 
-# add this whenever the guide gets published
-#  - label: "Guide"
-#    url: "https://keqingmains.com/"
-#    emoji: ${ EMOJIS.LOGO }
-#    style: "LINK"
+  - label: "Guide"
+    url: "https://keqingmains.com/fischl/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/fischl-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
 
   - label: "TCL"
     url: "https://library.keqingmains.com/characters/electro/fischl"
     emoji: ${ EMOJIS.MAGNIFY }
     style: "LINK"
 
-  - label: "Quick Guide"
+  - label: "Video Guide"
     url: "https://youtu.be/_9PPaCczgTo"
     emoji: ${ EMOJIS.YOUTUBE }
     style: "LINK"
