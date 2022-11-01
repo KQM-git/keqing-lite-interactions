@@ -24,7 +24,7 @@ buttons:
     emoji: ${EMOJIS.GOOGLE_SHEETS}
     url: "https://docs.google.com/spreadsheets/d/1BAcB-wjjSrBOFep65vVXTq-yYDIlz59IlY4wUzJVVXQ"
 
-#  - label: "Quick Guide"
+#  - label: "Video Guide"
 #    url: "https://www.youtube.com/watch?v=AWlLidtFiDw"
 #    emoji: ${ EMOJIS.YOUTUBE }
 #    style: "LINK"
