@@ -10,6 +10,11 @@ options:
     description: KQM's resources on Collei!
     emoji: "<:Collei:1012148992068558898>"
 
+  - label: Nahida
+    value: characters/dendro/nahida/main
+    description: KQM's resources on Nahida!
+    #emoji: where are these emojis?
+
   - label: Tighnari
     value: characters/dendro/tighnari/main
     description: KQM's resources on Tighnari!
