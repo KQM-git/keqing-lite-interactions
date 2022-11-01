@@ -14,12 +14,17 @@ buttons:
     emoji: ${ EMOJIS.LOGO }
     style: "LINK"
 
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/thoma-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
   - label: "TCL"
     url: "https://library.keqingmains.com/characters/pyro/thoma"
     emoji: ${ EMOJIS.MAGNIFY }
     style: "LINK"
 
-  - label: "Quick Guide"
+  - label: "Video Guide"
     url: "https://youtu.be/hWj-Ps6QzwE"
     emoji: ${ EMOJIS.YOUTUBE }
     style: "LINK"
