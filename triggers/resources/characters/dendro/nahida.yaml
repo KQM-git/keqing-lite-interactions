@@ -1,0 +1,4 @@
+interaction: characters/dendro/nahida/main
+description: "Opens KQM's resources on Nahida"
+match: ${ TRIGGER_PREFIX }nahida(?:\s|$)
+ignoreCase: true
