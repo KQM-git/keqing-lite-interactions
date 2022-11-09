@@ -21,6 +21,6 @@ buttons:
 
 
   - label: "Guide"
-    url: "https://keqingmains.com/dendro"
+    url: "https://keqingmains.com/misc/dendro/"
     emoji: ${ EMOJIS.LOGO }
     style: "LINK"
