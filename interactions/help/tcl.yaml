@@ -5,10 +5,13 @@ embeds:
       url: ${ IMAGES.KQM_LOGO }
     description: |-
       **TCL**
+       ╰ Usage: `/tcl subcommand`
+
       `tcl`: Lists KQM's Theorycrafting Library Topics
       `tclsearch`: Search the TCL
       `databases`: Lists KQM's curated sheets & databases
 
+      Subcommands:
       `charshields`
       `damage`
       `ec`
