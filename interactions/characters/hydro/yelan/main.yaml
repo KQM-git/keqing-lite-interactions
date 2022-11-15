@@ -12,7 +12,7 @@ embeds:
 
 buttons:
   - customId: "liveInteraction#characters/hydro/yelan/main2"
-    label: "Teams"
+    label: "Teams Infographic"
     style: "PRIMARY"
     emoji: "▶️"
 

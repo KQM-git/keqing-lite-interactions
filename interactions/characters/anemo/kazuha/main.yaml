@@ -13,7 +13,7 @@ embeds:
 buttons:
 
   - customId: "liveInteraction#characters/anemo/kazuha/main2"
-    label: "Teams"
+    label: "Teams Infographic"
     style: "PRIMARY"
     emoji: "▶️"
 

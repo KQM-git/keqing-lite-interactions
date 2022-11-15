@@ -8,7 +8,7 @@ embeds:
 
 buttons:
   - customId: "liveInteraction#characters/cryo/ganyu/melt_teams"
-    label: "Teams"
+    label: "Teams Infographic"
     style: "PRIMARY"
     emoji: "▶️"
 
