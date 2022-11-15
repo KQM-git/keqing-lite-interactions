@@ -11,7 +11,9 @@ embeds:
       
       **External Tools**
       `tools`: Lists of useful Genshin & TC tools.
+       ╰ Usage: `/tools subcommand`
 
+      Subcommands:
       `compendium`
       `erc`
       `enka`

@@ -10,29 +10,34 @@ embeds:
     footer:
       text: "Use \"Open original\" to view full size.\n\nCredits to: Not Logic#6705 (Designer) | ItzSomebody#0029 & person formerly known as mathboi#2718 (Content)"
 
+options: 
+  - label: Weapons 
+    value: faq/fischlwep
+    description: Fischl Weapon Rankings
+    emoji: <:Fischl:953426425959034920>
+
 buttons:
   - customId: "liveInteraction#characters/electro/fischl/main"
     label: "Basics"
     style: "PRIMARY"
     emoji: "◀️"
 
-# add this whenever the guide gets published
-#  - label: "Guide"
-#    url: "https://keqingmains.com/"
-#    emoji: ${ EMOJIS.LOGO }
-#    style: "LINK"
+  - label: "Guide"
+    url: "https://keqingmains.com/fischl/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/fischl-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
 
   - label: "TCL"
     url: "https://library.keqingmains.com/characters/electro/fischl"
     emoji: ${ EMOJIS.MAGNIFY }
     style: "LINK"
 
-  - label: "Quick Guide"
+  - label: "Video Guide"
     url: "https://youtu.be/_9PPaCczgTo"
     emoji: ${ EMOJIS.YOUTUBE }
     style: "LINK"
-
-  - customId: "liveInteraction#faq/fischlwep"
-    label: Weapon Ranking
-    style: "PRIMARY"
-    emoji: <:Fischl:953426425959034920>

@@ -13,7 +13,7 @@ embeds:
 buttons:
 
   - customId: "liveInteraction#characters/anemo/kazuha/main2"
-    label: "Teams"
+    label: "Teams Infographic"
     style: "PRIMARY"
     emoji: "▶️"
 
@@ -27,7 +27,7 @@ buttons:
     emoji: ${ EMOJIS.MAGNIFY }
     style: "LINK"
 
-  - label: "Quick Guide"
+  - label: "Video Guide"
     url: "https://youtu.be/QpaxtAxTJuA"
     emoji: ${ EMOJIS.YOUTUBE }
     style: "LINK"

@@ -14,12 +14,17 @@ buttons:
     emoji: ${ EMOJIS.LOGO }
     style: "LINK"
 
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/barbara-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
   - label: "TCL"
     url: "https://library.keqingmains.com/barbara"
     emoji: ${ EMOJIS.MAGNIFY }
     style: "LINK"
 
-#  - label: "Quick Guide"
+#  - label: "Video Guide"
 #    url: "https://www.youtube.com/watch?v=QW40leHPgJ8"
 #    emoji: ${ EMOJIS.YOUTUBE }
 #    style: "LINK"

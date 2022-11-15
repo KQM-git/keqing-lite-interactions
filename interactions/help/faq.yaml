@@ -5,6 +5,9 @@ embeds:
       url: ${ IMAGES.KQM_LOGO }
     description: |-
       **Frequently Asked Questions**
+       ╰ Usage: `/faq subcommand`
+      
+      Subcommands:
       `2tf2no`
       `4bsc`
       `adc`
@@ -32,6 +35,7 @@ embeds:
       `swirl`
       `teambuild`
       `teapot`
+      `quicksheet`
       `shinshin`
       `usage`
       `ventilift`

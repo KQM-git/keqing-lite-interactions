@@ -1,0 +1,4 @@
+interaction: faq/quicksheet
+description: Ascension Material Quicksheet
+match: ${ TRIGGER_PREFIX }quicksheet(?:\s|$)
+ignoreCase: true

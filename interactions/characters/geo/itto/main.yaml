@@ -12,7 +12,7 @@ embeds:
 
 buttons:
   - customId: "liveInteraction#characters/geo/itto/main2"
-    label: "Teams"
+    label: "Teams Infographic"
     style: "PRIMARY"
     emoji: "▶️"
 
@@ -26,7 +26,7 @@ buttons:
     emoji: ${ EMOJIS.MAGNIFY }
     style: "LINK"
 
-#  - label: "Quick Guide"
+#  - label: "Video Guide"
 #    url: "https://www.youtube.com/watch?v=QW40leHPgJ8"
 #    emoji: ${ EMOJIS.YOUTUBE }
 #    style: "LINK"
