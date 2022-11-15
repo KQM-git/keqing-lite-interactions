@@ -1,4 +1,3 @@
 interaction: characters/anemo/anemo_index
-description: "List all the Anemo character"
-
-name: Anemo Characters
+description: "List the Anemo Characters"
+name: Anemo
