@@ -13,7 +13,7 @@ options:
   - label: Nahida
     value: characters/dendro/nahida/main
     description: KQM's resources on Nahida!
-    #emoji: where are these emojis?
+    emoji: "<:Nahida:1041944645061574676>"
 
   - label: Tighnari
     value: characters/dendro/tighnari/main
