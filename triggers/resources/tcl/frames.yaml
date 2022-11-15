@@ -1,0 +1,4 @@
+interaction: tcl/frames
+description: Frames
+match: ${ TRIGGER_PREFIX }frame(s)?(count)?(s)?(?:\s|$)
+ignoreCase: true
