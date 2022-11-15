@@ -1,6 +1,6 @@
 embeds:
   - title: Candace
-    color: ${COLORS.ELECTRO_PURPLE}
+    color: ${ COLORS.HYDRO_BLUE }
     # image: 
     #   url: ${INFOGRAPHICs.CANDACE_1}
     thumbnail:
@@ -20,6 +20,6 @@ buttons:
   #    style: "LINK"
 
   - label: "TCL"
-    url: "https://library.keqingmains.com/characters/electro/candace/"
+    url: "https://library.keqingmains.com/characters/hydro/candace"
     emoji: ${ EMOJIS.MAGNIFY }
     style: "LINK"
