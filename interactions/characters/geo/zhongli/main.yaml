@@ -12,7 +12,7 @@ embeds:
     
 buttons:
   - customId: "liveInteraction#characters/geo/zhongli/main2"
-    label: "Teams"
+    label: "Teams Infographic"
     style: "PRIMARY"
     emoji: "▶️"
 

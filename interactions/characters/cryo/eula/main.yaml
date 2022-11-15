@@ -19,7 +19,7 @@ buttons:
     emoji: ${ EMOJIS.MAGNIFY }
     style: "LINK"
 
-  - label: "Quick Guide"
+  - label: "Video Guide"
     url: "https://youtu.be/4pm1CQ7ftws"
     emoji: ${ EMOJIS.YOUTUBE }
     style: "LINK"

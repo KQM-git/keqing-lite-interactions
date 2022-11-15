@@ -30,7 +30,7 @@ embeds:
 
 buttons:
   - customId: "liveInteraction#characters/cryo/ganyu/freeze_teams"
-    label: "Teams"
+    label: "Teams Infographic"
     style: "PRIMARY"
     emoji: "▶️"
 
