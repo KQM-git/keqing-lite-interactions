@@ -13,5 +13,10 @@ buttons:
     emoji: ${ EMOJIS.LOGO }
     style: "LINK"
 
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/keqing-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
 
     
