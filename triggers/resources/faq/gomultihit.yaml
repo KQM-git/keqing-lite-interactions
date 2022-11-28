@@ -1,0 +1,4 @@
+interaction: faq/gomultihit
+description: Genshion Optimizer multi-hit optimization guide
+match: ${ TRIGGER_PREFIX }(go-?)?multi?-?hit(?:\s|$)
+ignoreCase: true
