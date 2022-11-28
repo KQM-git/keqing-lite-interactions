@@ -15,6 +15,11 @@ buttons:
     emoji: ${ EMOJIS.LOGO }
     style: "LINK"
 
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/xingqiu-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
   - label: "TCL"
     url: "https://library.keqingmains.com/xingqiu"
     emoji: ${ EMOJIS.MAGNIFY }
