@@ -1,0 +1,30 @@
+embeds:
+  - title: Layla
+    color: ${ COLORS.CRYO_BLUE }
+    # image: 
+    #  url: insert infographic
+    thumbnail:
+      url: "https://keqingmains.com/wp-content/uploads/2022/10/layla_074_icon-min.png"
+    description: |-
+      *A Rtawahist student who always looks sleep-deprived. Her dark eye circles have been worsening due to academic stress.*
+
+buttons:
+  # - label: "Guide"
+  #  url: "https://keqingmains.com/layla/"
+  #  emoji: ${ EMOJIS.LOGO }
+  #  style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/layla-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "TCL"
+    url: "https://library.keqingmains.com/characters/cryo/layla"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"
+
+  # - label: "Video Guide"
+  #  url: 
+  #  emoji: ${ EMOJIS.YOUTUBE }
+  #  style: "LINK"
