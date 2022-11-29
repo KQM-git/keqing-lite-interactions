@@ -40,6 +40,11 @@ options:
     description: KQM's resources on Kaeya!
     emoji: "<:Kaeya:953426424415543316>"
 
+  - label: Layla
+    value: characters/cryo/layla/main
+    description: KQM's resources on Layla!
+    emoji: "<:Layla:1047260290229731420>"
+
   - label: Qiqi
     value: characters/cryo/qiqi/main
     description: KQM's resources on Qiqi!
