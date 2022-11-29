@@ -15,6 +15,11 @@ options:
     description: KQM's resources on Barbara!
     emoji: "<:Barbara:953426424465866802>"
 
+  - label: Candace
+    value: characters/hydro/candace/main
+    description: KQM's resources on Candace!
+    emoji: "<:Candace:1042129149378170940>"
+
   - label: Kokomi
     value: characters/hydro/kokomi/main
     description: KQM's resources on Kokomi!
