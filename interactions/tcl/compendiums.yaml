@@ -25,6 +25,10 @@ options:
     value: tcl/snapshot
     description: When each Skill/Burst is snapshotted if applicable.
 
+  - label: Frames
+    value: tcl/frames
+    description: Frame count explanation & database.
+
   - label: Descriptions
     value: tcl/descriptions
     description: Every character, weapon, and artifact description on the same page.

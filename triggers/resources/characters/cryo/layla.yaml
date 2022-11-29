@@ -1,0 +1,4 @@
+interaction: characters/cryo/layla/main
+description: "Opens KQM's resouces on Layla"
+match: ${ TRIGGER_PREFIX }layla(?:\s|$)
+ignoreCase: true
