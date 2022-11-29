@@ -1,14 +1,14 @@
 embeds:
   - title: Nahida
     color: ${COLORS.DENDRO_GREEN}
-#    image: 
-#      url: ${INFOGRAPHICS.NAHIDA_1}
+    image: 
+      url: ${INFOGRAPHICS.NAHIDA_1}
     thumbnail:
       url: "https://editors.keqingmains.com/wp-content/uploads/2022/10/nahida_073_icon-min.png"
     description: |-
       *A caged bird secluded within the confines of the Sanctuary of Surasthana who can only see the world in her dreams.*
-
-      :construction: ***─ Infographic WIP ─*** :construction:
+    footer:
+      text: "Use \"Open original\" to view full size. Page 2 Coming Soon!\n\nCredits to: ang tahimik#9252 (Designer) idkanonymized#4166 & GSynthesis66#838 (Content)"
 
 buttons:
 #  - label: "Guide"
