@@ -1,0 +1,15 @@
+embeds:
+  - title: Frames
+    color: ${COLORS.KQM_PURPLE}
+    description: Frame count explanation & database
+
+buttons:
+  - label: "TCL Page"
+    style: "LINK"
+    emoji: ${EMOJIS.MAGNIFY}
+    url: "https://library.keqingmains.com/combat-mechanics/frames"
+
+  - label: "Database"
+    style: "LINK"
+    emoji: ${EMOJIS.GOOGLE_SHEETS}
+    url: "https://docs.google.com/spreadsheets/d/1l5DOZ6RgYYMIxMtJtd7oQNL9WWVNXcQL0nwan7q7QGc/edit?usp=sharing"
