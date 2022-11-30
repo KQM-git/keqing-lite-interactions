@@ -1,7 +1,7 @@
 embeds:
   - title: Teyvat Interactive Map
     color: ${COLORS.KQM_PURPLE}
-    description: The official Interactive Map. Use this to create farming routes or check locations of an enemy/resource!
+    description: The official Interactive Map. Use this to create farming routes or check the locations of an enemy/resource!
 
 buttons:
   - label: "Link"

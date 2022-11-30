@@ -1,5 +1,5 @@
 embeds:
-  - title: Interactive Fav Proc Rate/Crit Rate calculator
+  - title: Interactive Fav Proc Rate/CRIT Rate Calculator
     color: ${COLORS.KQM_PURPLE}
 
 buttons:

@@ -1,4 +1,4 @@
 embeds:
   - color: ${COLORS.KQM_PURPLE}
     description: |-
-      **ADC**: Acronym for Attack % / Damage % / Crit
+      **ADC**: Acronym for ATK% / DMG% / CRIT
