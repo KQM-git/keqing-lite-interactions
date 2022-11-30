@@ -14,7 +14,7 @@ buttons:
   - customId: "liveInteraction#characters/electro/raiden/main2"
     label: "Basics"
     style: "PRIMARY"
-    emoji: "▶️"
+    emoji: "◀️"
 
   - label: "Guide"
     url: "https://keqingmains.com/raiden/"
