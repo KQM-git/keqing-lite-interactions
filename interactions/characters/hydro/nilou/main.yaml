@@ -1,14 +1,15 @@
 embeds:
   - title: Nilou
     color: ${COLORS.HYDRO_BLUE}
-#    image: 
-#      url: ${INFOGRAPHICS.NILOU_1}
+    image: 
+      url: ${INFOGRAPHICS.NILOU_1}
     thumbnail:
       url: "https://library.keqingmains.com/img/characters/icon/Nilou.png"
     description: |-
       *The star of the Zubayr Theater. She is full of warmth and innocence, and her dances are lively and elegant.*
 
-      :construction: ***─ Infographic WIP ─*** :construction:
+    footer:
+      text: "Use \"Open original\" to view full size. Page 2 Coming Soon!\n\nCredits to: Artesians#0002 (Designer) | xf3#3123 (Content)"
 
 buttons:
   # - label: "Guide"

@@ -2,7 +2,7 @@ embeds:
   - title: Raiden
     color: ${ COLORS.ELECTRO_PURPLE }
     image: 
-      url: ${INFOGRAPHICS.RAIDEN_1}
+      url: ${INFOGRAPHICS.RAIDEN_2}
     thumbnail:
       url: "https://muakasan.github.io/genshin-portraits/assets/UI_AvatarIcon_Shougun.png"
     description: |-
@@ -12,7 +12,7 @@ embeds:
 
 buttons:
   - customId: "liveInteraction#characters/electro/raiden/main2"
-    label: "Teams Infographic"
+    label: "Basics"
     style: "PRIMARY"
     emoji: "▶️"
 

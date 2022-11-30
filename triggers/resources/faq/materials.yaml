@@ -1,0 +1,4 @@
+interaction: faq/materials
+description: Materials Respawn Infographic
+match: ${ TRIGGER_PREFIX }(?:materials?|mats)(?:\s|$)
+ignoreCase: true
