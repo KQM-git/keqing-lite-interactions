@@ -1,8 +1,8 @@
 embeds:
   - title: Cyno
-    color: ${COLORS.ELECTRO_PURPLE}
+    color: ${ COLORS.ELECTRO_PURPLE }
     image: 
-      url: ${INFOGRAPHIC.CYNO_1}
+      url: ${INFOGRAPHICS.CYNO_1}
     thumbnail:
       url: "https://library.keqingmains.com/img/characters/icon/Cyno.png"
     description: |-
@@ -14,7 +14,7 @@ buttons:
   - customId: "liveInteraction#characters/electro/cyno/main2"
     label: "Teams Infographic"
     style: "PRIMARY"
-    emoji: "▶️"
+    emoji: "◀️"
 
   # - label: "Guide"
   #   url: "https://keqingmains.com/cyno/"

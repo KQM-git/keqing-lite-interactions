@@ -14,7 +14,7 @@ buttons:
   - customId: "liveInteraction#characters/anemo/sucrose/main"
     label: "Basics"
     style: "PRIMARY"
-    emoji: "▶️"
+    emoji: "◀️"
 
   - label: "Guide"
     url: "https://keqingmains.com/sucrose/"
