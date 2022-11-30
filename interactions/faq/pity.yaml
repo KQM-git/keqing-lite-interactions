@@ -1,1 +1,11 @@
-content: "https://cdn.discordapp.com/attachments/953499138627104808/1009021966260391956/unknown.png"
+embeds:
+  - title: Pity System FAQ
+    color: ${COLORS.KQM_PURPLE}
+    image: 
+      url: ${INFOGRAPHICS.PITY_1}
+    thumbnail:
+      url: ${IMAGES.KQM_LOGO}
+    description: |-
+      Information on Genshin's Pity System
+    footer:
+      text: "Use \"Open original\" to view full size. \n\nCredits to: ang tahimik#9252 (Designer/Content)
