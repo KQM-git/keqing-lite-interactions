@@ -2,7 +2,7 @@ embeds:
   - title: Cyno
     color: ${COLORS.ELECTRO_PURPLE}
     image: 
-      url: ${INFOGRAPHICs.CYNO_2}
+      url: ${INFOGRAPHIC.CYNO_2}
     thumbnail:
       url: "https://library.keqingmains.com/img/characters/icon/Cyno.png"
     description: |-
