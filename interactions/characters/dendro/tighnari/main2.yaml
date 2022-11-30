@@ -2,7 +2,7 @@ embeds:
   - title: Tighnari
     color: ${COLORS.DENDRO_GREEN}
     image: 
-      url: ${INFOGRAPHICS.TIGHNARI_1}
+      url: ${INFOGRAPHICS.TIGHNARI_2}
     thumbnail:
       url: "https://muakasan.github.io/genshin-portraits/assets/UI_AvatarIcon_Tighnari.png"
     description: |-
@@ -11,10 +11,10 @@ embeds:
       text: "Use \"Open original\" to view full size.\n\nCredits to: ang tahimik#9252 (Designer) | dank#9601, Cuzimori#1535, idkanonymized#4166 (Content)"
 
 buttons:
-  - customId: "liveInteraction#characters/dendro/tighnari/main2"
-    label: "Teams Infographic"
+  - customId: "liveInteraction#characters/dendro/tighnari/main"
+    label: "Basics"
     style: "PRIMARY"
-    emoji: "▶️"
+    emoji: "◀️"
 
   - label: "Guide"
     url: "https://keqingmains.com/tighnari/"

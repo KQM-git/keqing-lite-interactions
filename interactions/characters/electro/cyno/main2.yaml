@@ -2,7 +2,7 @@ embeds:
   - title: Cyno
     color: ${ COLORS.ELECTRO_PURPLE }
     image: 
-      url: ${INFOGRAPHICS.CYNO_1}
+      url: ${INFOGRAPHICS.CYNO_2}
     thumbnail:
       url: "https://library.keqingmains.com/img/characters/icon/Cyno.png"
     description: |-
@@ -11,8 +11,8 @@ embeds:
       text: "Use \"Open original\" to view full size.\n\nCredits to: IcedSquid#3207 (Designer) | koko#1111 (Content)"
 
 buttons:
-  - customId: "liveInteraction#characters/electro/cyno/main2"
-    label: "Teams Infographic"
+  - customId: "liveInteraction#characters/electro/cyno/main"
+    label: "Basics"
     style: "PRIMARY"
     emoji: "◀️"
 

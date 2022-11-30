@@ -2,7 +2,7 @@ embeds:
   - title: Sucrose
     color: ${ COLORS.ANEMO_GREEN }
     image: 
-      url: ${INFOGRAPHICS.SUCROSE_1}
+      url: ${INFOGRAPHICS.SUCROSE_2}
     thumbnail:
       url: "https://github.com/muakasan/genshin-portraits/blob/main/assets/UI_AvatarIcon_Sucrose.png?raw=true"
     description: |-
@@ -11,10 +11,10 @@ embeds:
       text: "Use \"Open original\" to view full size.\n\nCredits to: ang tahimik#9252 (Designer) | juko#9385 (Content)"
 
 buttons:
-  - customId: "liveInteraction#characters/anemo/sucrose/main2"
-    label: "Teams Infographic"
+  - customId: "liveInteraction#characters/anemo/sucrose/main"
+    label: "Basics"
     style: "PRIMARY"
-    emoji: "▶️"
+    emoji: "◀️"
 
   - label: "Guide"
     url: "https://keqingmains.com/sucrose/"
