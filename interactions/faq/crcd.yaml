@@ -1,11 +1,11 @@
 embeds:
-  - title: Which set of crit stats is better?
+  - title: Which set of CRIT stats is better?
     color: ${COLORS.KQM_PURPLE}
     description: |-
-      CR = Crit RATE
-      CD = Crit DMG
+      CR = CRIT Rate
+      CD = CRIT DMG
 
       - Multiply `CR * CD` for each combination
       - The higher number is the better combination
-      - Divide the result by 100 to find your effective Crit Damage
+      - Divide the result by 100 to find your effective CRIT
       If you have a more complicated question, use the [Genshin Optimizer](https://frzyc.github.io/genshin-optimizer).

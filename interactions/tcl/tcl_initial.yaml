@@ -15,7 +15,7 @@ options:
     description: TCL Entry.
     emoji: "📝"
   
-  - label: Royal Weapons' Effective Crit Rate
+  - label: Royal Weapons' Effective CRIT Rate
     value: tcl/royal
     description: TCL Entry.
     emoji: "📝"

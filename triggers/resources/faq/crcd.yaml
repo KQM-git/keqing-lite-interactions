@@ -1,4 +1,4 @@
 interaction: faq/crcd
-description: Crit Stats Info
+description: CRIT Stats Info
 match: ${ TRIGGER_PREFIX }crcd(?:\s|$)
 ignoreCase: true

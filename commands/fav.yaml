@@ -20,7 +20,7 @@ options:
   critrate:
     required: true
     type: number
-    description: "Crit Rate in % (example: 53.4, 12)"
+    description: "CRIT Rate in % (example: 53.4, 12)"
   hits:
     required: true
     type: number

@@ -6,9 +6,13 @@ embeds:
       url: https://img.youtube.com/vi/0AKterEZ-MY/0.jpg
 
 buttons:
-  - label: "Video"
+  - label: "Video Guide"
     url: "https://www.youtube.com/watch?v=0AKterEZ-MY"
     emoji: "${EMOJIS.YOUTUBE}"
     style: "LINK"
 
+  - label: "Written Guide"
+    url: "https://docs.google.com/document/d/1Tk-nSE8mnwrPadFVtpBcV3iAeiI6LFwBSwRwpOArOn8/edit?usp=sharing"
+    emoji: "${EMOJIS.GOOGLE_DOCS}"
+    style: "LINK"
       

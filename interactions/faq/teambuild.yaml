@@ -7,6 +7,6 @@ embeds:
 
 buttons:
   - label: "Guide"
-    url: "https://keqingmains.com/team-building/"
+    url: "https://keqingmains.com/misc/team-building/"
     emoji: ${ EMOJIS.LOGO }
     style: "LINK"

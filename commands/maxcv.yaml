@@ -2,7 +2,7 @@ description: Calculate the max CV an artifact can roll based on its current subs
 
 interaction:
   embeds:
-    - title: Crit Value Calculator
+    - title: CRIT Value Calculator
       description: >-
          <$js
             const critRateValues = new Set([
@@ -42,11 +42,11 @@ interaction:
              }
           
              if (!critDmgValues.has($OPTIONS.CURRENTCD)) {
-                return 'You have entered an invalid Crit Dmg value.';
+                return 'You have entered an invalid CRIT DMG value.';
              }
              
              if (!critRateValues.has($OPTIONS.CURRENTCR)) {
-                return 'You have entered an invalid Crit Rate value.';
+                return 'You have entered an invalid CRIT Rate value.';
              }
              
              const currentCV =  parseFloat(($OPTIONS.CURRENTCD + $OPTIONS.CURRENTCR * 2).toPrecision(3));
@@ -76,12 +76,12 @@ interaction:
 options:
   currentcd: 
     required: true 
-    description: Current Artifact Crit Dmg
+    description: Current Artifact CRIT DMG
     type: number
     
   currentcr: 
     required: true 
-    description: Current Artifact Crit Rate
+    description: Current Artifact CRIT Rate
     type: number
 
   currentlevel: 

@@ -6,6 +6,6 @@ embeds:
     thumbnail:
       url: ${IMAGES.KQM_LOGO}
     description: |-
-      Information on Material Respawn Timers
+      Information on Material Respawn Timers.
     footer:
       text: "Use \"Open original\" to view full size. \n\nCredits to: IcedSquid#3207 (Designer) | juko#9385 (Content)"
