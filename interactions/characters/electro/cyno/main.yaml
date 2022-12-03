@@ -14,7 +14,7 @@ buttons:
   - customId: "liveInteraction#characters/electro/cyno/main2"
     label: "Teams Infographic"
     style: "PRIMARY"
-    emoji: "◀️"
+    emoji: "▶️"
 
   # - label: "Guide"
   #   url: "https://keqingmains.com/cyno/"
