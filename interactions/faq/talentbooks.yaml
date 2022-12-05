@@ -1,0 +1,8 @@
+embeds:
+  - title: Talent Books
+    description: Each character’s required Talent books, and what days to farm them.
+    color: ${ COLORS.KQM_PURPLE }
+    image: 
+      url: "https://media.discordapp.net/attachments/954058547702943744/1049153265109049374/4c788396f49682c8997fd723a6cfd2ec_1795918573455591209.png"
+    footer:
+      text: "Updated for Version 3.2a"
