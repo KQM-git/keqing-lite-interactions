@@ -10,6 +10,11 @@ options:
     description: KQM's resources on the Anemo Main Character!
     emoji: "<:Traveler:953430875788443709>"
 
+  - label: Faruzan
+    value: characters/anemo/faruzan/main
+    description: KQM's resources on Faruzan!
+    emoji: "<:Faruzan:1050444217522061374>"
+
   - label: Heizou
     value: characters/anemo/heizou/main
     description: KQM's resources on Heizou!
@@ -39,6 +44,11 @@ options:
     value: characters/anemo/venti/main
     description: KQM's resources on Venti!
     emoji: "<:Venti:953426426651111475>"
+
+  - label: Wanderer
+    value: characters/anemo/wanderer/main
+    description: KQM's resources on the Wanderer!
+    emoji: "<:Wanderer:1050444214829330472>"
 
   - label: Xiao
     value: characters/anemo/xiao/main

@@ -1,4 +1,4 @@
 interaction: characters/hydro/kokomi/main
-description: "Opens KQM's resouces on Sangonomiya Kokomi"
+description: "Opens KQM's resources on Sangonomiya Kokomi"
 match: ${ TRIGGER_PREFIX }(?:sangonomiya|kokomi)(?:\s|$)
 ignoreCase: true

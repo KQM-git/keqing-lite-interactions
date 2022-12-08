@@ -1,4 +1,4 @@
 interaction: characters/cryo/diona/main
-description: "Opens KQM's resouces on Diona"
+description: "Opens KQM's resources on Diona"
 match: ${ TRIGGER_PREFIX }diona(?:\s|$)
 ignoreCase: true

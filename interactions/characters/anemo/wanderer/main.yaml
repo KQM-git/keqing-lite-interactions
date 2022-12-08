@@ -1,0 +1,33 @@
+embeds:
+  - title: Wanderer
+    color: ${ COLORS.ANEMO_GREEN }
+    # image: 
+    #  url: "insert infographic link"
+    thumbnail:
+      url: "https://editors.keqingmains.com/wp-content/uploads/2022/12/wanderer_075_icon.webp"
+    description: |-
+      *If the measure of humanity is having a heart, then he cannot be deemed as such.*
+      *If one without a heart experiences joy and sorrow, then he shall be a puppet most alike to humanity.*
+
+      :construction: ***─ Infographic WIP ─*** :construction:
+
+buttons:
+  # - label: "Guide"
+  #  url: "https://keqingmains.com/wanderer/"
+  #  emoji: ${ EMOJIS.LOGO }
+  #  style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/wanderer-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "TCL"
+    url: "https://library.keqingmains.com/characters/anemo/wanderer"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"
+
+#  - label: "Video Guide"
+#    url: "https://www.youtube.com/watch?v=AWlLidtFiDw"
+#    emoji: ${ EMOJIS.YOUTUBE }
+#    style: "LINK"

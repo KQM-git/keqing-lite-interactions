@@ -1,4 +1,4 @@
 interaction: characters/geo/gorou/main
-description: "Opens KQM's resouces on Gorou"
+description: "Opens KQM's resources on Gorou"
 match: ${ TRIGGER_PREFIX }gorou(?:\s|$)
 ignoreCase: true

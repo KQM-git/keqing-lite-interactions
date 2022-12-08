@@ -1,0 +1,32 @@
+embeds:
+  - title: Faruzan
+    color: ${ COLORS.ANEMO_GREEN }
+    # image: 
+    #  url: "insert infographic link"
+    thumbnail:
+      url: "https://editors.keqingmains.com/wp-content/uploads/2022/12/UI_AvatarIcon_Faruzan.png"
+    description: |-
+      *A researcher from "one hundred years ago". She enjoys self-identifying as everyone's senior, and has significant knowledge of ancient scripts and machines of all kinds.*
+
+      :construction: ***─ Infographic WIP ─*** :construction:
+
+buttons:
+  # - label: "Guide"
+  #  url: "https://keqingmains.com/faruzan/"
+  #  emoji: ${ EMOJIS.LOGO }
+  #  style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/faruzan-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "TCL"
+    url: "https://library.keqingmains.com/characters/anemo/faruzan"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"
+
+#  - label: "Video Guide"
+#    url: "https://www.youtube.com/watch?v=AWlLidtFiDw"
+#    emoji: ${ EMOJIS.YOUTUBE }
+#    style: "LINK"
