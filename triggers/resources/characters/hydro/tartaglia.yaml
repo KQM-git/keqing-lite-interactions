@@ -1,4 +1,4 @@
 interaction: characters/hydro/tartaglia/main
-description: "Opens KQM's resouces on Tartaglia"
+description: "Opens KQM's resources on Tartaglia"
 match: ${ TRIGGER_PREFIX }(?:tartaglia|childe|wet)(?:\s|$)
 ignoreCase: true

@@ -11,10 +11,10 @@ embeds:
       :construction: ***─ Infographic WIP ─*** :construction:
 
 buttons:
-#  - label: "Guide"
-#    url: "https://keqingmains.com/"
-#    emoji: ${ EMOJIS.LOGO }
-#    style: "LINK"
+  - label: "Guide"
+    url: "https://keqingmains.com/collei/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
 
   - label: "TCL"
     url: "https://library.keqingmains.com/characters/dendro/collei"

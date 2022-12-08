@@ -1,4 +1,4 @@
 interaction: characters/cryo/kaeya/main
-description: "Opens KQM's resouces on Kaeya"
+description: "Opens KQM's resources on Kaeya"
 match: ${ TRIGGER_PREFIX }kaeya(?:\s|$)
 ignoreCase: true

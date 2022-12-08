@@ -1,4 +1,4 @@
 interaction: characters/geo/geotraveler/main
-description: "Opens KQM's resouces on Geo MC"
+description: "Opens KQM's resources on Geo Traveler"
 match: ${ TRIGGER_PREFIX }(?:geotravell?er|gmc)(?:\s|$)
 ignoreCase: true
