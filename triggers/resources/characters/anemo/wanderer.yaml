@@ -1,0 +1,4 @@
+interaction: characters/anemo/wanderer/main
+description: "Opens KQM's resources on the Wanderer"
+match: ${ TRIGGER_PREFIX }(wanderer|scara(mouche)?)(?:\s|$)
+ignoreCase: true

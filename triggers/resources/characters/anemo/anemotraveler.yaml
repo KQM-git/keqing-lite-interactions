@@ -1,4 +1,4 @@
 interaction: characters/anemo/anemotraveler/main
-description: "Opens KQM's resources on Anemo MC"
+description: "Opens KQM's resources on Anemo Traveler"
 match: ${ TRIGGER_PREFIX }(?:anemotravell?er|(amc)(?:\s|$))
 ignoreCase: true

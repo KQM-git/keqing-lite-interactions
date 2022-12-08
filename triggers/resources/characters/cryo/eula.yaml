@@ -1,4 +1,4 @@
 interaction: characters/cryo/eula/main
-description: "Opens KQM's resouces on Eula"
+description: "Opens KQM's resources on Eula"
 match: ${ TRIGGER_PREFIX }eula(?:\s|$)
 ignoreCase: true
