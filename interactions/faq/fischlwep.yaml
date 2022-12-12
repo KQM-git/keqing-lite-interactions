@@ -4,4 +4,11 @@ embeds:
     thumbnail:
       url: "https://github.com/muakasan/genshin-portraits/blob/main/assets/UI_AvatarIcon_Fischl.png?raw=true"
     image:
-      url: https://cdn.discordapp.com/attachments/952079886158266368/983166826311716874/2.7fischlwep.png
+      url: "https://cdn.discordapp.com/attachments/974036281162080307/1051970881720680579/fischlwep.png"
+
+buttons:
+  - label: "Calcs and Assumptions"
+    style: "LINK"
+    emoji: ${ EMOJIS.GOOGLE_SHEETS }
+    url: "https://docs.google.com/spreadsheets/d/1cyxc8ZCIi8f9FqYDFZS0j3Jjd6nnWJ8l0LLnkCZUAOQ"
+      
