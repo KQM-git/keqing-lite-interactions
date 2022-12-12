@@ -4,7 +4,7 @@ embeds:
     thumbnail:
       url: "https://github.com/muakasan/genshin-portraits/blob/main/assets/UI_AvatarIcon_Fischl.png?raw=true"
     image:
-      url: https://cdn.discordapp.com/attachments/974036281162080307/1051970881720680579/fischlwep.png
+      url: "https://cdn.discordapp.com/attachments/974036281162080307/1051970881720680579/fischlwep.png"
 
 buttons:
   - label: "Calcs and Assumptions"
