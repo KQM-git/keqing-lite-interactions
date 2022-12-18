@@ -1,0 +1,4 @@
+interaction: faq/wood5
+description: Sumeru Desert Wood Farming Routes
+match: ${ TRIGGER_PREFIX }(?:[dD]esert[ -]?[wW]ood[ -]?[fF]arming)(?:\s|$)
+ignoreCase: true
