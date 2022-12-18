@@ -1,0 +1,5 @@
+interaction: faq/wood3
+description: Inazuma Wood Farming Routes
+match: ${ TRIGGER_PREFIX }(?:[iI]nazuma[ -]?[wW]ood[ -]?[fF]arming)(?:\s|$)
+ignoreCase: true
+

@@ -1,0 +1,5 @@
+interaction: faq/wood4
+description: Sumeru Forest Wood Farming Routes
+match: ${ TRIGGER_PREFIX }(?:[sS]umeru[ -]?[wW]ood[ -]?[fF]arming)(?:\s|$)
+ignoreCase: true
+

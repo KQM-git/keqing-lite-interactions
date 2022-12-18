@@ -1,0 +1,4 @@
+interaction: faq/wood
+description: Mondstadt Wood Farming Routes
+match: ${ TRIGGER_PREFIX }(?:[wW]ood|[mM]ondstadt[ -]?[wW]ood[ -]?[fF]arming)(?:\s|$)
+ignoreCase: true
