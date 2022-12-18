@@ -54,6 +54,8 @@ INFOGRAPHICS:
   SHINOBU_2: "https://cdn.discordapp.com/attachments/953499138627104808/1003810382575587418/Kuki_2.png"
   SUCROSE_1: "https://keqingmains.com/wp-content/uploads/2022/11/Sucrose-Infographic-Main-min.png"
   SUCROSE_2: "https://keqingmains.com/wp-content/uploads/2022/11/Sucrose-Infographic-Main-min.png"
+  THOMA_1: "https://cdn.discordapp.com/attachments/1011367402572890132/1052260273387491328/ThomaBur1.png"
+  THOMA_2: "https://cdn.discordapp.com/attachments/1011367402572890132/1052260273764966400/ThomaBur2.png"
   TIGHNARI_1: "https://keqingmains.com/wp-content/uploads/2022/11/Tighnari-Infographic-Main-min.png"
   TIGHNARI_2: "https://keqingmains.com/wp-content/uploads/2022/11/Tighnari-Infographic-Teams-min.png"
   XINYAN_1: "https://cdn.discordapp.com/attachments/1011367402572890132/1011689852217069659/Xinyan_final.png"
@@ -70,8 +72,12 @@ INFOGRAPHICS:
   DENDRO_4: "https://cdn.discordapp.com/attachments/1009570422913773618/1011796942436708452/Bloom-based_reactions_infographic.png" # bloom dmg
   DENDRO_5: "https://cdn.discordapp.com/attachments/1009570422913773618/1011796942008877056/Sread_and_Aggravate_Formula_WIP.png" # catalyze dmg
   MATERIALS_1: "https://cdn.discordapp.com/attachments/1011367402572890132/1045788861776806069/Resource_Materials_KQM.png"
-  PITY_1: "https://cdn.discordapp.com/attachments/953499138627104808/1009021966260391956/unknown.png"
-  
+  PITY_1: "https://cdn.discordapp.com/attachments/1011367402572890132/1049545282502799400/Genshin_Pity_.png"
+  WOOD_1: "https://cdn.discordapp.com/attachments/1011367402572890132/1053171374211989556/Wood_Farming___Mondstadt.png"
+  WODD_2: "https://cdn.discordapp.com/attachments/1011367402572890132/1053171400535462009/Wood_Farming___Liyue.png"
+  WODD_3: "https://cdn.discordapp.com/attachments/1011367402572890132/1053171471884754994/Wood_Farming___Inazuma.png"
+  WODD_4: "https://cdn.discordapp.com/attachments/1011367402572890132/1053171472279031858/Wood_Farming___Sumeru_1.png"
+  WODD_5: "https://cdn.discordapp.com/attachments/1011367402572890132/1053171472677478410/Wood_Farming___Sumeru_2.png"     
 
 EMOJIS:
   DISCORD: ":discord:966055935808241684"
@@ -92,3 +98,4 @@ EMOJIS:
   ELEMENT_HYDRO: ":Element_Hydro:945557264314544139"
   ELEMENT_PYRO: ":Element_Pyro:945557264792707083"
   ENERGY_RECHARGE: ":ER:947725645104939079"
+  BEACH_SUMERU: ":beach_umbrella:" 
