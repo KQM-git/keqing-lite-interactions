@@ -9,7 +9,7 @@ embeds:
       Wood Farming Routes for Inazuma
 
 buttons:
-  - customId: "liveInteraction#faq/wood1"
+  - customId: "liveInteraction#faq/wood"
     label: "Mondstadt Routes"
     style: "PRIMARY"
     emoji: ${EMOJIS.ELEMENT_ANEMO}
