@@ -11,7 +11,7 @@ embeds:
       text: "Use \"Open original\" to view full size.\n\nCredits to: IcedSquid#3207 (Designer) | Cuzimori#1535 (Content)"
 
 buttons:
-  - customId: "liveInteraction#characters/electro/cyno/main2"
+  - customId: "liveInteraction#characters/pryo/thoma/main2"
     label: "Teams Infographic"
     style: "PRIMARY"
     emoji: "▶️"
