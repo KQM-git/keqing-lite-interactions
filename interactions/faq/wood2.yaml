@@ -1,0 +1,36 @@
+embeds:
+  - title: Wood Farming Routes
+    color: ${COLORS.KQM_PURPLE}
+    image: 
+      url: ${INFOGRAPHICS.WOOD_2}
+    thumbnail:
+      url: ${IMAGES.KQM_LOGO}
+    description: |-
+      Wood Farming Routes for Liyue
+
+buttons:
+  - customId: "liveInteraction#faq/wood"
+    label: "Mondstadt Routes"
+    style: "PRIMARY"
+    emoji: ${EMOJIS.ELEMENT_ANEMO}
+
+#  - customId: "liveInteraction#faq/wood2"
+#    label: "Liyue Routes"
+#    style: "PRIMARY"
+#    emoji: ${EMOJIS.ELEMENT_GEO}
+
+  - customId: "liveInteraction#faq/wood3"
+    label: "Inazuma Routes"
+    style: "PRIMARY"
+    emoji: ${EMOJIS.ELEMENT_ELECTRO}
+
+  - customId: "liveInteraction#faq/wood4"
+    label: "Sumeru Forest Routes"
+    style: "PRIMARY"
+    emoji: ${EMOJIS.ELEMENT_DENDRO}
+
+  - customId: "liveInteraction#faq/wood5"
+    label: "Sumeru Desert Routes"
+    style: "PRIMARY"
+    emoji: ${EMOJIS.BEACH_SUMERU}
+

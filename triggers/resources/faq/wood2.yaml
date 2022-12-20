@@ -1,0 +1,4 @@
+interaction: faq/wood2
+description: Liyue Wood Farming Routes
+match: ${ TRIGGER_PREFIX }(?:[lL]iyue[ -]?[wW]ood[ -]?[fF]arming)(?:\s|$)
+ignoreCase: true
