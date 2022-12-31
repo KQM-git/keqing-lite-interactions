@@ -1,0 +1,4 @@
+interaction: faq/reactions
+description: Elemental Reactions Infographic
+match: ${ TRIGGER_PREFIX }(?:reaction(?:s)|elemental[ -]?reaction(?:s))(?:\s|$)
+ignoreCase: true

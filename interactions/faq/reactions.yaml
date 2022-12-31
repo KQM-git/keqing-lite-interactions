@@ -1,0 +1,26 @@
+embeds:
+  - title: Elemental Reactions
+    color: ${COLORS.KQM_PURPLE}
+    image: 
+      url: ${INFOGRAPHICS.REACTIONS}
+    thumbnail:
+      url: ${IMAGES.KQM_LOGO}
+    description: |-
+      Elemental reactions for Genshin Impact
+
+buttons:
+  - label: "Elemental Reactions TCL Page"
+    url: "https://library.keqingmains.com/combat-mechanics/elemental-effects"
+    emoji: ${EMOJIS.MAGNIFY}
+    style: "LINK"
+
+  - label: "EGT TCL Page"
+    url: "https://library.keqingmains.com/combat-mechanics/elemental-effects/elemental-gauge-theory"
+    emoji: ${EMOJIS.MAGNIFY}
+    style: "LINK"
+
+  - label: "Dendro Guide"
+    url: "https://keqingmains.com/misc/dendro/"
+    emoji: ${EMOJIS.ELEMENT_DENDRO}
+    style: "LINK"
+
