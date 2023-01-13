@@ -16,6 +16,11 @@ buttons:
 #    emoji: ${ EMOJIS.LOGO }
 #    style: "LINK"
 
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/dendro-traveler-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
   - label: "TCL"
     url: "https://library.keqingmains.com/dmc"
     emoji: ${ EMOJIS.MAGNIFY }
