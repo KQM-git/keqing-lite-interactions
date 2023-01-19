@@ -1,0 +1,28 @@
+embeds:
+  - title: Alhaitham
+    color: ${COLORS.DENDRO_GREEN}
+    #image: 
+    #  url: ${INFOGRAPHICS.ALHAITHAM_1}
+    thumbnail:
+      url: "https://keqingmains.com/wp-content/uploads/2023/01/Alhatham.png"
+    description: |-
+      *The current scribe of the Sumeru Akademiya, a man endowed with extraordinary intelligence and talent. He lives free — free from the searching eyes of ordinary people, anyway.*
+      :construction: ***─ Infographic WIP ─*** :construction:    
+    #footer:
+    #  text: "Use \"Open original\" to view full size. Page 2 Coming Soon!\n\nCredits to: ang tahimik#9252 (Designer) idkanonymized#4166 & GSynthesis66#838 (Content)"
+
+buttons:
+#  - label: "Guide"
+#    url: "https://keqingmains.com/alhaitham/"
+#    emoji: ${ EMOJIS.LOGO }
+#    style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/alhaitham-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  #- label: "TCL"
+  #  url: "https://library.keqingmains.com/characters/dendro/alhaitham"
+  #  emoji: ${ EMOJIS.MAGNIFY }
+  #  style: "LINK"
