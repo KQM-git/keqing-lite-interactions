@@ -1,0 +1,28 @@
+embeds:
+  - title: Yaoyao
+    color: ${COLORS.DENDRO_GREEN}
+    #image: 
+    #  url: ${INFOGRAPHICS.YAOYAO_1}
+    thumbnail:
+      url: "https://keqingmains.com/wp-content/uploads/2023/01/Yaoyao.png"
+    description: |-
+      *Streetward Rambler’s youngest disciple. A gentle and caring “little adult.”*
+      :construction: ***─ Infographic WIP ─*** :construction:    
+    #footer:
+    #  text: "Use \"Open original\" to view full size. Page 2 Coming Soon!\n\nCredits to: ang tahimik#9252 (Designer) idkanonymized#4166 & GSynthesis66#838 (Content)"
+
+buttons:
+#  - label: "Guide"
+#    url: "https://keqingmains.com/yaoyao/"
+#    emoji: ${ EMOJIS.LOGO }
+#    style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/yaoyao-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  #- label: "TCL"
+  #  url: "https://library.keqingmains.com/characters/dendro/yaoyao"
+  #  emoji: ${ EMOJIS.MAGNIFY }
+  #  style: "LINK"
