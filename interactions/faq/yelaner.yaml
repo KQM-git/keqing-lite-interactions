@@ -14,8 +14,9 @@ buttons:
     style: "PRIMARY"
     emoji: "◀️"
 
-buttons:
-  - customId: "liveInteraction#faq/yelaner_two"
-    label: "Sheet Image"
-    style: "PRIMARY"
-    emoji: "▶️"
+#buttons:
+#  - customId: "liveInteraction#faq/yelaner_two"
+#    label: "Sheet Image"
+#    style: "PRIMARY"
+#    emoji: "▶️"
+#old image: https://cdn.discordapp.com/attachments/961837025940627461/981643458123026462/unknown.png
