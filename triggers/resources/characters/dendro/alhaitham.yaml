@@ -1,0 +1,4 @@
+interaction: characters/dendro/alhaitham/main
+description: "Opens KQM's resources on Alhaitham"
+match: ${ TRIGGER_PREFIX }alhaitham(?:\s|$)
+ignoreCase: true
