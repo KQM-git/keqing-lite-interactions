@@ -2,7 +2,7 @@ embeds:
   - title: Xiangling
     color: ${ COLORS.PYRO_ORANGE }
     image: 
-      url: "https://cdn.discordapp.com/attachments/953505473125052456/953505607019806801/Xiangling_New.png"
+      url: "https://cdn.discordapp.com/attachments/982537464344354886/1068043597900947466/image.png"
     thumbnail:
       url: "https://github.com/muakasan/genshin-portraits/blob/main/assets/UI_AvatarIcon_Xiangling.png?raw=true"
     footer:
