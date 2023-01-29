@@ -1,0 +1,16 @@
+embeds:
+  - title: Xiangling
+    color: ${ COLORS.PYRO_ORANGE }
+    image: 
+      url: "https://cdn.discordapp.com/attachments/982537464344354886/1068043597900947466/image.png"
+    thumbnail:
+      url: "https://github.com/muakasan/genshin-portraits/blob/main/assets/UI_AvatarIcon_Xiangling.png?raw=true"
+    footer:
+      text: "Use \"Open original\" to view full size."
+
+buttons:
+  - customId: "liveInteraction#characters/pyro/xiangling/main"
+    label: "Basics"
+    style: "PRIMARY"
+    emoji: "◀️"
+

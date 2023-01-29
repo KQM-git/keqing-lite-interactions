@@ -1,0 +1,4 @@
+interaction: faq/xianglinger
+description: Xiangling ER Requirements
+match: ${ TRIGGER_PREFIX }xianglinger(?:\s|$)
+ignoreCase: true
