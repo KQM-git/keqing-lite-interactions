@@ -1,12 +1,14 @@
 embeds:
   - title: Yelan Energy Requirements
     color: ${COLORS.HYDRO_BLUE}
+    description: |-
+      The left column represents Yelan's number of Skill uses in the rotation and the top row represents weapons or teammates that reduce Yelan's Energy requirements. The following values are from the calculated averages of several team compositions.
     image:
-      url: https://cdn.discordapp.com/attachments/982680753777299526/1072480984970305587/image.png
+      url: https://cdn.discordapp.com/attachments/974036281162080307/1073842903270572032/image.png
     thumbnail:
       url: "https://cdn.discordapp.com/attachments/974036281162080307/991115872661946388/Yelan_New.png"
     footer:
-      text: "Use \"Open original\" to view full size.\n\nCredits to: DumbCatGF (She/Her)#1054 (Designer)"
+      text: "Use \"Open original\" to view full size."
 
 buttons:
   - customId: "liveInteraction#characters/hydro/yelan/main"
