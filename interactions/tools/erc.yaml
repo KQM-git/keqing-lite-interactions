@@ -5,10 +5,15 @@ embeds:
       Zakharov's Energy Recharge Calculator
 
 buttons:
-  - label: "Energy Calculator"
+  - label: "ER Calculator"
     style: LINK
     emoji: ${EMOJIS.GOOGLE_SHEETS}
-    url: "https://docs.google.com/spreadsheets/d/1-vkmgp5n0bI9pvhUg110Aza3Emb2puLWdeoCgrxDlu4"
+    url: "https://docs.google.com/spreadsheets/d/1-vkmgp5n0bI9pvhUg110Aza3Emb2puLWdeoCgrxDlu4/copy"
+
+  - label: "ER Calculator Guide"
+    style: LINK
+    emoji: ${EMOJIS.GOOGLE_DOCS}
+    url: "https://docs.google.com/document/d/1U6R08k5qfW-AtT0SejiSSR2b-WUS2G1iaB1op7WSH_E/edit"
 
   - label: "Video Guide"
     style: "LINK"
