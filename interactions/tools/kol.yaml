@@ -1,5 +1,5 @@
 embeds:
-  - title: Kol's calculation template
+  - title: Kol's Calculation Template
     color: ${ COLORS.KQM_PURPLE }
     description: |-
       Kol's public Google Sheets calculation template. Can be used to calculate essentially anything in this game. Updated regularly; make a new copy from the original link. Ping <@397825812956446752> in KQM for help. Surely the prettiest template <:clueless:908415724488384595>.

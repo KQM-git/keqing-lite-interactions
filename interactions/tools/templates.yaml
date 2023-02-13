@@ -10,20 +10,20 @@ embeds:
 # Additional links that should be displayed in the initial message.
 
 options: 
-  - label: Ayzel's Calculator
-    value: tools/ayzelnut
-    description: Excel template.
-    emoji: "📕"
+  - label: Vlad's calculator template
+    value: tools/template_vlad
+    description: Excel template
+    emoji: ${EMOJIS.EXCEL}
   
   - label: Jamberry's calculation template
     value: tools/jamberry
-    description: Google Sheets template.
-    emoji: "📕"
+    description: Google Sheets template
+    emoji: ${EMOJIS.GOOGLE_SHEETS}
 
   - label: Kol's calculation template
     value: tools/kol
-    description: Google Sheets template.
-    emoji: "📕"
+    description: Google Sheets template
+    emoji: ${EMOJIS.GOOGLE_SHEETS}
 
 # buttons:
 #   - label: "Google Sheets add-on"

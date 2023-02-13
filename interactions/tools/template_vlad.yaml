@@ -1,8 +1,8 @@
 embeds:
-  - title: Ayzel's Calculator
+  - title: Vlad's Calculation Template
     color: ${ COLORS.KQM_PURPLE }
     description: |-
-      Ayzel's calculator. Can be used to calculate essentially anything in this game; constantly updated with updates posted in Ayzel's discord.
+      Vladone ツ's calculator. Can be used to calculate essentially anything in this game; constantly updated with updates posted in Vlad's discord.
 
 buttons:
   - label: "Discord"
