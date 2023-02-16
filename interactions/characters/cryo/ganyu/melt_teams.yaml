@@ -1,6 +1,8 @@
 embeds:
   - title: Melt Ganyu
     color: ${ COLORS.CRYO_BLUE }
+    thumbnail:
+      url: "https://keqingmains.com/wp-content/uploads/2021/09/Character_Ganyu_Thumb-min.png"
     image: 
       url: ${INFOGRAPHICS.GANYU_MELT_2}
     footer:
@@ -17,3 +19,7 @@ buttons:
     emoji: ${ EMOJIS.LOGO }
     style: "LINK"
 
+  - label: "Before You Wish"
+    url: "https://www.youtube.com/watch?v=wr492BjbUh8"
+    emoji: ${ EMOJIS.YOUTUBE }
+    style: "LINK" 

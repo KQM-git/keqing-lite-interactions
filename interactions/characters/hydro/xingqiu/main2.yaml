@@ -2,19 +2,19 @@ embeds:
   - title: Xingqiu
     color: ${ COLORS.HYDRO_BLUE }
     image: 
-      url: ${INFOGRAPHICS.XINGQIU_1}
+      url: ${INFOGRAPHICS.XINGQIU_2}
     thumbnail:
       url: "https://keqingmains.com/wp-content/uploads/2021/09/UI_AvatarIcon_Xingqiu.png"
     description: |-
       *A young man carrying a longsword who is frequently seen at book booths. He has a chivalrous heart and yearns for justice and fairness for all.*
     footer:
-      text: "Use \"Open original\" to view full size.\n\nCredits to: ang tahimik#9252 (Designer) | Ayzel#7399, xf3#3123 (Content)"      
-      
+      text: "Use \"Open original\" to view full size.\n\nCredits to: ang tahimik#9252 (Designer) | Ayzel#7399, xf3#3123 (Content)"    
+
 buttons:
-  - customId: "liveInteraction#characters/hydro/xingqiu/main2"
-    label: "Teams Infographic"
+  - customId: "liveInteraction#characters/hydro/xingqiu/main1"
+    label: "Basics"
     style: "PRIMARY"
-    emoji: "▶️"
+    emoji: "◀️"
 
   - label: "Guide"
     url: "https://keqingmains.com/xingqiu"

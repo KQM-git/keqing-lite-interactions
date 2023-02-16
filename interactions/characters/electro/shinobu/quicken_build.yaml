@@ -2,20 +2,20 @@ embeds:
   - title: Kuki Shinobu
     color: ${ COLORS.ELECTRO_PURPLE }
     image: 
-      url: ${INFOGRAPHICS.SHINOBU_2}
+      url: ${INFOGRAPHICS.SHINOBU_QUICKEN_1}
     thumbnail:
-      url: "https://cdn.discordapp.com/attachments/974036281162080307/991179134908768358/Shinobu_New.png"
+      url: "https://keqingmains.com/wp-content/uploads/2022/08/image_2022-08-29_210552106.png"
     description: |-
       *The capable and reliable deputy leader of the "Arataki Gang." Please note: capable and reliable are not appellations for the "Arataki Gang," but for their deputy leader in specific.*
     footer:
-      text: "Use \"Open original\" to view full size.\n\nCredits to: xf3#3123 (Designer) | Akane#0926 & rockidayo#6703 (Content)"
+      text: "Use \"Open original\" to view full size.\n\nCredits to: IcedSquid#3207 (Designer) | Akane#0926 & Sew#2409 (Content)"
 
 buttons:
-  - customId: "liveInteraction#characters/electro/shinobu/main"
-    label: "Basics"
+  - customId: "liveInteraction#characters/electro/shinobu/quicken_teams"
+    label: "Teams Infographic"
     style: "PRIMARY"
-    emoji: "◀️"
-
+    emoji: "▶️"
+    
 #  - label: "Guide"
 #    url: "https://keqingmains.com/shinobu/"
 #    emoji: ${ EMOJIS.LOGO }

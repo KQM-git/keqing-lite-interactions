@@ -2,7 +2,7 @@ embeds:
   - title: Candace
     color: ${ COLORS.HYDRO_BLUE }
      image: 
-       url: ${INFOGRAPHICs.CANDACE_1}
+       url: ${INFOGRAPHICs.CANDACE_2}
     thumbnail:
       url: "https://library.keqingmains.com/img/characters/icon/Candace.png"
     description: |-
@@ -11,10 +11,14 @@ embeds:
       text: "Use \"Open original\" to view full size.\n\nCredits to: ang tahimik#9252 (Designer) | Athena#2444, idkanonymized#4166 (Content)"    
 
 
-
 buttons:
-  - customId: "liveInteraction#characters/hydro/candace/main2"
-    label: "Teams Infographic #1"
+  - customId: "liveInteraction#characters/hydro/candace/main1"
+    label: "Basics"
+    style: "PRIMARY"
+    emoji: "◀️"
+
+  - customId: "liveInteraction#characters/hydro/candace/main3"
+    label: "Teams Infographic #2"
     style: "PRIMARY"
     emoji: "▶️"
 
