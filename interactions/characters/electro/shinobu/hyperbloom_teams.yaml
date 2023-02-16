@@ -11,7 +11,7 @@ embeds:
       text: "Use \"Open original\" to view full size.\n\nCredits to: IcedSquid#3207 (Designer) | Akane#0926 & Sew#2409 (Content)"
 
 buttons:
-  - customId: "liveInteraction#characters/electro/shinobu/hyperbloom_teams"
+  - customId: "liveInteraction#characters/electro/shinobu/hyperbloom_build"
     label: "Basics"
     style: "PRIMARY"
     emoji: "◀️"

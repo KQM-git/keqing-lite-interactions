@@ -2,7 +2,7 @@ embeds:
   - title: Candace
     color: ${ COLORS.HYDRO_BLUE }
      image: 
-       url: ${INFOGRAPHICs.CANDACE_1}
+       url: ${INFOGRAPHICS.CANDACE_1}
     thumbnail:
       url: "https://library.keqingmains.com/img/characters/icon/Candace.png"
     description: |-
