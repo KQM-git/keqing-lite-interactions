@@ -31,11 +31,6 @@ buttons:
     emoji: ${ EMOJIS.MAGNIFY }
     style: "LINK"
 
-  - label: "Video Guide"
-    url: "https://www.youtube.com/watch?v=QERML_Jy1DE"
-    emoji: ${ EMOJIS.YOUTUBE }
-    style: "LINK"
-
   - label: "BYW"
     url: "https://www.youtube.com/watch?v=aX0HTSVrA44"
     emoji: ${ EMOJIS.PRIMOGEM }
