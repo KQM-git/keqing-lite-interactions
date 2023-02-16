@@ -1,5 +1,5 @@
 embeds:
-  - title: Jamberry's calculation template
+  - title: Jamberry's Calculation Template
     color: ${ COLORS.KQM_PURPLE }
     description: |-
       Jamberry's public Google Sheets calculation template. Can be used to calculate essentially anything in this game. Updated regularly; make a new copy from the original link. Ping <@292093270434250762> in KQM for help.
