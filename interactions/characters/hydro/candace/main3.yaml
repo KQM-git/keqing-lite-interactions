@@ -17,7 +17,7 @@ buttons:
     style: "PRIMARY"
     emoji: "◀️"
 
-  - customId: "liveInteraction#characters/hydro/candace/main1"
+  - customId: "liveInteraction#characters/hydro/candace/main"
     label: "Basics"
     style: "PRIMARY"
     emoji: "▶️"
