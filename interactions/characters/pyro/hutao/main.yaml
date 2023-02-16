@@ -2,15 +2,22 @@ embeds:
   - title: Hu Tao
     color: ${ COLORS.PYRO_ORANGE }
     image: 
-      url: "https://cdn.discordapp.com/attachments/953505473125052456/953505605618917416/Hu_Tao_New.png"
+      url: ${INFOGRAPHICS.HUTAO_1}
     thumbnail:
       url: "https://muakasan.github.io/genshin-portraits/assets/UI_AvatarIcon_Hutao.png"
     description: |-
       *The 77th Director of the Wangsheng Funeral Parlor. She took over the business at a rather young age.*
+    footer:
+      text: "Use \"Open original\" to view full size.\n\nCredits to: IcedSquid#3207 (Designer) | Vladone ツ#9281 (Content)"
 
 buttons:
   - label: "Guide"
     url: "https://keqingmains.com/hu-tao/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/hu-tao-quickguide/"
     emoji: ${ EMOJIS.LOGO }
     style: "LINK"
 

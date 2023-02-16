@@ -1,0 +1,32 @@
+embeds:
+  - title: Kuki Shinobu
+    color: ${ COLORS.ELECTRO_PURPLE }
+    image: 
+      url: ${INFOGRAPHICS.SHINOBU_SUPPORT_1}
+    thumbnail:
+      url: "https://keqingmains.com/wp-content/uploads/2022/08/image_2022-08-29_210552106.png"
+    description: |-
+      *The capable and reliable deputy leader of the "Arataki Gang." Please note: capable and reliable are not appellations for the "Arataki Gang," but for their deputy leader in specific.*
+    footer:
+      text: "Use \"Open original\" to view full size.\n\nCredits to: xf3#3123 (Designer) | Akane#0926 & rockidayo#6703 (Content)"
+
+buttons:
+  - customId: "liveInteraction#characters/electro/shinobu/support_teams"
+    label: "Teams Infographic"
+    style: "PRIMARY"
+    emoji: "▶️"
+    
+#  - label: "Guide"
+#    url: "https://keqingmains.com/shinobu/"
+#    emoji: ${ EMOJIS.LOGO }
+#    style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/shinobu-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "TCL"
+    url: "https://library.keqingmains.com/characters/electro/shinobu"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"

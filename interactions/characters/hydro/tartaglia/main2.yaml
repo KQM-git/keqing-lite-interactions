@@ -2,19 +2,19 @@ embeds:
   - title: Tartaglia
     color: ${ COLORS.HYDRO_BLUE }
     image: 
-      url: ${INFOGRAPHICS.TARTAGLIA_1}
+      url: ${INFOGRAPHICS.TARTAGLIA_2}
     thumbnail:
       url: "https://keqingmains.com/wp-content/uploads/2021/09/UI_AvatarIcon_Tartaglia.png"
     description: |-
       *No. 11 of The Harbingers, also known as "Childe." His name is highly feared on the battlefield.*
     footer:
       text: "Use \"Open original\" to view full size.\n\nCredits to: ang tahimik#9252 (Designer) | Mystathi#9705 (Content)"
-
+      
 buttons:
-  - customId: "liveInteraction#characters/hydro/tartaglia/main2"
-    label: "Teams Infographic"
+  - customId: "liveInteraction#characters/hydro/tartaglia/main1"
+    label: "Basics"
     style: "PRIMARY"
-    emoji: "▶️"
+    emoji: "◀️"
 
   - label: "Guide"
     url: "https://keqingmains.com/tartaglia"

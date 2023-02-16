@@ -1,21 +1,47 @@
 embeds:
   - title: Kuki Shinobu
     color: ${ COLORS.ELECTRO_PURPLE }
-    image: 
-      url: ${INFOGRAPHICS.SHINOBU_1}
     thumbnail:
-      url: "https://cdn.discordapp.com/attachments/974036281162080307/991179134908768358/Shinobu_New.png"
+      url: "https://keqingmains.com/wp-content/uploads/2022/08/image_2022-08-29_210552106.png"
     description: |-
       *The capable and reliable deputy leader of the "Arataki Gang." Please note: capable and reliable are not appellations for the "Arataki Gang," but for their deputy leader in specific.*
-    footer:
-      text: "Use \"Open original\" to view full size.\n\nCredits to: xf3#3123 (Designer) | Akane#0926 & rockidayo#6703 (Content)"
+    #footer:
+    #  text: "Use \"Open original\" to view full size.\n\nCredits to: xf3#3123 (Designer) | Akane#0926 & rockidayo#6703 (Content)"
+
+options: #dropdown
+    
+  - label: Support Kuki Build
+    value: characters/electro/shinobu/support_build
+    description: KQM's resources for Support Kuki's Build.
+    emoji: ${EMOJIS.ELEMENT_ELECTRO }
+
+  - label: Support Kuki Build
+    value: characters/electro/shinobu/support_teams
+    description: KQM's resources for Support Kuki's Teams.
+    emoji: ${EMOJIS.ELEMENT_ELECTRO }
+
+  - label: Hyperbloom Kuki Build
+    value: characters/electro/shinobu/hyperbloom_build
+    description: KQM's resources for Hyperbloom Kuki's Build.
+    emoji: ${EMOJIS.ELEMENT_DENDRO }
+
+  - label: Hyperbloom Kuki Teams
+    value: characters/electro/shinobu/hyperbloom_teams
+    description: KQM's resources for Hyperbloom Kuki's Teams.
+    emoji: ${EMOJIS.ELEMENT_DENDRO }
+    
+  - label: Quicken Kuki Build
+    value: characters/electro/shinobu/quicken_build
+    description: KQM's resources for Quicken Kuki's Build.
+    emoji: ${EMOJIS.ELEMENT_ELECTRO }
+
+  - label: Quicken Kuki Build
+    value: characters/electro/shinobu/quicken_teams
+    description: KQM's resources for Quicken Kuki's Teams.
+    emoji: ${EMOJIS.ELEMENT_ELECTRO }
 
 buttons:
-  - customId: "liveInteraction#characters/electro/shinobu/main2"
-    label: "Teams Infographic"
-    style: "PRIMARY"
-    emoji: "▶️"
-    
+
 #  - label: "Guide"
 #    url: "https://keqingmains.com/shinobu/"
 #    emoji: ${ EMOJIS.LOGO }
