@@ -1,15 +1,11 @@
 embeds:
   - title: Limited Banner History
     color: ${COLORS.KQM_PURPLE}
-    description: Limited character & weapon banners and starglitter shop history since game release in version 1.0
+    description: Limited character & weapon banners since game release in version 1.0
 
 buttons:
-  - label: "Sheet Link"
+  - label: "Wiki Link"
     style: "LINK"
-    emoji: ${EMOJIS.GOOGLE_SHEETS}
-    url: https://docs.google.com/spreadsheets/d/1MEkb0yDJJ-b1j289I337FRQEbD8IYotrJ77r1kQI-sQ
+    emoji: ${ EMOJIS.MAGNIFY }
+    url: https://genshin-impact.fandom.com/wiki/Wish/History
     
-  - label: "Reruns View"
-    style: "LINK"
-    emoji: ${EMOJIS.GOOGLE_SHEETS}
-    url: https://docs.google.com/spreadsheets/d/18Vrb3n7CuQrxihAQ6cEreZyag4RtiVWRF3Mu3Q0OhSA/edit#gid=1799110820
