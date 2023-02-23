@@ -15,7 +15,7 @@ options: #dropdown
     description: KQM's resources for Support Kuki's Build.
     emoji: ${EMOJIS.ELEMENT_ELECTRO }
 
-  - label: Support Kuki Build
+  - label: Support Kuki Teams
     value: characters/electro/shinobu/support_teams
     description: KQM's resources for Support Kuki's Teams.
     emoji: ${EMOJIS.ELEMENT_ELECTRO }
@@ -35,7 +35,7 @@ options: #dropdown
     description: KQM's resources for Quicken Kuki's Build.
     emoji: ${EMOJIS.ELEMENT_ELECTRO }
 
-  - label: Quicken Kuki Build
+  - label: Quicken Kuki Teams
     value: characters/electro/shinobu/quicken_teams
     description: KQM's resources for Quicken Kuki's Teams.
     emoji: ${EMOJIS.ELEMENT_ELECTRO }
