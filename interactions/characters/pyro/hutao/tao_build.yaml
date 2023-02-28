@@ -7,19 +7,8 @@ embeds:
       url: "https://muakasan.github.io/genshin-portraits/assets/UI_AvatarIcon_Hutao.png"
     description: |-
       *The 77th Director of the Wangsheng Funeral Parlor. She took over the business at a rather young age.*
-
-
-options: #dropdown
-    
-  - label: Hu Tao Build Infographic
-    value: characters/pyro/hutao/main_build
-    description: KQM's resources for Hu Tao Builds.
-    emoji: ${EMOJIS.ELEMENT_PYRO }
-
-  - label: Hu Tao Teams Infographic
-    value: characters/pyro/hutao/main_teams
-    description: KQM's resources for Hu Tao Teams.
-    emoji: ${EMOJIS.ELEMENT_PYRO }
+    footer:
+      text: "Use \"Open original\" to view full size.\n\nCredits to: IcedSquid#3207 (Designer) | Vladone ツ#9281 (Content)"
 
 buttons:
 
