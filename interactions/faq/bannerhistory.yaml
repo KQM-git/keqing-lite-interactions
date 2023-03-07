@@ -8,4 +8,10 @@ buttons:
     style: "LINK"
     emoji: ${ EMOJIS.MAGNIFY }
     url: https://genshin-impact.fandom.com/wiki/Wish/History
+
+    buttons:
+  - label: "Sheet Link"
+    style: "LINK"
+    emoji: ${ EMOJIS.MAGNIFY }
+    url: https://docs.google.com/spreadsheets/d/1QLE2W3Suz-UgJCLKWL7FuffZlP5a7QUy/edit#gid=1966976105
     
