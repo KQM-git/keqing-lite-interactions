@@ -15,6 +15,11 @@ options:
     description: KQM's resources on Bennett!
     emoji: "<:Bennett:953426422289018881>"
 
+  - label: Dehya
+    value: characters/pyro/dehya/main
+    description: KQM's resources on Dehya
+    emoji: "<:Dehya:1087477435769045112>"
+
   - label: Diluc
     value: characters/pyro/diluc/main
     description: KQM's resources on Diluc!

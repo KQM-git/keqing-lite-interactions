@@ -1,0 +1,27 @@
+embeds:
+  - title: Dehya
+    color: ${ COLORS.PYRO_ORANGE }
+#    image: 
+#      url:
+    thumbnail:
+      url: "https://library.keqingmains.com/img/characters/icon/Dehya.png"
+    description: |-
+      *A member of the Eremites, a mercenary organization that roams the sands of Sumeru. Valiant and powerful, she enjoys great fame amongst her fellow Eremites.*
+      
+      :construction: ***─ Infographic WIP ─*** :construction:
+
+buttons:
+#  - label: "Guide"
+#    url: "https://keqingmains.com/dehya/"
+#    emoji: ${ EMOJIS.LOGO }
+#    style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/dehya-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "TCL"
+    url: "https://library.keqingmains.com/characters/pyro/dehya"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"
