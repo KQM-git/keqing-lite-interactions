@@ -1,0 +1,4 @@
+interaction: characters/pyro/dehya/main
+description: "Opens KQM's resources on Dehya"
+match: ${ TRIGGER_PREFIX }dehya(?:\s|$)
+ignoreCase: true
