@@ -11,3 +11,8 @@ buttons:
     url: "https://keqingmains.com/mona/"
     emoji: ${ EMOJIS.LOGO }
     style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/mona-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"

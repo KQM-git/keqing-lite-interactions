@@ -14,6 +14,11 @@ buttons:
   #   emoji: ${ EMOJIS.LOGO }
   #   style: "LINK"
 
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/dori-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
   - label: "TCL"
     url: "https://library.keqingmains.com/dori"
     emoji: ${ EMOJIS.MAGNIFY }
