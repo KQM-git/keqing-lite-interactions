@@ -12,35 +12,35 @@ embeds:
 options: 
   - label: Anemo
     value: characters/anemo/anemo_index
-    description: Guides for Anemo vision holders
+    description: Guides for Anemo characters
     emoji: ${ EMOJIS.ELEMENT_ANEMO }
 
   - label: Cryo
     value: characters/cryo/cryo_index
-    description: Guides for Cryo vision holders
+    description: Guides for Cryo characters
     emoji: ${ EMOJIS.ELEMENT_CRYO }
 
   - label: Dendro
     value: characters/dendro/dendro_index
-    description: Guides for Dendro vision holders
+    description: Guides for Dendro characters
     emoji: ${ EMOJIS.ELEMENT_DENRO }
 
   - label: Electro
     value: characters/electro/electro_index
-    description: Guides for Electro vision holders
+    description: Guides for Electro characters
     emoji: ${ EMOJIS.ELEMENT_ELECTRO }
 
   - label: Geo
     value: characters/geo/geo_index
-    description: Guides for Geo vision holders
+    description: Guides for Geo characters
     emoji: ${ EMOJIS.ELEMENT_GEO }
 
   - label: Hydro
     value: characters/hydro/hydro_index
-    description: Guides for Hydro vision holders
+    description: Guides for Hydro characters
     emoji: ${ EMOJIS.ELEMENT_HYDRO }
 
   - label: Pyro
     value: characters/pyro/pyro_index
-    description: Guides for Pyro vision holders
+    description: Guides for Pyro characters
     emoji: ${ EMOJIS.ELEMENT_PYRO }

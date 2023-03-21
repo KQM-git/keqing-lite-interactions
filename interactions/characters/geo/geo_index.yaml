@@ -8,39 +8,39 @@ options:
   - label: Albedo
     value: characters/geo/albedo/main
     description: KQM's resources on Albedo!
-    emoji: "<:Albedo:953426422045745193>"
+    emoji: ${ EMOJIS.CHARACTER_ALBEDO }
 
   - label: Geo Traveler
     value: characters/geo/geotraveler/main
     description: KQM's resources on the Geo Main Character!
-    emoji: "<:Traveler:953430875788443709>"
+    emoji: ${ EMOJIS.CHARACTER_TRAVELER }
 
   - label: Gorou
     value: characters/geo/gorou/main
     description: KQM's resources on Gorou!
-    emoji: "<:Gorou:953426426974048276>"
+    emoji: ${ EMOJIS.CHARACTER_GOROU }
 
   - label: Itto
     value: characters/geo/itto/main
     description: KQM's resources on Itto!
-    emoji: "<:Itto:953426426948882502> "
+    emoji: ${ EMOJIS.CHARACTER_ITTO }
 
   - label: Ningguang
     value: characters/geo/ningguang/main
     description: KQM's resources on Ningguang!
-    emoji: "<:Ningguang:953426426370097182>"
+    emoji: ${ EMOJIS.CHARACTER_NINGGUANG }
 
   - label: Noelle
     value: characters/geo/noelle/main
     description: KQM's resources on Noelle!
-    emoji: "<:Noelle:953426427062124554>"
+    emoji: ${ EMOJIS.CHARACTER_NOELLE }
 
   - label: Yunjin
     value: characters/geo/yunjin/main
     description: KQM's resources on Yunjin!
-    emoji: "<:Yunjin:953426425795448842>"
+    emoji: ${ EMOJIS.CHARACTER_YUNJIN }
  
   - label: Zhongli
     value: characters/geo/zhongli/main
     description: KQM's resources on Zhongli!
-    emoji: "<:Zhongli:953426425933864960>"
+    emoji: ${ EMOJIS.CHARACTER_ZHONGLI }

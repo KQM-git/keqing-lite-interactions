@@ -8,54 +8,54 @@ options:
   - label: Aloy
     value: characters/cryo/aloy/main
     description: KQM's resources on Aloy!
-    emoji: "<:Aloy:953426422494527539>"
+    emoji: ${ EMOJIS.CHARACTER_ALOY }
 
   - label: Ayaka
     value: characters/cryo/ayaka/main
     description: KQM's resources on Ayaka!
-    emoji: "<:Ayaka:953426419285897226>"
+    emoji: ${ EMOJIS.CHARACTER_AYAKA }
 
   - label: Chongyun
     value: characters/cryo/chongyun/main
     description: KQM's resources on Chongyun!
-    emoji: "<:Chongyun:953426423366955018>"
+    emoji: ${ EMOJIS.CHARACTER_CHONGYUN }
 
   - label: Diona
     value: characters/cryo/diona/main
     description: KQM's resources on Diona!
-    emoji: "<:Diona:953426425984192613>"
+    emoji: ${ EMOJIS.CHARACTER_DIONA }
 
   - label: Eula
     value: characters/cryo/eula/main
     description: KQM's resources on Eula!
-    emoji: "<:Eula:953426426651111476>"
+    emoji: ${ EMOJIS.CHARACTER_EULA }
 
   - label: Ganyu
     value: characters/cryo/ganyu/main
     description: KQM's resources on Ganyu!
-    emoji: "<:ZSK:953426426844049478>"
+    emoji: ${ EMOJIS.CHARACTER_GANYU }
  
   - label: Kaeya
     value: characters/cryo/kaeya/main
     description: KQM's resources on Kaeya!
-    emoji: "<:Kaeya:953426424415543316>"
+    emoji: ${ EMOJIS.CHARACTER_KAEYA }
 
   - label: Layla
     value: characters/cryo/layla/main
     description: KQM's resources on Layla!
-    emoji: "<:Layla:1047260290229731420>"
+    emoji: ${ EMOJIS.CHARACTER_LAYLA }
 
   - label: Qiqi
     value: characters/cryo/qiqi/main
     description: KQM's resources on Qiqi!
-    emoji: "<:Qiqi:953426426198097991>"
+    emoji: ${ EMOJIS.CHARACTER_QIQI }
  
   - label: Rosaria
     value: characters/cryo/rosaria/main
     description: KQM's resources on Rosaria!
-    emoji: "<:Rosaria:953426426449788958>"
+    emoji: ${ EMOJIS.CHARACTER_ROSARIA }
 
   - label: Shenhe
     value: characters/cryo/shenhe/main
     description: KQM's resources on Shenhe!
-    emoji: "<:Shenhe:953426426504294450>"
+    emoji: ${ EMOJIS.CHARACTER_SHENHE }

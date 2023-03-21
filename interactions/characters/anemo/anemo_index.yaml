@@ -8,49 +8,49 @@ options:
   - label: Anemo Traveler
     value: characters/anemo/anemotraveler/main
     description: KQM's resources on the Anemo Main Character!
-    emoji: "<:Traveler:953430875788443709>"
+    emoji: ${ EMOJIS.CHARACTER_TRAVELER }
 
   - label: Faruzan
     value: characters/anemo/faruzan/main
     description: KQM's resources on Faruzan!
-    emoji: "<:Faruzan:1050444217522061374>"
+    emoji: ${ EMOJIS.CHARACTER_FARUZAN }
 
   - label: Heizou
     value: characters/anemo/heizou/main
     description: KQM's resources on Heizou!
-    emoji: "<:Heizou:998082439287160854>"
+    emoji: ${ EMOJIS.CHARACTER_HEIZOU }
 
   - label: Jean
     value: characters/anemo/jean/main
     description: KQM's resources on Jean!
-    emoji: "<:Jean:953426424109363262>"
+    emoji: ${ EMOJIS.CHARACTER_JEAN }
 
   - label: Kazuha
     value: characters/anemo/kazuha/main
     description: KQM's resources on Kazuha!
-    emoji: "<:Kazuha:953426424444899420>"
+    emoji: ${ EMOJIS.CHARACTER_KAZUHA }
 
   - label: Sayu
     value: characters/anemo/sayu/main
     description: KQM's resources on Sayu!
-    emoji: "<:Sayu:953426426558808125>"
+    emoji: ${ EMOJIS.CHARACTER_SAYU }
 
   - label: Sucrose
     value: characters/anemo/sucrose/main
     description: KQM's resources on Sucrose!
-    emoji: "<:Sucrose:953426427066347580>"
+    emoji: ${ EMOJIS.CHARACTER_SUCROSE }
 
   - label: Venti
     value: characters/anemo/venti/main
     description: KQM's resources on Venti!
-    emoji: "<:Venti:953426426651111475>"
+    emoji: ${ EMOJIS.CHARACTER_VENTI }
 
   - label: Wanderer
     value: characters/anemo/wanderer/main
     description: KQM's resources on the Wanderer!
-    emoji: "<:Wanderer:1050444214829330472>"
+    emoji: ${ EMOJIS.CHARACTER_WANDERER }
 
   - label: Xiao
     value: characters/anemo/xiao/main
     description: KQM's resources on Xiao!
-    emoji: "<:Xiao:953426426701434900>"
+    emoji: $ EMOJIS.CHARACTER_XIAO }

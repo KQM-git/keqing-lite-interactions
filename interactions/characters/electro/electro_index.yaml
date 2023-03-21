@@ -8,54 +8,54 @@ options:
   - label: Beidou
     value: characters/electro/beidou/main
     description: KQM's resources on Beidou!
-    emoji: "<:Beidou:953426424797200425>"
+    emoji: ${ EMOJIS.CHARACTER_BEIDOU }
 
   - label: Cyno
     value: characters/electro/cyno/main
     description: KQM's resources on Cyno!
-    emoji: "<:Cyno:1042129146626703470>"
+    emoji: ${ EMOJIS.CHARACTER_CYNO }
 
   - label: Electro Traveler
     value: characters/electro/electrotraveler/main
     description: KQM's resources on the Electro Main Character!
-    emoji: "<:Traveler:953430875788443709>"
+    emoji: "${ EMOJIS.CHARACTER_TRAVELER }"
 
   - label: Fischl
     value: characters/electro/fischl/main
     description: KQM's resources on Fischl!
-    emoji: "<:Fischl:953426425959034920>"
+    emoji: ${ EMOJIS.CHARACTER_FISCHL }
 
   - label: Keqing
     value: characters/electro/keqing/main
     description: KQM's resources on Keqing!
-    emoji: "<:Keqing:953426426206498816>"
+    emoji: ${ EMOJIS.CHARACTER_KEQING }
 
   - label: Lisa
     value: characters/electro/lisa/main
     description: KQM's resources on Lisa!
-    emoji: "<:Lisa:953426426995048468>"
+    emoji: ${ EMOJIS.CHARACTER_LISA }
 
   - label: Raiden
     value: characters/electro/raiden/main
     description: KQM's resources on Raiden!
-    emoji: "<:Shogun:953426427003412520>"
+    emoji: ${ EMOJIS.CHARACTER_RAIDEN }
 
   - label: Razor
     value: characters/electro/razor/main
     description: KQM's resources on Razor!
-    emoji: "<:Razor:953426425095024730>"
+    emoji: ${ EMOJIS.CHARACTER_RAZOR }
 
   - label: Sara
     value: characters/electro/sara/main
     description: KQM's resources on Sara!
-    emoji: "<:Sara:953426425157931098>"
+    emoji: ${ EMOJIS.CHARACTER_SARA }
 
   - label: Kuki Shinobu
     value: characters/electro/shinobu/main
     description: KQM's resources on Kuki Shinobu!
-    emoji: "<:Shinobu:991184311841738804>"
+    emoji: ${ EMOJIS.CHARACTER_SHINOBU }
 
   - label: Yae
     value: characters/electro/yae/main
     description: KQM's resources on Yae Miko!
-    emoji: "<:Yae:953448235467415653>"
+    emoji: ${ EMOJIS.CHARACTER_YAE }

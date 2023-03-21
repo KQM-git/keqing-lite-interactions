@@ -8,19 +8,19 @@ options:
   - label: Collei
     value: characters/dendro/collei/main
     description: KQM's resources on Collei!
-    emoji: "<:Collei:1012148992068558898>"
+    emoji: ${ EMOJIS.CHARACTER_COLLEI }
 
   - label: Nahida
     value: characters/dendro/nahida/main
     description: KQM's resources on Nahida!
-    emoji: "<:Nahida:1041944645061574676>"
+    emoji: ${ EMOJIS.CHARACTER_NAHIDA }
 
   - label: Tighnari
     value: characters/dendro/tighnari/main
     description: KQM's resources on Tighnari!
-    emoji: "<:Tighnari:1012148990374056047>"
+    emoji: ${ EMOJIS.CHARACTER_TIGHNARI }
 
   - label: Dendro Traveler
     value: characters/dendro/dendrotraveler/main
     description: KQM's resources on the Dendro Traveler!
-    emoji: "<:Lumine:1012148989333876839>"
+    emoji: ${ EMOJIS.CHARACTER_TRAVELER }
