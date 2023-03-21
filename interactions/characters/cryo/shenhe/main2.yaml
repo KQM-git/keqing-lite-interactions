@@ -2,7 +2,7 @@ embeds:
   - title: Shenhe
     color: ${ COLORS.CRYO_BLUE }
     image: 
-      url: ${INFOGRAPHICS.SHENHE_1}
+      url: ${INFOGRAPHICS.SHENHE_2}
     thumbnail:
       url: "https://github.com/muakasan/genshin-portraits/blob/main/assets/UI_AvatarIcon_Shenhe.png?raw=true"
     description: |-
@@ -10,9 +10,9 @@ embeds:
 
 buttons:
   - customId: "liveInteraction#characters/cryo/shenhe/main2"
-    label: "Teams Infographic"
+    label: "Basics"
     style: "PRIMARY"
-    emoji: "▶️"
+    emoji: "◀️"
 
   - label: "Guide"
     url: "https://keqingmains.com/shenhe/"
