@@ -1,22 +1,14 @@
 embeds:
-  - title: Shenhe
-    color: ${ COLORS.CRYO_BLUE }
+  - title: Xiao
+    color: ${COLORS.CRYO_BLUE}
+    image: 
+      url: ${INFOGRAPHICS.SHENHE_1}
     thumbnail:
-      url: "https://muakasan.github.io/genshin-portraits/assets/UI_AvatarIcon_Hutao.png"
+      url: "https://muakasan.github.io/genshin-portraits/assets/UI_AvatarIcon_Shenhe.png"
     description: |-
-      *An adepti disciple with a most unusual air about her. Having spent much time cultivating in isolation in Liyue's mountains, she has become every bit as cool and distant as the adepti themselves.*
-
-options: #dropdown
-    
-  - label: Shenhe Build Infographic
-    value: characters/cryo/shenhe/shenhe_build
-    description: KQM's resources for Shenhe Builds.
-    emoji: ${EMOJIS.ELEMENT_CRYO }
-
-  - label: Shenhe Teams Infographic
-    value: characters/cryo/shenhe/shenhe_teams
-    description: KQM's resources for Shenhe Teams.
-    emoji: ${EMOJIS.ELEMENT_CRYO }
+      *An adepti disciple with a most unusual air about her. Having spent much time cultivating in isolation in Liyue's mountains, she has become every bit as cool and distant as the adepti themselves."*
+    footer:
+      text: "Use \"Open original\" to view full size.\n\nCredits to: euphorysm#1618 (Designer) | Vladone ツ#9281, revy#4377 (Content)"
 
 buttons:
   - customId: "liveInteraction#characters/cryo/shenhe/main2"
@@ -24,7 +16,7 @@ buttons:
     style: "PRIMARY"
     emoji: "▶️"
 
-  - label: "Guide"
+   - label: "Guide"
     url: "https://keqingmains.com/shenhe/"
     emoji: ${ EMOJIS.LOGO }
     style: "LINK"
@@ -38,11 +30,6 @@ buttons:
     url: "https://library.keqingmains.com/characters/cryo/shenhe"
     emoji: ${ EMOJIS.MAGNIFY }
     style: "LINK"
-
-#  - label: "Video Guide"
-#    url: "https://www.youtube.com/watch?v=AWlLidtFiDw"
-#    emoji: ${ EMOJIS.YOUTUBE }
-#    style: "LINK"
 
   - label: "Before You Wish"
     url: "https://youtu.be/MAgtxKcu4g0"
