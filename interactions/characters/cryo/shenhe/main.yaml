@@ -2,7 +2,7 @@ embeds:
   - title: Shenhe
     color: ${ COLORS.CRYO_BLUE }
     thumbnail:
-      url: "https://muakasan.github.io/genshin-portraits/assets/UI_AvatarIcon_Hutao.png"
+      url: "https://github.com/muakasan/genshin-portraits/blob/main/assets/UI_AvatarIcon_Shenhe.png?raw=true"
     description: |-
       *An adepti disciple with a most unusual air about her. Having spent much time cultivating in isolation in Liyue's mountains, she has become every bit as cool and distant as the adepti themselves.*
 
