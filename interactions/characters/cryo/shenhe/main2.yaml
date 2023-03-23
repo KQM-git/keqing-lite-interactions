@@ -1,16 +1,20 @@
 embeds:
-  - title: Shenhe
-    color: ${ COLORS.CRYO_BLUE }
+  - title: Xiao
+    color: ${COLORS.CRYO_BLUE}
     image: 
-      url: ${INFOGRAPHICS.SHENHE_1}
+      url: ${INFOGRAPHICS.SHENHE_2}
     thumbnail:
-      url: "https://github.com/muakasan/genshin-portraits/blob/main/assets/UI_AvatarIcon_Shenhe.png?raw=true"
+      url: "https://muakasan.github.io/genshin-portraits/assets/UI_AvatarIcon_Shenhe.png"
     description: |-
-      An adepti disciple with a most unusual air about her. Having spent much time cultivating in isolation in Liyue's mountains, she has become every bit as cool and distant as the adepti themselves.
+      *An adepti disciple with a most unusual air about her. Having spent much time cultivating in isolation in Liyue's mountains, she has become every bit as cool and distant as the adepti themselves."*
     footer:
       text: "Use \"Open original\" to view full size.\n\nCredits to: euphorysm#1618 (Designer) | Vladone ツ#9281, revy#4377 (Content)"
 
 buttons:
+  - customId: "liveInteraction#characters/cryo/shenhe/main"
+    label: "Basics"
+    style: "PRIMARY"
+    emoji: "◀️"
 
   - label: "Guide"
     url: "https://keqingmains.com/shenhe/"
@@ -26,11 +30,6 @@ buttons:
     url: "https://library.keqingmains.com/characters/cryo/shenhe"
     emoji: ${ EMOJIS.MAGNIFY }
     style: "LINK"
-
-#  - label: "Video Guide"
-#    url: "https://www.youtube.com/watch?v=AWlLidtFiDw"
-#    emoji: ${ EMOJIS.YOUTUBE }
-#    style: "LINK"
 
   - label: "Before You Wish"
     url: "https://youtu.be/MAgtxKcu4g0"
