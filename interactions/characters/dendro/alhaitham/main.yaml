@@ -22,6 +22,11 @@ buttons:
     emoji: ${ EMOJIS.LOGO }
     style: "LINK"
 
+  - label: "Video Guide"
+    url: "https://www.youtube.com/watch?v=5D9mvHlYmqw"
+    emoji: ${ EMOJIS.YOUTUBE }
+    style: "LINK"
+
   #- label: "TCL"
   #  url: "https://library.keqingmains.com/characters/dendro/alhaitham"
   #  emoji: ${ EMOJIS.MAGNIFY }
