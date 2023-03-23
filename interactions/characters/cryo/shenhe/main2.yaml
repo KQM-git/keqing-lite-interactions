@@ -1,5 +1,5 @@
 embeds:
-  - title: Xiao
+  - title: Shenhe
     color: ${COLORS.CRYO_BLUE}
     image: 
       url: ${INFOGRAPHICS.SHENHE_2}
