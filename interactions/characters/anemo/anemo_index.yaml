@@ -53,4 +53,4 @@ options:
   - label: Xiao
     value: characters/anemo/xiao/main
     description: KQM's resources on Xiao!
-    emoji: $ EMOJIS.CHARACTER_XIAO }
+    emoji: ${ EMOJIS.CHARACTER_XIAO }
