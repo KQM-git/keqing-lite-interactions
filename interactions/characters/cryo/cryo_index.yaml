@@ -45,6 +45,11 @@ options:
     description: KQM's resources on Layla!
     emoji: ${ EMOJIS.CHARACTER_LAYLA }
 
+  - label: Mika
+    value: characters/cryo/mika/main
+    description: KQM's resources on Mika!
+    emoji: ${ EMOJIS.CHARACTER_MIKA }
+
   - label: Qiqi
     value: characters/cryo/qiqi/main
     description: KQM's resources on Qiqi!

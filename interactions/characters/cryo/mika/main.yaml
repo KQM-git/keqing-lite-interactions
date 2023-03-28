@@ -1,0 +1,30 @@
+embeds:
+  - title: Mika 
+    color: ${ COLORS.CRYO_BLUE }
+    # image: 
+    #  url: insert infographic
+    thumbnail:
+      url: "https://library.keqingmains.com/img/characters/icon/Mika.png"
+    description: |-
+      *A young knight born to an ordinary family. He serves as a Front-Line Surveyor in his Company. He is a low-key and cautious character.*
+
+buttons:
+  # - label: "Guide"
+  #  url: "https://keqingmains.com/mika/"
+  #  emoji: ${ EMOJIS.LOGO }
+  #  style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/mika-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "TCL"
+    url: "https://library.keqingmains.com/characters/cryo/mika"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"
+
+  # - label: "Video Guide"
+  #  url: 
+  #  emoji: ${ EMOJIS.YOUTUBE }
+  #  style: "LINK"

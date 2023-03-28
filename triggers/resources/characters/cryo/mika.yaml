@@ -1,0 +1,4 @@
+interaction: characters/cryo/mika/main
+description: "Opens KQM's resources on Mika"
+match: ${ TRIGGER_PREFIX }mika(?:\s|$)
+ignoreCase: true
