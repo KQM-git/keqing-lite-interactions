@@ -9,19 +9,24 @@ embeds:
       Here are all of KQM's resources on how to build and play Aloy. Please select your desired build below. Enjoy!  
 
 options: #dropdown
-  - label: Freeze
-    value: characters/cryo/aloy/freeze
-    description: KQM's resources for Freeze Aloy.
-    emoji: ":frozen:947715728528773180"
-    
-  - label: Quickswap
-    value: characters/cryo/aloy/quickswap
-    description: KQM's resources for Quickswap Aloy.
+  - label: Support
+    value: characters/cryo/aloy/support_build
+    description: KQM's resources for Cryo Support Aloy.
     emoji: ${ EMOJIS.ELEMENT_CRYO }
+    
+  - label: Melt
+    value: characters/cryo/aloy/melt_build
+    description: KQM's resources for Melt Aloy.
+    emoji: "<:melt:947715728683991120>"
 
 buttons:
   - label: "Guide"
     url: "https://keqingmains.com/aloy/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/aloy-quickguide/"
     emoji: ${ EMOJIS.LOGO }
     style: "LINK"
 

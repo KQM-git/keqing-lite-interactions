@@ -1,0 +1,23 @@
+embeds:
+  - title: Melt Aloy Teams
+    color: ${ COLORS.CRYO_BLUE }
+    image: 
+      url: ${ INFOGRAPHICS.ALOY_2 }
+    thumbnail:
+      url: "https://github.com/muakasan/genshin-portraits/blob/main/assets/UI_AvatarIcon_Aloy.png?raw=true"
+
+buttons:
+  - customId: "liveInteraction#characters/cryo/aloy/melt_build"
+    label: "Basics"
+    style: "PRIMARY"
+    emoji: "◀️"
+
+  - label: "Guide"
+    url: "https://keqingmains.com/aloy/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/aloy-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
