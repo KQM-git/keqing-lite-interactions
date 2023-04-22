@@ -1,7 +1,8 @@
 embeds:
   - color: ${COLORS.ELECTRO_PURPLE}
-    description: |-
-      <${EMOJIS.ELEMENT_ELECTRO}> Select a character!
+    author:
+      name: Select a character!
+      icon_url: https://library.keqingmains.com/img/elements/electro.png
 
 # Additional links that should be displayed in the initial message.
 options: 
