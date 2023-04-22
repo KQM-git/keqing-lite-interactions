@@ -2,7 +2,7 @@ embeds:
   - title: Hu Tao
     color: ${ COLORS.PYRO_ORANGE }
     image: 
-      url: ${INFOGRAPHICS.HUTAO_1}
+      url: ${ INFOGRAPHICS.HUTAO_2 }
     thumbnail:
       url: "https://muakasan.github.io/genshin-portraits/assets/UI_AvatarIcon_Hutao.png"
     description: |-
