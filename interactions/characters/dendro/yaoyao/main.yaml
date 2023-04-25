@@ -16,10 +16,10 @@ buttons:
     style: "PRIMARY"
     emoji: "▶️"
 
-#  - label: "Guide"
-#    url: "https://keqingmains.com/yaoyao/"
-#    emoji: ${ EMOJIS.LOGO }
-#    style: "LINK"
+  #  - label: "Guide"
+  #    url: "https://keqingmains.com/yaoyao/"
+  #    emoji: ${ EMOJIS.LOGO }
+  #    style: "LINK"
 
   - label: "Quick Guide"
     url: "https://keqingmains.com/q/yaoyao-quickguide/"
@@ -29,4 +29,4 @@ buttons:
   - label: "TCL"
     url: "https://library.keqingmains.com/characters/dendro/yaoyao"
     emoji: ${ EMOJIS.MAGNIFY }
-#  style: "LINK"
+    style: "LINK"

@@ -23,7 +23,7 @@ options:
   - label: Dendro
     value: characters/dendro/dendro_index
     description: Guides for Dendro characters
-    emoji: ${ EMOJIS.ELEMENT_DENRO }
+    emoji: ${ EMOJIS.ELEMENT_DENDRO }
 
   - label: Electro
     value: characters/electro/electro_index
