@@ -10,7 +10,6 @@ ROLES:
   PILLAR_HEAD: "820962449268277269"
   PILLAR_VICE_HEAD: "822707646393745409"
   PILLAR_STAFF: "953164120952283206"
-  THE_TRADES: "819165586889506868"
   # General
   VERIFIED: "763583891440533524"    # Kitten
 
@@ -54,6 +53,8 @@ INFOGRAPHICS:
   KAZUHA_1: "https://keqingmains.com/wp-content/uploads/2022/10/Kazuha_1.png"
   KAZUHA_2: "https://keqingmains.com/wp-content/uploads/2022/10/Kazuha_2.png"
   KOKOMI_1: "https://keqingmains.com/wp-content/uploads/2022/10/Kokomi_New.png"
+  LAYLA_1: "https://keqingmains.com/wp-content/uploads/2023/04/Layla_Build.png"
+  LAYLA_2: "https://keqingmains.com/wp-content/uploads/2023/04/Layla_Teams.png"
   NAHIDA_1: "https://keqingmains.com/wp-content/uploads/2022/11/Nahida-Infographic-Main-min.png"
   NILOU_1: "https://keqingmains.com/wp-content/uploads/2022/11/Nilou-Infographic-Main-min.png"
   RAIDEN_1: "https://keqingmains.com/wp-content/uploads/2022/11/Raiden-Infographic-Main-min.png"
@@ -81,7 +82,9 @@ INFOGRAPHICS:
   XINGQIU_1 : "https://keqingmains.com/wp-content/uploads/2023/02/XQ.png"
   XINGQIU_2 : "https://keqingmains.com/wp-content/uploads/2023/02/XQ2.png"
   XINYAN_1: "https://keqingmains.com/wp-content/uploads/2023/02/Xinyansdfvs.png"
-  YAE_1: "https://keqingmains.com/wp-content/uploads/2022/11/Yae_Build-min.png"
+  YAE_1: "https://keqingmains.com/wp-content/uploads/2022/11/Yae-1.png"
+  YAOYAO_1: "https://keqingmains.com/wp-content/uploads/2023/04/Yaoyao_1.png"
+  YAOYAO_2: "https://keqingmains.com/wp-content/uploads/2023/04/Yaoyao_2.png"
   YELAN_1: "https://keqingmains.com/wp-content/uploads/2022/07/Yelan-1.png"
   YELAN_2: "https://keqingmains.com/wp-content/uploads/2022/07/Yelan-2.png"
   YOIMIYA_1: "https://keqingmains.com/wp-content/uploads/2022/08/Yoimiya-1-min.png"
@@ -94,7 +97,7 @@ INFOGRAPHICS:
   DENDRO_4: "https://keqingmains.com/wp-content/uploads/2023/02/Bloom-based_reactions_infographic-min.png" # bloom dmg
   DENDRO_5: "https://keqingmains.com/wp-content/uploads/2023/02/Sread_and_Aggravate_Formula_WIP-min.png" # catalyze dmg
   MATERIALS_1: "https://keqingmains.com/wp-content/uploads/2023/02/Resource_Materials_KQM-min.png"
-  PITY_1: "https://keqingmains.com/wp-content/uploads/2022/12/Genshin_Pity_-min.png"
+  PITY_1: "https://keqingmains.com/wp-content/uploads/2023/04/Genshin_Pity.png"
   WOOD_1: "https://keqingmains.com/wp-content/uploads/2023/01/mondstadt-wood-route.png"
   WOOD_2: "https://keqingmains.com/wp-content/uploads/2023/01/liyue-wood-route.png"
   WOOD_3: "https://keqingmains.com/wp-content/uploads/2023/01/inazuma-wood-route.png"

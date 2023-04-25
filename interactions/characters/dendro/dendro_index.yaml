@@ -1,10 +1,16 @@
 embeds:
   - color: ${COLORS.DENDRO_GREEN}
-    description: |-
-      <${EMOJIS.ELEMENT_DENDRO}> Select a character!
+    author:
+      name: Select a character!
+      icon_url: https://library.keqingmains.com/img/elements/dendro.png
 
 # Additional links that should be displayed in the initial message.
 options: 
+  - label: Alhaitham
+    value: characters/dendro/alhaitham/main
+    description: KQM's resources on Alhaitham!
+    emoji: ${ EMOJIS.CHARACTER_ALHAITHAM }
+
   - label: Collei
     value: characters/dendro/collei/main
     description: KQM's resources on Collei!
@@ -24,3 +30,8 @@ options:
     value: characters/dendro/dendrotraveler/main
     description: KQM's resources on the Dendro Traveler!
     emoji: ${ EMOJIS.CHARACTER_TRAVELER }
+
+  - label: Yaoyao
+    value: characters/dendro/yaoyao/main
+    description: KQM's resources on the Yaoyao!
+    emoji: ${ EMOJIS.CHARACTER_YAOYAO }

@@ -2,7 +2,7 @@ embeds:
   - title: Yaoyao
     color: ${ COLORS.DENDRO_GREEN }
     image: 
-      url: ${ INFOGRAPHICS.YAOYAO_1 }
+      url: ${ INFOGRAPHICS.YAOYAO_2 }
     thumbnail:
       url: "https://keqingmains.com/wp-content/uploads/2023/01/Yaoyao.png"
     description: |-
@@ -11,15 +11,15 @@ embeds:
       text: "Use \"Open original\" to view full size.\n\nCredits to: IcedSquid#3207 (Designer) cote#4733 & Seima#4597 (Content)"
 
 buttons:
-  - customId: "liveInteraction#characters/dendro/yaoyao/main2"
-    label: "Teams Infographic"
+  - customId: "liveInteraction#characters/dendro/yaoyao/main"
+    label: "Basics"
     style: "PRIMARY"
-    emoji: "▶️"
+    emoji: "◀️"
 
-  #  - label: "Guide"
-  #    url: "https://keqingmains.com/yaoyao/"
-  #    emoji: ${ EMOJIS.LOGO }
-  #    style: "LINK"
+#  - label: "Guide"
+#    url: "https://keqingmains.com/yaoyao/"
+#    emoji: ${ EMOJIS.LOGO }
+#    style: "LINK"
 
   - label: "Quick Guide"
     url: "https://keqingmains.com/q/yaoyao-quickguide/"
