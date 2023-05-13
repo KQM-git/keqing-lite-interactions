@@ -16,7 +16,7 @@ buttons:
     style: "PRIMARY"
     emoji: "◀️"
 
-   - label: "Guide"
+  - label: "Guide"
     url: "https://keqingmains.com/layla/"
     emoji: ${ EMOJIS.LOGO }
     style: "LINK"
