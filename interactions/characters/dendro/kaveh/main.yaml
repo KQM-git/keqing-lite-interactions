@@ -1,0 +1,27 @@
+embeds:
+  - title: Kaveh
+    color: ${COLORS.DENDRO_GREEN}
+#    image: 
+#      url: ${INFOGRAPHICS.KAVEH_1}
+    thumbnail:
+      url: "https://library.keqingmains.com/img/characters/icon/Kaveh.png"
+    description: |-
+      *A renowned architect from Sumeru who perhaps cares a bit too much about too many things. He is an aesthete troubled by reality.*
+      
+      :construction: ***─ Infographic WIP ─*** :construction:
+
+buttons:
+#  - label: "Guide"
+#    url: "https://keqingmains.com/kaveh"
+#    emoji: ${ EMOJIS.LOGO }
+#    style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/kaveh-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "TCL"
+    url: "https://library.keqingmains.com/kaveh"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"

@@ -16,10 +16,10 @@ buttons:
     style: "PRIMARY"
     emoji: "◀️"
 
-  # - label: "Guide"
-  #  url: "https://keqingmains.com/layla/"
-  #  emoji: ${ EMOJIS.LOGO }
-  #  style: "LINK"
+   - label: "Guide"
+    url: "https://keqingmains.com/layla/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
 
   - label: "Quick Guide"
     url: "https://keqingmains.com/q/layla-quickguide/"
