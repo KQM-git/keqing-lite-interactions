@@ -1,0 +1,4 @@
+interaction: characters/dendro/baizhu/main
+description: "Opens KQM's resources on Baizhu"
+match: ${ TRIGGER_PREFIX }baizhu(?:\s|$)
+ignoreCase: true
