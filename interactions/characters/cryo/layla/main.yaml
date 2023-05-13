@@ -2,7 +2,7 @@ embeds:
   - title: Layla
     color: ${ COLORS.CRYO_BLUE }
     image: 
-      url: ${ INFOGRAPHICS.LAYLA_2 }
+      url: ${ INFOGRAPHICS.LAYLA_1 }
     thumbnail:
       url: "https://keqingmains.com/wp-content/uploads/2022/10/layla_074_icon-min.png"
     description: |-
@@ -16,10 +16,10 @@ buttons:
     style: "PRIMARY"
     emoji: "▶️"
 
-  # - label: "Guide"
-  #  url: "https://keqingmains.com/layla/"
-  #  emoji: ${ EMOJIS.LOGO }
-  #  style: "LINK"
+   - label: "Guide"
+    url: "https://keqingmains.com/layla/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
 
   - label: "Quick Guide"
     url: "https://keqingmains.com/q/layla-quickguide/"
