@@ -2,3 +2,4 @@ interaction: characters/dendro/kaveh/main
 description: "Opens KQM's resources on Kaveh"
 match: ${ TRIGGER_PREFIX }kaveh(?:\s|$)
 ignoreCase: true
+
