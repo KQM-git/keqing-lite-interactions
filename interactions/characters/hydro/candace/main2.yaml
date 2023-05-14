@@ -23,9 +23,9 @@ buttons:
     emoji: "▶️"
 
   - label: "Guide"
-     url: "https://keqingmains.com/candace/"
-     emoji: ${ EMOJIS.LOGO }
-     style: "LINK"
+    url: "https://keqingmains.com/candace/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
 
   - label: "Quick Guide"
     url: "https://keqingmains.com/q/candace-quickguide/"
