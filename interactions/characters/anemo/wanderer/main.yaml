@@ -12,10 +12,10 @@ embeds:
       :construction: ***─ Infographic WIP ─*** :construction:
 
 buttons:
-  # - label: "Guide"
-  #  url: "https://keqingmains.com/wanderer/"
-  #  emoji: ${ EMOJIS.LOGO }
-  #  style: "LINK"
+  - label: "Guide"
+    url: "https://keqingmains.com/wanderer/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
 
   - label: "Quick Guide"
     url: "https://keqingmains.com/q/wanderer-quickguide/"

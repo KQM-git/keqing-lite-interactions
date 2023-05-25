@@ -1,0 +1,28 @@
+embeds:
+  - title: Kirara
+    color: ${COLORS.DENDRO_GREEN}
+#    image: 
+#      url: ${INFOGRAPHICS.KIRARA_1}
+    thumbnail:
+      url: "https://keqingmains.com/wp-content/uploads/2023/05/kirara_icon1.webp"
+    description: |-
+      *A courier for Komaniya Express, a delivery company in Inazuma. A nekomata who loves her job and human society.*
+      
+      :construction: ***─ Infographic WIP ─*** :construction:
+
+buttons:
+
+#  - label: "Guide"
+#    url: "https://keqingmains.com/baizhu"
+#    emoji: ${ EMOJIS.LOGO }
+#    style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/kirara-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "TCL"
+    url: "https://library.keqingmains.com/kirara"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"
