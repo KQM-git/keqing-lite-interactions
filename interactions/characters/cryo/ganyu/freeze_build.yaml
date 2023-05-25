@@ -41,6 +41,11 @@ buttons:
     emoji: ${ EMOJIS.LOGO }
     style: "LINK"
 
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/ganyu-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
   - label: "Before You Wish"
     url: "https://www.youtube.com/watch?v=wr492BjbUh8"
     emoji: ${ EMOJIS.YOUTUBE }

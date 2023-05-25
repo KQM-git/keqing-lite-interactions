@@ -2,17 +2,17 @@ embeds:
   - title: Diluc
     color: ${ COLORS.PYRO_ORANGE }
     image: 
-      url: ${INFOGRAPHICS.DILUC_1}
+      url: ${INFOGRAPHICS.DILUC_2}
     thumbnail:
       url: "https://muakasan.github.io/genshin-portraits/assets/UI_AvatarIcon_Diluc.png"
     description: |-
       *The tycoon of a winery empire in Mondstadt, unmatched in every possible way.*
 
 buttons:
-  - customId: "liveInteraction#characters/pyro/diluc/main2"
-    label: "Teams Infographic"
+  - customId: "liveInteraction#characters/pyro/diluc/main"
+    label: "Basics"
     style: "PRIMARY"
-    emoji: "▶️"
+    emoji: "◀️"
 
   - label: "Guide"
     url: "https://keqingmains.com/diluc/"

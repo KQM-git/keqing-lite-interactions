@@ -21,6 +21,11 @@ buttons:
     emoji: ${ EMOJIS.LOGO }
     style: "LINK"
 
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/raiden-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
   - label: "TCL"
     url: "https://library.keqingmains.com/characters/electro/raiden"
     emoji: ${ EMOJIS.MAGNIFY }
@@ -31,7 +36,4 @@ buttons:
     emoji: ${ EMOJIS.YOUTUBE }
     style: "LINK"
     
-  - label: "Before You Wish"
-    url: "https://youtu.be/Vv3zXK89aJw"
-    emoji: ${ EMOJIS.PRIMOGEM }
-    style: "LINK"
+
