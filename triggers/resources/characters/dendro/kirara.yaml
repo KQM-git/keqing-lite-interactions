@@ -1,0 +1,5 @@
+interaction: characters/dendro/kirara/main
+description: "Opens KQM's resources on Kirara"
+match: ${ TRIGGER_PREFIX }kirara(?:\s|$)
+ignoreCase: true
+ 
