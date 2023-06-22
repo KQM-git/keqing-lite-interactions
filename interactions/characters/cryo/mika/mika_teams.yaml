@@ -10,7 +10,7 @@ embeds:
 
 
 buttons:
-  - customId: "liveInteraction#characters/electro/cyno/mika_build"
+  - customId: "liveInteraction#characters/cyro/mika/mika_build"
     label: "Basics"
     style: "PRIMARY"
     emoji: "◀️"
