@@ -14,6 +14,11 @@ buttons:
     emoji: "📝"
     url: "https://docs.gcsim.app/get-started"
 
+  - label: "GCsim Guide"
+    style: "LINK"
+    emoji: "📝"
+    url: "https://docs.google.com/document/d/1fnPOR911Chyz65TxSjCX19QX14scLXlgoGq947dJhtk/edit?usp=sharing"
+
   - label: "Discord"
     style: "LINK"
     emoji: ${EMOJIS.DISCORD}
