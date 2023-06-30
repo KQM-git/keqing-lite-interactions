@@ -1,9 +1,0 @@
-embeds:
-  - title: Genshin Optimizer Multi-Hit Optimization Guide
-    color: ${COLORS.KQM_PURPLE}
-
-buttons:
-  - label: "Guide"
-    style: "LINK"
-    emoji: "${EMOJIS.GOOGLE_DOCS}"
-    url: "https://docs.google.com/document/d/12hrPJ3MrAF7t03gyiiVtV5uI_rUKlVlbEwl9Lf2esIQ/edit?usp=sharing"
