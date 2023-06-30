@@ -1,4 +1,0 @@
-interaction: faq/gomultihit
-description: Genshin Optimizer multi-hit optimization guide
-match: ${ TRIGGER_PREFIX }(go-?)?multi?-?hit(?:\s|$)
-ignoreCase: true
