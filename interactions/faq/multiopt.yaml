@@ -8,4 +8,4 @@ buttons:
   - label: "Guide"
     style: "LINK"
     emoji: "${EMOJIS.GOOGLE_DOCS}"
-    url: "https://keqingmains.com/misc/multi-optimization/"
+    url: "https://kqm.gg/misc/multi-optimization"
