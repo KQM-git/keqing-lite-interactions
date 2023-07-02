@@ -2,10 +2,10 @@ embeds:
   - title: Genshin Optimizer Multi-Optimization Guide
     color: ${COLORS.KQM_PURPLE}
     description: |-
-      In Genshin Optimizer, multi-target optimization is a feature that can help you generate better builds for your characters. This guide explains multi-optimization and includes KQM's config collection.
+      In Genshin Optimizer, multi-target optimization is a feature that can help you generate better builds for your characters. This guide explains multi-optimization and includes KQM's Config Collection.
 
 buttons:
   - label: "Guide"
     style: "LINK"
-    emoji: "${EMOJIS.GOOGLE_DOCS}"
+    emoji: "${EMOJIS.LOGO}"
     url: "https://kqm.gg/misc/multi-optimization"
