@@ -14,7 +14,7 @@ options: #dropdown
     description: KQM's resources for Barbara Builds.
     emoji: ${EMOJIS.ELEMENT_HYDRO }
 
-  - label: Barbara Build Infographic
+  - label: Barbara Team Infographic
     value: characters/hydro/barbara/teams
     description: KQM's resources for Barbara Teams.
     emoji: ${EMOJIS.ELEMENT_HYDRO }
