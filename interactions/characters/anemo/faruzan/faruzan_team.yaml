@@ -1,25 +1,23 @@
 embeds:
   - title: Faruzan
     color: ${ COLORS.ANEMO_GREEN }
+    image: 
+      url: ${INFOGRAPHICS.FARUZAN_2}
     thumbnail:
       url: "https://editors.keqingmains.com/wp-content/uploads/2022/12/UI_AvatarIcon_Faruzan.png"
     description: |-
       *A researcher from "one hundred years ago". She enjoys self-identifying as everyone's senior, and has significant knowledge of ancient scripts and machines of all kinds.*
+    footer:
+      text: "Use \"Open original\" to view full size.\n\nCredits to: angtahimik (Designer) | nociii (Content)"
 
 
-options: #dropdown
-    
-  - label: Faruzan Build Infographic
-    value: characters/anemo/faruzan/faruzan_build
-    description: KQM's resources for Faruzan's Builds.
-    emoji: ${EMOJIS.ELEMENT_ANEMO }
-
-  - label: Faruzan Team Infographic
-    value: characters/anemo/faruzan/faruzan_teams
-    description: KQM's resources for Faruzan's Builds.
-    emoji: ${EMOJIS.ELEMENT_ANEMO }
 
 buttons:
+  - customId: "liveInteraction#characters/anemo/faruzan/faruzan_build"
+    label: "Build Infographic"
+    style: "PRIMARY"
+    emoji: "◀️"
+
   # - label: "Guide"
   #  url: "https://keqingmains.com/faruzan/"
   #  emoji: ${ EMOJIS.LOGO }

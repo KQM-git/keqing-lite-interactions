@@ -1,27 +1,23 @@
 embeds:
   - title: Dendro Traveler
     color: ${COLORS.DENDRO_GREEN}
-
+    image: 
+      url: ${INFOGRAPHICS.DENDRO_TRAVELER_2}
     thumbnail:
       url: "https://keqingmains.com/wp-content/uploads/2022/10/aether-dendro.png"
     description: |-
       *A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.*
+    footer:
+      text: "Use \"Open original\" to view full size. Page 2 Coming Soon!\n\nCredits to: angtahimik (Designer) | anticipaste (Content)" 
 
-
-options: #dropdown
-    
-  - label: Dendro Traveler Build Infographic
-    value: characters/dendro/dendrotraveler/build
-    description: KQM's resources for Dendro Traveler Builds.
-    emoji: ${EMOJIS.ELEMENT_DENDRO }
-
-  - label: Dendro Traveler Build Infographic
-    value: characters/dendro/dendrotraveler/teams
-    description: KQM's resources for Dendro Traveler Teams.
-    emoji: ${EMOJIS.ELEMENT_DENDRO }
 
 
 buttons:
+  - customId: "liveInteraction#characters/dendro/dendrotraveler/build"
+    label: "Basics"
+    style: "PRIMARY"
+    emoji: "◀️"
+
 #  - label: "Guide"
 #    url: "https://keqingmains.com/"
 #    emoji: ${ EMOJIS.LOGO }
