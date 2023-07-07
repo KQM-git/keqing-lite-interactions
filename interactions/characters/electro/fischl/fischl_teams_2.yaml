@@ -10,11 +10,7 @@ embeds:
     footer:
       text: "Use \"Open original\" to view full size.\n\nCredits to: zelard (Designer) | Polomo (Content)"
 
-options: 
-  - label: Weapons 
-    value: faq/fischlwep
-    description: Fischl Weapon Rankings
-    emoji: <:Fischl:953426425959034920>
+
 
 buttons:
   - customId: "liveInteraction#characters/electro/fischl/fischl_teams_1"
