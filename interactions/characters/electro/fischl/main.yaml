@@ -19,12 +19,12 @@ options: #dropdown
     description: KQM's resources for Fischl Builds.
     emoji: ${EMOJIS.ELEMENT_ELECTRO }
 
-  - label: Fischl Team \#1 Infographic
+  - label: Fischl Team Infographic
     value: characters/electro/fischl/fischl_teams_1
     description: KQM's resources for Fischl Teams.
     emoji: ${EMOJIS.ELEMENT_ELECTRO }
 
-  - label: Fischl Team \#2 Infographic
+  - label: Fischl Team+ Infographic
     value: characters/electro/fischl/fischl_teams_2
     description: KQM's resources for Fischl Teams+.
     emoji: ${EMOJIS.ELEMENT_ELECTRO }
