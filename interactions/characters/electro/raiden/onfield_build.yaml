@@ -1,6 +1,8 @@
 embeds:
   - title: Raiden
     color: ${ COLORS.ELECTRO_PURPLE }
+    image: 
+      url: ${INFOGRAPHICS.RAIDEN_1}
     thumbnail:
       url: "https://keqingmains.com/wp-content/uploads/2021/09/UI_AvatarIcon_Shougun.png"
     description: |-
@@ -8,31 +10,11 @@ embeds:
     footer:
       text: "Use \"Open original\" to view full size.\n\nCredits to: ang tahimik#9252 (Designer) | Ayzel#7399 (Content)"
 
-
-options: #dropdown
-    
-  - label: Raiden Onfield Build Infographic
-    value: characters/electro/raiden/onfield_build
-    description: KQM's resources for Raiden Onfield Builds.
-    emoji: ${EMOJIS.ELEMENT_ELECTRO }
-
-  - label: Raiden Onfield Team Infographic
-    value: characters/electro/raiden/onfield_team
-    description: KQM's resources for Raiden Onfield Builds.
-    emoji: ${EMOJIS.ELEMENT_ELECTRO }
-
-  - label: Raiden Hyperbloom Build Infographic
-    value: characters/electro/raiden/hyperbloom_build
-    description: KQM's resources for Raiden Hyperbloom Builds.
-    emoji: ${EMOJIS.ELEMENT_ELECTRO }
-
-  - label: Raiden Hyperbloom Team Infographic
-    value: characters/electro/raiden/hyperbloom_team
-    description: KQM's resources for Raiden Hyperbloom Builds.
-    emoji: ${EMOJIS.ELEMENT_ELECTRO }
-
-
 buttons:
+  - customId: "liveInteraction#characters/electro/raiden/onfield_team"
+    label: "Teams Infographic"
+    style: "PRIMARY"
+    emoji: "▶️"
 
   - label: "Guide"
     url: "https://keqingmains.com/raiden/"
@@ -54,3 +36,4 @@ buttons:
     emoji: ${ EMOJIS.YOUTUBE }
     style: "LINK"
     
+

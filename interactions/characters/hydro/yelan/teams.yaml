@@ -2,7 +2,7 @@ embeds:
   - title: Yelan
     color: ${ COLORS.HYDRO_BLUE }
     image: 
-      url: ${INFOGRAPHICS.YELAN_1}
+      url: ${INFOGRAPHICS.YELAN_2}
     thumbnail:
       url: "https://library.keqingmains.com/img/characters/icon/Yelan.png"
     description: |-
@@ -10,19 +10,8 @@ embeds:
     footer:
       text: "Use \"Open original\" to view full size.\n\nCredits to: xf3#3123 (Designer) | KB#1111 & Vladone ツ#9281 (Content)"
 
-options: #dropdown
-  - label: Yelan Builds
-    value: characters/hydro/yelan/build
-    description: KQM's resources for Yelan's Builds.
-    emoji: ${EMOJIS.ELEMENT_HYDRO }
-
-  - label: Yelan Teams
-    value: characters/hydro/yelan/teams
-    description: KQM's resources for Yelan's Builds.
-    emoji: ${EMOJIS.ELEMENT_HYDRO }
-
-
 buttons:
+
 
   - customId: "liveInteraction#faq/yelaner"
     label: "ER Requirements"
@@ -38,7 +27,6 @@ buttons:
     url: "https://keqingmains.com/q/yelan-quickguide/"
     emoji: ${ EMOJIS.LOGO }
     style: "LINK"
-
 
   - label: "TCL"
     url: "https://library.keqingmains.com/yelan"
