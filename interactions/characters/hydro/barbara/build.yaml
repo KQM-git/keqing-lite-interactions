@@ -2,7 +2,7 @@ embeds:
   - title: Barbara
     color: ${ COLORS.HYDRO_BLUE }
     image: 
-      url: ${INFOGRAPHICS.BARBARA_!}
+      url: ${INFOGRAPHICS.BARBARA_1}
     thumbnail:
       url: "https://muakasan.github.io/genshin-portraits/assets/UI_AvatarIcon_Barbara.png"
     description: |-
