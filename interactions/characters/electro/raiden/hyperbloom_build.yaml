@@ -1,0 +1,39 @@
+embeds:
+  - title: Raiden
+    color: ${ COLORS.ELECTRO_PURPLE }
+    image: 
+      url: ${INFOGRAPHICS.RAIDEN_3}
+    thumbnail:
+      url: "https://keqingmains.com/wp-content/uploads/2021/09/UI_AvatarIcon_Shougun.png"
+    description: |-
+      *Her Excellency, the Almighty Narukami Ogosho, who promised the people of Inazuma an unchanging Eternity.*
+    footer:
+      text: "Use \"Open original\" to view full size.\n\nCredits to: zelard (Designer) | erisdc (Content)"
+
+buttons:
+  - customId: "liveInteraction#characters/electro/raiden/hyperbloom_team"
+    label: "Teams Infographic"
+    style: "PRIMARY"
+    emoji: "▶️"
+
+  - label: "Guide"
+    url: "https://keqingmains.com/raiden/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/raiden-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "TCL"
+    url: "https://library.keqingmains.com/characters/electro/raiden"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"
+
+  - label: "Video Guide"
+    url: "https://www.youtube.com/watch?v=m1JysEqPbOs"
+    emoji: ${ EMOJIS.YOUTUBE }
+    style: "LINK"
+    
+

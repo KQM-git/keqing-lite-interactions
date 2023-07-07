@@ -4,7 +4,11 @@ embeds:
     image: 
       url: ${ INFOGRAPHICS.ALOY_MELT_1 }
     thumbnail:
-      url: "https://github.com/muakasan/genshin-portraits/blob/main/assets/UI_AvatarIcon_Aloy.png?raw=true"
+      url: "https://keqingmains.com/wp-content/uploads/2021/09/Character_Aloy_Thumb-min.png"
+    description: |-
+      *Formerly an outcast, now a hunter of unparalleled skill. Ready to do the right thing at any time.*
+
+      Here are all of KQM's resources on how to build and play Aloy. Please select your desired build below. Enjoy!  
 
 buttons:
   - customId: "liveInteraction#characters/cryo/aloy/melt_teams"

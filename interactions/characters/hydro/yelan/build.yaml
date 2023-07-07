@@ -2,19 +2,19 @@ embeds:
   - title: Yelan
     color: ${ COLORS.HYDRO_BLUE }
     image: 
-      url: ${INFOGRAPHICS.YELAN_2}
+      url: ${INFOGRAPHICS.YELAN_1}
     thumbnail:
-      url: "https://cdn.discordapp.com/attachments/974036281162080307/991115872661946388/Yelan_New.png"
+      url: "https://library.keqingmains.com/img/characters/icon/Yelan.png"
     description: |-
       *A mysterious person who claims to work for the Ministry of Civil Affairs, but is a "non-entity" on the Ministry of Civil Affairs' list.*
     footer:
       text: "Use \"Open original\" to view full size.\n\nCredits to: xf3#3123 (Designer) | KB#1111 & Vladone ツ#9281 (Content)"
 
+
+
+
+
 buttons:
-  - customId: "liveInteraction#characters/hydro/yelan/main"
-    label: "Basics"
-    style: "PRIMARY"
-    emoji: "◀️"
 
   - customId: "liveInteraction#faq/yelaner"
     label: "ER Requirements"
@@ -30,6 +30,7 @@ buttons:
     url: "https://keqingmains.com/q/yelan-quickguide/"
     emoji: ${ EMOJIS.LOGO }
     style: "LINK"
+
 
   - label: "TCL"
     url: "https://library.keqingmains.com/yelan"

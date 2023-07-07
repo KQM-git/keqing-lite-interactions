@@ -2,22 +2,33 @@ embeds:
   - title: Aloy
     color: ${ COLORS.CRYO_BLUE }
     thumbnail:
-      url: "https://github.com/muakasan/genshin-portraits/blob/main/assets/UI_AvatarIcon_Aloy.png?raw=true"
+      url: "https://keqingmains.com/wp-content/uploads/2021/09/Character_Aloy_Thumb-min.png"
     description: |-
       *Formerly an outcast, now a hunter of unparalleled skill. Ready to do the right thing at any time.*
 
       Here are all of KQM's resources on how to build and play Aloy. Please select your desired build below. Enjoy!  
 
 options: #dropdown
-  - label: Support
+  - label: Support Build
     value: characters/cryo/aloy/support_build
-    description: KQM's resources for Cryo Support Aloy.
+    description: KQM's resources for Aloy Support Build.
+    emoji: ${ EMOJIS.ELEMENT_CRYO }
+
+  - label: Support Team
+    value: characters/cryo/aloy/support_teams
+    description: KQM's resources for Aloy Support Teams.
     emoji: ${ EMOJIS.ELEMENT_CRYO }
     
-  - label: Melt
+  - label: Melt Builds
     value: characters/cryo/aloy/melt_build
-    description: KQM's resources for Melt Aloy.
+    description: KQM's resources for Melt Aloy Builds.
     emoji: "<:melt:947715728683991120>"
+
+  - label: Melt Teams
+    value: characters/cryo/aloy/melt_teams
+    description: KQM's resources for Melt Aloy Teams.
+    emoji: "<:melt:947715728683991120>"
+
 
 buttons:
   - label: "Guide"

@@ -5,15 +5,10 @@ embeds:
       Kol's public Google Sheets calculation template. Can be used to calculate essentially anything in this game. Updated regularly; make a new copy from the original link. Ping <@397825812956446752> in KQM for help. Surely the prettiest template <:clueless:908415724488384595>.
 
 buttons:
-  - label: "Team Template"
+  - label: "Template"
     style: LINK
     emoji: ${EMOJIS.GOOGLE_SHEETS}
     url: "https://docs.google.com/spreadsheets/d/18Oyqfuw03M7suZirzfUZmKF-t716e0sb4kP7q0YVzd8/edit?usp=sharing"
-
-  - label: "Single Character Template"
-    style: LINK
-    emoji: ${EMOJIS.GOOGLE_SHEETS}
-    url: "https://docs.google.com/spreadsheets/d/1SaldS1gjL0E4oOJE7Z2RtlREgzn-4nLKOiiINH-ZhVY/edit?usp=sharing"
 
   - label: "Template Instructions"
     style: LINK
