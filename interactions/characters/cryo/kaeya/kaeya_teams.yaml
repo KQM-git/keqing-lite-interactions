@@ -1,23 +1,14 @@
 embeds:
-  - title: Kaeya
+  - title: KAEYA
     color: ${ COLORS.CRYO_BLUE }
     image: 
-      url: https://cdn.discordapp.com/attachments/953505473125052456/953505982321950750/unknown.png
+      url: ${ INFOGRAPHICS.KAEYA_2 }
     thumbnail:
       url: "https://github.com/muakasan/genshin-portraits/blob/main/assets/UI_AvatarIcon_Kaeya.png"
     description: |-
       *An accomplished swordsman and a strategic thinker in the Knights of Favonius, rumored to hail from beyond Mondstadt.*
-
-options: #dropdown
-  - label: Kaeya Build Infographics
-    value: characters/cryo/kaeya/kaeya_build
-    description: KQM's resources for Kaeya Builds.
-    emoji: ${ EMOJIS.CHARACTER_KAEYA }
-
-  - label: Kaeya Teams Infographics
-    value: characters/cryo/kaeya/kaeya_teams
-    description: KQM's resources for Kaeya Teams.
-    emoji: ${ EMOJIS.CHARACTER_KAEYA }
+    footer:
+      text: "Use \"Open original\" to view full size.\n\nCredits to: casdela (Content) | cuppacote (Designer)"
 
 buttons:
   - label: "Guide"
