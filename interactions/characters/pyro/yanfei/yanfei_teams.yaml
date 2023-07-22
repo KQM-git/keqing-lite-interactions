@@ -1,0 +1,27 @@
+embeds:
+  - title: Yanfei
+    color: ${ COLORS.PYRO_ORANGE }
+    image: 
+      url: ${ INFOGRAPHICS.YANFEI_2 }
+    thumbnail:
+      url: "https://muakasan.github.io/genshin-portraits/assets/UI_AvatarIcon_Feiyan.png"
+    description: |-
+      *A well-known legal adviser active in Liyue Harbor. A brilliant young lady in whose veins runs the blood of an illuminated beast.*
+    footer:
+      text: "Use \"Open original\" to view full size.\n\nCredits to: notnilou (Content) | cuppacote (Designer)"
+
+  buttons:
+  - label: "Guide"
+    url: "https://keqingmains.com/yanfei/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/yanfei-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "TCL"
+    url: "https://library.keqingmains.com/characters/pyro/yanfei"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"

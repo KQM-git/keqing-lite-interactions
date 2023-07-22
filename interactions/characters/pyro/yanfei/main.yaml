@@ -9,14 +9,14 @@ embeds:
       Here are all of KQM's resources on how to build and play Yanfei. Please select your desired build below. Enjoy!
 
 options: #dropdown
-  - label: Overload
-    value: characters/pyro/yanfei/overload
-    description: KQM's resources for Overload Yanfei.
+  - label: Yanfei Build Infographics
+    value: characters/pyro/yanfei/yanfei_build
+    description: KQM's resources for Yanfei Builds.
     emoji: "<:nyanfei:841380747860377621>"
 
-  - label: Vaporize
-    value: characters/pyro/yanfei/vape
-    description: KQM's resources for Vaporize Yanfei.
+  - label: Yanfei Teams Infographics
+    value: characters/pyro/yanfei/yanfei_teams
+    description: KQM's resources for Yanfei Teams.
     emoji: "<:nyanfei:841380747860377621>"
 
 buttons:
