@@ -6,8 +6,6 @@ embeds:
     description: |-
       *A well-known legal adviser active in Liyue Harbor. A brilliant young lady in whose veins runs the blood of an illuminated beast.*
 
-      Here are all of KQM's resources on how to build and play Yanfei. Please select your desired build below. Enjoy!
-
 options: #dropdown
   - label: Yanfei Build Infographics
     value: characters/pyro/yanfei/yanfei_build

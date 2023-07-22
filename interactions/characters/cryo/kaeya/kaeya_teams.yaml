@@ -1,10 +1,10 @@
 embeds:
-  - title: KAEYA
+  - title: Kaeya
     color: ${ COLORS.CRYO_BLUE }
     image: 
       url: ${ INFOGRAPHICS.KAEYA_2 }
     thumbnail:
-      url: "https://github.com/muakasan/genshin-portraits/blob/main/assets/UI_AvatarIcon_Kaeya.png"
+      url: "https://github.com/muakasan/genshin-portraits/blob/main/assets/UI_AvatarIcon_Kaeya.png?raw=true"
     description: |-
       *An accomplished swordsman and a strategic thinker in the Knights of Favonius, rumored to hail from beyond Mondstadt.*
     footer:

@@ -14,7 +14,7 @@ options: #dropdown
     emoji: ${EMOJIS.ELEMENT_PYRO }
 
   - label: Klee Teams Infographic
-    value: characters/pyro/hutao/klee_teams
+    value: characters/pyro/klee/klee_teams
     description: KQM's resources for Klee Teams.
     emoji: ${EMOJIS.ELEMENT_PYRO }
 
