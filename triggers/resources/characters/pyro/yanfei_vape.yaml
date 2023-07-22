@@ -1,4 +1,0 @@
-interaction: characters/pyro/yanfei/vape
-description: "Opens KQM's resources on Yanfei"
-match: ${ TRIGGER_PREFIX }yanfei vap(oriz)?e(?:\s|$)
-ignoreCase: true

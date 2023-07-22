@@ -1,21 +1,14 @@
 embeds:
   - title: Yanfei
     color: ${ COLORS.PYRO_ORANGE }
+    image: 
+      url: ${ INFOGRAPHICS.YANFEI_2 }
     thumbnail:
-      url: "https://github.com/muakasan/genshin-portraits/blob/main/assets/UI_AvatarIcon_Feiyan.png?raw=true"
+      url: "https://muakasan.github.io/genshin-portraits/assets/UI_AvatarIcon_Feiyan.png?raw=true"
     description: |-
       *A well-known legal adviser active in Liyue Harbor. A brilliant young lady in whose veins runs the blood of an illuminated beast.*
-
-options: #dropdown
-  - label: Yanfei Build Infographics
-    value: characters/pyro/yanfei/yanfei_build
-    description: KQM's resources for Yanfei Builds.
-    emoji: "<:nyanfei:841380747860377621>"
-
-  - label: Yanfei Teams Infographics
-    value: characters/pyro/yanfei/yanfei_teams
-    description: KQM's resources for Yanfei Teams.
-    emoji: "<:nyanfei:841380747860377621>"
+    footer:
+      text: "Use \"Open original\" to view full size.\n\nCredits to: notnilou (Content) | cuppacote (Designer)"
 
 buttons:
   - label: "Guide"
@@ -32,9 +25,3 @@ buttons:
     url: "https://library.keqingmains.com/characters/pyro/yanfei"
     emoji: ${ EMOJIS.MAGNIFY }
     style: "LINK"
-
-#  - label: "Video Guide"
-#    url: ""
-#    emoji: ${ EMOJIS.YOUTUBE }
-#    style: "LINK"
-  
