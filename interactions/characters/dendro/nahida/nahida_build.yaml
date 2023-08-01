@@ -1,26 +1,14 @@
 embeds:
   - title: Nahida
     color: ${COLORS.DENDRO_GREEN}
+    image:
+      url: ${INFOGRAPHICS.NAHIDA_1}
     thumbnail:
       url: "https://editors.keqingmains.com/wp-content/uploads/2022/10/nahida_073_icon-min.png"
     description: |-
       *A caged bird secluded within the confines of the Sanctuary of Surasthana who can only see the world in her dreams.*
-
-options: #dropdown
-  - label: Nahida Build Infographic
-    value: characters/dendro/nahida/nahida_build
-    description: KQM's resources for Nahida Builds.
-    emoji: ${EMOJIS.CHARACTER_NAHIDA}
-
-  - label: Nahida Teams Infographic
-    value: characters/dendro/nahida/nahida_teams
-    description: KQM's resources for Nahida Teams.
-    emoji: ${EMOJIS.ELEMENT_DENDRO}
-
-  - label: Nahida Teams Infographic
-    value: characters/dendro/nahida/nahida_teams2
-    description: KQM's resources for Nahida Teams.
-    emoji: ${EMOJIS.ELEMENT_DENDRO}
+    footer:
+      text: "Use \"Open original\" to view full size.\n\nCredits to: cuppacote (Designer) | KQM TC Staff (Content)"
 
 buttons:
   - label: "Guide"
