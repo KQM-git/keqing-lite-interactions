@@ -1,4 +1,4 @@
-interaction: faq/kqmc
+interaction: faq/kqms
 description: KQM Standard for Calculation
 match: ${ TRIGGER_PREFIX }kqm(c|s)(?:\s|$)
 ignoreCase: true

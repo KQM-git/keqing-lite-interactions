@@ -1,0 +1,11 @@
+embeds:
+  - title: KQMS
+    color: ${COLORS.KQM_PURPLE}
+    description: |-
+      KQM Official Guidelines on Calculation Standardization.
+
+buttons:
+  - label: "KQM Standards"
+    url: "https://compendium.keqingmains.com/kqm-standards"
+    emoji: ${EMOJIS.LOGO}
+    style: "LINK"
