@@ -6,18 +6,31 @@ embeds:
     description: |-
       *The languid but knowledgeable Librarian of the Knights of Favonius, deemed by Sumeru Academia to be their most distinguished graduate in the past two centuries.*
 
-      Here are all of KQM's resources on how to build and play Lisa. Please select your desired build below. Enjoy!
-
 options: #dropdown
-  - label: On-Field DPS
-    value: characters/electro/lisa/on-field
+  - label: Lisa Support Build Infographic
+    value: characters/electro/lisa/lisa_build
+    description: KQM's resources for support/off-field DPS Lisa.
+    emoji: ":LisaFufu:807414184890728458"
+
+  - label: Lisa On-Field DPS Build Infographic
+    value: characters/electro/lisa/lisa_build2
     description: KQM's resources for on-field DPS Lisa.
     emoji: ":LisaFufu:807414184890728458"
 
-  - label: Support
-    value: characters/electro/lisa/support
-    description: KQM's resources for support/off-field DPS Lisa.
+  - label: Lisa Reaction DPS Build Infographic
+    value: characters/electro/lisa/lisa_build3
+    description: KQM's resources for reaction DPS Lisa.
     emoji: ":LisaFufu:807414184890728458"
+
+  - label: Lisa Team Infographic
+    value: characters/electro/lisa/lisa_teamsd
+    description: KQM's resources for  Lisa's on- and off-field DPS Builds.
+    emoji: ${EMOJIS.ELEMENT_ELECTRO}
+
+  - label: Lisa Team Infographic
+    value: characters/electro/lisa/lisa_teams2
+    description: KQM's resources for Lisa's Support & Reaction DPS Builds.
+    emoji: ${EMOJIS.ELEMENT_ELECTRO}
 
 buttons:
   - label: "Guide"
@@ -25,12 +38,12 @@ buttons:
     emoji: ${ EMOJIS.LOGO }
     style: "LINK"
 
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/lisa-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
   - label: "TCL"
     url: "https://library.keqingmains.com/characters/electro/lisa"
     emoji: ${ EMOJIS.MAGNIFY }
     style: "LINK"
-
-#  - label: "Video Guide"
-#    url: "https://www.youtube.com/watch?v=AWlLidtFiDw"
-#    emoji: ${ EMOJIS.YOUTUBE }
-#    style: "LINK"

@@ -1,0 +1,27 @@
+embeds:
+  - title: Lisa
+    color: ${COLORS.ELECTRO_PURPLE}
+    image: 
+      url: ${INFOGRAPHICS.LISA_1}
+    thumbnail:
+      url: "https://github.com/muakasan/genshin-portraits/blob/main/assets/UI_AvatarIcon_Lisa.png?raw=true"
+    description: |-
+      *The languid but knowledgeable Librarian of the Knights of Favonius, deemed by Sumeru Academia to be their most distinguished graduate in the past two centuries.*
+    footer:
+      text: "Use \"Open original\" to view full size.\n\nCredits to: cuppacote (Designer) | chasing_haze & archednosi (Content)"
+
+buttons:
+  - label: "Guide"
+    url: "https://keqingmains.com/lisa/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/lisa-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "TCL"
+    url: "https://library.keqingmains.com/characters/electro/lisa"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"
