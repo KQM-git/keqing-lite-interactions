@@ -23,7 +23,7 @@ options: #dropdown
     emoji: ":LisaFufu:807414184890728458"
 
   - label: Lisa Team Infographic
-    value: characters/electro/lisa/lisa_teamsd
+    value: characters/electro/lisa/lisa_teams
     description: KQM's resources for  Lisa's on- and off-field DPS Builds.
     emoji: ${EMOJIS.ELEMENT_ELECTRO}
 
