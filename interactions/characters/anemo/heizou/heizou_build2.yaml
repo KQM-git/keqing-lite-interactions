@@ -1,0 +1,27 @@
+embeds:
+  - title: Heizou
+    color: ${COLORS.ANEMO_GREEN}
+    image: 
+      url: ${INFOGRAPHICS.HEIZOU_2}
+    thumbnail:
+      url: "https://cdn.discordapp.com/attachments/974036281162080307/998090937597182062/Heizou_New.png"
+    description: |-
+      *A young prodigy detective from the Tenryou Commission. His senses are sharp and his thoughts are clear.*
+    footer:
+      text: "Use \"Open original\" to view full size.\n\nCredits to: cuppacote (Designer) | cuppacote (Content)"
+
+buttons:
+  - label: "Guide"
+    url: "https://keqingmains.com/heizou"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/heizou-quickguide"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "TCL"
+    url: "https://library.keqingmains.com/heizou"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"
