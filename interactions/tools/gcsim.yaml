@@ -9,6 +9,11 @@ buttons:
     style: "PRIMARY"
     customId: "liveInteraction#tools/gcsim-pasta"
 
+  - label: "gcsim"
+    style: "LINK"
+    emoji: ${EMOJIS.LOGO_GCSIM}
+    url: "https://simimpact.app/"
+
   - label: "Get Started"
     style: "LINK"
     emoji: "📝"

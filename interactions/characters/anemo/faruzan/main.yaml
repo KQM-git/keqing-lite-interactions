@@ -7,8 +7,7 @@ embeds:
       *A researcher from "one hundred years ago". She enjoys self-identifying as everyone's senior, and has significant knowledge of ancient scripts and machines of all kinds.*
 
 
-options: #dropdown
-    
+options: #dropdown   
   - label: Faruzan Build Infographic
     value: characters/anemo/faruzan/faruzan_build
     description: KQM's resources for Faruzan's Builds.

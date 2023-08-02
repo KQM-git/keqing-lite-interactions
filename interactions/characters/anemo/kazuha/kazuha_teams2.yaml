@@ -1,26 +1,14 @@
 embeds:
   - title: Kaedehara Kazuha
-    color: ${ COLORS.ANEMO_GREEN }
+    color: ${COLORS.ANEMO_GREEN}
+    image: 
+      url: ${INFOGRAPHICS.KAZUHA_3}
     thumbnail:
       url: "https://github.com/muakasan/genshin-portraits/blob/main/assets/UI_AvatarIcon_Kazuha.png?raw=true"
     description: |-
       *A wandering samurai from Inazuma who is currently with Liyue's Crux Fleet. A gentle and carefree soul whose heart hides a great many burdens from the past.*
-
-options: #dropdown
-  - label: Kazuha Build Infographic
-    value: characters/anemo/kazuha/kazuha_build
-    description: KQM's resources for Kazuha Builds.
-    emoji: ${EMOJIS.CHARACTER_KAZUHA}
-
-  - label: Kazuha Teams Infographic
-    value: characters/anemo/kazuha/kazuha_teams
-    description: KQM's resources for Kazuha Freeze, Vape & Melt Teams.
-    emoji: ${EMOJIS.ELEMENT_ANEMO}
-
-  - label: Kazuha Teams Infographic
-    value: characters/anemo/kazuha/kazuha_teams2
-    description: KQM's resources for Kazuha EC, Quicken & Mono Teams.
-    emoji: ${EMOJIS.ELEMENT_ANEMO}
+    footer:
+      text: "Use \"Open original\" to view full size.\n\nCredits to: zelard & cuppcote (Designer) | irokei (Content)"
 
 buttons:
   - label: "Guide"
@@ -42,3 +30,4 @@ buttons:
     url: "https://youtu.be/QpaxtAxTJuA"
     emoji: ${ EMOJIS.YOUTUBE }
     style: "LINK"
+

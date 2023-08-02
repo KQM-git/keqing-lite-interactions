@@ -1,21 +1,14 @@
 embeds:
-  - title: Yae Miko
-    color: ${ COLORS.ELECTRO_PURPLE }
+  - title: Yae
+    color: ${COLORS.ELECTRO_PURPLE}
+    image: 
+      url: ${INFOGRAPHICS.YAE_1}
     thumbnail:
       url: "https://github.com/muakasan/genshin-portraits/blob/main/assets/UI_AvatarIcon_Yae.png?raw=true"
     description: |-
       *Lady Guuji of the Grand Narukami Shrine. Also serves as the editor-in-chief of Yae Publishing House. Unimaginable intelligence and cunning are hidden under her beautiful appearance.*
-
-options: #dropdown   
-  - label: Yae Build Infographic
-    value: characters/electro/yae/yae_build
-    description: KQM's resources for Yae's Builds.
-    emoji: ${EMOJIS.CHARACTER_YAE}
-
-  - label: Yae Team Infographic
-    value: characters/electro/yae/yae_teams
-    description: KQM's resources for Yae's Teams.
-    emoji: ${EMOJIS.ELEMENT_ELECTRO}
+    footer:
+      text: "Use \"Open original\" to view full size.\n\nCredits to: cuppacote (Designer) | erisdc (Content)"
 
 buttons:
   - label: "Guide"

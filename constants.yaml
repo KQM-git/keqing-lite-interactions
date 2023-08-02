@@ -47,7 +47,7 @@ INFOGRAPHICS:
   DEHYA_3: "https://keqingmains.com/wp-content/uploads/2023/06/Dehya_2.png"
   DILUC_1: "https://keqingmains.com/wp-content/uploads/2023/04/Diluc_1.png"
   DILUC_2: "https://keqingmains.com/wp-content/uploads/2023/04/Diluc_2.png"
-  FARUZAN_1: "https://keqingmains.com/wp-content/uploads/2023/07/Faruzan_1.png"
+  FARUZAN_1: "https://keqingmains.com/wp-content/uploads/2023/07/Faruzan_1-1.png"
   FARUZAN_2: "https://keqingmains.com/wp-content/uploads/2023/07/Faruzan_2.png"
   FISCHL_1: "https://keqingmains.com/wp-content/uploads/2022/09/Fischl_1.png"
   FISCHL_2: "https://keqingmains.com/wp-content/uploads/2022/09/Fischl_2.png"
@@ -56,14 +56,17 @@ INFOGRAPHICS:
   GANYU_FREEZE_2: "https://media.discordapp.net/attachments/1011367402572890132/1100989743157743616/Ganyu_Freeze_2.png"
   GANYU_MELT_1: "https://media.discordapp.net/attachments/1011367402572890132/1100989742016905257/Ganyu_Melt_1.png"
   GANYU_MELT_2: "https://media.discordapp.net/attachments/1011367402572890132/1100989742478266438/Ganyu_Melt_2.png"
-  HEIZOU_1: "https://keqingmains.com/wp-content/uploads/2022/10/Heizou_1.png"
+  HEIZOU_1: "https://keqingmains.com/wp-content/uploads/2022/10/Heizou_1-1.png"
+  HEIZOU_2: "https://keqingmains.com/wp-content/uploads/2022/10/Heizou_2.png"
+  HEIZOU_3: "https://keqingmains.com/wp-content/uploads/2022/10/Heizou_3.png"
   HUTAO_1: "https://keqingmains.com/wp-content/uploads/2023/03/Hu-Tao-1.png"
   HUTAO_2: "https://keqingmains.com/wp-content/uploads/2023/02/Hu_Tao_Teams.png"
   ITTO_1: "https://keqingmains.com/wp-content/uploads/2022/07/Itto-main.png"
   ITTO_2: "https://keqingmains.com/wp-content/uploads/2022/07/Itto-teams.png"
   JEAN_1: "https://keqingmains.com/wp-content/uploads/2022/10/Jean_1.png"
-  KAZUHA_1: "https://keqingmains.com/wp-content/uploads/2022/10/Kazuha_1.png"
-  KAZUHA_2: "https://keqingmains.com/wp-content/uploads/2022/10/Kazuha_2.png"
+  KAZUHA_1: "https://keqingmains.com/wp-content/uploads/2022/10/Kazuha_1_3.8.png"
+  KAZUHA_2: "https://keqingmains.com/wp-content/uploads/2022/10/Kazuha_2-1.png"
+  KAZUHA_3: "https://keqingmains.com/wp-content/uploads/2022/10/Kazuha_3.png"
   KAEYA_1: "https://editors.keqingmains.com/wp-content/uploads/2022/11/Kaeya_1.png"
   KAEYA_2: "https://editors.keqingmains.com/wp-content/uploads/2022/11/Kaeya_2.png"
   KLEE_1: "https://keqingmains.com/wp-content/uploads/2022/10/Klee-Guide-3.8-scaled.webp"
@@ -71,11 +74,18 @@ INFOGRAPHICS:
   KOKOMI_1: "https://keqingmains.com/wp-content/uploads/2023/04/Kokomi_1.png"
   LAYLA_1: "https://keqingmains.com/wp-content/uploads/2023/04/Layla_Build.png"
   LAYLA_2: "https://keqingmains.com/wp-content/uploads/2023/04/Layla_Teams.png"
+  LISA_1: "https://keqingmains.com/wp-content/uploads/2022/10/Lisa_1.png" #support/off field build
+  LISA_2: "https://keqingmains.com/wp-content/uploads/2022/10/Lisa_2.png" #on field dps build
+  LISA_3: "https://keqingmains.com/wp-content/uploads/2022/10/Lisa_3.png" #reaction dps build
+  LISA_4: "https://keqingmains.com/wp-content/uploads/2022/10/Lisa_4.png" #teams
+  LISA_5: "https://keqingmains.com/wp-content/uploads/2022/10/Lisa_5.png" #teams
   MIKA_1: "https://keqingmains.com/wp-content/uploads/2023/06/Mika_1.png"
   MIKA_2: "https://keqingmains.com/wp-content/uploads/2023/06/Mika_2.png"
   MONA_1: "https://cdn.discordapp.com/attachments/953505473125052456/953505851036024893/Mona_On-field_DPS_New.png"
   MONA_2: "https://keqingmains.com/wp-content/uploads/2023/04/Mona_1.png"
-  NAHIDA_1: "https://keqingmains.com/wp-content/uploads/2022/11/Nahida-Infographic-Main-min.png"
+  NAHIDA_1: "https://keqingmains.com/wp-content/uploads/2023/07/Nahida_1_3.8.png"
+  NAHIDA_2: "https://keqingmains.com/wp-content/uploads/2023/07/Nahida_2.png"
+  NAHIDA_3: "https://keqingmains.com/wp-content/uploads/2023/07/Nahida_3.png"
   NILOU_1: "https://keqingmains.com/wp-content/uploads/2022/11/Nilou-Infographic-Main-min.png"
   RAIDEN_1: "https://keqingmains.com/wp-content/uploads/2023/07/Raiden_1.png" #onfield builds
   RAIDEN_2: "https://keqingmains.com/wp-content/uploads/2023/07/Raiden_2.png" #onfield teams
@@ -105,7 +115,8 @@ INFOGRAPHICS:
   XINGQIU_1 : "https://keqingmains.com/wp-content/uploads/2023/04/Xingqiu_1-1.png"
   XINGQIU_2 : "https://keqingmains.com/wp-content/uploads/2023/04/Xingqiu_2.png"
   XINYAN_1: "https://keqingmains.com/wp-content/uploads/2023/02/Xinyansdfvs.png"
-  YAE_1: "https://keqingmains.com/wp-content/uploads/2022/11/Yae-1.png"
+  YAE_1: "https://keqingmains.com/wp-content/uploads/2022/11/Yae-Miko-Guide-3.8-scaled.webp"
+  YAE_2: "https://keqingmains.com/wp-content/uploads/2022/11/Yae-Miko-Team-3.8-scaled.webp"
   YANFEI_1: "https://editors.keqingmains.com/wp-content/uploads/2022/11/Yanfei_1.png"
   YANFEI_2: "https://editors.keqingmains.com/wp-content/uploads/2022/11/Yanfei_2.png"
   YAOYAO_1: "https://keqingmains.com/wp-content/uploads/2023/04/Yaoyao_1.png"
@@ -121,7 +132,7 @@ INFOGRAPHICS:
   DENDRO_3: "https://media.discordapp.net/attachments/1039459939854336030/1039744184439017472/Catalyze_Mechanics_V2.png" # catalyze
   DENDRO_4: "https://media.discordapp.net/attachments/1039459939854336030/1039744184065740870/Bloom_Mechanics_V2.png" # bloom dmg
   DENDRO_5: "https://media.discordapp.net/attachments/1039459939854336030/1039744184850063370/Dendro_Basics_V2.png" # catalyze dmg
-  MATERIALS_1: "https://keqingmains.com/wp-content/uploads/2023/02/Resource_Materials_KQM-min.png"
+  MATERIALS_1: "https://media.discordapp.net/attachments/1011367402572890132/1045788861776806069/Resource_Materials_KQM.png"
   PITY_1: "https://keqingmains.com/wp-content/uploads/2023/04/Genshin_Pity.png"
   WOOD_1: "https://keqingmains.com/wp-content/uploads/2023/01/mondstadt-wood-route.png"
   WOOD_2: "https://keqingmains.com/wp-content/uploads/2023/01/liyue-wood-route.png"
@@ -135,6 +146,7 @@ EMOJIS:
   LOGO: ":logont:945530991240421386"
   LOGO_GO: ":GenshinOptimizerGO:994392906385330196"
   LOGO_ENKA: ":EnkaNetwork:995142900356755528"
+  LOGO_GCSIM: ":gcsimlogo:1135737255693144114"
   MAGNIFY: ":magnify:763645066975510569"
   PRIMOGEM: ":primogem:768816635120713769"
   YOUTUBE: ":youtube:945528339299463208"

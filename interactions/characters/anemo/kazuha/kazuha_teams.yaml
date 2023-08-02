@@ -1,6 +1,6 @@
 embeds:
   - title: Kaedehara Kazuha
-    color: ${ COLORS.ANEMO_GREEN }
+    color: ${COLORS.ANEMO_GREEN}
     image: 
       url: ${INFOGRAPHICS.KAZUHA_2}
     thumbnail:
@@ -8,16 +8,16 @@ embeds:
     description: |-
       *A wandering samurai from Inazuma who is currently with Liyue's Crux Fleet. A gentle and carefree soul whose heart hides a great many burdens from the past.*
     footer:
-      text: "Use \"Open original\" to view full size.\n\nCredits to: Prévisible#7440 & xf3#3123 (Designer) | Reens#9389 & Ayzel#7399 (Content)"
+      text: "Use \"Open original\" to view full size.\n\nCredits to: zelard & cuppcote (Designer) | irokei (Content)"
 
 buttons:
-  - customId: "liveInteraction#characters/anemo/kazuha/main"
-    label: "Basics"
-    style: "PRIMARY"
-    emoji: "◀️"
-
   - label: "Guide"
     url: "https://keqingmains.com/kazuha/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/kazuha-quickguide/"
     emoji: ${ EMOJIS.LOGO }
     style: "LINK"
 
@@ -30,3 +30,4 @@ buttons:
     url: "https://youtu.be/QpaxtAxTJuA"
     emoji: ${ EMOJIS.YOUTUBE }
     style: "LINK"
+

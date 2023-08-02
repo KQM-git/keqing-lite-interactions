@@ -1,23 +1,35 @@
 embeds:
   - title: Heizou
     color: ${ COLORS.ANEMO_GREEN }
-    image: 
-      url: ${INFOGRAPHICS.HEIZOU_1}
     thumbnail:
       url: "https://cdn.discordapp.com/attachments/974036281162080307/998090937597182062/Heizou_New.png"
     description: |-
       *A young prodigy detective from the Tenryou Commission. His senses are sharp and his thoughts are clear.*
-    footer:
-      text: "Use \"Open original\" to view full size. Page 2 Coming Soon!\n\nCredits to: Prévisible#7440 (Designer) | Cuzimori#1535 (Content)"
+
+options: #dropdown   
+  - label: Heizou Quickswap Build Infographic
+    value: characters/anemo/heizou/heizou_build
+    description: KQM's resources for Heizou's Quickswap Builds.
+    emoji: ${EMOJIS.CHARACTER_HEIZOU}
+
+  - label: Heizou On-Field Driver Build Infographic
+    value: characters/anemo/heizou/heizou_build2
+    description: KQM's resources for Heizou's On-field Driver Builds.
+    emoji: ${EMOJIS.CHARACTER_HEIZOU}
+
+  - label: Heizou Team Infographic
+    value: characters/anemo/heizou/heizou_teams
+    description: KQM's resources for Heizou's Teams.
+    emoji: ${EMOJIS.ELEMENT_ANEMO}
 
 buttons:
-#  - customId: "liveInteraction#characters/hydro/heizou/main2"
-#    label: "Teams Infographic"
-#    style: "PRIMARY"
-#    emoji: "▶️"
-
   - label: "Guide"
     url: "https://keqingmains.com/heizou"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/heizou-quickguide"
     emoji: ${ EMOJIS.LOGO }
     style: "LINK"
 
@@ -25,8 +37,3 @@ buttons:
     url: "https://library.keqingmains.com/heizou"
     emoji: ${ EMOJIS.MAGNIFY }
     style: "LINK"
-
-#  - label: "Video Guide"
-#    url: "https://www.youtube.com/watch?v=EiOP60N4p58"
-#    emoji: ${ EMOJIS.YOUTUBE }
-#    style: "LINK"

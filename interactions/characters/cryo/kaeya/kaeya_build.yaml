@@ -8,7 +8,7 @@ embeds:
     description: |-
       *An accomplished swordsman and a strategic thinker in the Knights of Favonius, rumored to hail from beyond Mondstadt.*
     footer:
-      text: "Use \"Open original\" to view full size.\n\nCredits to: casdela (Content) | cuppacote (Designer)"
+      text: "Use \"Open original\" to view full size.\n\nCredits to: cuppacote (Designer) | casdela & spphrs (Content)"
 
 buttons:
   - label: "Guide"
