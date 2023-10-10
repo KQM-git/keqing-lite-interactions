@@ -1,0 +1,4 @@
+interaction: characters/cryo/freminet/main
+description: "Opens KQM's resources on Freminet"
+match: ${ TRIGGER_PREFIX }(?:freminet|frem)(?:\s|$)
+ignoreCase: true
