@@ -1,0 +1,22 @@
+embeds:
+  - title: Lyney
+    color: ${ COLORS.PYRO_ORANGE }
+    image: 
+      url: ${ INFOGRAPHICS.LYNEY_1 }
+    thumbnail:
+      url: "https://keqingmains.com/wp-content/uploads/2023/08/Lyney-Portrait-Icon.webp"
+    description: |-
+      *A genius of a magician famed throughout Fontaine. He moves his audience with a combination of sleight of hand and the gift of the gab. Eloquent, ingenious, and with a mind as hard to fathom as a cat.*
+    footer:
+      text: "Use \"Open original\" to view full size.\n\nCredits to: cuppacote (Content & Designer)"
+
+buttons:
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/lyney-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "TCL"
+    url: "https://library.keqingmains.com/characters/pyro/lyney"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"
