@@ -1,4 +1,4 @@
 interaction: characters/dendro/tighnari/main
 description: "Opens KQM's resources on Tighnari"
-match: ${ TRIGGER_PREFIX }tighnari(?:\s|$)
+match: ${ TRIGGER_PREFIX }(?:tighnari|tigh)(?:\s|$)
 ignoreCase: true

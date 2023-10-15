@@ -1,4 +1,4 @@
 interaction: characters/geo/zhongli/main
 description: "Opens KQM's resources on Zhongli"
-match: ${ TRIGGER_PREFIX }zhongli(?:\s|$)
+match: ${ TRIGGER_PREFIX }(?:zhongli|zl)(?:\s|$)
 ignoreCase: true

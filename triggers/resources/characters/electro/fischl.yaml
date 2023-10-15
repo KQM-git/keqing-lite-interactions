@@ -1,4 +1,4 @@
 interaction: characters/electro/fischl/main
 description: "Opens KQM's resources on Fischl"
-match: ${ TRIGGER_PREFIX }fischl(?:\s|$)
+match: ${ TRIGGER_PREFIX }(?:fischl|oz)(?:\s|$)
 ignoreCase: true

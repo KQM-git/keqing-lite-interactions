@@ -1,4 +1,4 @@
 interaction: characters/anemo/faruzan/main
 description: "Opens KQM's resources on Faruzan"
-match: ${ TRIGGER_PREFIX }faruzan(?:\s|$)
+match: ${ TRIGGER_PREFIX }(?:faruzan|faru)(?:\s|$)
 ignoreCase: true
