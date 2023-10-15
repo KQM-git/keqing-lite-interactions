@@ -1,4 +1,4 @@
 interaction: characters/pyro/hutao/main
 description: "Opens KQM's resources on Hu Tao"
-match: ${ TRIGGER_PREFIX }(hu(\s)?tao|tao?)(?:\s|$)
+match: ${ TRIGGER_PREFIX }(hu(\s)?tao|ht)(?:\s|$)
 ignoreCase: true

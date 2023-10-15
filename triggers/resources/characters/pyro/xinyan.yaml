@@ -1,4 +1,4 @@
 interaction: characters/pyro/xinyan/main
 description: "Opens KQM's Resources on Xinyan"
-match: ${ TRIGGER_PREFIX }xinyan(?:\s|$)
+match: ${ TRIGGER_PREFIX }(?:xinyan|xy)(?:\s|$)
 ignoreCase: true
