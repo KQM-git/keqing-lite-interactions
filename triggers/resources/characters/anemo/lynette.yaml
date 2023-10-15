@@ -1,0 +1,4 @@
+interaction: characters/anemo/lynette/main
+description: "Opens KQM's resources on Lynette"
+match: ${ TRIGGER_PREFIX }lynette(?:\s|$)
+ignoreCase: true
