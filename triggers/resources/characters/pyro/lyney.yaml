@@ -1,0 +1,4 @@
+interaction: characters/pyro/lyney/main
+description: "Opens KQM's resources on Lyney"
+match: ${ TRIGGER_PREFIX }lyney(?:\s|$)
+ignoreCase: true
