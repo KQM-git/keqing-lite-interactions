@@ -14,6 +14,11 @@ buttons:
     emoji: ${ EMOJIS.LOGO }
     style: "LINK"
 
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/amber-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
   - label: "TCL"
     url: "https://library.keqingmains.com/characters/pyro/amber"
     emoji: ${ EMOJIS.MAGNIFY }
