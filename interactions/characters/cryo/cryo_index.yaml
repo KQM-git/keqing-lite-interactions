@@ -65,3 +65,8 @@ options:
     value: characters/cryo/shenhe/main
     description: KQM's resources on Shenhe!
     emoji: ${ EMOJIS.CHARACTER_SHENHE }
+
+  - label: Wriothesley
+    value: characters/cryo/wriothesley/main
+    description: KQM's resources on Wriothesley!
+    emoji: ${ EMOJIS.CHARACTER_WRIOTHESLEY }

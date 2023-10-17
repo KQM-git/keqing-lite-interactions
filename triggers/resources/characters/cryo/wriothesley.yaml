@@ -1,0 +1,4 @@
+interaction: characters/cryo/wriothesley/main
+description: "Opens KQM's resources on Wriothesley"
+match: ${ TRIGGER_PREFIX }(?:wriothesley|wrio|rizzley)(?:\s|$)
+ignoreCase: true
