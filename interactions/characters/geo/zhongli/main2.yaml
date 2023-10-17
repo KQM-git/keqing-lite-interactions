@@ -4,7 +4,7 @@ embeds:
     image: 
       url: ${INFOGRAPHICS.ZHONGLI_2}
     thumbnail:
-      url: "https://github.com/muakasan/genshin-portraits/blob/main/assets/UI_AvatarIcon_Zhongli.png?raw=true"
+      url: ${ICON.CHARACTER_ZHONGLI}
     description: |-
       *A mysterious expert contracted by the Wangsheng Funeral Parlor. Extremely knowledgeable in all things.*
     footer:

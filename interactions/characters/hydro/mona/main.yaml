@@ -2,7 +2,7 @@ embeds:
   - title: Mona
     color: ${ COLORS.HYDRO_BLUE }
     thumbnail:
-      url: "https://muakasan.github.io/genshin-portraits/assets/UI_AvatarIcon_Mona.png"
+      url: ${ICON.CHARACTER_MONA}
     description: |-
       *A mysterious young astrologer who proclaims herself to be "Astrologist Mona Megistus," and who possesses abilities to match the title. Erudite, but prideful.*
 

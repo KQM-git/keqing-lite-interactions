@@ -4,7 +4,7 @@ embeds:
     image: 
       url: ${ INFOGRAPHICS.ALOY_MELT_1 }
     thumbnail:
-      url: "https://keqingmains.com/wp-content/uploads/2021/09/Character_Aloy_Thumb-min.png"
+      url: ${ICON.CHARACTER_ALOY}
     description: |-
       *Formerly an outcast, now a hunter of unparalleled skill. Ready to do the right thing at any time.*
 

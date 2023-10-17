@@ -4,7 +4,7 @@ embeds:
     image: 
       url: ${INFOGRAPHICS.SARA_1}
     thumbnail:
-      url: "https://keqingmains.com/wp-content/uploads/2021/09/Character_Kujou_Sara_Thumb-min-1-1.png"
+      url: ${ICON.CHARACTER_SARA}
     description: |-
       *A general of the Tenryou Commission. Bold, decisive, and skilled in battle.*
     footer:

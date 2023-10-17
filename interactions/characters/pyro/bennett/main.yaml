@@ -2,7 +2,7 @@ embeds:
   - title: Bennett
     color: ${ COLORS.PYRO_ORANGE }
     thumbnail:
-      url: "https://muakasan.github.io/genshin-portraits/assets/UI_AvatarIcon_Bennett.png"
+      url: ${ICON.CHARACTER_BENNETT}
     description: |-
       *A good-natured adventurer from Mondstadt who's unfortunately extremely unlucky.*
 

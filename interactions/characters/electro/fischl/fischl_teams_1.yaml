@@ -4,7 +4,7 @@ embeds:
     image: 
       url: ${INFOGRAPHICS.FISCHL_2}
     thumbnail:
-      url: "https://keqingmains.com/wp-content/uploads/2021/09/UI_AvatarIcon_Fischl.png"
+      url: ${ICON.CHARACTER_FISCHL}
     description: |-
       *A mysterious girl who calls herself "Prinzessin der Verurteilung" and travels with a night raven named Oz.*
     footer:

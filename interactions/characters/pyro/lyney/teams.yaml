@@ -4,7 +4,7 @@ embeds:
     image: 
       url: ${INFOGRAPHICS.LYNEY_2}
     thumbnail:
-      url: "https://keqingmains.com/wp-content/uploads/2023/08/Lyney-Portrait-Icon.webp"
+      url: ${ICON.CHARACTER_LYNEY}
     description: |-
       *A genius of a magician famed throughout Fontaine. He moves his audience with a combination of sleight of hand and the gift of the gab. Eloquent, ingenious, and with a mind as hard to fathom as a cat.*
     footer:

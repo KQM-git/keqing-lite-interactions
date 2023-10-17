@@ -2,7 +2,7 @@ embeds:
   - title: Freeze Ganyu
     color: ${ COLORS.CRYO_BLUE }
     thumbnail:
-      url: "https://keqingmains.com/wp-content/uploads/2021/09/Character_Ganyu_Thumb-min.png"
+      url: ${ICON.CHARACTER_GANYU}
     image: 
       url: ${INFOGRAPHICS.GANYU_FREEZE_2}
     footer:

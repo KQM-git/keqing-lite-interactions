@@ -4,7 +4,7 @@ embeds:
     image: 
       url: ${INFOGRAPHICS.XINGQIU_1}
     thumbnail:
-      url: "https://keqingmains.com/wp-content/uploads/2021/09/UI_AvatarIcon_Xingqiu.png"
+      url: ${ICON.CHARACTER_XINGQIU}
     description: |-
       *A young man carrying a longsword who is frequently seen at book booths. He has a chivalrous heart and yearns for justice and fairness for all.*
     footer:

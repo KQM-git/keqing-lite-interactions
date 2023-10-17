@@ -4,7 +4,7 @@ embeds:
 #    image: 
 #      url: ${INFOGRAPHICS.COLLEI_1}
     thumbnail:
-      url: "https://muakasan.github.io/genshin-portraits/assets/UI_AvatarIcon_Collei.png"
+      url: ${ICON.CHARACTER_COLLEI}
     description: |-
       *A trainee ranger active in Avidya Forest. Behind her enthusiastic words and actions hides a slightly introverted personality.*
 

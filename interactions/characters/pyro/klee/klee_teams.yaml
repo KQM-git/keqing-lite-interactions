@@ -4,7 +4,7 @@ embeds:
     image: 
       url: ${ INFOGRAPHICS.KLEE_2 }
     thumbnail:
-      url: "https://github.com/muakasan/genshin-portraits/blob/main/assets/UI_AvatarIcon_Klee.png?raw=true"
+      url: ${ICON.CHARACTER_KLEE}
     description: |-
       *An explosives expert and a regular at the Knights of Favonius's confinement room. Also known as Fleeing Sunlight.*
     footer:

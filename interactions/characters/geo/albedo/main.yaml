@@ -4,7 +4,7 @@ embeds:
     image: 
       url: "https://cdn.discordapp.com/attachments/953505473125052456/953506104103551016/Albedo_New.png"
     thumbnail:
-      url: "https://github.com/muakasan/genshin-portraits/blob/main/assets/2020121611141454228.png?raw=true"
+      url: ${ICON.CHARACTER_ALBEDO}
     description: |-
       *A genius known as the Kreideprinz, he is the Chief Alchemist and Captain of the Investigation Team of the Knights of Favonius.*
 
@@ -19,13 +19,7 @@ buttons:
     emoji: ${ EMOJIS.MAGNIFY }
     style: "LINK"
 
-#  - label: "Video Guide"
-#    url: "https://www.youtube.com/watch?v=QW40leHPgJ8"
-#    emoji: ${ EMOJIS.YOUTUBE }
-#    style: "LINK"
-
   - label: "Before You Wish"
     url: "https://youtu.be/zdk1xFbRHcY"
     emoji: ${ EMOJIS.PRIMOGEM }
     style: "LINK"
-    

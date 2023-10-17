@@ -4,7 +4,7 @@ embeds:
     image: 
       url: ${ INFOGRAPHICS.YAOYAO_1 }
     thumbnail:
-      url: "https://keqingmains.com/wp-content/uploads/2023/01/Yaoyao.png"
+      url: ${ICON.CHARACTER_YAOYAO}
     description: |-
       *Streetward Rambler’s youngest disciple. A gentle and caring “little adult.”*
     footer:

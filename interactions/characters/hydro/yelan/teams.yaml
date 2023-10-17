@@ -4,7 +4,7 @@ embeds:
     image: 
       url: ${INFOGRAPHICS.YELAN_2}
     thumbnail:
-      url: "https://library.keqingmains.com/img/characters/icon/Yelan.png"
+      url: ${ICON.CHARACTER_YELAN}
     description: |-
       *A mysterious person who claims to work for the Ministry of Civil Affairs, but is a "non-entity" on the Ministry of Civil Affairs' list.*
     footer:
@@ -32,8 +32,3 @@ buttons:
     url: "https://library.keqingmains.com/yelan"
     emoji: ${ EMOJIS.MAGNIFY }
     style: "LINK"
-
-#  - label: "Video Guide"
-#    url: "https://www.youtube.com/watch?v=EiOP60N4p58"
-#    emoji: ${ EMOJIS.YOUTUBE }
-#    style: "LINK"

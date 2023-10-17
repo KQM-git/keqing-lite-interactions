@@ -2,7 +2,7 @@ embeds:
   - title: Faruzan
     color: ${ COLORS.ANEMO_GREEN }
     thumbnail:
-      url: "https://editors.keqingmains.com/wp-content/uploads/2022/12/UI_AvatarIcon_Faruzan.png"
+      url: ${ICON.CHARACTER_FARUZAN}
     description: |-
       *A researcher from "one hundred years ago". She enjoys self-identifying as everyone's senior, and has significant knowledge of ancient scripts and machines of all kinds.*
 
@@ -33,8 +33,3 @@ buttons:
     url: "https://library.keqingmains.com/characters/anemo/faruzan"
     emoji: ${ EMOJIS.MAGNIFY }
     style: "LINK"
-
-#  - label: "Video Guide"
-#    url: "https://www.youtube.com/watch?v=AWlLidtFiDw"
-#    emoji: ${ EMOJIS.YOUTUBE }
-#    style: "LINK"

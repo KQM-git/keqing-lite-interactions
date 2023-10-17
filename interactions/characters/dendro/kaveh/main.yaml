@@ -4,7 +4,7 @@ embeds:
 #    image: 
 #      url: ${INFOGRAPHICS.KAVEH_1}
     thumbnail:
-      url: "https://library.keqingmains.com/img/characters/icon/Kaveh.png"
+      url: ${ICON.CHARACTER_KAVEH}
     description: |-
       *A renowned architect from Sumeru who perhaps cares a bit too much about too many things. He is an aesthete troubled by reality.*
       

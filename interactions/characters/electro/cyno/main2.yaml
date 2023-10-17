@@ -4,7 +4,7 @@ embeds:
     image: 
       url: ${INFOGRAPHICS.CYNO_2}
     thumbnail:
-      url: "https://library.keqingmains.com/img/characters/icon/Cyno.png"
+      url: ${ICON.CHARACTER_CYNO}
     description: |-
       *The General Mahamatra of the Akademiya, leader of all the Matras.*
     footer:

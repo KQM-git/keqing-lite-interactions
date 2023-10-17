@@ -4,7 +4,7 @@ embeds:
 #    image: 
 #      url: ${INFOGRAPHICS.BAIZHU_1}
     thumbnail:
-      url: "https://library.keqingmains.com/img/characters/icon/Baizhu.png"
+      url: ${ICON.CHARACTER_BAIZHU}
     description: |-
       *The owner of Bubu Pharmacy, who is rarely seen without the white snake named Changsheng. His medicinal knowledge is encyclopedic, and his personal intrigues subtle.*
       

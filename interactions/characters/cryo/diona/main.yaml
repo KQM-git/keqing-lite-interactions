@@ -4,7 +4,7 @@ embeds:
     image: 
       url: "https://cdn.discordapp.com/attachments/954058547702943744/969663424848101376/unknown.png"
     thumbnail:
-      url: "https://github.com/muakasan/genshin-portraits/blob/main/assets/UI_AvatarIcon_Diona.png?raw=true"
+      url: ${ICON.CHARACTER_DIONA}
     description: |-
       *A young lady who has inherited trace amounts of non-human blood. She is the incredibly popular bartender of the Cat's Tail tavern.*
 

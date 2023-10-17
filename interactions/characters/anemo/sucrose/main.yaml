@@ -4,7 +4,7 @@ embeds:
     image: 
       url: ${INFOGRAPHICS.SUCROSE_1}
     thumbnail:
-      url: "https://github.com/muakasan/genshin-portraits/blob/main/assets/UI_AvatarIcon_Sucrose.png?raw=true"
+      url: ${ICON.CHARACTER_SUCROSE}
     description: |-
       *An alchemist filled with curiosity about all things. She researches bio-alchemy.*
     footer:

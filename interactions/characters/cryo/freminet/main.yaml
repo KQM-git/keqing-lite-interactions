@@ -2,9 +2,10 @@ embeds:
   - title: Freminet
     color: ${ COLORS.CRYO_BLUE }
     thumbnail:
-      url: "https://keqingmains.com/wp-content/uploads/2023/09/Freminet_Icon.webp"
+      url: ${ICON.CHARACTER_FREMINET}
     description: |-
       *A taciturn young man and an expert diver, his heart remains as innocent as the fairytales that never cease to absorb him.*
+      
       :construction: ***─ Infographic WIP ─*** :construction:    
     #footer:
     #  text: "Use \"Open original\" to view full size. Page 2 Coming Soon!\n\nCredits to: ang tahimik#9252 (Designer) idkanonymized#4166 & GSynthesis66#838 (Content)"

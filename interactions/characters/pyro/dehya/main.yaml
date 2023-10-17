@@ -2,7 +2,7 @@ embeds:
   - title: Dehya
     color: ${ COLORS.PYRO_ORANGE }
     thumbnail:
-      url: "https://library.keqingmains.com/img/characters/icon/Dehya.png"
+      url: ${ICON.CHARACTER_DEHYA}
     description: |-
       *A member of the Eremites, a mercenary organization that roams the sands of Sumeru. Valiant and powerful, she enjoys great fame amongst her fellow Eremites.*
     footer:
@@ -12,12 +12,12 @@ options: #dropdown
   - label: On Field Build
     value: characters/pyro/dehya/on_field_build
     description: KQM's resources for on-field DPS Dehya.
-    emoji: ${EMOJIS.ELEMENT_PYRO }
+    emoji: ${EMOJIS.CHARACTER_DEHYA }
 
   - label: Off Field Build
     value: characters/pyro/dehya/off_field_build
     description: KQM's resources for off-field DPS Dehya.
-    emoji: ${EMOJIS.ELEMENT_PYRO }
+    emoji: ${EMOJIS.CHARACTER_DEHYA }
 
   - label: Teams
     value: characters/pyro/dehya/teams

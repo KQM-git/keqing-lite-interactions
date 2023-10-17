@@ -3,7 +3,7 @@ embeds:
     color: ${COLORS.DENDRO_GREEN}
 
     thumbnail:
-      url: "https://keqingmains.com/wp-content/uploads/2022/10/aether-dendro.png"
+      url: ${ICON.CHARACTER_TRAVELER_M}
     description: |-
       *A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.*
 

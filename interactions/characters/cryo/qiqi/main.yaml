@@ -4,7 +4,7 @@ embeds:
     image: 
       url: "https://cdn.discordapp.com/attachments/953499138627104808/958034575404171294/Qiqi_Enabler_Carry_New.png"
     thumbnail:
-      url: "https://github.com/muakasan/genshin-portraits/blob/main/assets/UI_AvatarIcon_Qiqi.png?raw=true"
+      url: ${ICON.CHARACTER_QIQI}
     description: |-
       *An apprentice and herb gatherer at Bubu Pharmacy. An undead with a bone-white complexion, she seldom has much in the way of words or emotion.*
 
