@@ -1,0 +1,27 @@
+embeds:
+  - title: Wriothesley
+    color: ${COLORS.CRYO_BLUE}
+    thumbnail:
+      url: ${ICONS.CHARACTER_WRIOTHESLEY}
+    description: |-
+      *Duke of the Fortress of Meropide, Lord Incognito of the murky depths.*
+      
+      :construction: ***─ Infographic WIP ─*** :construction:    
+    #footer:
+    #  text: "Use \"Open original\" to view full size. Page 2 Coming Soon!\n\nCredits to: ang tahimik#9252 (Designer) idkanonymized#4166 & GSynthesis66#838 (Content)"
+
+buttons:
+#  - label: "Guide"
+#    url: "https://keqingmains.com/wriothesley/"
+#    emoji: ${ EMOJIS.LOGO }
+#    style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/wriothesley-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  # - label: "TCL"
+  #   url: "https://library.keqingmains.com/characters/cryo/shenhe"
+  #   emoji: ${ EMOJIS.MAGNIFY }
+  #   style: "LINK"
