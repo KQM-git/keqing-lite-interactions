@@ -13,7 +13,7 @@ buttons:
   - label: "ER Calculator Guide"
     style: LINK
     emoji: ${EMOJIS.GOOGLE_DOCS}
-    url: "https://docs.google.com/document/d/1U6R08k5qfW-AtT0SejiSSR2b-WUS2G1iaB1op7WSH_E/edit"
+    url: "https://docs.google.com/document/d/e/2PACX-1vTsbs-nboNg8atTMjZxn8e6jnB8slMzw1c0_zdG7j__5b0tTAciNZqCzWpSIP3HVDX6nOKrYqS9862O/pub"
 
   - label: "Video Guide"
     style: "LINK"
