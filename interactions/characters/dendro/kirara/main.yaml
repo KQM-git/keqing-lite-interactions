@@ -4,7 +4,7 @@ embeds:
 #    image: 
 #      url: ${INFOGRAPHICS.KIRARA_1}
     thumbnail:
-      url: "https://keqingmains.com/wp-content/uploads/2023/05/kirara_icon1.webp"
+      url: ${ICON.CHARACTER_KIRARA}
     description: |-
       *A courier for Komaniya Express, a delivery company in Inazuma. A nekomata who loves her job and human society.*
       

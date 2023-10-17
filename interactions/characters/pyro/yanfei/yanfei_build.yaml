@@ -4,7 +4,7 @@ embeds:
     image: 
       url: ${ INFOGRAPHICS.YANFEI_1 }
     thumbnail:
-      url: "https://muakasan.github.io/genshin-portraits/assets/UI_AvatarIcon_Feiyan.png?raw=true"
+      url: ${ICON.CHARACTER_YANFEI}
     description: |-
       *A well-known legal adviser active in Liyue Harbor. A brilliant young lady in whose veins runs the blood of an illuminated beast.*
     footer:

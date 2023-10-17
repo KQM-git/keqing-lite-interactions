@@ -4,7 +4,7 @@ embeds:
     image: 
       url: https://cdn.discordapp.com/attachments/953505473125052456/953505981109792798/unknown.png
     thumbnail:
-      url: "https://github.com/muakasan/genshin-portraits/blob/main/assets/UI_AvatarIcon_Rosaria.png?raw=true"
+      url: ${ICON.CHARACTER_ROSARIA}
     description: |-
       *A sister of the church, though you wouldn't know it if it weren't for her attire. Known for her sharp, cold words and manner, she often works alone.*
 

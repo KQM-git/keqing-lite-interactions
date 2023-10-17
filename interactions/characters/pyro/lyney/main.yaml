@@ -2,7 +2,7 @@ embeds:
   - title: Lyney
     color: ${ COLORS.PYRO_ORANGE }
     thumbnail:
-      url: "https://keqingmains.com/wp-content/uploads/2023/08/Lyney-Portrait-Icon.webp"
+      url: ${ICON.CHARACTER_LYNEY}
     description: |-
       *A genius of a magician famed throughout Fontaine. He moves his audience with a combination of sleight of hand and the gift of the gab. Eloquent, ingenious, and with a mind as hard to fathom as a cat.*
 
@@ -10,7 +10,7 @@ options: #dropdown
   - label: Builds
     value: characters/pyro/lyney/build
     description: KQM's resources for Lyney Builds.
-    emoji: ${EMOJIS.ELEMENT_PYRO }
+    emoji: ${EMOJIS.CHARACTER_LYNEY }
 
   - label: Teams
     value: characters/pyro/lyney/teams

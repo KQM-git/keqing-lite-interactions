@@ -4,7 +4,7 @@ embeds:
     image: 
       url: "https://cdn.discordapp.com/attachments/953499138627104808/963612611310669894/Razor_New_-_WIP.png"
     thumbnail:
-      url: "https://github.com/muakasan/genshin-portraits/blob/main/assets/UI_AvatarIcon_Razor.png?raw=true"
+      url: ${ICON.CHARACTER_RAZOR}
     description: |-
       *A boy who lives among the wolves in Wolvendom of Mondstadt, away from human civilization. As agile as lightning.*
 
@@ -23,8 +23,3 @@ buttons:
     url: "https://library.keqingmains.com/characters/electro/razor"
     emoji: ${ EMOJIS.MAGNIFY }
     style: "LINK"
-
-#  - label: "Video Guide"
-#    url: "https://www.youtube.com/watch?v=AWlLidtFiDw"
-#    emoji: ${ EMOJIS.YOUTUBE }
-#    style: "LINK"

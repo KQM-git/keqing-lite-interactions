@@ -4,7 +4,7 @@ embeds:
     image: 
       url: ${INFOGRAPHICS.DEHYA_3}
     thumbnail:
-      url: "https://library.keqingmains.com/img/characters/icon/Dehya.png"
+      url: ${ICON.CHARACTER_DEHYA}
     description: |-
       *A member of the Eremites, a mercenary organization that roams the sands of Sumeru. Valiant and powerful, she enjoys great fame amongst her fellow Eremites.*
     footer:

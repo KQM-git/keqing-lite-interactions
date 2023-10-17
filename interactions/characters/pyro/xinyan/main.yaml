@@ -4,7 +4,7 @@ embeds:
     image: 
       url: ${INFOGRAPHICS.XINYAN_1}
     thumbnail:
-      url: "https://keqingmains.com/wp-content/uploads/2021/09/UI_AvatarIcon_Xinyan.png"
+      url: ${ICON.CHARACTER_TXINYAN}
     description: |-
       *Liyue's sole rock 'n' roll musician. She rebels against ossified prejudices using her music and passionate singing.*
     footer:
@@ -20,8 +20,3 @@ buttons:
     url: "https://library.keqingmains.com/characters/pyro/xinyan"
     emoji: ${ EMOJIS.MAGNIFY }
     style: "LINK"
-
-#  - label: "Video Guide"
-#    url: ""
-#    emoji: ${ EMOJIS.YOUTUBE }
-#    style: "LINK"

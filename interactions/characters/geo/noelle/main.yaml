@@ -4,7 +4,7 @@ embeds:
     image: 
       url: "https://cdn.discordapp.com/attachments/953505473125052456/953506107781959730/Noelle_New.png"
     thumbnail:
-      url: "https://github.com/muakasan/genshin-portraits/blob/main/assets/UI_AvatarIcon_Noel.png?raw=true"
+      url: ${ICON.CHARACTER_NOELLE}
     description: |-
       *A maid who faithfully serves the Knights of Favonius. She dreams of joining their ranks someday.*
 
@@ -23,8 +23,3 @@ buttons:
     url: "https://library.keqingmains.com/characters/geo/noelle"
     emoji: ${ EMOJIS.MAGNIFY }
     style: "LINK"
-
-#  - label: "Video Guide"
-#    url: "https://www.youtube.com/watch?v=QW40leHPgJ8"
-#    emoji: ${ EMOJIS.YOUTUBE }
-#    style: "LINK"

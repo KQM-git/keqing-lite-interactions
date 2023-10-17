@@ -4,7 +4,7 @@ embeds:
     image: 
       url: ${INFOGRAPHICS.CANDACE_1}
     thumbnail:
-      url: "https://library.keqingmains.com/img/characters/icon/Candace.png"
+      url: ${ICON.CHARACTER_CANDACE}
     description: |-
       *The scion of Al-Ahmar and the Guardian of Aaru Village.*
     footer:

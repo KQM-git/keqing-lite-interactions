@@ -2,7 +2,7 @@ embeds:
   - title: Neuvillette
     color: ${COLORS.HYDRO_BLUE }
     thumbnail:
-      url: "https://keqingmains.com/wp-content/uploads/2023/09/neuvillette_087.webp"
+      url: ${ICON.CHARACTER_NEUVILETTE}
     description: |-
       *You wouldn't exactly describe the Iudex of Fontaine as "approachable." It's hard to say whether it's just in his nature, or because he has secrets to hide.*
       :construction: ***─ Infographic WIP ─*** :construction:    
@@ -19,3 +19,8 @@ buttons:
     url: "https://keqingmains.com/q/neuvillette-quickguide/"
     emoji: ${ EMOJIS.LOGO }
     style: "LINK"
+
+  # - label: "TCL"
+  #   url: "https://library.keqingmains.com/neuvilette"
+  #   emoji: ${ EMOJIS.MAGNIFY }
+  #   style: "LINK"

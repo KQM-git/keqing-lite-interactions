@@ -4,7 +4,7 @@ embeds:
     image: 
       url: ${INFOGRAPHICS.KAZUHA_2}
     thumbnail:
-      url: "https://github.com/muakasan/genshin-portraits/blob/main/assets/UI_AvatarIcon_Kazuha.png?raw=true"
+      url: ${ICON.CHARACTER_KAZUHA}
     description: |-
       *A wandering samurai from Inazuma who is currently with Liyue's Crux Fleet. A gentle and carefree soul whose heart hides a great many burdens from the past.*
     footer:

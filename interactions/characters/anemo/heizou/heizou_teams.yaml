@@ -4,7 +4,7 @@ embeds:
     image: 
       url: ${INFOGRAPHICS.HEIZOU_3}
     thumbnail:
-      url: "https://cdn.discordapp.com/attachments/974036281162080307/998090937597182062/Heizou_New.png"
+      url: ${ICON.CHARACTER_HEIZOU}
     description: |-
       *A young prodigy detective from the Tenryou Commission. His senses are sharp and his thoughts are clear.*
     footer:

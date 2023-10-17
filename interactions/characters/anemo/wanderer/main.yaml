@@ -4,7 +4,7 @@ embeds:
     # image: 
     #  url: "insert infographic link"
     thumbnail:
-      url: "https://editors.keqingmains.com/wp-content/uploads/2022/12/wanderer_075_icon.webp"
+      url: ${ICON.CHARACTER_WANDERER}
     description: |-
       *If the measure of humanity is having a heart, then he cannot be deemed as such.*
       *If one without a heart experiences joy and sorrow, then he shall be a puppet most alike to humanity.*

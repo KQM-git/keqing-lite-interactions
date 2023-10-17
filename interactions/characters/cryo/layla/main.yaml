@@ -4,7 +4,7 @@ embeds:
     image: 
       url: ${ INFOGRAPHICS.LAYLA_1 }
     thumbnail:
-      url: "https://keqingmains.com/wp-content/uploads/2022/10/layla_074_icon-min.png"
+      url: ${ICON.CHARACTER_LAYLA}
     description: |-
       *A Rtawahist student who always looks sleep-deprived. Her dark eye circles have been worsening due to academic stress.*
     footer:

@@ -4,7 +4,7 @@ embeds:
     image: 
       url: ${INFOGRAPHICS.YOIMIYA_1}
     thumbnail:
-      url: "https://github.com/muakasan/genshin-portraits/blob/main/assets/UI_AvatarIcon_Yoimiya.png?raw=true"
+      url: ${ICON.CHARACTER_YOIMIYA}
     description: |-
       *Owner of Naganohara Fireworks. Known as the "Queen of the Summer Festival," she excels in her craft of creating fireworks that symbolize people's hopes and dreams.*
     footer:
@@ -30,11 +30,6 @@ buttons:
     url: "https://youtu.be/FjDsbxPbk50"
     emoji: ${ EMOJIS.YOUTUBE }
     style: "LINK"
-    
-#  - label: "Before You Wish"
-#    url: "https://youtu.be/2gj3GUTEaBY"
-#    emoji: ${ EMOJIS.PRIMOGEM }
-#    style: "LINK"
   
   - customId: "liveInteraction#faq/yoimiyavape"
     label: "Vaporize Pattern"

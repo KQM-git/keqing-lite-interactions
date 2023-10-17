@@ -4,7 +4,7 @@ embeds:
     image: 
       url: ${INFOGRAPHICS.XIAO_1}
     thumbnail:
-      url: "https://muakasan.github.io/genshin-portraits/assets/UI_AvatarIcon_Xiao.png"
+      url: ${ICON.CHARACTER_XIAO}
     description: |-
       *A yaksha adeptus who defends Liyue. Also heralded as the "Conqueror of Demons" and "Vigilant Yaksha."*
     footer:

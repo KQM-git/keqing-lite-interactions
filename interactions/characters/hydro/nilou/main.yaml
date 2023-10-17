@@ -4,7 +4,7 @@ embeds:
     image: 
       url: ${INFOGRAPHICS.NILOU_1}
     thumbnail:
-      url: "https://library.keqingmains.com/img/characters/icon/Nilou.png"
+      url: ${ICON.CHARACTER_NILOU}
     description: |-
       *The star of the Zubayr Theater. She is full of warmth and innocence, and her dances are lively and elegant.*
 

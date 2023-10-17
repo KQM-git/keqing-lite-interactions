@@ -2,7 +2,7 @@ embeds:
   - title: Raiden
     color: ${ COLORS.ELECTRO_PURPLE }
     thumbnail:
-      url: "https://keqingmains.com/wp-content/uploads/2021/09/UI_AvatarIcon_Shougun.png"
+      url: ${ICON.CHARACTER_RAIDEN}
     description: |-
       *Her Excellency, the Almighty Narukami Ogosho, who promised the people of Inazuma an unchanging Eternity.*
     footer:

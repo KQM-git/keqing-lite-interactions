@@ -2,7 +2,7 @@ embeds:
   - title: Fischl
     color: ${ COLORS.ELECTRO_PURPLE }
     thumbnail:
-      url: "https://keqingmains.com/wp-content/uploads/2021/09/UI_AvatarIcon_Fischl.png"
+      url: ${ICON.CHARACTER_FISCHL}
     description: |-
       *A mysterious girl who calls herself "Prinzessin der Verurteilung" and travels with a night raven named Oz.*
 
@@ -12,12 +12,12 @@ options: #dropdown
   - label: Weapons 
     value: faq/fischlwep
     description: Fischl Weapon Rankings
-    emoji: <:Fischl:953426425959034920>
+    emoji: ${EMOJIS.CHARACTER_FISCHL}
 
   - label: Fischl Build Infographic
     value: characters/electro/fischl/fischl_build
     description: KQM's resources for Fischl Builds.
-    emoji: ${EMOJIS.ELEMENT_ELECTRO }
+    emoji: ${EMOJIS.CHARACTER_FISCHL}
 
   - label: Fischl Team Infographic
     value: characters/electro/fischl/fischl_teams_1

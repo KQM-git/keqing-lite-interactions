@@ -4,7 +4,7 @@ embeds:
     image: 
       url: ${ INFOGRAPHICS.LYNETTE_1 }
     thumbnail:
-      url: "https://keqingmains.com/wp-content/uploads/2023/08/lynette_icon.webp"
+      url: ${ICON.CHARACTER_LYNETTE}
     description: |-
       *A magician's assistant hidden in the shadows who refers to herself as a "Multi-Function Magic Assistant." Poker-faced, reticent to speak, and as unpredictable in her movements as a cat.*
     footer:

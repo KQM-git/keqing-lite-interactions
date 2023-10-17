@@ -4,7 +4,7 @@ embeds:
     image: 
       url: ${INFOGRAPHICS.BARBARA_2}
     thumbnail:
-      url: "https://muakasan.github.io/genshin-portraits/assets/UI_AvatarIcon_Barbara.png"
+      url: ${ICON.CHARACTER_BARBARA}
     description: |-
       *Every citizen of Mondstadt adores Barbara. She learned the word "idol" from a magazine.*
     footer:
@@ -33,8 +33,3 @@ buttons:
     url: "https://library.keqingmains.com/barbara"
     emoji: ${ EMOJIS.MAGNIFY }
     style: "LINK"
-
-#  - label: "Video Guide"
-#    url: "https://www.youtube.com/watch?v=QW40leHPgJ8"
-#    emoji: ${ EMOJIS.YOUTUBE }
-#    style: "LINK"

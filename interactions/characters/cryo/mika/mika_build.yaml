@@ -2,7 +2,7 @@ embeds:
   - title: Mika 
     color: ${ COLORS.CRYO_BLUE }
     thumbnail:
-      url: "https://library.keqingmains.com/img/characters/icon/Mika.png"
+      url: ${ICON.CHARACTER_MIKA}
     image: 
       url: ${INFOGRAPHICS.MIKA_1}
     description: |-
@@ -29,10 +29,3 @@ buttons:
     url: "https://library.keqingmains.com/characters/cryo/mika"
     emoji: ${ EMOJIS.MAGNIFY }
     style: "LINK"
-
-  # - label: "Video Guide"
-  #  url: 
-  #  emoji: ${ EMOJIS.YOUTUBE }
-  #  style: "LINK"
-
-

@@ -4,7 +4,7 @@ embeds:
     image: 
       url: "https://cdn.discordapp.com/attachments/954058547702943744/969958434961227816/unknown.png"
     thumbnail:
-      url: "https://github.com/muakasan/genshin-portraits/blob/main/assets/UI_AvatarIcon_Ayaka.png?raw=true"
+      url: ${ICON.CHARACTER_AYAKA}
     description: |-
       *Daughter of the Yashiro Commission's Kamisato Clan. Dignified and elegant, as well as wise and strong.*
 

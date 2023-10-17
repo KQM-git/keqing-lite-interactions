@@ -4,7 +4,7 @@ embeds:
     image: 
       url: ${INFOGRAPHICS.YAE_1}
     thumbnail:
-      url: "https://github.com/muakasan/genshin-portraits/blob/main/assets/UI_AvatarIcon_Yae.png?raw=true"
+      url: ${ICON.CHARACTER_YAE}
     description: |-
       *Lady Guuji of the Grand Narukami Shrine. Also serves as the editor-in-chief of Yae Publishing House. Unimaginable intelligence and cunning are hidden under her beautiful appearance.*
     footer:
