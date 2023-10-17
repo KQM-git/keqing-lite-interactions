@@ -31,6 +31,11 @@ options:
     description: KQM's resources on Kazuha!
     emoji: ${ EMOJIS.CHARACTER_KAZUHA }
 
+  - label: Lynette
+    value: characters/anemo/lynette/main
+    description: KQM's resources on Lynette!
+    emoji: ${ EMOJIS.CHARACTER_LYNETTE }
+
   - label: Sayu
     value: characters/anemo/sayu/main
     description: KQM's resources on Sayu!

@@ -16,6 +16,11 @@ options:
     description: KQM's resources on Cyno!
     emoji: ${ EMOJIS.CHARACTER_CYNO }
 
+  - label: Dori
+    value: characters/electro/dori/main
+    description: KQM's resources on Dori!
+    emoji: ${ EMOJIS.CHARACTER_DORI }
+
   - label: Electro Traveler
     value: characters/electro/electrotraveler/main
     description: KQM's resources on the Electro Main Character!

@@ -11,10 +11,25 @@ options:
     description: KQM's resources on Alhaitham!
     emoji: ${ EMOJIS.CHARACTER_ALHAITHAM }
 
+  - label: Baizhu
+    value: characters/dendro/baizhu/main
+    description: KQM's resources on Baizhu!
+    emoji: ${ EMOJIS.CHARACTER_BAIZHU }
+
   - label: Collei
     value: characters/dendro/collei/main
     description: KQM's resources on Collei!
     emoji: ${ EMOJIS.CHARACTER_COLLEI }
+
+  - label: Kaveh
+    value: characters/dendro/kaveh/main
+    description: KQM's resources on Kaveh!
+    emoji: ${ EMOJIS.CHARACTER_KAVEH }
+
+  - label: Kirara
+    value: characters/dendro/kirara/main
+    description: KQM's resources on Kirara!
+    emoji: ${ EMOJIS.CHARACTER_KIRARA }
 
   - label: Nahida
     value: characters/dendro/nahida/main
