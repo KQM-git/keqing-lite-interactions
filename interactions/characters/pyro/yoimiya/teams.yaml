@@ -11,13 +11,13 @@ embeds:
       text: "Use \"Open original\" to view full size.\n\nCredits to: euphorysm#1618 (Designer) | Ayzel#7399 (Content)"
       
 buttons:
-  - customId: "liveInteraction#characters/pyro/yoimiya/main"
-    label: "Basics"
-    style: "PRIMARY"
-    emoji: "◀️"
-
   - label: "Guide"
     url: "https://keqingmains.com/yoimiya/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/yoimiya-quickguide/"
     emoji: ${ EMOJIS.LOGO }
     style: "LINK"
 
@@ -29,9 +29,4 @@ buttons:
   - label: "Video Guide"
     url: "https://youtu.be/FjDsbxPbk50"
     emoji: ${ EMOJIS.YOUTUBE }
-    style: "LINK"
-
-  - customId: "liveInteraction#faq/yoimiyavape"
-    label: "Vaporize Pattern"
-    style: "PRIMARY"
-    emoji: ${ EMOJIS.ELEMENT_PYRO }  
+    style: "LINK

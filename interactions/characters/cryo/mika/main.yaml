@@ -19,10 +19,10 @@ options: #dropdown
 
 
 buttons:
-  # - label: "Guide"
-  #  url: "https://keqingmains.com/mika/"
-  #  emoji: ${ EMOJIS.LOGO }
-  #  style: "LINK"
+  - label: "Guide"
+   url: "https://keqingmains.com/mika/"
+   emoji: ${ EMOJIS.LOGO }
+   style: "LINK"
 
   - label: "Quick Guide"
     url: "https://keqingmains.com/q/mika-quickguide/"

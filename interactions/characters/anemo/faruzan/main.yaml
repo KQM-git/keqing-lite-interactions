@@ -19,10 +19,10 @@ options: #dropdown
     emoji: ${EMOJIS.ELEMENT_ANEMO }
 
 buttons:
-  # - label: "Guide"
-  #  url: "https://keqingmains.com/faruzan/"
-  #  emoji: ${ EMOJIS.LOGO }
-  #  style: "LINK"
+  - label: "Guide"
+   url: "https://keqingmains.com/faruzan/"
+   emoji: ${ EMOJIS.LOGO }
+   style: "LINK"
 
   - label: "Quick Guide"
     url: "https://keqingmains.com/q/faruzan-quickguide/"
