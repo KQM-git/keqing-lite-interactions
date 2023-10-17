@@ -35,6 +35,11 @@ options:
     value: characters/pyro/klee/main
     description: KQM's resources on Klee!
     emoji: ${ EMOJIS.CHARACTER_KLEE }
+
+  - label: Lyney
+    value: characters/pyro/lyney/main
+    description: KQM's resources on Lyney!
+    emoji: ${ EMOJIS.CHARACTER_LYNEY }
       
   - label: Thoma
     value: characters/pyro/thoma/main
