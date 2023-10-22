@@ -4,7 +4,7 @@ embeds:
     image: 
       url: ${INFOGRAPHICS.XINYAN_1}
     thumbnail:
-      url: ${ICON.CHARACTER_TXINYAN}
+      url: ${ICON.CHARACTER_XINYAN}
     description: |-
       *Liyue's sole rock 'n' roll musician. She rebels against ossified prejudices using her music and passionate singing.*
     footer:
