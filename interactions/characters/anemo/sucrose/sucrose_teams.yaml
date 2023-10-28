@@ -1,21 +1,15 @@
 embeds:
   - title: Sucrose
     color: ${ COLORS.ANEMO_GREEN }
+    image: 
+      url: ${INFOGRAPHICS.SUCROSE_2}
     thumbnail:
       url: ${ICON.CHARACTER_SUCROSE}
     description: |-
-      *An alchemist filled with curiosity about all things. She researches bio-alchemy.*
-
-options: #dropdown
-  - label: Sucrose Build Infographic
-    value: characters/anemo/sucrose/sucrose_build
-    description: KQM's resources for Sucrose Builds.
-    emoji: ${EMOJIS.CHARACTER_Sucrose}
-
-  - label: Sucrose Teams Infographic
-    value: characters/anemo/sucrose/sucrose_teams
-    description: KQM's resources for Sucrose Teams.
-    emoji: ${EMOJIS.ELEMENT_ANEMO}
+      ★★★★
+      *Anemo Catalyst*
+    footer:
+      text: "Use \"Open original\" to view full size.\n\nCredits to: ang tahimik#9252 (Designer) | juko#9385 (Content)"
 
 buttons:
   - label: "Guide"

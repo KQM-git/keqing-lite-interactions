@@ -6,7 +6,8 @@ embeds:
     thumbnail:
       url: ${ICON.CHARACTER_FARUZAN}
     description: |-
-      *A researcher from "one hundred years ago". She enjoys self-identifying as everyone's senior, and has significant knowledge of ancient scripts and machines of all kinds.*
+      ★★★★
+      *Anemo Bow*
     footer:
       text: "Use \"Open original\" to view full size.\n\nCredits to: angtahimik (Designer) | nociii (Content)"
 
@@ -19,9 +20,9 @@ buttons:
     emoji: "◀️"
 
   - label: "Guide"
-   url: "https://keqingmains.com/faruzan/"
-   emoji: ${ EMOJIS.LOGO }
-   style: "LINK"
+    url: "https://keqingmains.com/faruzan/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
 
   - label: "Quick Guide"
     url: "https://keqingmains.com/q/faruzan-quickguide/"

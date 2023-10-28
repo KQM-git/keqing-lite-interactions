@@ -6,7 +6,8 @@ embeds:
     thumbnail:
       url: ${ICON.CHARACTER_KAZUHA}
     description: |-
-      *A wandering samurai from Inazuma who is currently with Liyue's Crux Fleet. A gentle and carefree soul whose heart hides a great many burdens from the past.*
+      ★★★★★
+      *Anemo Sword*    
     footer:
       text: "Use \"Open original\" to view full size.\n\nCredits to: zelard & cuppcote (Designer) | irokei (Content)"
 
