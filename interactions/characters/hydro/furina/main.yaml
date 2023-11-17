@@ -1,0 +1,28 @@
+embeds:
+  - title: Furina
+    color: ${ COLORS.HYDRO_BLUE }
+    image:
+      url: ${INFOGRAPHICS.FURINA_1}
+    thumbnail: 
+      url: ${ICON.CHARACTER_FURINA}
+    description: |-
+      ★★★★★
+      *Hydro Sword*
+    footer:
+      text: "Use \"Open original\" to view full size.\n\nCredits to: euphorysm (Designer & Content)"
+
+buttons:
+  # - label: "Guide"
+  #   url: "https://keqingmains.com/ayato"
+  #   emoji: ${ EMOJIS.LOGO }
+  #   style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/furina-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  # - label: "TCL"
+  #   url: "https://library.keqingmains.com/furina"
+  #   emoji: ${ EMOJIS.MAGNIFY }
+  #   style: "LINK"

@@ -21,6 +21,11 @@ options:
     description: KQM's resources on Candace!
     emoji: ${ EMOJIS.CHARACTER_CANDACE }
 
+  - label: Furina
+    value: characters/hydro/furina/main
+    description: KQM's resources on Furina!
+    emoji: ${ EMOJIS.CHARACTER_FURINA }
+
   - label: Kokomi
     value: characters/hydro/kokomi/main
     description: KQM's resources on Kokomi!

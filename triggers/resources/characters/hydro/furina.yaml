@@ -1,0 +1,4 @@
+interaction: characters/hydro/furina/main
+description: "Opens KQM's resources on Furina"
+match: ${ TRIGGER_PREFIX }furina(?:\s|$)
+ignoreCase: true
