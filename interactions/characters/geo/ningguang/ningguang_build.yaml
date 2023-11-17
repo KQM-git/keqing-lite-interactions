@@ -2,7 +2,7 @@ embeds:
   - title: Ningguang
     color: ${ COLORS.GEO_YELLOW }
     image: 
-      url: ${INFOGRAPHICS.NINGGUANG_2}
+      url: ${INFOGRAPHICS.NINGGUANG_1}
     thumbnail:
       url: ${ICON.CHARACTER_NINGGUANG}
     description: |-
