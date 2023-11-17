@@ -1,0 +1,33 @@
+embeds:
+  - title: Amber
+    color: ${ COLORS.PYRO_ORANGE }
+    image: 
+      url: ${INFOGRAPHICS.AMBER_2}
+    thumbnail:
+      url: ${ICON.CHARACTER_AMBER}
+    description: |-
+      ★★★★
+      *Pyro Bow*
+    footer:
+      text: "Use \"Open original\" to view full size.\n\nCredits to: angtahimik & cuppacote (Designer) | cozen. (Content)"
+
+buttons:
+  - label: "Guide"
+    url: "https://keqingmains.com/amber/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/amber-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "TCL"
+    url: "https://library.keqingmains.com/characters/pyro/amber"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"
+
+  - label: "Video Guide"
+    url: "https://www.youtube.com/watch?v=QW40leHPgJ8"
+    emoji: ${ EMOJIS.YOUTUBE }
+    style: "LINK"

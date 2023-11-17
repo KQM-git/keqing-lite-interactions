@@ -30,9 +30,15 @@ IMAGES:
   KQM_LOGO: "https://i2.wp.com/keqingmains.com/wp-content/uploads/2021/10/kqm-logo-full-e1633177025729.png"
 
 INFOGRAPHICS:
+  ALBEDO_1: "https://keqingmains.com/wp-content/uploads/2023/09/Albedo_Infographic_1_Build.png"
+  ALBEDO_2: "https://keqingmains.com/wp-content/uploads/2023/09/Albedo_Infographic_2.png"
   ALOY_MELT_1: "https://keqingmains.com/wp-content/uploads/2023/04/Melt_DPS_Aloy_1.png"
   ALOY_SUPPORT_1: "https://keqingmains.com/wp-content/uploads/2023/04/Support_Aloy_1.png"
   ALOY_2: "https://keqingmains.com/wp-content/uploads/2023/04/Support__Melt_DPS_Aloy_2.png"
+  AMBER_1: "https://keqingmains.com/wp-content/uploads/2023/08/Amber_Melt_1.png"    # melt build
+  AMBER_2: "https://keqingmains.com/wp-content/uploads/2023/08/Amber_C4_Melt_1.png" # C4 melt build
+  AMBER_3: "https://keqingmains.com/wp-content/uploads/2023/08/Amber_Burgeon_1.png" # burgeon build
+  AMBER_4: "https://keqingmains.com/wp-content/uploads/2023/08/Amber_2.png"         # teams
   BARBARA_1: "https://keqingmains.com/wp-content/uploads/2022/08/Barbara_1.png"
   BARBARA_2: "https://keqingmains.com/wp-content/uploads/2023/07/Barbara_2.png"
   CANDACE_1: "https://keqingmains.com/wp-content/uploads/2023/02/Candace_1.png"
@@ -51,7 +57,7 @@ INFOGRAPHICS:
   FARUZAN_2: "https://keqingmains.com/wp-content/uploads/2023/07/Faruzan_2.png"
   FISCHL_1: "https://keqingmains.com/wp-content/uploads/2022/09/Fischl_1.png"
   FISCHL_2: "https://keqingmains.com/wp-content/uploads/2022/09/Fischl_2.png"
-  FISCHL_3: "https://keqingmains.com/wp-content/uploads/2022/09/Fischl_3.png"
+  FISCHL_3: "https://keqingmains.com/wp-content/uploads/2023/07/Fischl_3_6.png"
   FURINA_1: "https://keqingmains.com/wp-content/uploads/2023/11/Furina-4.2.png"
   GANYU_FREEZE_1: "https://media.discordapp.net/attachments/1011367402572890132/1100989742847373405/Ganyu_Freeze_1.png"
   GANYU_FREEZE_2: "https://media.discordapp.net/attachments/1011367402572890132/1100989743157743616/Ganyu_Freeze_2.png"
@@ -80,10 +86,10 @@ INFOGRAPHICS:
   LISA_3: "https://keqingmains.com/wp-content/uploads/2022/10/Lisa_3.png" #reaction dps build
   LISA_4: "https://keqingmains.com/wp-content/uploads/2022/10/Lisa_4.png" #teams
   LISA_5: "https://keqingmains.com/wp-content/uploads/2022/10/Lisa_5.png" #teams
-  LYNETTE_1: "https://keqingmains.com/wp-content/uploads/2023/08/LynetteBuild-768x1137.png" #build
-  LYNETTE_2: "https://keqingmains.com/wp-content/uploads/2023/08/LynetteTeams-768x1137.png" #teams
-  LYNEY_1: "https://keqingmains.com/wp-content/uploads/2023/09/Lyney_1-768x1137.png"
-  LYNEY_2: "https://keqingmains.com/wp-content/uploads/2023/09/Lyney_2-768x1137.png" #teams
+  LYNETTE_1: "https://keqingmains.com/wp-content/uploads/2023/08/LynetteBuild.png" #build
+  LYNETTE_2: "https://keqingmains.com/wp-content/uploads/2023/08/LynetteTeams.png" #teams
+  LYNEY_1: "https://keqingmains.com/wp-content/uploads/2023/09/Lyney_1.png"
+  LYNEY_2: "https://keqingmains.com/wp-content/uploads/2023/09/Lyney_2.png" #teams
   MIKA_1: "https://keqingmains.com/wp-content/uploads/2023/06/Mika_1.png"
   MIKA_2: "https://keqingmains.com/wp-content/uploads/2023/06/Mika_2.png"
   MONA_1: "https://cdn.discordapp.com/attachments/953505473125052456/953505851036024893/Mona_On-field_DPS_New.png"
@@ -92,10 +98,12 @@ INFOGRAPHICS:
   NAHIDA_2: "https://keqingmains.com/wp-content/uploads/2023/07/Nahida_2.png"
   NAHIDA_3: "https://keqingmains.com/wp-content/uploads/2023/07/Nahida_3.png"
   NILOU_1: "https://keqingmains.com/wp-content/uploads/2022/11/Nilou-Infographic-Main-min.png"
-  RAIDEN_1: "https://keqingmains.com/wp-content/uploads/2023/07/Raiden_1.png" #onfield builds
-  RAIDEN_2: "https://keqingmains.com/wp-content/uploads/2023/07/Raiden_2.png" #onfield teams
-  RAIDEN_3: "https://keqingmains.com/wp-content/uploads/2023/07/Raiden_Hyperbloom_1.png" #hyperbloom builds
-  RAIDEN_4: "https://keqingmains.com/wp-content/uploads/2023/07/Raiden_Hyperbloom_2.png" #hyperbloom teams
+  NINGUANG_1: "https://keqingmains.com/wp-content/uploads/2022/10/Ningguang_1.png"  #build
+  NINGUANG_2: "https://keqingmains.com/wp-content/uploads/2022/10/Ningguang_2.png"  #teams  
+  RAIDEN_1: "https://keqingmains.com/wp-content/uploads/2023/08/Raiden-On-Field-Battery-3.7.png" #onfield builds
+  RAIDEN_2: "https://keqingmains.com/wp-content/uploads/2023/08/Raiden-Team-3.7.png" #onfield teams
+  RAIDEN_3: "https://keqingmains.com/wp-content/uploads/2023/08/Raiden-Off-Field-Hyperbloom-3.7.png" #hyperbloom builds
+  RAIDEN_4: "https://keqingmains.com/wp-content/uploads/2023/08/Raiden-Hyperbloom-Guide-3.7.png" #hyperbloom teams
   SARA_1: "https://keqingmains.com/wp-content/uploads/2023/02/Sara_1.png"
   SARA_2:  "https://keqingmains.com/wp-content/uploads/2023/02/Sara_2.png"
   SHENHE_1: "https://keqingmains.com/wp-content/uploads/2023/03/Shenhe-1.png"
