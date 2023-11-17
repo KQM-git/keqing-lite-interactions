@@ -2,7 +2,7 @@ embeds:
   - title: Wriothesley
     color: ${COLORS.CRYO_BLUE}
     thumbnail:
-      url: ${ICONS.CHARACTER_WRIOTHESLEY}
+      url: ${ICON.CHARACTER_WRIOTHESLEY}
     description: |-
       *Duke of the Fortress of Meropide, Lord Incognito of the murky depths.*
       

@@ -10,7 +10,7 @@ options: #dropdown
   - label: Sucrose Build Infographic
     value: characters/anemo/sucrose/sucrose_build
     description: KQM's resources for Sucrose Builds.
-    emoji: ${EMOJIS.CHARACTER_Sucrose}
+    emoji: ${EMOJIS.CHARACTER_SUCROSE}
 
   - label: Sucrose Teams Infographic
     value: characters/anemo/sucrose/sucrose_teams
