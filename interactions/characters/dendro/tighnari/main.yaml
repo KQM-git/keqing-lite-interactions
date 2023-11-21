@@ -8,12 +8,12 @@ embeds:
 
 options: #dropdown
   - label: Tighnari Build Infographic
-    value: characters/anemo/tighnari/tighnari_build
+    value: characters/dendro/tighnari/tighnari_build
     description: KQM's resources for Tighnari Builds.
     emoji: ${EMOJIS.CHARACTER_TIGHNARI}
 
   - label: Tighnari Teams Infographic
-    value: characters/anemo/tighnari/tighnari_teams
+    value: characters/dendro/tighnari/tighnari_teams
     description: KQM's resources for Tighnari Teams.
     emoji: ${EMOJIS.ELEMENT_DENDRO}
 
