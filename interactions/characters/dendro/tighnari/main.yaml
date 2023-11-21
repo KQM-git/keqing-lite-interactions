@@ -1,20 +1,23 @@
 embeds:
   - title: Tighnari
     color: ${COLORS.DENDRO_GREEN}
-    image: 
-      url: ${INFOGRAPHICS.TIGHNARI_1}
     thumbnail:
       url: ${ICON.CHARACTER_TIGHNARI}
     description: |-
       *A young researcher well-versed in botany who currently serves as a Forest Watcher in Avidya Forest. He is a straight shooter with a warm heart — and a dab hand at guiding even the dullest of pupils.*
-    footer:
-      text: "Use \"Open original\" to view full size.\n\nCredits to: ang tahimik#9252 (Designer) | dank#9601, Cuzimori#1535, idkanonymized#4166 (Content)"
+
+options: #dropdown
+  - label: Tighnari Build Infographic
+    value: characters/anemo/tighnari/tighnari_build
+    description: KQM's resources for Tighnari Builds.
+    emoji: ${EMOJIS.CHARACTER_TIGHNARI}
+
+  - label: Tighnari Teams Infographic
+    value: characters/anemo/tighnari/tighnari_teams
+    description: KQM's resources for Tighnari Teams.
+    emoji: ${EMOJIS.ELEMENT_DENDRO}
 
 buttons:
-  - customId: "liveInteraction#characters/dendro/tighnari/main2"
-    label: "Teams Infographic"
-    style: "PRIMARY"
-    emoji: "▶️"
 
   - label: "Guide"
     url: "https://keqingmains.com/tighnari/"

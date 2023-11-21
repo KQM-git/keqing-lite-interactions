@@ -1,22 +1,15 @@
 embeds:
   - title: Yaoyao
     color: ${ COLORS.DENDRO_GREEN }
+    image: 
+      url: ${ INFOGRAPHICS.YAOYAO_1 }
     thumbnail:
       url: ${ICON.CHARACTER_YAOYAO}
     description: |-
-      *Streetward Rambler’s youngest disciple. A gentle and caring “little adult.”*
-
-options: #dropdown
-  - label: Yaoyao Build Infographic
-    value: characters/anemo/yaoyao/yaoyao_build
-    description: KQM's resources for Yaoyao Builds.
-    emoji: ${EMOJIS.CHARACTER_YAOYAO}
-
-  - label: Yaoyao Teams Infographic
-    value: characters/anemo/yaoyao/yaoyao_teams
-    description: KQM's resources for Yaoyao Teams.
-    emoji: ${EMOJIS.ELEMENT_YAOYAO}
-
+      ★★★★
+      *Dendro Polearm*   
+    footer:
+      text: "Use \"Open original\" to view full size.\n\nCredits to: IcedSquid#3207 (Designer) cote#4733 & Seima#4597 (Content)"
 
 buttons:
 
