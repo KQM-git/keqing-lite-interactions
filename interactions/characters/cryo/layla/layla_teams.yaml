@@ -12,6 +12,12 @@ embeds:
       text: "Use \"Open original\" to view full size.\n\nCredits to: ang tahimik#9252 (Designer) Nikatosaurus#5639 (Content)"
 
 buttons:
+
+  - customId: "liveInteraction#characters/cryo/layla/main"
+    label: "Basics"
+    style: "PRIMARY"
+    emoji: "◀️"
+
   - label: "Guide"
     url: "https://keqingmains.com/layla/"
     emoji: ${ EMOJIS.LOGO }
