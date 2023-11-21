@@ -6,9 +6,8 @@ embeds:
     thumbnail:
       url: ${ICON.CHARACTER_ALOY}
     description: |-
-      *Formerly an outcast, now a hunter of unparalleled skill. Ready to do the right thing at any time.*
-
-      Here are all of KQM's resources on how to build and play Aloy. Please select your desired build below. Enjoy!  
+      ★★★★
+      *Cryo Bow*  
 
 buttons:
   - customId: "liveInteraction#characters/cryo/aloy/melt_build"

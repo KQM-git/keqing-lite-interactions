@@ -1,21 +1,15 @@
 embeds:
   - title: Layla
     color: ${ COLORS.CRYO_BLUE }
+    image: 
+      url: ${ INFOGRAPHICS.LAYLA_2 }
     thumbnail:
       url: ${ICON.CHARACTER_LAYLA}
     description: |-
-      *A Rtawahist student who always looks sleep-deprived. Her dark eye circles have been worsening due to academic stress.*
-
-options: #dropdown
-  - label: Layla Build Infographics
-    value: characters/cryo/layla/layla_build
-    description: KQM's resources for Layla Builds.
-    emoji: ${ EMOJIS.CHARACTER_LAYLA }
-
-  - label: Layla Teams Infographics
-    value: characters/cryo/layla/layla_teams
-    description: KQM's resources for Layla Teams.
-    emoji: ${ EMOJIS.CHARACTER_LAYLA }
+      ★★★★
+      *Cryo Sword*
+    footer:
+      text: "Use \"Open original\" to view full size.\n\nCredits to: ang tahimik#9252 (Designer) Nikatosaurus#5639 (Content)"
 
 buttons:
   - label: "Guide"

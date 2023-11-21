@@ -6,7 +6,8 @@ embeds:
     thumbnail:
       url: ${ICON.CHARACTER_QIQI}
     description: |-
-      *An apprentice and herb gatherer at Bubu Pharmacy. An undead with a bone-white complexion, she seldom has much in the way of words or emotion.*
+      ★★★★★
+      *Cryo Sword*
 
 buttons:
   - label: "Guide"
