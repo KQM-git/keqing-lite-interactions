@@ -29,4 +29,4 @@ buttons:
   - label: "Video Guide"
     url: "https://youtu.be/FjDsbxPbk50"
     emoji: ${ EMOJIS.YOUTUBE }
-    style: "LINK
+    style: "LINK"
