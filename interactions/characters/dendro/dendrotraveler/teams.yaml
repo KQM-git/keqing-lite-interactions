@@ -20,6 +20,11 @@ buttons:
 #    emoji: ${ EMOJIS.LOGO }
 #    style: "LINK"
 
+  - customId: "liveInteraction#characters/dendro/dendrotraveler/build"
+    label: "Basics"
+    style: "PRIMARY"
+    emoji: "◀️"
+
   - label: "Quick Guide"
     url: "https://keqingmains.com/q/dendro-traveler-quickguide/"
     emoji: ${ EMOJIS.LOGO }
