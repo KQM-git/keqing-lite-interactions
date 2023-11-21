@@ -6,12 +6,17 @@ embeds:
     thumbnail:
       url: ${ICON.CHARACTER_YELAN}
     description: |-
-      *A mysterious person who claims to work for the Ministry of Civil Affairs, but is a "non-entity" on the Ministry of Civil Affairs' list.*
+      ★★★★★
+      *Hydro Bow*
     footer:
       text: "Use \"Open original\" to view full size.\n\nCredits to: xf3#3123 (Designer) | KB#1111 & Vladone ツ#9281 (Content)"
 
 buttons:
 
+  - customId: "liveInteraction#characters/hydro/yelan/yelan_build"
+    label: "Build Infographic"
+    style: "PRIMARY"
+    emoji: "◀️"
 
   - customId: "liveInteraction#faq/yelaner"
     label: "ER Requirements"

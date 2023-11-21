@@ -1,21 +1,14 @@
 embeds:
   - title: Arataki Itto
     color: ${ COLORS.GEO_YELLOW }
+    image: 
+      url: ${INFOGRAPHICS.ITTO_1}
     thumbnail:
       url: ${ICON.CHARACTER_ITTO}
     description: |-
       *The first and greatest head of the Arataki Gang, famed throughout Inazuma City's Hanamizaka... Wait, what? You've never heard of them? Are you trying to be funny here?*
-
-options: #dropdown   
-  - label: Itto Build Infographic
-    value: characters/geo/itto/itto_build
-    description: KQM's resources for Itto's Builds.
-    emoji: ${EMOJIS.CHARACTER_ITTO}
-
-  - label: Itto Team Infographic
-    value: characters/geo/itto/itto_teams
-    description: KQM's resources for Itto's Teams.
-    emoji: ${EMOJIS.ELEMENT_GEO}
+    footer:
+      text: "Use \"Open original\" to view full size.\n\nCredits to: xf3#3123 (Designer) | nxriaki#6316 & Merp#6832 (Content)"
 
 buttons:
   - customId: "liveInteraction#characters/geo/itto/main2"

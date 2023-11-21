@@ -6,7 +6,8 @@ embeds:
     thumbnail:
       url: ${ICON.CHARACTER_YANFEI}
     description: |-
-      *A well-known legal adviser active in Liyue Harbor. A brilliant young lady in whose veins runs the blood of an illuminated beast.*
+      ★★★★
+      *Pyro Catalyst*
     footer:
       text: "Use \"Open original\" to view full size.\n\nCredits to: cuppacote (Designer) | notnilou (Content)"
 

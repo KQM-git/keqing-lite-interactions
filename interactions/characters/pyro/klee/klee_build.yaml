@@ -6,7 +6,8 @@ embeds:
     thumbnail:
       url: ${ICON.CHARACTER_KLEE}
     description: |-
-      *An explosives expert and a regular at the Knights of Favonius's confinement room. Also known as Fleeing Sunlight.*
+      ★★★★★
+      *Pyro Catalyst*
     footer:
       text: "Use \"Open original\" to view full size.\n\nCredits to: cuppacote (Content & Designer)"
 

@@ -12,6 +12,11 @@ embeds:
       text: "Use \"Open original\" to view full size.\n\nCredits to: angtahimik (Designer) | cote (Content)"
 
 buttons:
+  - customId: "liveInteraction#characters/geo/albedo/albedo_teams"
+    label: "Teams Infographic"
+    style: "PRIMARY"
+    emoji: "▶️"
+
   - label: "Guide"
     url: "https://keqingmains.com/albedo/"
     emoji: ${ EMOJIS.LOGO }
