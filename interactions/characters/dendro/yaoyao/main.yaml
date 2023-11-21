@@ -8,12 +8,12 @@ embeds:
 
 options: #dropdown
   - label: Yaoyao Build Infographic
-    value: characters/anemo/yaoyao/yaoyao_build
+    value: characters/dendro/yaoyao/yaoyao_build
     description: KQM's resources for Yaoyao Builds.
     emoji: ${EMOJIS.CHARACTER_YAOYAO}
 
   - label: Yaoyao Teams Infographic
-    value: characters/anemo/yaoyao/yaoyao_teams
+    value: characters/dendro/yaoyao/yaoyao_teams
     description: KQM's resources for Yaoyao Teams.
     emoji: ${EMOJIS.ELEMENT_YAOYAO}
 
