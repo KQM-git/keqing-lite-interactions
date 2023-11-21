@@ -11,6 +11,12 @@ embeds:
 
 
 buttons:
+
+  - customId: "liveInteraction#characters/cryo/mika/mika_build"
+    label: "Basics"
+    style: "PRIMARY"
+    emoji: "◀️"
+    
   - label: "Guide"
     url: "https://keqingmains.com/mika/"
     emoji: ${ EMOJIS.LOGO }
