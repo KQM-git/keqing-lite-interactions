@@ -12,6 +12,12 @@ embeds:
       text: "Use \"Open original\" to view full size.\n\nCredits to: ang tahimik#9252 (Designer) | dank#9601, Cuzimori#1535, idkanonymized#4166 (Content)"
 
 buttons:
+
+  - customId: "liveInteraction#characters/dendro/tighnari/main"
+    label: "Basics"
+    style: "PRIMARY"
+    emoji: "◀️"
+
   - label: "Guide"
     url: "https://keqingmains.com/tighnari/"
     emoji: ${ EMOJIS.LOGO }
