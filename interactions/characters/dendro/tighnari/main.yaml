@@ -19,6 +19,11 @@ options: #dropdown
 
 buttons:
 
+  - customId: "liveInteraction#characters/dendro/tighnari/main2"
+    label: "Teams Infographic"
+    style: "PRIMARY"
+    emoji: "▶️"
+
   - label: "Guide"
     url: "https://keqingmains.com/tighnari/"
     emoji: ${ EMOJIS.LOGO }
