@@ -19,11 +19,6 @@ options: #dropdown
   
 
 buttons:
-
-  - customId: "liveInteraction#characters/cryo/shenhe/main2"
-    label: "Teams Infographic"
-    style: "PRIMARY"
-    emoji: "▶️"
     
   - label: "Guide"
     url: "https://keqingmains.com/shenhe/"
