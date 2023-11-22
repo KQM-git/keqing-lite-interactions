@@ -12,12 +12,12 @@ embeds:
 
 options: #dropdown
   - label: Yelan Builds
-    value: characters/hydro/yelan/build
+    value: characters/hydro/yelan/yelan_build
     description: KQM's resources for Yelan's Builds.
     emoji: ${EMOJIS.ELEMENT_HYDRO }
 
   - label: Yelan Teams
-    value: characters/hydro/yelan/teams
+    value: characters/hydro/yelan/yelan_teams
     description: KQM's resources for Yelan's Builds.
     emoji: ${EMOJIS.ELEMENT_HYDRO }
 

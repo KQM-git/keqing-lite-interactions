@@ -12,8 +12,8 @@ embeds:
       text: "Use \"Open original\" to view full size.\n\nCredits to: xf3#3123 (Designer) | Zhongli Guide Writers (Content)"
     
 buttons:
-  - customId: "liveInteraction#characters/geo/zhongli/main"
-    label: "Basics"
+  - customId: "liveInteraction#characters/geo/zhongli/zhongli_build"
+    label: "Build Infographic"
     style: "PRIMARY"
     emoji: "◀️"
 

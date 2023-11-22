@@ -13,7 +13,7 @@ embeds:
 
 
 buttons:
-  - customId: "liveInteraction#characters/hydro/yelan/yelan_team"
+  - customId: "liveInteraction#characters/hydro/yelan/yelan_teams"
     label: "Teams Infographic"
     style: "PRIMARY"
     emoji: "▶️"
