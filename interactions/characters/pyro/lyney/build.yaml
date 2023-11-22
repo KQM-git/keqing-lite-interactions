@@ -6,7 +6,8 @@ embeds:
     thumbnail:
       url: ${ICON.CHARACTER_LYNEY}
     description: |-
-      *A genius of a magician famed throughout Fontaine. He moves his audience with a combination of sleight of hand and the gift of the gab. Eloquent, ingenious, and with a mind as hard to fathom as a cat.*
+      ★★★★★
+      *Pyro Bow*
     footer:
       text: "Use \"Open original\" to view full size.\n\nCredits to: cuppacote (Content & Designer)"
 

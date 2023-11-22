@@ -6,7 +6,8 @@ embeds:
     thumbnail:
       url: ${ICON.CHARACTER_BARBARA}
     description: |-
-      *Every citizen of Mondstadt adores Barbara. She learned the word "idol" from a magazine.*
+      ★★★★
+      *Hydro Catalyst*
     footer:
       text: "Use \"Open original\" to view full size. Page 2 Coming Soon!\n\nCredits to: Artesians#0002 (Designer) | xf3#3123 (Content)"      
 

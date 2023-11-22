@@ -6,7 +6,8 @@ embeds:
     thumbnail:
       url: ${ICON.CHARACTER_DILUC}
     description: |-
-      *The tycoon of a winery empire in Mondstadt, unmatched in every possible way.*
+      ★★★★★
+      *Pyro Claymore*
 
 buttons:
   - customId: "liveInteraction#characters/pyro/diluc/main"

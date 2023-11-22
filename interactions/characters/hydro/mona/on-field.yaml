@@ -5,6 +5,9 @@ embeds:
       url: ${INFOGRAPHICS.MONA_1}
     thumbnail:
       url: ${ICON.CHARACTER_MONA}
+    description: |-
+      ★★★★★
+      *Hydro Catalyst*
 
 buttons:
   - label: "Guide"

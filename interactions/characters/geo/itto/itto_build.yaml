@@ -2,19 +2,20 @@ embeds:
   - title: Arataki Itto
     color: ${ COLORS.GEO_YELLOW }
     image: 
-      url: ${INFOGRAPHICS.ITTO_2}
+      url: ${INFOGRAPHICS.ITTO_1}
     thumbnail:
       url: ${ICON.CHARACTER_ITTO}
     description: |-
-      *The first and greatest head of the Arataki Gang, famed throughout Inazuma City's Hanamizaka... Wait, what? You've never heard of them? Are you trying to be funny here?*
+      ★★★★★
+      *Geo Claymore*
     footer:
       text: "Use \"Open original\" to view full size.\n\nCredits to: xf3#3123 (Designer) | nxriaki#6316 & Merp#6832 (Content)"
 
 buttons:
-  - customId: "liveInteraction#characters/geo/itto/main"
-    label: "Basics"
+  - customId: "liveInteraction#characters/geo/itto/itto_teams"
+    label: "Teams Infographic"
     style: "PRIMARY"
-    emoji: "◀️"
+    emoji: "▶️"
 
   - label: "Guide"
     url: "https://keqingmains.com/itto/"
