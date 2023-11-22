@@ -6,6 +6,8 @@ embeds:
     thumbnail:
       url: ${ICON.CHARACTER_KEQING}
     description: |-
+      ★★★★★
+      *Electro Swordow*
 
 buttons:    
   - label: "Guide"

@@ -2,19 +2,20 @@ embeds:
   - title: Cyno
     color: ${ COLORS.ELECTRO_PURPLE }
     image: 
-      url: ${INFOGRAPHICS.CYNO_2}
+      url: ${INFOGRAPHICS.CYNO_1}
     thumbnail:
       url: ${ICON.CHARACTER_CYNO}
     description: |-
-      *The General Mahamatra of the Akademiya, leader of all the Matras.*
+      ★★★★★
+      *Electro Polearm*
     footer:
       text: "Use \"Open original\" to view full size.\n\nCredits to: IcedSquid#3207 (Designer) | koko#1111 (Content)"
 
 buttons:
-  - customId: "liveInteraction#characters/electro/cyno/main"
-    label: "Basics"
+  - customId: "liveInteraction#characters/electro/cyno/cyno_teams"
+    label: "Teams Infographic"
     style: "PRIMARY"
-    emoji: "◀️"
+    emoji: "▶️"
 
   # - label: "Guide"
   #   url: "https://keqingmains.com/cyno/"

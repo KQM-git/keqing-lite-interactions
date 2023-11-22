@@ -6,17 +6,14 @@ embeds:
     thumbnail:
       url: ${ICON.CHARACTER_FISCHL}
     description: |-
-      *A mysterious girl who calls herself "Prinzessin der Verurteilung" and travels with a night raven named Oz.*
+      ★★★★
+      *Electro Bow*
     footer:
       text: "Use \"Open original\" to view full size.\n\nCredits to: zelard (Designer) | Polomo (Content)"
 
 
 
 buttons:
-  - customId: "liveInteraction#characters/electro/fischl/fischl_build"
-    label: "Basics"
-    style: "PRIMARY"
-    emoji: "◀️"
 
   - label: "Guide"
     url: "https://keqingmains.com/fischl/"
