@@ -24,10 +24,6 @@ buttons:
   #    url: "https://keqingmains.com/yaoyao/"
   #    emoji: ${ EMOJIS.LOGO }
   #    style: "LINK"
-  - customId: "liveInteraction#characters/dendro/yaoyao/main2"
-    label: "Teams Infographic"
-    style: "PRIMARY"
-    emoji: "▶️"
 
   - label: "Quick Guide"
     url: "https://keqingmains.com/q/yaoyao-quickguide/"
