@@ -12,7 +12,7 @@ embeds:
       text: "Use \"Open original\" to view full size.\n\nCredits to: IcedSquid#3207 (Designer) | koko#1111 (Content)"
 
 buttons:
-  - customId: "liveInteraction#characters/anemo/electro/electro_build"
+  - customId: "liveInteraction#characters/electro/cyno_build"
     label: "Build Infographic"
     style: "PRIMARY"
     emoji: "◀️"
