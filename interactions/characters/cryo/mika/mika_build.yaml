@@ -6,19 +6,21 @@ embeds:
     image: 
       url: ${INFOGRAPHICS.MIKA_1}
     description: |-
-      *A young knight born to an ordinary family. He serves as a Front-Line Surveyor in his Company. He is a low-key and cautious character.*
+      ★★★★
+      *Cryo Polearm*
 
 
 buttons:
+
   - customId: "liveInteraction#characters/cryo/mika/mika_teams"
     label: "Teams Infographic"
     style: "PRIMARY"
     emoji: "▶️"
 
   - label: "Guide"
-   url: "https://keqingmains.com/mika/"
-   emoji: ${ EMOJIS.LOGO }
-   style: "LINK"
+    url: "https://keqingmains.com/mika/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
 
   - label: "Quick Guide"
     url: "https://keqingmains.com/q/mika-quickguide/"

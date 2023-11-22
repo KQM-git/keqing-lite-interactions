@@ -1,0 +1,34 @@
+embeds:
+  - title: Layla
+    color: ${ COLORS.CRYO_BLUE }
+    image: 
+      url: ${ INFOGRAPHICS.LAYLA_2 }
+    thumbnail:
+      url: ${ICON.CHARACTER_LAYLA}
+    description: |-
+      ★★★★
+      *Cryo Sword*
+    footer:
+      text: "Use \"Open original\" to view full size.\n\nCredits to: ang tahimik#9252 (Designer) Nikatosaurus#5639 (Content)"
+
+buttons:
+
+  - customId: "liveInteraction#characters/cryo/layla/main"
+    label: "Basics"
+    style: "PRIMARY"
+    emoji: "◀️"
+
+  - label: "Guide"
+    url: "https://keqingmains.com/layla/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/layla-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "TCL"
+    url: "https://library.keqingmains.com/characters/cryo/layla"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"

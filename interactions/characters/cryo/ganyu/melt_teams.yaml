@@ -5,6 +5,9 @@ embeds:
       url: ${ICON.CHARACTER_GANYU}
     image: 
       url: ${INFOGRAPHICS.GANYU_MELT_2}
+    description: |-
+      ★★★★★
+      *Cryo Bow*
     footer:
       text: "Use \"Open original\" to view full size.\n\nCredits to: Prévisible#7440 (Designer & Content)"
 
