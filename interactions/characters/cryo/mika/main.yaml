@@ -10,19 +10,19 @@ options: #dropdown
   - label: Mika Build
     value: characters/cryo/mika/mika_build
     description: KQM's resources for Mika Build.
-    emoji: ${ EMOJIS.ELEMENT_CRYO }
+    emoji: ${ EMOJIS.ELEMENT_MIKA }
 
   - label: Mika Teams
     value: characters/cryo/mika/mika_teams
     description: KQM's resources for Mika's Teams.
-    emoji: ${ EMOJIS.ELEMENT_CRYO }
+    emoji: ${ EMOJIS.ELEMENT_MIKA }
 
 
 buttons:
   - label: "Guide"
-   url: "https://keqingmains.com/mika/"
-   emoji: ${ EMOJIS.LOGO }
-   style: "LINK"
+    url: "https://keqingmains.com/mika/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
 
   - label: "Quick Guide"
     url: "https://keqingmains.com/q/mika-quickguide/"

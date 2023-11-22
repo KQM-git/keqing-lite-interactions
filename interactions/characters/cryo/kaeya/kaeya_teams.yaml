@@ -6,7 +6,8 @@ embeds:
     thumbnail:
       url: ${ICON.CHARACTER_KAEYA}
     description: |-
-      *An accomplished swordsman and a strategic thinker in the Knights of Favonius, rumored to hail from beyond Mondstadt.*
+      ★★★★
+      *Cryo Sword*
     footer:
       text: "Use \"Open original\" to view full size.\n\nCredits to: cuppacote (Designer) | casdela & spphrs (Content)"
 

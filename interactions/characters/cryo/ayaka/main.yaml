@@ -6,7 +6,8 @@ embeds:
     thumbnail:
       url: ${ICON.CHARACTER_AYAKA}
     description: |-
-      *Daughter of the Yashiro Commission's Kamisato Clan. Dignified and elegant, as well as wise and strong.*
+      ★★★★★
+      *Cryo Sword* 
 
 buttons:
   - label: "Guide"
