@@ -1,4 +1,0 @@
-interaction: faq/4bsc
-description: 4BSC with Physical Keqing
-match: ${ TRIGGER_PREFIX }4bsc(?:\s|$)
-ignoreCase: true

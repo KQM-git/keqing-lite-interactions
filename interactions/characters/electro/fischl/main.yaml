@@ -8,11 +8,6 @@ embeds:
 
 
 options: #dropdown
-    
-  - label: Weapons 
-    value: faq/fischlwep
-    description: Fischl Weapon Rankings
-    emoji: ${EMOJIS.CHARACTER_FISCHL}
 
   - label: Fischl Build Infographic
     value: characters/electro/fischl/fischl_build
