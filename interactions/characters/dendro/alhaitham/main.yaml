@@ -29,6 +29,6 @@ buttons:
     style: "LINK"
 
   - label: "TCL"
-   url: "https://library.keqingmains.com/characters/dendro/alhaitham"
-   emoji: ${ EMOJIS.MAGNIFY }
-   style: "LINK"
+    url: "https://library.keqingmains.com/characters/dendro/alhaitham"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"
