@@ -9,12 +9,12 @@ embeds:
 options: #dropdown
     
   - label: Yoimiya Build Infographic
-    value: characters/pyro/yoimiya/build
+    value: characters/pyro/yoimiya/yoimiya_build
     description: KQM's resources for Yoimiya Builds.
     emoji: ${EMOJIS.CHARACTER_YOIMIYA}
 
   - label: Yoimiya Teams Infographic
-    value: characters/pyro/yoimiya/teams
+    value: characters/pyro/yoimiya/yoimiya_teams
     description: KQM's resources for Yoimiya Teams.
     emoji: ${EMOJIS.CHARACTER_YOIMIYA}
 
