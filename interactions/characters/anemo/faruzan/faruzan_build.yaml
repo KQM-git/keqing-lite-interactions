@@ -14,7 +14,7 @@ embeds:
 
 
 buttons:
-  - customId: "liveInteraction#characters/anemo/faruzan/faruzan_team"
+  - customId: "liveInteraction#characters/anemo/faruzan/faruzan_teams"
     label: "Teams Infographic"
     style: "PRIMARY"
     emoji: "▶️"
