@@ -9,7 +9,7 @@ embeds:
       ★★★★★ 
       *Hydro Sword*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} "angtahimik (Designer) | luno_ (Content)"     
+      text: ${LABEL.INFOGRAPHIC_CREDITS} angtahimik (Designer) | luno_ (Content)     
 
 
 buttons:

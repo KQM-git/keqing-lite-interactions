@@ -9,7 +9,7 @@ embeds:
       ★★★★★
       *Hydro Catalyst*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} "cuppacote (Designer) | euphorysm & caramielle (Content)"
+      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote (Designer) | euphorysm & caramielle (Content)
 
 buttons:
 #  - label: "Guide"

@@ -9,7 +9,7 @@ embeds:
       ★★★★
       *Electro Sword*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} "cuppacote (Designer) | KQM Pillar Staff (Content)"
+      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote (Designer) | KQM Pillar Staff (Content)
 
 buttons:
 #  - label: "Guide"

@@ -6,10 +6,10 @@ embeds:
     thumbnail:
       url: ${ICON.CHARACTER_YAOYAO}
     description: |-
-      ★★★★★
+      ★★★★
       *Dendro Polearm *
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} "cuppacote (Designer) | cuppacote & lunaflaw (Content)"
+      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote (Designer) | cuppacote & lunaflaw (Content)
 
 buttons:
 

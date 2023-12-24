@@ -9,7 +9,7 @@ embeds:
       ★★★★★
       *Electro Polearm*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} "icedsquid (Designer) | irokei (Content)"
+      text: ${LABEL.INFOGRAPHIC_CREDITS} icedsquid (Designer) | irokei (Content)
     
 buttons:
 

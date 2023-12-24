@@ -9,7 +9,7 @@ embeds:
       ★★★★★
       *Electro Sword*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} "euphorysm (Designer) | casdela (Content)"
+      text: ${LABEL.INFOGRAPHIC_CREDITS} euphorysm (Designer) | casdela (Content)
 
 buttons:    
   - label: "Guide"
