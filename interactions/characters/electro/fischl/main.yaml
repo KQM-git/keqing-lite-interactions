@@ -6,10 +6,10 @@ embeds:
     thumbnail:
       url: ${ICON.CHARACTER_FISCHL}
     description: |-
-      ★★★★★
+      ★★★★
       *Electro Bow*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} "icedsquid (Designer) | nikatosaurus (Content)"
+      text: ${LABEL.INFOGRAPHIC_CREDITS} icedsquid (Designer) | nikatosaurus (Content)
 
 buttons:
 

@@ -9,7 +9,7 @@ embeds:
       ★★★★
       *Electro Sword*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} "euphorysm (Designer) | mocha_biscuit (Content)"
+      text: ${LABEL.INFOGRAPHIC_CREDITS} euphorysm (Designer) | mocha_biscuit (Content)
 
 buttons:
 #  - label: "Guide"

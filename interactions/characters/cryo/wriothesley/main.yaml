@@ -9,7 +9,7 @@ embeds:
       ★★★★★
       *Cryo Catalyst*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} "euphorysm (Designer) | irokei (Content)"
+      text: ${LABEL.INFOGRAPHIC_CREDITS} euphorysm (Designer) | irokei (Content)
 
 buttons:
 #  - label: "Guide"
