@@ -1,13 +1,15 @@
 embeds:
   - title: Neuvillette
-    color: ${COLORS.HYDRO_BLUE }
+    color: ${COLORS.HYDRO_BLUE}
+    image: 
+      url: ${INFOGRAPHICS.NEUVILLETTE_1}
     thumbnail:
-      url: ${ICON.CHARACTER_NEUVILETTE}
+      url: ${ICON.CHARACTER_NEUVILLETTE}
     description: |-
-      *You wouldn't exactly describe the Iudex of Fontaine as "approachable." It's hard to say whether it's just in his nature, or because he has secrets to hide.*
-      :construction: ***─ Infographic WIP ─*** :construction:    
-    #footer:
-    #  text: "Use \"Open original\" to view full size. Page 2 Coming Soon!\n\nCredits to: ang tahimik#9252 (Designer) idkanonymized#4166 & GSynthesis66#838 (Content)"
+      ★★★★★
+      *Hydro Catalyst*
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} "cuppacote (Designer) | euphorysm & caramielle (Content)"
 
 buttons:
 #  - label: "Guide"
@@ -21,6 +23,6 @@ buttons:
     style: "LINK"
 
   # - label: "TCL"
-  #   url: "https://library.keqingmains.com/neuvilette"
+  #   url: "https://library.keqingmains.com/neuvillette"
   #   emoji: ${ EMOJIS.MAGNIFY }
   #   style: "LINK"

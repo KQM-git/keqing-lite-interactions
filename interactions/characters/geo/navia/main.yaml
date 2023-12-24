@@ -1,0 +1,28 @@
+embeds:
+  - title: Navia
+    color: ${ COLORS.GEO_YELLOW }
+    image: 
+      url: ${INFOGRAPHICS.NAVIA_1}
+    thumbnail:
+      url: ${ICON.CHARACTER_NAVIA}
+    description: |-
+      ★★★★★
+      *Geo Claymore* 
+    footer:
+      text: "Use \"Open original\" to view full size.\n\nCredits to: euphorysm (Designer) chase (Content)"
+
+buttons:
+  # - label: "Guide"
+  #   url: "https://keqingmains.com/navia/"
+  #   emoji: ${ EMOJIS.LOGO }
+  #   style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/navia-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "TCL"
+    url: "https://library.keqingmains.com/characters/geo/navia"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"

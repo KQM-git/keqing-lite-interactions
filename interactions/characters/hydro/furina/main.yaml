@@ -9,7 +9,7 @@ embeds:
       ★★★★★
       *Hydro Sword*
     footer:
-      text: "Use \"Open original\" to view full size.\n\nCredits to: euphorysm (Designer & Content)"
+      text: ${LABEL.INFOGRAPHIC_CREDITS} "euphorysm (Designer & Content)"
 
 buttons:
   # - label: "Guide"

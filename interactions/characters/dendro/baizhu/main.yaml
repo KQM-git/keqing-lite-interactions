@@ -1,14 +1,15 @@
 embeds:
   - title: Baizhu
     color: ${COLORS.DENDRO_GREEN}
-#    image: 
-#      url: ${INFOGRAPHICS.BAIZHU_1}
+    image: 
+      url: ${INFOGRAPHICS.BAIZHU_1}
     thumbnail:
       url: ${ICON.CHARACTER_BAIZHU}
     description: |-
-      *The owner of Bubu Pharmacy, who is rarely seen without the white snake named Changsheng. His medicinal knowledge is encyclopedic, and his personal intrigues subtle.*
-      
-      :construction: ***─ Infographic WIP ─*** :construction:
+      ★★★★★ 
+      *Dendro Catalyst*
+    footer:
+      text: ${INFOGRAPHIC_CREDITS} "lapsy (Designer) | irokei (Content)"     
 
 buttons:
 

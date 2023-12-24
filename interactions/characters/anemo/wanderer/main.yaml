@@ -1,15 +1,15 @@
 embeds:
   - title: Wanderer
     color: ${ COLORS.ANEMO_GREEN }
-    # image: 
-    #  url: "insert infographic link"
+    image: 
+      url: ${INFOGRAPHICS.WANDERER_1}
     thumbnail:
       url: ${ICON.CHARACTER_WANDERER}
     description: |-
-      *If the measure of humanity is having a heart, then he cannot be deemed as such.*
-      *If one without a heart experiences joy and sorrow, then he shall be a puppet most alike to humanity.*
-
-      :construction: ***─ Infographic WIP ─*** :construction:
+      ★★★★★
+      *Anemo Catalyst*
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} "euphorysm (Designer) | cuppacote & xsylent (Content)"
 
 buttons:
   - label: "Guide"

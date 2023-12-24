@@ -1,37 +1,22 @@
 embeds:
   - title: Fischl
     color: ${ COLORS.ELECTRO_PURPLE }
+    image: 
+      url: ${INFOGRAPHICS.FISCHL_1}
     thumbnail:
       url: ${ICON.CHARACTER_FISCHL}
     description: |-
-      *A mysterious girl who calls herself "Prinzessin der Verurteilung" and travels with a night raven named Oz.*
-
-
-options: #dropdown
-
-  - label: Fischl Build Infographic
-    value: characters/electro/fischl/fischl_build
-    description: KQM's resources for Fischl Builds.
-    emoji: ${EMOJIS.CHARACTER_FISCHL}
-
-  - label: Fischl Team Infographic
-    value: characters/electro/fischl/fischl_teams_1
-    description: KQM's resources for Fischl Teams.
-    emoji: ${EMOJIS.ELEMENT_ELECTRO }
-
-  - label: Fischl Team+ Infographic
-    value: characters/electro/fischl/fischl_teams_2
-    description: KQM's resources for Fischl Teams+.
-    emoji: ${EMOJIS.ELEMENT_ELECTRO }
-
-
+      ★★★★★
+      *Electro Bow*
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} "icedsquid (Designer) | nikatosaurus (Content)"
 
 buttons:
 
-  - label: "Guide"
-    url: "https://keqingmains.com/fischl/"
-    emoji: ${ EMOJIS.LOGO }
-    style: "LINK"
+  # - label: "Guide"
+  #   url: "https://keqingmains.com/fischl/"
+  #   emoji: ${ EMOJIS.LOGO }
+  #   style: "LINK"
 
   - label: "Quick Guide"
     url: "https://keqingmains.com/q/fischl-quickguide/"

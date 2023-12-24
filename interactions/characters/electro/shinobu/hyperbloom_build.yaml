@@ -9,14 +9,9 @@ embeds:
       ★★★★
       *Electro Sword*
     footer:
-      text: "Use \"Open original\" to view full size.\n\nCredits to: IcedSquid#3207 (Designer) | Akane#0926 & Sew#2409 (Content)"
+      text: ${LABEL.INFOGRAPHIC_CREDITS} "cuppacote (Designer) | KQM Pillar Staff (Content)"
 
 buttons:
-  - customId: "liveInteraction#characters/electro/shinobu/hyperbloom_teams"
-    label: "Teams Infographic"
-    style: "PRIMARY"
-    emoji: "▶️"
-    
 #  - label: "Guide"
 #    url: "https://keqingmains.com/shinobu/"
 #    emoji: ${ EMOJIS.LOGO }

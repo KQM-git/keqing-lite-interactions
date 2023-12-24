@@ -16,6 +16,11 @@ options:
     description: KQM's resources on Ayaka!
     emoji: ${ EMOJIS.CHARACTER_AYAKA }
 
+  - label: Charlotte
+    value: characters/cryo/charlotte/main
+    description: KQM's resources on Charlotte!
+    emoji: ${ EMOJIS.CHARACTER_CHARLOTTE }
+
   - label: Chongyun
     value: characters/cryo/chongyun/main
     description: KQM's resources on Chongyun!

@@ -44,7 +44,7 @@ options:
   - label: Neuvillette
     value: characters/hydro/neuvillette/main
     description: KQM's resources on Neuvillette!
-    emoji: ${ EMOJIS.CHARACTER_NEUVILETTE }
+    emoji: ${ EMOJIS.CHARACTER_NEUVILLETTE }
 
   - label: Tartaglia
     value: characters/hydro/tartaglia/main

@@ -1,0 +1,4 @@
+interaction: characters/cryo/charlotte/main
+description: "Opens KQM's resources on Charlotte"
+match: ${ TRIGGER_PREFIX }charlotte(?:\s|$)
+ignoreCase: true

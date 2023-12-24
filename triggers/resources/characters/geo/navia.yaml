@@ -1,0 +1,4 @@
+interaction: characters/geo/navia/main
+description: "Opens KQM's resources on Navia"
+match: ${ TRIGGER_PREFIX }navia(?:\s|$)
+ignoreCase: true

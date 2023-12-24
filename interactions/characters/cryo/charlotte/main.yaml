@@ -1,0 +1,28 @@
+embeds:
+  - title: Charlotte
+    color: ${ COLORS.CRYO_BLUE }
+    thumbnail:
+      url: ${ICON.CHARACTER_CHARLOTTE}
+    image: 
+      url: ${INFOGRAPHICS.CHARLOTTE_1}
+    description: |-
+      ★★★★
+      *Cryo Catalyst* 
+    footer:
+      text: "Use \"Open original\" to view full size.\n\nCredits to: Lapsy (Designer) irokei & nikatosaurus (Content)"
+
+buttons:
+#  - label: "Guide"
+#    url: "https://keqingmains.com/charlotte/"
+#    emoji: ${ EMOJIS.LOGO }
+#    style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/charlotte-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "TCL"
+    url: "https://library.keqingmains.com/characters/cryo/charlotte"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"

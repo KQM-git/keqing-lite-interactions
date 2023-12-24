@@ -1,14 +1,15 @@
 embeds:
   - title: Wriothesley
     color: ${COLORS.CRYO_BLUE}
+    image: 
+      url: ${INFOGRAPHICS.WRIOTHESLEY_1}
     thumbnail:
       url: ${ICON.CHARACTER_WRIOTHESLEY}
     description: |-
-      *Duke of the Fortress of Meropide, Lord Incognito of the murky depths.*
-      
-      :construction: ***─ Infographic WIP ─*** :construction:    
-    #footer:
-    #  text: "Use \"Open original\" to view full size. Page 2 Coming Soon!\n\nCredits to: ang tahimik#9252 (Designer) idkanonymized#4166 & GSynthesis66#838 (Content)"
+      ★★★★★
+      *Cryo Catalyst*
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} "euphorysm (Designer) | irokei (Content)"
 
 buttons:
 #  - label: "Guide"

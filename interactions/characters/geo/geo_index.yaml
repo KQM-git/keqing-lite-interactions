@@ -26,6 +26,11 @@ options:
     description: KQM's resources on Itto!
     emoji: ${ EMOJIS.CHARACTER_ITTO }
 
+  - label: Navia
+    value: characters/geo/navia/main
+    description: KQM's resources on Navia!
+    emoji: ${ EMOJIS.CHARACTER_NAVIA }
+
   - label: Ningguang
     value: characters/geo/ningguang/main
     description: KQM's resources on Ningguang!

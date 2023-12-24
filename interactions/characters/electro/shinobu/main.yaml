@@ -6,9 +6,8 @@ embeds:
     description: |-
       *The capable and reliable deputy leader of the "Arataki Gang." Please note: capable and reliable are not appellations for the "Arataki Gang," but for their deputy leader in specific.*
 
-
 options: #dropdown
-    
+
   - label: Support Kuki Build
     value: characters/electro/shinobu/support_build
     description: KQM's resources for Support Kuki's Build.
@@ -23,20 +22,10 @@ options: #dropdown
     value: characters/electro/shinobu/hyperbloom_build
     description: KQM's resources for Hyperbloom Kuki's Build.
     emoji: ${EMOJIS.ELEMENT_DENDRO }
-
-  - label: Hyperbloom Kuki Teams
-    value: characters/electro/shinobu/hyperbloom_teams
-    description: KQM's resources for Hyperbloom Kuki's Teams.
-    emoji: ${EMOJIS.ELEMENT_DENDRO }
     
   - label: Quicken Kuki Build
     value: characters/electro/shinobu/quicken_build
     description: KQM's resources for Quicken Kuki's Build.
-    emoji: ${EMOJIS.ELEMENT_ELECTRO }
-
-  - label: Quicken Kuki Teams
-    value: characters/electro/shinobu/quicken_teams
-    description: KQM's resources for Quicken Kuki's Teams.
     emoji: ${EMOJIS.ELEMENT_ELECTRO }
 
 buttons:
