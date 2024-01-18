@@ -6,7 +6,8 @@ embeds:
     thumbnail:
       url: ${ICON.CHARACTER_NOELLE}
     description: |-
-      *A maid who faithfully serves the Knights of Favonius. She dreams of joining their ranks someday.*
+      ★★★★
+      *Geo Claymore*
 
 buttons:
   - label: "Guide"

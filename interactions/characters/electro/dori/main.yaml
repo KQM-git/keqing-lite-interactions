@@ -7,6 +7,8 @@ embeds:
       url: ${ICON.CHARACTER_DORI}
     description: |-
       *An elusive merchant who has a fondness for glittering Mora.*
+      
+      :construction: ***─ Infographic WIP ─*** :construction:
 
 buttons:
   # - label: "Guide"

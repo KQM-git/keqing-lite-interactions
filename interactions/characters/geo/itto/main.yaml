@@ -18,10 +18,6 @@ options: #dropdown
     emoji: ${EMOJIS.ELEMENT_GEO}
 
 buttons:
-  - customId: "liveInteraction#characters/geo/itto/main2"
-    label: "Teams Infographic"
-    style: "PRIMARY"
-    emoji: "▶️"
 
   - label: "Guide"
     url: "https://keqingmains.com/itto/"

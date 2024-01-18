@@ -6,7 +6,8 @@ embeds:
     thumbnail:
       url: ${ICON.CHARACTER_VENTI}
     description: |-
-      *One of the many bards of Mondstadt, who freely wanders the city's streets and alleys.*
+      ★★★★★
+      *Anemo Bow*
 
 buttons:
   - label: "Guide"

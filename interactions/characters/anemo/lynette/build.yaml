@@ -6,7 +6,7 @@ embeds:
     thumbnail:
       url: ${ICON.CHARACTER_LYNETTE}
     description: |-
-      ★★★★★
+      ★★★★
       *Anemo Sword*    
     footer:
       text: "Use \"Open original\" to view full size.\n\nCredits to: zelard (Designer) | cuppacote (Content)"   

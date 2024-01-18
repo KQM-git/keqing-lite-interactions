@@ -6,8 +6,6 @@ embeds:
     description: |-
       *A mysterious young astrologer who proclaims herself to be "Astrologist Mona Megistus," and who possesses abilities to match the title. Erudite, but prideful.*
 
-      Here are all of KQM's resources on how to build and play Mona. Please select your desired build below. Enjoy!
-
 options: #dropdown
   - label: On-field / Burst DPS 
     value: characters/hydro/mona/on-field

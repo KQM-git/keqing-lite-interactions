@@ -4,8 +4,7 @@ embeds:
     thumbnail:
       url: ${ICON.CHARACTER_LYNEY}
     description: |-
-      ★★★★★
-      *Pyro Bow*
+      *A genius of a magician famed throughout Fontaine. He moves his audience with a combination of sleight of hand and the gift of the gab. Eloquent, ingenious, and with a mind as hard to fathom as a cat.*
 
 options: #dropdown
   - label: Builds

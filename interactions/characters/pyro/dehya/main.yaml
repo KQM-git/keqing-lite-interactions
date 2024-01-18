@@ -5,8 +5,6 @@ embeds:
       url: ${ICON.CHARACTER_DEHYA}
     description: |-
       *A member of the Eremites, a mercenary organization that roams the sands of Sumeru. Valiant and powerful, she enjoys great fame amongst her fellow Eremites.*
-    footer:
-      text: "Use \"Open original\" to view full size. Page 2 Coming Soon!\n\nCredits to: angtahimik (Designer) | .athene. (Content)"   
 
 options: #dropdown
   - label: On Field Build

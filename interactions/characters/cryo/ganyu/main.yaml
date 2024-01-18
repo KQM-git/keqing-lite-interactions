@@ -6,8 +6,6 @@ embeds:
     description: |-
       *The secretary at Yuehai Pavilion. The blood of the qilin, an illuminated beast, flows within her veins.*
 
-      Here are all of KQM's resources on how to build and play Ganyu. Please select your desired build below. Enjoy!
-
 options: #dropdown
   - label: Melt Ganyu Build
     value: characters/cryo/ganyu/melt_build

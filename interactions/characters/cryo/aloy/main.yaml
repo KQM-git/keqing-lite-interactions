@@ -6,8 +6,6 @@ embeds:
     description: |-
       *Formerly an outcast, now a hunter of unparalleled skill. Ready to do the right thing at any time.*
 
-      Here are all of KQM's resources on how to build and play Aloy. Please select your desired build below. Enjoy!  
-
 options: #dropdown
   - label: Support Build
     value: characters/cryo/aloy/support_build

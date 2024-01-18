@@ -13,7 +13,7 @@ embeds:
 buttons:
 
   - customId: "liveInteraction#characters/cryo/mika/mika_build"
-    label: "Basics"
+    label: "Build Infographic"
     style: "PRIMARY"
     emoji: "◀️"
     

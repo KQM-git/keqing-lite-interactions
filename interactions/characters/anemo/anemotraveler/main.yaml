@@ -5,8 +5,9 @@ embeds:
       url: "https://cdn.discordapp.com/attachments/954058547702943744/958957664233209856/unknown.png"
     thumbnail:
       url: ${ICON.CHARACTER_TRAVELER_F}
-    description: |-
-      *A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.*
+   description: |-
+      ★★★★★
+      *Anemo Sword*
 
 buttons:
   - label: "Guide"

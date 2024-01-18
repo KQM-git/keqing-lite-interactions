@@ -6,7 +6,8 @@ embeds:
     thumbnail:
       url: ${ICON.CHARACTER_RAZOR}
     description: |-
-      *A boy who lives among the wolves in Wolvendom of Mondstadt, away from human civilization. As agile as lightning.*
+      ★★★★
+      *Electro Claymore*
 
 buttons:
   - label: "Guide"

@@ -6,8 +6,6 @@ embeds:
     description: |-
       *A good-natured adventurer from Mondstadt who's unfortunately extremely unlucky.*
 
-      Here are all of KQM's resources on how to build and play Bennett. Please select your desired build below. Enjoy!
-
 options: #dropdown
   - label: Support
     value: characters/pyro/bennett/support
