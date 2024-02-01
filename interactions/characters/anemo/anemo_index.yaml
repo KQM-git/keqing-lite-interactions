@@ -56,6 +56,11 @@ options:
     description: KQM's resources on the Wanderer!
     emoji: ${ EMOJIS.CHARACTER_WANDERER }
 
+  - label: Xianyun
+    value: characters/anemo/xianyun/main
+    description: KQM's resources on Xianyun!
+    emoji: ${ EMOJIS.CHARACTER_XIANYUN }
+
   - label: Xiao
     value: characters/anemo/xiao/main
     description: KQM's resources on Xiao!
