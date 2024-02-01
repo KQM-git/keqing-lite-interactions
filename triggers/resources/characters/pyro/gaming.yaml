@@ -1,0 +1,4 @@
+interaction: characters/pyro/gaming/main
+description: "Opens KQM's resources on Gaming"
+match: ${ TRIGGER_PREFIX }(?:gaming|gm)(?:\s|$)
+ignoreCase: true
