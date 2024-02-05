@@ -1,0 +1,22 @@
+embeds:
+  - title: Xianyun
+    color: ${ COLORS.ANEMO_GREEN }
+    image: 
+      url: ${INFOGRAPHICS.XIANYUN_1}
+    thumbnail:
+      url: ${ICON.CHARACTER_XIANYUN}
+    description: |-
+      ★★★★★
+      *Anemo Catalyst*
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} euphorysm (Designer) | irokei (Content)
+    
+
+buttons:
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/xianyun-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+

@@ -1,0 +1,4 @@
+interaction: characters/anemo/xianyun/main
+description: "Opens KQM's resources on Xianyun"
+match: ${ TRIGGER_PREFIX }(?:xianyun|cloudretainer|cr)(?:\s|$)
+ignoreCase: true
