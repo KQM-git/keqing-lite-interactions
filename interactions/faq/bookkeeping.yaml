@@ -7,4 +7,4 @@ buttons:
   - label: "Sheet Link"
     style: "LINK"
     emoji: ${EMOJIS.GOOGLE_SHEETS}
-    url: https://docs.google.com/spreadsheets/d/e/2PACX-1vToBPh4yTn4VioUuqSvnPiwLoG0rJodFe9_gz6qOKUy3z8dCWtXel5Aqa07qSTZG8qhu7Fwgx7AfxzU/pubhtml
+    url: https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQ29M_-mbMbNgJl5c1ZWJwqgd1sFR6NW8A1Wwy85BUHCZHGtKwfrw_Jy68wd1OOyE6h7jQfEbOckjaM/pubhtml
