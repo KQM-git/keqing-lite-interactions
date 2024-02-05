@@ -1,0 +1,19 @@
+embeds:
+  - title: Gaming
+    color: ${ COLORS.PYRO_ORANGE }
+    image: 
+      url: ${INFOGRAPHICS.GAMING_1}
+    thumbnail:
+      url: ${ICON.CHARACTER_GAMING}
+    description: |-
+      ★★★★
+      *Pyro Claymore*
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} kolvii (Designer) | irokei (Content)
+
+buttons:
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/gaming-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
