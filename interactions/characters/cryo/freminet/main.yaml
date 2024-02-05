@@ -6,7 +6,7 @@ embeds:
     thumbnail:
       url: ${ICON.CHARACTER_FREMINET}
     description: |-
-      ★★★★★ 
+      ★★★★ 
       *Cryo Claymore*
     footer:
       text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote (Designer) | cuppacote (Content) 
