@@ -1,27 +1,17 @@
 embeds:
   - title: Yoimiya
     color: ${ COLORS.PYRO_ORANGE }
+    image:
+      url: ${INFOGRAPHICS.YOIMIYA}
     thumbnail:
       url: ${ICON.CHARACTER_YOIMIYA}
     description: |-
-      *Owner of Naganohara Fireworks. Known as the "Queen of the Summer Festival," she excels in her craft of creating fireworks that symbolize people's hopes and dreams.*
+      ★★★★★
+      *Pyro Bow*
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote (Designer) | irokei & caxia5 (Content)
 
 options: #dropdown
-    
-  - label: Yoimiya Build Infographic
-    value: characters/pyro/yoimiya/yoimiya_build
-    description: KQM's resources for Yoimiya Builds.
-    emoji: ${EMOJIS.CHARACTER_YOIMIYA}
-
-  - label: Yoimiya Teams Infographic
-    value: characters/pyro/yoimiya/yoimiya_teams
-    description: KQM's resources for Yoimiya Teams.
-    emoji: ${EMOJIS.CHARACTER_YOIMIYA}
-
-  - label: Yoimiya Vape Pattern
-    value: faq/yoimiyavape
-    description: Yoimiya's Vaporize Pattern
-    emoji: ${EMOJIS.ELEMENT_PYRO}
 
 buttons:
   - label: "Guide"

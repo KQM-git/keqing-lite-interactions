@@ -2,12 +2,14 @@ embeds:
   - title: Venti
     color: ${ COLORS.ANEMO_GREEN }
     image: 
-      url: "https://cdn.discordapp.com/attachments/954058547702943744/963800661693177856/unknown.png"
+      url: ${INFOGRAPHICS.VENTI_1}
     thumbnail:
       url: ${ICON.CHARACTER_VENTI}
     description: |-
       ★★★★★
       *Anemo Bow*
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} kolvii (Designer) | mocha_biscuit (Content)
 
 buttons:
   - label: "Guide"

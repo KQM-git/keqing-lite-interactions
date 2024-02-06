@@ -8,12 +8,10 @@ embeds:
     description: |-
       ★★★★★
       *Pyro Claymore*
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote (Designer) | cuppacote (Content)
 
 buttons:
-  - customId: "liveInteraction#characters/pyro/diluc/main2"
-    label: "Teams Infographic"
-    style: "PRIMARY"
-    emoji: "▶️"
 
   - label: "Guide"
     url: "https://keqingmains.com/diluc/"

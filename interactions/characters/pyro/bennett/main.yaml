@@ -1,21 +1,15 @@
 embeds:
   - title: Bennett
     color: ${ COLORS.PYRO_ORANGE }
+    image: 
+      url: ${INFOGRAPHICS.BENNETT_1}
     thumbnail:
       url: ${ICON.CHARACTER_BENNETT}
     description: |-
-      *A good-natured adventurer from Mondstadt who's unfortunately extremely unlucky.*
-
-options: #dropdown
-  - label: Support
-    value: characters/pyro/bennett/support
-    description: KQM's resources for support Bennett.
-    emoji: "<:BennettSmug:997592555707453591>"
-
-  - label: Main DPS
-    value: characters/pyro/bennett/on-field
-    description: KQM's resources for on-field DPS Bennett.
-    emoji: "<:BennettSmug:997592555707453591>"
+      ★★★★
+      *Pyro Sword*
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote (Designer) | irokei (Content)
 
 buttons:
   - label: "Guide"
