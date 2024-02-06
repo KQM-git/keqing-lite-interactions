@@ -1,14 +1,15 @@
 embeds:
   - title: Kaveh
     color: ${COLORS.DENDRO_GREEN}
-#    image: 
-#      url: ${INFOGRAPHICS.KAVEH_1}
+    image: 
+      url: ${INFOGRAPHICS.KAVEH_1}
     thumbnail:
       url: ${ICON.CHARACTER_KAVEH}
     description: |-
-      *A renowned architect from Sumeru who perhaps cares a bit too much about too many things. He is an aesthete troubled by reality.*
-      
-      :construction: ***─ Infographic WIP ─*** :construction:
+      ★★★★
+      *Dendro Claymore*
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote (Designer) | irokei & latiwings (Content)
 
 buttons:
 #  - label: "Guide"

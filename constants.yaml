@@ -32,6 +32,7 @@ IMAGES:
 INFOGRAPHICS:
   ALBEDO_1: "https://keqingmains.com/wp-content/uploads/2023/09/Albedo_Infographic_1_Build.png"
   ALBEDO_2: "https://keqingmains.com/wp-content/uploads/2023/09/Albedo_Infographic_2.png"
+  ALHAITHAM_1: "https://keqingmains.com/wp-content/uploads/2024/01/Alhaitham-Infographic-4.3.png"
   ALOY_MELT_1: "https://keqingmains.com/wp-content/uploads/2023/04/Melt_DPS_Aloy_1.png"
   ALOY_SUPPORT_1: "https://keqingmains.com/wp-content/uploads/2023/04/Support_Aloy_1.png"
   ALOY_2: "https://keqingmains.com/wp-content/uploads/2023/04/Support__Melt_DPS_Aloy_2.png"
@@ -39,23 +40,25 @@ INFOGRAPHICS:
   AMBER_2: "https://keqingmains.com/wp-content/uploads/2023/08/Amber_C4_Melt_1.png" # C4 melt build
   AMBER_3: "https://keqingmains.com/wp-content/uploads/2023/08/Amber_Burgeon_1.png" # burgeon build
   AMBER_4: "https://keqingmains.com/wp-content/uploads/2023/08/Amber_2.png"         # teams
+  AYAKA_1: "https://keqingmains.com/wp-content/uploads/2024/01/Ayaka-Infographic-4.3.png"
   AYATO_1: "https://keqingmains.com/wp-content/uploads/2023/11/Ayato.png"
   BAIZHU_1: "https://keqingmains.com/wp-content/uploads/2023/12/Baizhu_4.2_-_Lapsy.png"
   BARBARA_1: "https://keqingmains.com/wp-content/uploads/2022/08/Barbara_1.png"
   BARBARA_2: "https://keqingmains.com/wp-content/uploads/2023/07/Barbara_2.png"
+  BENNETT_1: "https://keqingmains.com/wp-content/uploads/2023/12/Bennett-Infographic-4.3.png"
   CANDACE_1: "https://keqingmains.com/wp-content/uploads/2023/02/Candace_1.png"
   CANDACE_2: "https://keqingmains.com/wp-content/uploads/2023/02/Candace_2.png"
   CANDACE_3: "https://keqingmains.com/wp-content/uploads/2023/02/Candace_3.png"
   CHARLOTTE_1: "https://keqingmains.com/wp-content/uploads/2023/11/Charlotte_4.2_-_Lapsy-2048x1638.png"
-  CHEVRWUSE_1: "https://keqingmains.com/wp-content/uploads/2024/01/Chevreuse-Infographic-4.3.png"
+  CHEVREUSE_1: "https://keqingmains.com/wp-content/uploads/2024/01/Chevreuse-Infographic-4.3.png"
+  COLLEI_1: "https://keqingmains.com/wp-content/uploads/2023/12/Collei-Infographic-4.3.png"
   CYNO_1: "https://keqingmains.com/wp-content/uploads/2023/11/Cyno.png"
   DENDRO_TRAVELER_1: "https://keqingmains.com/wp-content/uploads/2023/07/DMC_1.png"
   DENDRO_TRAVELER_2: "https://keqingmains.com/wp-content/uploads/2023/07/DMC_2.png"
   DEHYA_1: "https://keqingmains.com/wp-content/uploads/2023/06/Dehya_Off-field_1.png"
   DEHYA_2: "https://keqingmains.com/wp-content/uploads/2023/06/Dehya_On-field_1.png"
   DEHYA_3: "https://keqingmains.com/wp-content/uploads/2023/06/Dehya_2.png"
-  DILUC_1: "https://keqingmains.com/wp-content/uploads/2023/04/Diluc_1.png"
-  DILUC_2: "https://keqingmains.com/wp-content/uploads/2023/04/Diluc_2.png"
+  DILUC_1: "https://keqingmains.com/wp-content/uploads/2023/12/Diluc-Infographic-4.3.png"
   FARUZAN_1: "https://keqingmains.com/wp-content/uploads/2023/07/Faruzan_1-1.png"
   FARUZAN_2: "https://keqingmains.com/wp-content/uploads/2023/07/Faruzan_2.png"
   FISCHL_1: "https://keqingmains.com/wp-content/uploads/2023/11/Fischl.png"
@@ -79,7 +82,9 @@ INFOGRAPHICS:
   KAZUHA_3: "https://keqingmains.com/wp-content/uploads/2022/10/Kazuha_3.png"
   KAEYA_1: "https://keqingmains.com/wp-content/uploads/2022/11/Kaeya_1.png"
   KAEYA_2: "https://keqingmains.com/wp-content/uploads/2022/11/Kaeya_2.png"
+  KAVEH_1: "https://keqingmains.com/wp-content/uploads/2024/01/Kaveh-Infographic-4.3.png"
   KEQING_1: "https://keqingmains.com/wp-content/uploads/2023/11/Keqing-Infographic-New.png"
+  KIRARA_1: "https://keqingmains.com/wp-content/uploads/2024/01/Kirara-Infographic-4.3.png"
   KLEE_1: "https://keqingmains.com/wp-content/uploads/2022/10/Klee-Guide-3.8-scaled.webp"
   KLEE_2: "https://keqingmains.com/wp-content/uploads/2023/07/Klee-Team-3.8-scaled.webp"
   KOKOMI_1: "https://keqingmains.com/wp-content/uploads/2023/04/Kokomi_1.png"
@@ -103,7 +108,7 @@ INFOGRAPHICS:
   NAHIDA_3: "https://keqingmains.com/wp-content/uploads/2023/07/Nahida_3.png"
   NAVIA_1: "https://keqingmains.com/wp-content/uploads/2023/12/Navia-_euphorysm.png"
   NEUVILLETTE_1: "https://keqingmains.com/wp-content/uploads/2023/12/Neuvillette_4.2_-_cote_-_recolored.png"
-  NILOU_1: "https://keqingmains.com/wp-content/uploads/2022/11/Nilou-Infographic-Main-min.png"
+  NILOU_1: "https://keqingmains.com/wp-content/uploads/2024/01/Nilou-Infographic-4.3.png"
   NINGGUANG_1: "https://keqingmains.com/wp-content/uploads/2022/10/Ningguang_1.png"  #build
   NINGGUANG_2: "https://keqingmains.com/wp-content/uploads/2022/10/Ningguang_2.png"  #teams  
   RAIDEN_1: "https://keqingmains.com/wp-content/uploads/2023/08/Raiden-On-Field-Battery-3.7.png" #onfield builds
@@ -126,6 +131,7 @@ INFOGRAPHICS:
   THOMA_2: "https://keqingmains.com/wp-content/uploads/2022/12/ThomaBur2-min.png"
   TIGHNARI_1: "https://keqingmains.com/wp-content/uploads/2022/11/Tighnari-Infographic-Main-min.png"
   TIGHNARI_2: "https://keqingmains.com/wp-content/uploads/2022/11/Tighnari-Infographic-Teams-min.png"
+  VENTI_1: "https://keqingmains.com/wp-content/uploads/2024/01/Venti-Infographic-4.3.png"
   WANDERER_1: "https://keqingmains.com/wp-content/uploads/2023/12/Wanderer_4.2_-_euphorysm.png"
   WRIOTHESLEY_1: "https://keqingmains.com/wp-content/uploads/2023/11/Wriothesley_infographic_4.2.png"
   XIANYUN_1: "https://keqingmains.com/wp-content/uploads/2024/01/Xianyun-Infographic-4.4.png"
@@ -142,8 +148,7 @@ INFOGRAPHICS:
   YAOYAO_1: "https://keqingmains.com/wp-content/uploads/2023/11/Yaoyao-Infographic-New.png"
   YELAN_1: "https://keqingmains.com/wp-content/uploads/2022/07/Yelan_1.png"
   YELAN_2: "https://keqingmains.com/wp-content/uploads/2022/07/Yelan-2.png"
-  YOIMIYA_1: "https://keqingmains.com/wp-content/uploads/2022/08/Yoimiya-1-min.png"
-  YOIMIYA_2: "https://keqingmains.com/wp-content/uploads/2022/08/Yoimiya-2-min.png"
+  YOIMIYA_1: "https://keqingmains.com/wp-content/uploads/2024/01/Yoimiya-Infographic-4.3.png"
   ZHONGLI_1: "https://keqingmains.com/wp-content/uploads/2022/08/Zhongli-1-min-1.png"
   ZHONGLI_2: "https://keqingmains.com/wp-content/uploads/2022/08/Zhongli-2-min.png"
   DENDRO_1: "https://keqingmains.com/wp-content/uploads/2022/08/Dendro-Basics-V21.png" # basic mechs

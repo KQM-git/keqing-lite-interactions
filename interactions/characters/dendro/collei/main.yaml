@@ -1,14 +1,15 @@
 embeds:
   - title: Collei
     color: ${COLORS.DENDRO_GREEN}
-#    image: 
-#      url: ${INFOGRAPHICS.COLLEI_1}
+    image: 
+      url: ${INFOGRAPHICS.COLLEI_1}
     thumbnail:
       url: ${ICON.CHARACTER_COLLEI}
     description: |-
-      *A trainee ranger active in Avidya Forest. Behind her enthusiastic words and actions hides a slightly introverted personality.*
-
-      :construction: ***─ Infographic WIP ─*** :construction:
+      ★★★★
+      *Dendro Bow*
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote (Designer) | irokei (Content)
 
 buttons:
   - label: "Guide"

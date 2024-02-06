@@ -2,12 +2,14 @@ embeds:
   - title: Kamisato Ayaka
     color: ${ COLORS.CRYO_BLUE }
     image: 
-      url: "https://cdn.discordapp.com/attachments/954058547702943744/969958434961227816/unknown.png"
+      url: ${INFOGRAPHICS.AYAKA_1}
     thumbnail:
       url: ${ICON.CHARACTER_AYAKA}
     description: |-
       ★★★★★
       *Cryo Sword* 
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} angtahimik (Designer) | irokei (Content)
 
 buttons:
   - label: "Guide"
