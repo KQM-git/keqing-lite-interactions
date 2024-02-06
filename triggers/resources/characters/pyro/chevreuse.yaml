@@ -1,0 +1,4 @@
+interaction: characters/pyro/chevreuse/main
+description: "Opens KQM's resources on Chevreuse"
+match: ${ TRIGGER_PREFIX }(?:chev(reuse)|chevy)(?:\s|$)
+ignoreCase: true
