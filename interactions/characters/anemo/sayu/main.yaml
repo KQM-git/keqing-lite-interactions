@@ -1,14 +1,23 @@
 embeds:
   - title: Sayu
     color: ${ COLORS.ANEMO_GREEN }
-    #image: 
-    #  url: "https://i2.wp.com/keqingmains.com/wp-content/uploads/2021/10/kqm-logo-full-e1633177025729.png?fit=180%2C143&ssl=1"
     thumbnail:
       url: ${ICON.CHARACTER_SAYU}
     description: |-
       *A pint-sized ninja attached to the Shuumatsuban, who always seems sleep-deprived.*
 
-      :construction: ***─ Infographic WIP ─*** :construction:
+options: #dropdown
+    
+  - label: Sayu On-Field Infographic
+    value: characters/anemo/sayu/sayu_onfield
+    description: KQM's resources for Sayu's On-Field Build.
+    emoji: ${EMOJIS.CHARACTER_SAYU }
+
+  - label: Sayu On-Field Infographic
+    value: characters/anemo/sayu/sayu_offfield
+    description: KQM's resources for Sayu's Off-Field Build.
+    emoji: ${EMOJIS.CHARACTER_SAYU }
+
 
 buttons:
   - label: "Quick Guide"

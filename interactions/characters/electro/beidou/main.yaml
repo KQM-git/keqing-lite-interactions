@@ -2,12 +2,14 @@ embeds:
   - title: Beidou
     color: ${COLORS.ELECTRO_PURPLE}
     image: 
-      url: "https://cdn.discordapp.com/attachments/953505473125052456/953505968199700500/Beidou_New.png"
+      url: ${INFOGRAPHICS.BEIDOU_1}
     thumbnail:
       url: ${ICON.CHARACTER_BEIDOU}
     description: |-
       ★★★★
       *Electro Claymore*
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} kolvii (Designer) | snowwwwww. (Content)
 
 buttons:
   - label: "Guide"

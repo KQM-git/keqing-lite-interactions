@@ -2,12 +2,14 @@ embeds:
   - title: Chongyun
     color: ${ COLORS.CRYO_BLUE }
     image: 
-      url: "https://cdn.discordapp.com/attachments/954058547702943744/963801883376484403/unknown.png"
+      url: ${INFOGRAPHICS.CHONGYUN_1}
     thumbnail:
       url: ${ICON.CHARACTER_CHONGYUN}
     description: |-
       ★★★★
       *Cryo Claymore* 
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote (Designer) | mocha_biscuit (Content)
 
 buttons:
   - label: "Guide"

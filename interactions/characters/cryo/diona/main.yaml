@@ -2,12 +2,14 @@ embeds:
   - title: Diona
     color: ${ COLORS.CRYO_BLUE }
     image: 
-      url: "https://cdn.discordapp.com/attachments/954058547702943744/969663424848101376/unknown.png"
+      url: ${INFOGRAPHICS.DIONA_1}
     thumbnail:
       url: ${ICON.CHARACTER_DIONA}
     description: |-
       ★★★★
       *Cryo Bow* 
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote (Designer) | chasing_haze (Content)
 
 buttons:
   - label: "Guide"

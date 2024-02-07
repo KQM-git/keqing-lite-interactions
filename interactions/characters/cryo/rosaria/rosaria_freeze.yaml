@@ -1,24 +1,15 @@
 embeds:
   - title: Rosaria
     color: ${ COLORS.CRYO_BLUE }
+    image:
+      url: ${INFOGRAPHICS.ROSARIA_2}
     thumbnail:
       url: ${ICON.CHARACTER_ROSARIA}
     description: |-
       ★★★★
       *Cryo Polearm*
-
-
-options: #dropdown
-    
-  - label: Rosaria Reverse Melt Infographic
-    value: characters/cryo/rosaria/rosaria_reversemelt
-    description: KQM's resources for Rosaria's Reverse Melt Build.
-    emoji: ${EMOJIS.CHARACTER_ROSARIA }
-  
-  - label: Rosaria Freeze Infographic
-    value: characters/cryo/rosaria/rosaria_freeze
-    description: KQM's resources for Rosaria's Freeze Build.
-    emoji: ${EMOJIS.CHARACTER_ROSARIA }
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} kolvii (Designer) | irokei (Content)
 
 buttons:
   - label: "Guide"

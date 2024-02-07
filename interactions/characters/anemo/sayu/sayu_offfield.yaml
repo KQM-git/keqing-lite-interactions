@@ -1,0 +1,23 @@
+embeds:
+  - title: Sayu
+    color: ${ COLORS.ANEMO_GREEN }
+    image:
+      url: ${INFOGRAPHICS.SAYU_2}
+    thumbnail:
+      url: ${ICON.CHARACTER_SAYU}
+    description: |-
+      ★★★★
+      *Anemo Claymore*
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote (Designer) | chasing_haze (Content)
+
+buttons:
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/sayu-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "TCL"
+    url: "https://library.keqingmains.com/sayu"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"
