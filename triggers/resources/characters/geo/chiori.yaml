@@ -1,0 +1,4 @@
+interaction: characters/geo/chiori/main
+description: "Opens KQM's resources on Chiori"
+match: ${ TRIGGER_PREFIX }chiori(?:\s|$)
+ignoreCase: true

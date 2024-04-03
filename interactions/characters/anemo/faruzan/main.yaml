@@ -1,23 +1,19 @@
 embeds:
   - title: Faruzan
     color: ${ COLORS.ANEMO_GREEN }
+    image: 
+      url: ${INFOGRAPHICS.FARUZAN_1}
     thumbnail:
       url: ${ICON.CHARACTER_FARUZAN}
     description: |-
-      *A researcher from "one hundred years ago". She enjoys self-identifying as everyone's senior, and has significant knowledge of ancient scripts and machines of all kinds.*
+      ★★★★
+      *Anemo Bow*
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} kolvii (Designer) | baloopy (Content)
 
-options: #dropdown   
-  - label: Faruzan Build Infographic
-    value: characters/anemo/faruzan/faruzan_build
-    description: KQM's resources for Faruzan's Builds.
-    emoji: ${EMOJIS.CHARACTER_FARUZAN}
 
-  - label: Faruzan Team Infographic
-    value: characters/anemo/faruzan/faruzan_teams
-    description: KQM's resources for Faruzan's Teams.
-    emoji: ${EMOJIS.ELEMENT_ANEMO}
 
-buttons:
+buttons:    
   - label: "Guide"
     url: "https://keqingmains.com/faruzan/"
     emoji: ${ EMOJIS.LOGO }
