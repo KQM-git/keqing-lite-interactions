@@ -8,6 +8,8 @@ embeds:
     description: |-
       ★★★★
       *Pyro Polearm*
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} icedsquid (Designer) | icedsquid & jamberry (Content)
       
 buttons:
   - label: "Guide"

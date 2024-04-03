@@ -1,13 +1,27 @@
 embeds:
   - title: Razor
     color: ${ COLORS.ELECTRO_PURPLE }
-    image: 
-      url: "https://cdn.discordapp.com/attachments/953499138627104808/963612611310669894/Razor_New_-_WIP.png"
     thumbnail:
       url: ${ICON.CHARACTER_RAZOR}
     description: |-
-      ★★★★
-      *Electro Claymore*
+      *Some say he is an orphan raised by wolves. Others say he is a wolf spirit in human form. He is most at home in the wild, fighting with claw and thunder. To this day the wolf boy can be found prowling the forest, where he and his wolf pack hunt to survive using nothing more than their animal instincts.*
+
+options: #dropdown
+    
+  - label: Razor Aggravate Build Infographic
+    value: characters/electro/razor/aggravate_build
+    description: KQM's resources for Razor's Aggravate Builds.
+    emoji: ${EMOJIS.ELEMENT_ELECTRO }
+  
+  - label: Razor Physical Build Infographic
+    value: characters/electro/razor/physical_build
+    description: KQM's resources for Razor's Physical Builds.
+    emoji: ${EMOJIS.ELEMENT_ELECTRO }
+  
+  - label: Razor Transformative Reaction Build Infographic
+    value: characters/electro/razor/transformative_build
+    description: KQM's resources for Razor's Transformative Reaction Builds.
+    emoji: ${EMOJIS.ELEMENT_ELECTRO }
 
 buttons:
   - label: "Guide"

@@ -1,0 +1,29 @@
+embeds:
+  - title: Razor
+    color: ${ COLORS.ELECTRO_PURPLE }
+    image: 
+      url: ${INFOGRAPHICS.RAZOR_2}
+    thumbnail:
+      url: ${ICON.CHARACTER_RAZOR}
+    description: |-
+      ★★★★
+      *Electro Claymore*
+    footer:
+      text: "Use \"Open original\" to view full size.\n\nCredits to: angtahimik (Designer) | irokei (Content)"
+
+
+buttons:
+  - label: "Guide"
+    url: "https://keqingmains.com/razor/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/razor-quickguide"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "TCL"
+    url: "https://library.keqingmains.com/characters/electro/razor"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"

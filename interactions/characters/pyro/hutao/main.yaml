@@ -1,23 +1,15 @@
 embeds:
   - title: Hu Tao
     color: ${ COLORS.PYRO_ORANGE }
+    image: 
+      url: ${INFOGRAPHICS.HUTAO_1}
     thumbnail:
       url: ${ICON.CHARACTER_HUTAO}
     description: |-
-      *The 77th Director of the Wangsheng Funeral Parlor. She took over the business at a rather young age.*
-
-
-options: #dropdown
-    
-  - label: Hu Tao Build Infographic
-    value: characters/pyro/hutao/tao_build
-    description: KQM's resources for Hu Tao Builds.
-    emoji: ${EMOJIS.CHARACTER_HUTAO }
-
-  - label: Hu Tao Teams Infographic
-    value: characters/pyro/hutao/tao_teams
-    description: KQM's resources for Hu Tao Teams.
-    emoji: ${EMOJIS.ELEMENT_PYRO }
+      ★★★★★
+      *Pyro Polearm*
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} icedsquid (Designer) | snowwwwww. (Content)
 
 buttons:
 

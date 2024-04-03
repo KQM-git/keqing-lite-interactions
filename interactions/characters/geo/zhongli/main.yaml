@@ -1,22 +1,17 @@
 embeds:
   - title: Zhongli
     color: ${ COLORS.GEO_YELLOW }
+    image: 
+      url: ${INFOGRAPHICS.ZHONGLI_1}
     thumbnail:
       url: ${ICON.CHARACTER_ZHONGLI}
     description: |-
-      *A mysterious expert contracted by the Wangsheng Funeral Parlor. Extremely knowledgeable in all things.*
-  
-options: #dropdown   
-  - label: Zhongli Build Infographic
-    value: characters/geo/zhongli/zhongli_build
-    description: KQM's resources for Zhongli's Builds.
-    emoji: ${EMOJIS.CHARACTER_ZHONGLI}
-
-  - label: Zhongli Team Infographic
-    value: characters/geo/zhongli/zhongli_teams
-    description: KQM's resources for Zhongli's Teams.
-    emoji: ${EMOJIS.ELEMENT_GEO}
-    
+      ★★★★★
+      *Geo Polearm*
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} euphorysm (Designer) | snowwwwww. (Content)
+      
+          
 buttons:
 
   - label: "Guide"

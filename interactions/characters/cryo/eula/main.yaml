@@ -2,7 +2,7 @@ embeds:
   - title: Eula
     color: ${ COLORS.CRYO_BLUE }
     image: 
-      url: "https://cdn.discordapp.com/attachments/953505473125052456/953505939472924692/unknown.png"
+      url: ${INFOGRAPHICS.EULA_1}
     thumbnail:
       url: ${ICON.CHARACTER_EULA}
     description: |-

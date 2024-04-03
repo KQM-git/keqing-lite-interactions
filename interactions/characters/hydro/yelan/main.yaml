@@ -1,22 +1,15 @@
 embeds:
   - title: Yelan
     color: ${ COLORS.HYDRO_BLUE }
+    image: 
+      url: ${INFOGRAPHICS.YELAN_1}
     thumbnail:
       url: ${ICON.CHARACTER_YELAN}
     description: |-
-      *A mysterious person who claims to work for the Ministry of Civil Affairs, but is a "non-entity" on the Ministry of Civil Affairs' list.*
-
-options: #dropdown
-  - label: Yelan Builds
-    value: characters/hydro/yelan/yelan_build
-    description: KQM's resources for Yelan's Builds.
-    emoji: ${EMOJIS.ELEMENT_HYDRO }
-
-  - label: Yelan Teams
-    value: characters/hydro/yelan/yelan_teams
-    description: KQM's resources for Yelan's Builds.
-    emoji: ${EMOJIS.ELEMENT_HYDRO }
-
+      ★★★★★
+      *Hydro Bow*
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} euphorysm (Designer) | snowwwwww. (Content)
 
 buttons:
 
