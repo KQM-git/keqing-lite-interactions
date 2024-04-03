@@ -1,5 +1,5 @@
 embeds:
-  - title: Raiden
+  - title: On-Field DPS Raiden
     color: ${ COLORS.ELECTRO_PURPLE }
     image: 
       url: ${INFOGRAPHICS.RAIDEN_2}

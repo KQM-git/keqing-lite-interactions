@@ -1,5 +1,5 @@
 embeds:
-  - title: Raiden
+  - title: Hyperbloom DPS Raiden
     color: ${ COLORS.ELECTRO_PURPLE }
     image: 
       url: ${INFOGRAPHICS.RAIDEN_3}

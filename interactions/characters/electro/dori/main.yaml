@@ -1,14 +1,27 @@
 embeds:
   - title: Dori
     color: ${COLORS.ELECTRO_PURPLE}
-    # image: 
-    #   url: ${INFOGRAPHICs.DORI_1}
     thumbnail:
       url: ${ICON.CHARACTER_DORI}
     description: |-
       *An elusive merchant who has a fondness for glittering Mora.*
-      
-      :construction: ***─ Infographic WIP ─*** :construction:
+
+options: #dropdown
+    
+  - label: Dori Support Build Infographic
+    value: characters/electro/dori/aggravate_build
+    description: KQM's resources for Dori's Aggravate Builds.
+    emoji: ${EMOJIS.ELEMENT_ELECTRO }
+
+  - label: Dori Hyperbloom DPS Infographic
+    value: characters/electro/dori/onfield_build
+    description: KQM's resources for Dori's On-Field DPS Builds.
+    emoji: ${EMOJIS.ELEMENT_ELECTRO }
+
+  - label: Dori C6 Aggravate DPS Build Infographic
+    value: characters/electro/dori/hyperbloom_build
+    description: KQM's resources for Dori's Aggaravate Builds.
+    emoji: ${EMOJIS.ELEMENT_ELECTRO }
 
 buttons:
   # - label: "Guide"

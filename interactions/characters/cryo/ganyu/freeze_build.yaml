@@ -1,5 +1,5 @@
 embeds:
-  - title: Melt Ganyu
+  - title: Freeze Ganyu
     color: ${ COLORS.CRYO_BLUE }
     thumbnail:
       url: ${ICON.CHARACTER_GANYU}

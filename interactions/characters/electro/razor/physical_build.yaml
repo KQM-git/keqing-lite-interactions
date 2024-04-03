@@ -1,5 +1,5 @@
 embeds:
-  - title: Razor
+  - title: Physical DPS Razor
     color: ${ COLORS.ELECTRO_PURPLE }
     image: 
       url: ${INFOGRAPHICS.RAZOR_2}

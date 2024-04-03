@@ -1,21 +1,16 @@
 embeds:
   - title: Yanfei
     color: ${ COLORS.PYRO_ORANGE }
+    image:
+      url: ${INFOGRAPHICS.YANFEI_1}
     thumbnail:
       url: ${ICON.CHARACTER_YANFEI}
     description: |-
-      *A well-known legal adviser active in Liyue Harbor. A brilliant young lady in whose veins runs the blood of an illuminated beast.*
+      ★★★★
+      *Pyro Catalyst*
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} nikatosaurus (Designer) | nikatosaurus (Content)
 
-options: #dropdown
-  - label: Yanfei Build Infographics
-    value: characters/pyro/yanfei/yanfei_build
-    description: KQM's resources for Yanfei Builds.
-    emoji: ${EMOJIS.CHARACTER_YANFEI}
-
-  - label: Yanfei Teams Infographics
-    value: characters/pyro/yanfei/yanfei_teams
-    description: KQM's resources for Yanfei Teams.
-    emoji: "<:nyanfei:841380747860377621>"
 
 buttons:
   - label: "Guide"

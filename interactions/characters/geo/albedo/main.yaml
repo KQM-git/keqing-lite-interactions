@@ -1,21 +1,16 @@
 embeds:
   - title: Albedo
     color: ${ COLORS.GEO_YELLOW }
+    image:
+      url: ${INFOGRAPHICS.ALBEDO_1}
     thumbnail:
       url: ${ICON.CHARACTER_ALBEDO}
     description: |-
-      *A genius known as the Kreideprinz, he is the Chief Alchemist and Captain of the Investigation Team of the Knights of Favonius.*
+      ★★★★★
+      *Geo Sword*
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote (Designer) | baloopy (Content)
 
-options: #dropdown   
-  - label: Albedo Build Infographic
-    value: characters/geo/albedo/albedo_build
-    description: KQM's resources for Albedo's Builds.
-    emoji: ${EMOJIS.CHARACTER_ALBEDO}
-
-  - label: Albedo Team Infographic
-    value: characters/geo/albedo/albedo_teams
-    description: KQM's resources for Albedo's Teams.
-    emoji: ${EMOJIS.ELEMENT_GEO}
 
 buttons:
   - label: "Guide"

@@ -1,5 +1,5 @@
 embeds:
-  - title: Razor
+  - title: Aggravate DPS Razor
     color: ${ COLORS.ELECTRO_PURPLE }
     image: 
       url: ${INFOGRAPHICS.RAZOR_1}

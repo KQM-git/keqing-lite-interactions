@@ -1,5 +1,5 @@
 embeds:
-  - title: Xinyan
+  - title: Shielder Xinyan
     color: ${ COLORS.PYRO_ORANGE }
     image: 
       url: ${INFOGRAPHICS.XINYAN_2}
