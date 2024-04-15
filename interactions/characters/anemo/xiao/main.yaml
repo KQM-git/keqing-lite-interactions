@@ -1,21 +1,15 @@
 embeds:
   - title: Xiao
     color: ${COLORS.ANEMO_GREEN}
+    image: 
+      url: ${INFOGRAPHICS.XIAO_1}
     thumbnail:
       url: ${ICON.CHARACTER_XIAO}
     description: |-
-      *A yaksha adeptus who defends Liyue. Also heralded as the "Conqueror of Demons" and "Vigilant Yaksha."*
-
-options: #dropdown
-  - label: Xiao Build Infographic
-    value: characters/anemo/xiao/xiao_build
-    description: KQM's resources for Xiao Builds.
-    emoji: ${EMOJIS.CHARACTER_XIAO}
-
-  - label: Xiao Teams Infographic
-    value: characters/anemo/xiao/xiao_teams
-    description: KQM's resources for Xiao Teams.
-    emoji: ${EMOJIS.ELEMENT_ANEMO}
+      ★★★★★
+      *Anemo Polearm*   
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote (Designer) | casdela (Content)
 
 buttons:
   - label: "Guide"

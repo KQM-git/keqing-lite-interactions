@@ -1,0 +1,28 @@
+embeds:
+  - title: Hyperbloom Trigger Dori
+    color: ${COLORS.ELECTRO_PURPLE}
+    image: 
+      url: ${INFOGRAPHICS.DORI_2}
+    thumbnail:
+      url: ${ICON.CHARACTER_DORI}
+    description: |-
+      ★★★★
+      *Electro Claymores*
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} kolvii (Designer) | nova_licious (Content)
+
+buttons:
+  # - label: "Guide"
+  #   url: "https://keqingmains.com/dori/"
+  #   emoji: ${ EMOJIS.LOGO }
+  #   style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/dori-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "TCL"
+    url: "https://library.keqingmains.com/dori"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"

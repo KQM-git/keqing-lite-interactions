@@ -4,20 +4,11 @@ embeds:
     thumbnail:
       url: ${ICON.CHARACTER_SHENHE}
     description: |-
-      *An adepti disciple with a most unusual air about her. Having spent much time cultivating in isolation in Liyue's mountains, she has become every bit as cool and distant as the adepti themselves."*
-
-options: #dropdown
-  - label: Shenhe Build Infographics
-    value: characters/cryo/shenhe/shenhe_build
-    description: KQM's resources for Shenhe Builds.
-    emoji: ${ EMOJIS.CHARACTER_SHENHE }
-
-  - label: Shenhe Teams Infographics
-    value: characters/cryo/shenhe/shenhe_teams
-    description: KQM's resources for Shenhe Teams.
-    emoji: ${ EMOJIS.CHARACTER_Shenhe }
-  
-
+      ★★★★★
+      *Cryo Polearm*
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} kolvii (Designer) | irokei (Content)
+      
 buttons:
     
   - label: "Guide"

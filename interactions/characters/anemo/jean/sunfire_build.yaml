@@ -1,0 +1,35 @@
+embeds:
+  - title: Jean
+    color: ${ COLORS.ANEMO_GREEN }
+    image: 
+      url: ${INFOGRAPHICS.JEAN_2}
+    thumbnail:
+      url: ${ICON.CHARACTER_JEAN}
+    description: |-
+      ★★★★★
+      *Anemo Sword*
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} mafan404 (Designer) | baloopy (Content)
+    
+
+buttons:
+  - label: "Guide"
+    url: "https://keqingmains.com/jean/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/jean-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "TCL"
+    url: "https://library.keqingmains.com/characters/anemo/jean"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"
+
+  - label: "Video Guide"
+    url: "https://www.youtube.com/watch?v=FDNVtAcNn2U"
+    emoji: ${ EMOJIS.YOUTUBE }
+    style: "LINK"
+    

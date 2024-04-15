@@ -1,22 +1,17 @@
 embeds:
-  - title: Raiden
+  - title: On-Field DPS Raiden
     color: ${ COLORS.ELECTRO_PURPLE }
     image: 
-      url: ${INFOGRAPHICS.RAIDEN_1}
+      url: ${INFOGRAPHICS.RAIDEN_2}
     thumbnail:
       url: ${ICON.CHARACTER_RAIDEN}
     description: |-
       ★★★★★
       *Electro Polearm*
     footer:
-      text: "Use \"Open original\" to view full size.\n\nCredits to: ang tahimik#9252 (Designer) | Ayzel#7399 (Content)"
+      text: "Use \"Open original\" to view full size.\n\nCredits to: euphorysm (Designer) | snowwwwww. & chasing_haze (Content)"
 
 buttons:
-  - customId: "liveInteraction#characters/electro/raiden/onfield_team"
-    label: "Teams Infographic"
-    style: "PRIMARY"
-    emoji: "▶️"
-
   - label: "Guide"
     url: "https://keqingmains.com/raiden/"
     emoji: ${ EMOJIS.LOGO }

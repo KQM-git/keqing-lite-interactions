@@ -6,19 +6,11 @@ embeds:
     thumbnail:
       url: ${ICON.CHARACTER_JEAN}
     description: |-
-      *As the Acting Grand Master of the Knights, Jean has always been devoted to her duties and maintaining peace in Mondstadt. She had taken precautions long before the onset of Stormterror's assault, and she will guard Mondstadt with her life as always.*
-
-options: #dropdown
+      ★★★★★
+      *Anemo Sword*
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} kolvii (Designer) | baloopy (Content)
     
-  - label: Jean Support Build Infographic
-    value: characters/anemo/jean/support_build
-    description: KQM's resources for Jean's Support Builds.
-    emoji: ${EMOJIS.ELEMENT_ANEMO }
-
-  - label: Jean Sunfire Build Infographic
-    value: characters/anemo/jean/sunfire_build
-    description: KQM's resources for Jean's Sunfire Builds.
-    emoji: ${EMOJIS.ELEMENT_ANEMO }
 
 buttons:
   - label: "Guide"

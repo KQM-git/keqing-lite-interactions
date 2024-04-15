@@ -2,12 +2,14 @@ embeds:
   - title: Gorou
     color: ${ COLORS.GEO_YELLOW }
     image: 
-      url: "https://cdn.discordapp.com/attachments/953505473125052456/953506105542193152/Gorou_New.png"
+      url: ${INFOGRAPHICS.GOROU_1}
     thumbnail:
       url: ${ICON.CHARACTER_GOROU}
     description: |-
       ★★★★
       *Geo Bow*
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} kolvii (Designer) | irokei (Content)
 
 buttons:
   - label: "Guide"

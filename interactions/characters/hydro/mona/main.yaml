@@ -1,39 +1,23 @@
 embeds:
   - title: Mona
     color: ${ COLORS.HYDRO_BLUE }
+    image: 
+      url: ${INFOGRAPHICS.MONA_1}
     thumbnail:
       url: ${ICON.CHARACTER_MONA}
     description: |-
-      *A mysterious young astrologer who proclaims herself to be "Astrologist Mona Megistus," and who possesses abilities to match the title. Erudite, but prideful.*
-
-options: #dropdown
-  - label: On-field / Burst DPS 
-    value: characters/hydro/mona/on-field
-    description: KQM's resources for on-field/burst DPS Mona.
-    emoji: ${ EMOJIS.ELEMENT_HYDRO }
-    
-  - label: Support 
-    value: characters/hydro/mona/support
-    description: KQM's resources for support Mona.
-    emoji: ${ EMOJIS.ELEMENT_HYDRO }
+      ★★★★★
+      *Hydro Catalyst*
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote (Designer) | baloopy (Content)
 
 buttons:
   - label: "Guide"
-    url: "https://keqingmains.com/mona"
+    url: "https://keqingmains.com/mona/"
     emoji: ${ EMOJIS.LOGO }
     style: "LINK"
 
   - label: "Quick Guide"
     url: "https://keqingmains.com/q/mona-quickguide/"
     emoji: ${ EMOJIS.LOGO }
-    style: "LINK"
-
-  - label: "TCL"
-    url: "https://library.keqingmains.com/mona"
-    emoji: ${ EMOJIS.MAGNIFY }
-    style: "LINK"
-
-  - label: "Video Guide"
-    url: "https://www.youtube.com/watch?v=h9RAJLkb_P8"
-    emoji: ${ EMOJIS.YOUTUBE }
     style: "LINK"

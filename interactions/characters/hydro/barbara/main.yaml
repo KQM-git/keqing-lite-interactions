@@ -1,23 +1,16 @@
 embeds:
   - title: Barbara
     color: ${ COLORS.HYDRO_BLUE }
+    image:
+      url: ${INFOGRAPHICS.BABARA_1}
     thumbnail:
       url: ${ICON.CHARACTER_BARBARA}
     description: |-
-      *Every citizen of Mondstadt adores Barbara. She learned the word "idol" from a magazine.*
-
-
-options: #dropdown
-    
-  - label: Barbara Build Infographic
-    value: characters/hydro/barbara/build
-    description: KQM's resources for Barbara Builds.
-    emoji: ${EMOJIS.ELEMENT_HYDRO }
-
-  - label: Barbara Team Infographic
-    value: characters/hydro/barbara/teams
-    description: KQM's resources for Barbara Teams.
-    emoji: ${EMOJIS.ELEMENT_HYDRO }
+      ★★★★
+      *Hydro Catalyst*
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} kolvii (Designer) | baloopy (Content)
+      
 
 
 buttons:

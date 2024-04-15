@@ -1,0 +1,28 @@
+embeds:
+  - title: Chiori
+    color: ${ COLORS.GEO_YELLOW }
+    image: 
+      url: ${INFOGRAPHICS.CHIORI_1}
+    thumbnail:
+      url: ${ICON.CHARACTER_CHIORI}
+    description: |-
+      ★★★★★
+      *Geo Sword* 
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} pawketful (Designer) | irokei (Content)
+
+buttons:
+  # - label: "Guide"
+  #   url: "https://keqingmains.com/chiori/"
+  #   emoji: ${ EMOJIS.LOGO }
+  #   style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/chiori-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  # - label: "TCL"
+  #   url: "https://library.keqingmains.com/characters/geo/chiori"
+  #   emoji: ${ EMOJIS.MAGNIFY }
+  #   style: "LINK"

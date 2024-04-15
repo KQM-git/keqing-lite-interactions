@@ -8,24 +8,19 @@ embeds:
 
 options: #dropdown
     
-  - label: Raiden Onfield Build Infographic
-    value: characters/electro/raiden/onfield_build
-    description: KQM's resources for Raiden Onfield Builds.
+  - label: Raiden Aggravate Build Infographic
+    value: characters/electro/raiden/aggravate_build
+    description: KQM's resources for Raiden's Aggravate Builds.
     emoji: ${EMOJIS.ELEMENT_ELECTRO }
 
-  - label: Raiden Onfield Team Infographic
-    value: characters/electro/raiden/onfield_team
-    description: KQM's resources for Raiden Onfield Builds.
+  - label: Raiden On-Field DPS Infographic
+    value: characters/electro/raiden/onfield_build
+    description: KQM's resources for Raiden's On-Field DPS Builds.
     emoji: ${EMOJIS.ELEMENT_ELECTRO }
 
   - label: Raiden Hyperbloom Build Infographic
     value: characters/electro/raiden/hyperbloom_build
-    description: KQM's resources for Raiden Hyperbloom Builds.
-    emoji: ${EMOJIS.ELEMENT_ELECTRO }
-
-  - label: Raiden Hyperbloom Team Infographic
-    value: characters/electro/raiden/hyperbloom_team
-    description: KQM's resources for Raiden Hyperbloom Builds.
+    description: KQM's resources for Raiden's Hyperbloom Builds.
     emoji: ${EMOJIS.ELEMENT_ELECTRO }
 
 

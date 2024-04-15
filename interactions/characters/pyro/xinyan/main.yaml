@@ -1,15 +1,27 @@
 embeds:
   - title: Xinyan
     color: ${ COLORS.PYRO_ORANGE }
-    image: 
-      url: ${INFOGRAPHICS.XINYAN_1}
     thumbnail:
       url: ${ICON.CHARACTER_XINYAN}
     description: |-
-      ★★★★
-      *Pyro Claymore*
-    footer:
-      text: "Use \"Open original\" to view full size. Page 2 Coming Soon!\n\nCredits to: IcedSquid#3207 (Designer) | [TF Dragon God] Noir#1966 (Content)"
+      *Rock 'n' roll is an avant-garde art in Liyue Harbor and Xinyan is the pioneer in this field. She rebels against ossified prejudices, using her music and passionate singing to awaken dazed souls fatigued by worldly matters. If you get the chance, do not miss out on her next performance!*
+
+options: #dropdown
+    
+  - label: Xinyan Pyro DPS Build Infographic
+    value: characters/pyro/xinyan/pyro_dps
+    description: KQM's resources for Xinyan's Pyro DPS Builds.
+    emoji: ${EMOJIS.ELEMENT_PYRO }
+
+  - label: Xinyan Shielder Build Infographic
+    value: characters/pyro/xinyan/shielder_build
+    description: KQM's resources for Xinyan's Shielder Builds.
+    emoji: ${EMOJIS.ELEMENT_PYRO }
+
+  - label: Xinyan Physical DPS Build Infographic
+    value: characters/pyro/xinyan/phys_dps
+    description: KQM's resources for Xinyan's Physical DPS Builds.
+    emoji: ${EMOJIS.ELEMENT_PYRO }
 
 buttons:
   - label: "Guide"

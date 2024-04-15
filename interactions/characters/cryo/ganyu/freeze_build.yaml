@@ -4,12 +4,12 @@ embeds:
     thumbnail:
       url: ${ICON.CHARACTER_GANYU}
     image: 
-      url: ${INFOGRAPHICS.GANYU_FREEZE_1}
+      url: ${INFOGRAPHICS.GANYU_1}
     description: |-
       ★★★★★
-      *Cryo Bow* 
+      *Cryo Bow*
     footer:
-      text: "Use \"Open original\" to view full size.\n\nCredits to: Prévisible#7440 (Designer & Content)"
+      text: ${LABEL.INFOGRAPHIC_CREDITS} euphorysm (Designer) | nova_licious (Content)
 
     # fields:
     # - name: '<:ER:947725645104939079> Energy Recharge:'
@@ -34,16 +34,12 @@ embeds:
     #   inline: true
 
 buttons:
-  - customId: "liveInteraction#characters/cryo/ganyu/freeze_teams"
-    label: "Teams Infographic"
-    style: "PRIMARY"
-    emoji: "▶️"
 
   - label: "Guide"
     url: "https://keqingmains.com/ganyu/"
     emoji: ${ EMOJIS.LOGO }
     style: "LINK"
-
+    
   - label: "Quick Guide"
     url: "https://keqingmains.com/q/ganyu-quickguide/"
     emoji: ${ EMOJIS.LOGO }
@@ -53,6 +49,7 @@ buttons:
     url: "https://www.youtube.com/watch?v=wr492BjbUh8"
     emoji: ${ EMOJIS.YOUTUBE }
     style: "LINK" 
+
 
 
 #     Crit/Attack ratios: 25-40 CR, 200+ CD

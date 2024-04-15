@@ -4,18 +4,14 @@ embeds:
     thumbnail:
       url: ${ICON.CHARACTER_GANYU}
     image: 
-      url: ${INFOGRAPHICS.GANYU_MELT_1}
+      url: ${INFOGRAPHICS.GANYU_2}
     description: |-
       ★★★★★
       *Cryo Bow*
     footer:
-      text: "Use \"Open original\" to view full size.\n\nCredits to: Prévisible#7440 (Designer & Content)"
+      text: ${LABEL.INFOGRAPHIC_CREDITS} euphorysm (Designer) | nova_licious (Content)
 
 buttons:
-  - customId: "liveInteraction#characters/cryo/ganyu/melt_teams"
-    label: "Teams Infographic"
-    style: "PRIMARY"
-    emoji: "▶️"
 
   - label: "Guide"
     url: "https://keqingmains.com/ganyu/"

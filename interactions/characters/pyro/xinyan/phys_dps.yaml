@@ -1,0 +1,23 @@
+embeds:
+  - title: Physical DPS Xinyan
+    color: ${ COLORS.PYRO_ORANGE }
+    image: 
+      url: ${INFOGRAPHICS.XINYAN_3}
+    thumbnail:
+      url: ${ICON.CHARACTER_XINYAN}
+    description: |-
+      ★★★★
+      *Pyro Claymore*
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} icedsquid (Designer) | baloopy (Content)
+
+buttons:
+  - label: "Guide"
+    url: "https://keqingmains.com/xinyan/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "TCL"
+    url: "https://library.keqingmains.com/characters/pyro/xinyan"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"

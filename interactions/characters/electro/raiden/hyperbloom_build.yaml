@@ -1,5 +1,5 @@
 embeds:
-  - title: Raiden
+  - title: Hyperbloom DPS Raiden
     color: ${ COLORS.ELECTRO_PURPLE }
     image: 
       url: ${INFOGRAPHICS.RAIDEN_3}
@@ -9,13 +9,9 @@ embeds:
       ★★★★★
       *Electro Polearm*
     footer:
-      text: "Use \"Open original\" to view full size.\n\nCredits to: zelard (Designer) | erisdc (Content)"
+      text: "Use \"Open original\" to view full size.\n\nCredits to: euphorysm (Designer) | chasing_haze (Content)"
 
 buttons:
-  - customId: "liveInteraction#characters/electro/raiden/hyperbloom_team"
-    label: "Teams Infographic"
-    style: "PRIMARY"
-    emoji: "▶️"
 
   - label: "Guide"
     url: "https://keqingmains.com/raiden/"

@@ -2,12 +2,14 @@ embeds:
   - title: Yun Jin
     color: ${ COLORS.GEO_YELLOW }
     image: 
-      url: "https://cdn.discordapp.com/attachments/954058547702943744/963801365056983090/unknown.png"
+      url: ${INFOGRAPHICS.YUNJIN_1}
     thumbnail:
       url: ${ICON.CHARACTER_YUNJIN}
     description: |-
       ★★★★
       *Geo Polearm*
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} kolvii (Designer) | kolvii (Content)"
     
 buttons:
   - label: "Guide"

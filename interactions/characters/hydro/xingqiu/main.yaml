@@ -9,13 +9,9 @@ embeds:
       ★★★★
       *Hydro Sword*
     footer:
-      text: "Use \"Open original\" to view full size.\n\nCredits to: ang tahimik#9252 (Designer) | Ayzel#7399, xf3#3123 (Content)"      
+      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote (Designer) | snowwwwww. (Content)
       
 buttons:
-  - customId: "liveInteraction#characters/hydro/xingqiu/main2"
-    label: "Teams Infographic"
-    style: "PRIMARY"
-    emoji: "▶️"
 
   - label: "Guide"
     url: "https://keqingmains.com/xingqiu"
