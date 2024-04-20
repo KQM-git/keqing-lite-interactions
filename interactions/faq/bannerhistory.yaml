@@ -4,6 +4,12 @@ embeds:
     description: Limited character & weapon banners since game release in version 1.0
 
 buttons:
+
+  - label: "paimon.moe Timeline"
+    style: "LINK"
+    emoji: ${ EMOJIS.MAGNIFY }
+    url: https://paimon.moe/timeline
+
   - label: "Wiki Link"
     style: "LINK"
     emoji: ${ EMOJIS.MAGNIFY }
