@@ -2,7 +2,7 @@ embeds:
   - title: Yoimiya
     color: ${ COLORS.PYRO_ORANGE }
     image:
-      url: ${INFOGRAPHICS.YOIMIYA}
+      url: ${INFOGRAPHICS.YOIMIYA_1}
     thumbnail:
       url: ${ICON.CHARACTER_YOIMIYA}
     description: |-
