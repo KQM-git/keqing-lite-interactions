@@ -5,7 +5,7 @@ embeds:
     #   url: "https://cdn.discordapp.com/attachments/954058547702943744/958957664233209856/unknown.png"
     thumbnail:
       url: ${ICON.CHARACTER_TRAVELER_F}
-   description: |-
+    description: |-
       ★★★★★
       *Anemo Sword*
       **Infographic Under Construction**
