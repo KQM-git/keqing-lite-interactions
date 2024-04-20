@@ -6,16 +6,12 @@ embeds:
     thumbnail:
       url: ${ICON.CHARACTER_SARA}
     description: |-
-      *A general of the Tenryou Commission. Bold, decisive, and skilled in battle.*
+      ★★★★
+      *Electro Bow*
     footer:
-      text: "Use \"Open original\" to view full size.\n\nCredits to: ang tahimik#9252 (Designer) | ඞඞ#1984, fritzzes#2211 (Content)"
+      text: "Use \"Open original\" to view full size.\n\nCredits to: euphorysm (Designer) | baloopy (Content)"
 
 buttons:
-  - customId: "liveInteraction#characters/electro/sara/main2"
-    label: "Teams Infographic"
-    style: "PRIMARY"
-    emoji: "▶️"
-
   - label: "Guide"
     url: "https://keqingmains.com/sara/"
     emoji: ${ EMOJIS.LOGO }
