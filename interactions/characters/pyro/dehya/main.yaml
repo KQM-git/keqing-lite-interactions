@@ -7,19 +7,19 @@ embeds:
       *A member of the Eremites, a mercenary organization that roams the sands of Sumeru. Valiant and powerful, she enjoys great fame amongst her fellow Eremites.*
 
 options: #dropdown
-  - label: On Field Build
+  - label: Burgeon Trigger Build Infographic
+    value: characters/pyro/dehya/burgeon_trigger
+    description: KQM's resources for Dehya's Burgeon Trigger Builds
+    emoji: ${EMOJIS.CHARACTER_DEHYA }
+
+  - label: On-Field DPS Build Infographic
     value: characters/pyro/dehya/on_field_build
-    description: KQM's resources for on-field DPS Dehya.
+    description: KQM's resources for Dehya's On-Field DPS Builds.
     emoji: ${EMOJIS.CHARACTER_DEHYA }
 
-  - label: Off Field Build
-    value: characters/pyro/dehya/off_field_build
-    description: KQM's resources for off-field DPS Dehya.
-    emoji: ${EMOJIS.CHARACTER_DEHYA }
-
-  - label: Teams
-    value: characters/pyro/dehya/teams
-    description: KQM's resources for Dehya Teams.
+  - label: Support Build Infographic
+    value: characters/pyro/dehya/support_build
+    description: KQM's resources for Dehya's Support Builds.
     emoji: ${EMOJIS.ELEMENT_PYRO }
 
 buttons:

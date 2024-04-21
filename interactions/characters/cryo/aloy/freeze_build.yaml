@@ -1,5 +1,5 @@
 embeds:
-  - title: Support Aloy Teams
+  - title: Freeze Aloy 
     color: ${ COLORS.CRYO_BLUE }
     image: 
       url: ${ INFOGRAPHICS.ALOY_2 }
@@ -8,12 +8,10 @@ embeds:
     description: |-
       ★★★★
       *Cryo Bow* 
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} kolvii (Designer) | baloopy (Content)
 
 buttons:
-  - customId: "liveInteraction#characters/cryo/aloy/support_build"
-    label: "Basics"
-    style: "PRIMARY"
-    emoji: "◀️"
 
   - label: "Guide"
     url: "https://keqingmains.com/aloy/"

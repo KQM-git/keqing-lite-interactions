@@ -1,21 +1,15 @@
 embeds:
   - title: Mika 
     color: ${ COLORS.CRYO_BLUE }
+    image:
+      url: ${INFOGRAPHICS.MIKA_1}
     thumbnail:
       url: ${ICON.CHARACTER_MIKA}
     description: |-
-      *A young knight born to an ordinary family. He serves as a Front-Line Surveyor in his Company. He is a low-key and cautious character.*
-
-options: #dropdown
-  - label: Mika Build
-    value: characters/cryo/mika/mika_build
-    description: KQM's resources for Mika Build.
-    emoji: ${ EMOJIS.ELEMENT_MIKA }
-
-  - label: Mika Teams
-    value: characters/cryo/mika/mika_teams
-    description: KQM's resources for Mika's Teams.
-    emoji: ${ EMOJIS.ELEMENT_MIKA }
+      ★★★★
+      *Cryo Polearm*
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} alphaflyte (Designer) | cuppacote (Content)
 
 
 buttons:

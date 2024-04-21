@@ -7,14 +7,14 @@ embeds:
       *A Rtawahist student who always looks sleep-deprived. Her dark eye circles have been worsening due to academic stress.*
 
 options: #dropdown
-  - label: Layla Build Infographics
-    value: characters/cryo/layla/layla_build
-    description: KQM's resources for Layla Builds.
+  - label: Layla Shielder Infographic
+    value: characters/cryo/layla/shielder_build
+    description: KQM's resources for Layla's Shielder Builds.
     emoji: ${ EMOJIS.CHARACTER_LAYLA }
 
-  - label: Layla Teams Infographics
-    value: characters/cryo/layla/layla_teams
-    description: KQM's resources for Layla Teams.
+  - label: Layla Off-Field DPS Infographic
+    value: characters/cryo/layla/offfield_build
+    description: KQM's resources for Layla's Off-Field DPS Builds.
     emoji: ${ EMOJIS.CHARACTER_LAYLA }
 
 buttons:

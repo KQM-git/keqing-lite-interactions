@@ -7,25 +7,21 @@ embeds:
       *Formerly an outcast, now a hunter of unparalleled skill. Ready to do the right thing at any time.*
 
 options: #dropdown
-  - label: Support Build
+  - label: Support Build Infographic
     value: characters/cryo/aloy/support_build
-    description: KQM's resources for Aloy Support Build.
+    description: KQM's resources for Aloy's Support Builds.
     emoji: ${ EMOJIS.ELEMENT_CRYO }
 
-  - label: Support Team
-    value: characters/cryo/aloy/support_teams
-    description: KQM's resources for Aloy Support Teams.
+  - label: Freeze Build Infographic
+    value: characters/cryo/aloy/freeze_build
+    description: KQM's resources for Aloy's Freeze Builds.
     emoji: ${ EMOJIS.ELEMENT_CRYO }
     
-  - label: Melt Builds
+  - label: Melt Build Infographic
     value: characters/cryo/aloy/melt_build
-    description: KQM's resources for Melt Aloy Builds.
+    description: KQM's resources for Aloy's Melt Builds.
     emoji: "<:melt:947715728683991120>"
 
-  - label: Melt Teams
-    value: characters/cryo/aloy/melt_teams
-    description: KQM's resources for Melt Aloy Teams.
-    emoji: "<:melt:947715728683991120>"
 
 
 buttons:

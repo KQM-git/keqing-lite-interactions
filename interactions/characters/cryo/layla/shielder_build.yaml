@@ -1,23 +1,17 @@
 embeds:
-  - title: Layla
+  - title: Shielder Layla
     color: ${ COLORS.CRYO_BLUE }
     image: 
-      url: ${ INFOGRAPHICS.LAYLA_2 }
+      url: ${ INFOGRAPHICS.LAYLA_1 }
     thumbnail:
       url: ${ICON.CHARACTER_LAYLA}
     description: |-
       ★★★★
       *Cryo Sword*
     footer:
-      text: "Use \"Open original\" to view full size.\n\nCredits to: ang tahimik#9252 (Designer) Nikatosaurus#5639 (Content)"
+      text: "Use \"Open original\" to view full size.\n\nCredits to: cuppacote (Designer) chiston & nikatosaurus (Content)"
 
 buttons:
-
-  - customId: "liveInteraction#characters/cryo/layla/main"
-    label: "Basics"
-    style: "PRIMARY"
-    emoji: "◀️"
-
   - label: "Guide"
     url: "https://keqingmains.com/layla/"
     emoji: ${ EMOJIS.LOGO }

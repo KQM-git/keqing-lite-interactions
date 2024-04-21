@@ -1,27 +1,18 @@
 embeds:
-  - title: Candace
+  - title: On-Field DPS Candace
     color: ${ COLORS.HYDRO_BLUE }
     image: 
-      url: ${INFOGRAPHICS.CANDACE_3}
+      url: ${INFOGRAPHICS.CANDACE_2}
     thumbnail:
       url: ${ICON.CHARACTER_CANDACE}
     description: |-
       ★★★★
       *Hydro Polearm*
     footer:
-      text: "Use \"Open original\" to view full size.\n\nCredits to: ang tahimik#9252 (Designer) | Athena#2444, idkanonymized#4166 (Content)"    
+      text: ${LABEL.INFOGRAPHIC_CREDITS} euphorysm (Designer) | nova_licious (Content)
 
 
 buttons:
-  - customId: "liveInteraction#characters/hydro/candace/main2"
-    label: "Teams Infographic #1"
-    style: "PRIMARY"
-    emoji: "◀️"
-
-  - customId: "liveInteraction#characters/hydro/candace/main"
-    label: "Basics"
-    style: "PRIMARY"
-    emoji: "▶️"
     
   - label: "Guide"
     url: "https://keqingmains.com/candace/"
