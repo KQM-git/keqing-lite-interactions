@@ -1,8 +1,6 @@
 embeds:
   - title: Jean
     color: ${ COLORS.ANEMO_GREEN }
-    image: 
-      url: ${INFOGRAPHICS.JEAN_1}
     thumbnail:
       url: ${ICON.CHARACTER_JEAN}
     description: |-

@@ -1,8 +1,8 @@
 embeds:
   - title: Barbara
     color: ${ COLORS.HYDRO_BLUE }
-    image:
-      url: ${INFOGRAPHICS.BABARA_1}
+    image: 
+      url: ${INFOGRAPHICS.BARBARA_1}
     thumbnail:
       url: ${ICON.CHARACTER_BARBARA}
     description: |-

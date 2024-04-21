@@ -9,18 +9,18 @@ embeds:
 options: #dropdown
     
   - label: Dori Support Build Infographic
-    value: characters/electro/dori/aggravate_build
-    description: KQM's resources for Dori's Aggravate Builds.
+    value: characters/electro/dori/support_build
+    description: KQM's resources for Dori's Support Builds.
     emoji: ${EMOJIS.ELEMENT_ELECTRO }
 
   - label: Dori Hyperbloom DPS Infographic
-    value: characters/electro/dori/onfield_build
-    description: KQM's resources for Dori's On-Field DPS Builds.
+    value: characters/electro/dori/hyperbloom_build
+    description: KQM's resources for Dori's Hyperbloom Builds.
     emoji: ${EMOJIS.ELEMENT_ELECTRO }
 
   - label: Dori C6 Aggravate DPS Build Infographic
-    value: characters/electro/dori/hyperbloom_build
-    description: KQM's resources for Dori's Aggaravate Builds.
+    value: characters/electro/dori/aggravate_build
+    description: KQM's resources for Dori's C6 Aggravate Builds.
     emoji: ${EMOJIS.ELEMENT_ELECTRO }
 
 buttons:
