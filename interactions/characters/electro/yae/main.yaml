@@ -1,7 +1,7 @@
 embeds:
   - title: Yae Miko
     color: ${ COLORS.ELECTRO_PURPLE }
-    image
+    image:
       url: ${INFOGRAPHICS.YAE_1}
     thumbnail:
       url: ${ICON.CHARACTER_YAE}

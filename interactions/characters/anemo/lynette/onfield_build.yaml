@@ -2,14 +2,15 @@ embeds:
   - title: Lynette
     color: ${ COLORS.ANEMO_GREEN }
     image: 
-      url: ${ INFOGRAPHICS.LYNETTE_1 }
+      url: ${ INFOGRAPHICS.LYNETTE_3 }
     thumbnail:
       url: ${ICON.CHARACTER_LYNETTE}
     description: |-
       ★★★★
-      *Anemo Sword*    
+      *Anemo Sword*
     footer:
-      text: "Use \"Open original\" to view full size.\n\nCredits to: zelard (Designer) | cuppacote (Content)"   
+      text: ${LABEL.INFOGRAPHIC_CREDITS} euphorysm (Designer) | baloopy (Content)
+
 
 buttons:
   - label: "Quick Guide"

@@ -1,5 +1,5 @@
 embeds:
-  - title: Jean
+  - title: Sunfire Jean
     color: ${ COLORS.ANEMO_GREEN }
     image: 
       url: ${INFOGRAPHICS.JEAN_2}

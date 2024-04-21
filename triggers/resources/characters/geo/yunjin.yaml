@@ -1,4 +1,4 @@
 interaction: characters/geo/yunjin/main
 description: "Opens KQM's resources on Yun Jin"
-match: ${ TRIGGER_PREFIX }yun(\s)?jin(?:\s|$)
+match: ${ TRIGGER_PREFIX }(yun(\s)?jin|yj)(?:\s|$)
 ignoreCase: true

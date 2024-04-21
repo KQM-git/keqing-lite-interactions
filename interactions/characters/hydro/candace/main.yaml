@@ -1,23 +1,22 @@
 embeds:
   - title: Candace
     color: ${ COLORS.HYDRO_BLUE }
-    image: 
-      url: ${INFOGRAPHICS.CANDACE_1}
     thumbnail:
       url: ${ICON.CHARACTER_CANDACE}
     description: |-
-      ★★★★
-      *Hydro Polearm*
-    footer:
-      text: "Use \"Open original\" to view full size.\n\nCredits to: ang tahimik#9252 (Designer) | Athena#2444, idkanonymized#4166 (Content)"    
+      *The guardian of Aaru Village who is gentle and benevolent. She will not allow anyone to harm Aaru Village under her watch.*
 
+  - label: Candace Support Infographic
+    value: characters/hydro/candace/support_build
+    description: KQM's resources for Support Candace Builds.
+    emoji: ${EMOJIS.CHARACTER_CANDACE }
 
+  - label: Candace On-Field DPS Infographic
+    value: characters/hydro/candace/onfield_build
+    description: KQM's resources for On-Field DPS Candace Builds.
+    emoji: ${EMOJIS.CHARACTER_CANDACE }
 
 buttons:
-  - customId: "liveInteraction#characters/hydro/candace/main2"
-    label: "Teams Infographic #1"
-    style: "PRIMARY"
-    emoji: "▶️"
 
   - label: "Guide"
     url: "https://keqingmains.com/candace/"

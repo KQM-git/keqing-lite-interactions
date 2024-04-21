@@ -12,10 +12,10 @@ embeds:
       text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote (Designer) | euphorysm & caramielle (Content)
 
 buttons:
-#  - label: "Guide"
-#    url: "https://keqingmains.com/neuvillette/"
-#    emoji: ${ EMOJIS.LOGO }
-#    style: "LINK"
+ - label: "Guide"
+   url: "https://keqingmains.com/neuvillette/"
+   emoji: ${ EMOJIS.LOGO }
+   style: "LINK"
 
   - label: "Quick Guide"
     url: "https://keqingmains.com/q/neuvillette-quickguide/"

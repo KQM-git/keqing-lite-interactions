@@ -1,5 +1,5 @@
 embeds:
-  - title: Dehya
+  - title: Burgeon Trigger Dehya
     color: ${ COLORS.PYRO_ORANGE }
     image: 
       url: ${INFOGRAPHICS.DEHYA_1}
@@ -9,7 +9,7 @@ embeds:
       ★★★★★
       *Pyro Claymore*
     footer:
-      text: "Use \"Open original\" to view full size. Page 2 Coming Soon!\n\nCredits to: angtahimik (Designer) | .athene. (Content)"   
+      text: ${LABEL.INFOGRAPHIC_CREDITS} kolvii (Designer) | snowwwwww. (Content)  
 
 buttons:
   - label: "Guide"

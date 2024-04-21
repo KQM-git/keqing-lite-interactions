@@ -13,7 +13,7 @@ options: #dropdown
     description: KQM's resources for Sayu's On-Field Build.
     emoji: ${EMOJIS.CHARACTER_SAYU }
 
-  - label: Sayu On-Field Infographic
+  - label: Sayu Off-Field Infographic
     value: characters/anemo/sayu/sayu_offfield
     description: KQM's resources for Sayu's Off-Field Build.
     emoji: ${EMOJIS.CHARACTER_SAYU }

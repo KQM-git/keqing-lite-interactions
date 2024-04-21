@@ -1,15 +1,16 @@
 embeds:
-  - title: Lyney
-    color: ${ COLORS.PYRO_ORANGE }
+  - title: Lynette
+    color: ${ COLORS.ANEMO_GREEN }
     image: 
-      url: ${ INFOGRAPHICS.LYNEY_1 }
+      url: ${ INFOGRAPHICS.LYNETTE_2 }
     thumbnail:
-      url: ${ICON.CHARACTER_LYNEY}
+      url: ${ICON.CHARACTER_LYNETTE}
     description: |-
-      ★★★★★
-      *Pyro Bow*
+      ★★★★
+      *Anemo Sword*
     footer:
-      text: "Use \"Open original\" to view full size.\n\nCredits to: cuppacote (Content & Designer)"
+      text: ${LABEL.INFOGRAPHIC_CREDITS} euphorysm (Designer) | baloopy (Content)
+
 
 buttons:
   - label: "Quick Guide"

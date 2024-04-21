@@ -1,13 +1,14 @@
 embeds:
   - title: Anemo Traveler
     color: ${ COLORS.ANEMO_GREEN }
-    image: 
-      url: "https://cdn.discordapp.com/attachments/954058547702943744/958957664233209856/unknown.png"
+    # image: 
+    #   url: "https://cdn.discordapp.com/attachments/954058547702943744/958957664233209856/unknown.png"
     thumbnail:
       url: ${ICON.CHARACTER_TRAVELER_F}
-   description: |-
+    description: |-
       ★★★★★
       *Anemo Sword*
+      **Infographic Under Construction**
 
 buttons:
   - label: "Guide"

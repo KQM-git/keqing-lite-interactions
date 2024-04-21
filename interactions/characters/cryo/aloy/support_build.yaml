@@ -2,19 +2,16 @@ embeds:
   - title: Support Aloy
     color: ${ COLORS.CRYO_BLUE }
     image: 
-      url: ${ INFOGRAPHICS.ALOY_SUPPORT_1 }
+      url: ${ INFOGRAPHICS.ALOY_1 }
     thumbnail:
       url: ${ICON.CHARACTER_ALOY}
     description: |-
       ★★★★
       *Cryo Bow*  
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} kolvii (Designer) | baloopy (Content)
 
 buttons:
-  - customId: "liveInteraction#characters/cryo/aloy/support_teams"
-    label: "Teams Infographic"
-    style: "PRIMARY"
-    emoji: "▶️"
-
   - label: "Guide"
     url: "https://keqingmains.com/aloy/"
     emoji: ${ EMOJIS.LOGO }

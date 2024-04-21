@@ -1,6 +1,8 @@
 embeds:
   - title: Shenhe
     color: ${COLORS.CRYO_BLUE}
+    image:
+      url: ${INFOGRAPHICS.SHENHE_1}
     thumbnail:
       url: ${ICON.CHARACTER_SHENHE}
     description: |-
