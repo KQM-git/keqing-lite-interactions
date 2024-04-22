@@ -6,6 +6,7 @@ embeds:
     description: |-
       *The guardian of Aaru Village who is gentle and benevolent. She will not allow anyone to harm Aaru Village under her watch.*
 
+options: # dropdown
   - label: Candace Support Infographic
     value: characters/hydro/candace/support_build
     description: KQM's resources for Support Candace Builds.

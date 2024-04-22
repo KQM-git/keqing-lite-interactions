@@ -1,5 +1,5 @@
 embeds:
-  - title: Kuki Shinobu
+  - title: Hyperbloom Kuki Shinobu
     color: ${ COLORS.ELECTRO_PURPLE }
     image: 
       url: ${INFOGRAPHICS.SHINOBU_HYPERBLOOM_1}
