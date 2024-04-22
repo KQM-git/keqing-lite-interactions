@@ -1,5 +1,5 @@
 embeds:
-  - title: Rosaria
+  - title: Reverse Melt DPS Rosaria
     color: ${ COLORS.CRYO_BLUE }
     image:
       url: ${INFOGRAPHICS.ROSARIA_1}

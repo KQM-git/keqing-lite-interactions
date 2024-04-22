@@ -7,7 +7,7 @@ embeds:
       url: ${ICON.CHARACTER_DORI}
     description: |-
       ★★★★
-      *Electro Claymores*
+      *Electro Claymore*
     footer:
       text: ${LABEL.INFOGRAPHIC_CREDITS} kolvii (Designer) | nova_licious (Content)
 
