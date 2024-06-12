@@ -40,6 +40,7 @@ INFOGRAPHICS:
   AMBER_2: "https://keqingmains.com/wp-content/uploads/2023/08/Amber_C4_Melt_1.png" # C4 melt build
   AMBER_3: "https://keqingmains.com/wp-content/uploads/2023/08/Amber_Burgeon_1.png" # burgeon build
   AMBER_4: "https://keqingmains.com/wp-content/uploads/2023/08/Amber_2.png"         # teams
+  ARLECCHINO_1: "https://keqingmains.com/wp-content/uploads/2024/04/Arlecchino-Infographic-4.6-Updated.png"
   AYAKA_1: "https://keqingmains.com/wp-content/uploads/2024/01/Ayaka-Infographic-4.3.png"
   AYATO_1: "https://keqingmains.com/wp-content/uploads/2023/11/Ayato.png"
   BAIZHU_1: "https://keqingmains.com/wp-content/uploads/2024/04/Baizhu-Infographic-4.6.png"
@@ -170,6 +171,7 @@ ICON:
   CHARACTER_ALHAITHAM: "https://keqingmains.com/wp-content/uploads/2023/01/Alhatham.png"
   CHARACTER_ALOY: "https://keqingmains.com/wp-content/uploads/2021/09/Character_Aloy_Thumb-min.png"
   CHARACTER_AMBER: "https://keqingmains.com/wp-content/uploads/2021/09/Character_Amber_Thumb-min.png"
+  CHARACTER_ARLECCHINO: "https://keqingmains.com/wp-content/uploads/2024/04/Arlecchino_Icon.webp"
   CHARACTER_AYAKA: "https://keqingmains.com/wp-content/uploads/2021/09/Character_Kamisato_Ayaka_Thumb-min.png"
   CHARACTER_AYATO: "https://keqingmains.com/wp-content/uploads/2022/04/ayato-min.png"
   CHARACTER_BAIZHU: "https://keqingmains.com/wp-content/uploads/2023/05/Baizhu_Icon.webp"
@@ -276,6 +278,7 @@ EMOJIS:
   CHARACTER_ALHAITHAM: ":Alhaitham:1163895894471606272"
   CHARACTER_ALOY: ":Aloy:953426422494527539"
   CHARACTER_AMBER: ":Amber:953426420430929930"
+  CHARACTER_ARLECCHINO: ":Arlecchino:1250514650865598607"
   CHARACTER_AYAKA: ":Ayaka:953426419285897226"
   CHARACTER_AYATO: ":Ayato:958464814882099221"
   CHARACTER_BAIZHU: ":Baizhu:1163896336203141140"

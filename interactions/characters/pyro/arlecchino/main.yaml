@@ -1,0 +1,28 @@
+embeds:
+  - title: Arlecchino
+    color: ${ COLORS.PYRO_ORANGE }
+    image: 
+      url: ${INFOGRAPHICS.ARLECCHINO_1}
+    thumbnail:
+      url: ${ICON.CHARACTER_ARLECCHINO}
+    description: |-
+      ★★★★★
+      *Pyro Polearm*
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} euphorysm (Designer) | euphorysm (Content)
+
+buttons:
+  # - label: "Guide"
+  #   url: "https://keqingmains.com/arlecchino/"
+  #   emoji: ${ EMOJIS.LOGO }
+  #   style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/arlecchino-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "TCL"
+    url: "https://library.keqingmains.com/characters/pyro/arlecchino"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"

@@ -1,0 +1,4 @@
+interaction: characters/pyro/arlecchino/main
+description: "Opens KQM's resources on Arlecchino"
+match: ${ TRIGGER_PREFIX }(?:arle|father|arlecchino)(?:\s|$)
+ignoreCase: true

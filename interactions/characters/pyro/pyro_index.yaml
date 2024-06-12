@@ -11,6 +11,11 @@ options:
     description: KQM's resources on Amber!
     emoji: ${ EMOJIS.CHARACTER_AMBER }
   
+  - label: Arlecchino
+    value: characters/pyro/arlecchino/main
+    description: KQM's resources on Arlecchino!
+    emoji: ${ EMOJIS.CHARACTER_ARLECCHINO }
+  
   - label: Bennett
     value: characters/pyro/bennett/main
     description: KQM's resources on Bennett!
