@@ -1,0 +1,12 @@
+embeds:
+  - title: Resinless Farming Routes
+    color: ${COLORS.KQM_PURPLE}
+    description: |-
+      Ever find yourself bored after finishing Daily Commissions and spending Resin, wishing there was more things you could do? Then this guide is for you! Learn about optimal elite farming routes, artifact routes, mining routes, and more in Genshin Impact.
+
+buttons:
+  - label: "Guide"
+    style: "LINK"
+    emoji: "${EMOJIS.LOGO}"
+    url: "https://keqingmains.com/misc/routes/"
+

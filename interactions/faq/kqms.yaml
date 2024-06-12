@@ -6,6 +6,6 @@ embeds:
 
 buttons:
   - label: "KQM Standards"
-    url: "https://compendium.keqingmains.com/kqm-standards"
+    url: "https://compendium.keqingmains.com/"
     emoji: ${EMOJIS.LOGO}
     style: "LINK"

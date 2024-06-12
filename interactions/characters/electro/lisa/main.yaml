@@ -7,30 +7,15 @@ embeds:
       *The languid but knowledgeable Librarian of the Knights of Favonius, deemed by Sumeru Academia to be their most distinguished graduate in the past two centuries.*
 
 options: #dropdown
-  - label: Lisa Support Build Infographic
-    value: characters/electro/lisa/lisa_build
-    description: KQM's resources for support/off-field DPS Lisa.
+  - label: Lisa Support/Off-Field DPS Build Infographic
+    value: characters/electro/lisa/support_build
+    description: KQM's resources for Support/Off-Field DPS Lisa.
     emoji: ":LisaFufu:807414184890728458"
 
   - label: Lisa On-Field DPS Build Infographic
-    value: characters/electro/lisa/lisa_build2
-    description: KQM's resources for on-field DPS Lisa.
+    value: characters/electro/lisa/onfield_build
+    description: KQM's resources for On-Field DPS Lisa.
     emoji: ":LisaFufu:807414184890728458"
-
-  - label: Lisa Reaction DPS Build Infographic
-    value: characters/electro/lisa/lisa_build3
-    description: KQM's resources for reaction DPS Lisa.
-    emoji: ":LisaFufu:807414184890728458"
-
-  - label: Lisa Team Infographic
-    value: characters/electro/lisa/lisa_teams
-    description: KQM's resources for  Lisa's on- and off-field DPS Builds.
-    emoji: ${EMOJIS.ELEMENT_ELECTRO}
-
-  - label: Lisa Team Infographic
-    value: characters/electro/lisa/lisa_teams2
-    description: KQM's resources for Lisa's Support & Reaction DPS Builds.
-    emoji: ${EMOJIS.ELEMENT_ELECTRO}
 
 buttons:
   - label: "Guide"

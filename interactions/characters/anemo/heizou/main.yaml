@@ -7,20 +7,20 @@ embeds:
       *A young prodigy detective from the Tenryou Commission. His senses are sharp and his thoughts are clear.*
 
 options: #dropdown   
-  - label: Heizou Quickswap Build Infographic
-    value: characters/anemo/heizou/heizou_build
-    description: KQM's resources for Heizou's Quickswap Builds.
+  - label: Heizou Support Build Infographic
+    value: characters/anemo/heizou/support_build
+    description: KQM's resources for Heizou's Support Builds.
     emoji: ${EMOJIS.CHARACTER_HEIZOU}
 
-  - label: Heizou On-Field Driver Build Infographic
-    value: characters/anemo/heizou/heizou_build2
+  - label: Heizou On-Field DPS Build Infographic
+    value: characters/anemo/heizou/onfield_build
     description: KQM's resources for Heizou's On-field Driver Builds.
     emoji: ${EMOJIS.CHARACTER_HEIZOU}
 
-  - label: Heizou Team Infographic
-    value: characters/anemo/heizou/heizou_teams
-    description: KQM's resources for Heizou's Teams.
-    emoji: ${EMOJIS.ELEMENT_ANEMO}
+  - label: Heizou Driver Infographic
+    value: characters/anemo/heizou/driver_build
+    description: KQM's resources for Heizou's Driver builds.
+    emoji: ${EMOJIS.CHARACTER_HEIZOU}
 
 buttons:
   - label: "Guide"

@@ -4,7 +4,7 @@ embeds:
     description: Spiral Abyss Enemy Data since 1.0
 
 buttons:
-  - label: "Sheet Link"
+  - label: "Wiki Link"
     style: "LINK"
     emoji: ${ EMOJIS.MAGNIFY }
-    url: https://docs.google.com/spreadsheets/d/1bxnUjqSKDQy6FDB-wW46vH3DmtFp8UPBJlX-cW1wfP0/edit#gid=1222552879
+    url: https://genshin-impact.fandom.com/wiki/Spiral_Abyss/Floors#Past

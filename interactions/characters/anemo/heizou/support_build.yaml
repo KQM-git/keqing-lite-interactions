@@ -1,15 +1,15 @@
 embeds:
-  - title: Heizou
+  - title: Off-Field Support Heizou
     color: ${COLORS.ANEMO_GREEN}
     image: 
-      url: ${INFOGRAPHICS.HEIZOU_3}
+      url: ${INFOGRAPHICS.HEIZOU_1}
     thumbnail:
       url: ${ICON.CHARACTER_HEIZOU}
     description: |-
       ★★★★
       *Anemo Catalyst*
     footer:
-      text: "Use \"Open original\" to view full size.\n\nCredits to: cuppacote (Designer) | cuppacote (Content)"
+      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote (Designer) | baloopy (Content)
 
 buttons:
   - label: "Guide"

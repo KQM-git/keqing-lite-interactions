@@ -1,5 +1,5 @@
 embeds:
-  - title: Heizou
+  - title: On-Field DPS Heizou
     color: ${COLORS.ANEMO_GREEN}
     image: 
       url: ${INFOGRAPHICS.HEIZOU_2}
@@ -9,7 +9,7 @@ embeds:
       ★★★★
       *Anemo Catalyst*
     footer:
-      text: "Use \"Open original\" to view full size.\n\nCredits to: cuppacote (Designer) | cuppacote (Content)"
+      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote (Designer) | baloopy (Content)
 
 buttons:
   - label: "Guide"

@@ -11,6 +11,11 @@ options:
     description: KQM's resources on Beidou!
     emoji: ${ EMOJIS.CHARACTER_BEIDOU }
 
+  - label: Clorinde
+    value: characters/electro/clorinde/main
+    description: KQM's resources on Clorinde!
+    emoji: ${ EMOJIS.CHARACTER_CYNO }
+
   - label: Cyno
     value: characters/electro/cyno/main
     description: KQM's resources on Cyno!
@@ -54,6 +59,11 @@ options:
   - label: Sara
     value: characters/electro/sara/main
     description: KQM's resources on Sara!
+    emoji: ${ EMOJIS.CHARACTER_SARA }
+
+  - label: Sethos
+    value: characters/electro/sethos/main
+    description: KQM's resources on Sethos!
     emoji: ${ EMOJIS.CHARACTER_SARA }
 
   - label: Kuki Shinobu
