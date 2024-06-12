@@ -11,6 +11,11 @@ options:
     description: KQM's resources on Beidou!
     emoji: ${ EMOJIS.CHARACTER_BEIDOU }
 
+  - label: Clorinde
+    value: characters/electro/clorinde/main
+    description: KQM's resources on Clorinde!
+    emoji: ${ EMOJIS.CHARACTER_CYNO }
+
   - label: Cyno
     value: characters/electro/cyno/main
     description: KQM's resources on Cyno!
