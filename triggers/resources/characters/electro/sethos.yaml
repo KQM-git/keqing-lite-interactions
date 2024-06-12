@@ -1,0 +1,4 @@
+interaction: characters/electro/sethos/main
+description: "Opens KQM's resources on Sethos"
+match: ${ TRIGGER_PREFIX }(?:sethos|seth)(?:\s|$)
+ignoreCase: true

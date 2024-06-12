@@ -61,6 +61,11 @@ options:
     description: KQM's resources on Sara!
     emoji: ${ EMOJIS.CHARACTER_SARA }
 
+  - label: Sethos
+    value: characters/electro/sethos/main
+    description: KQM's resources on Sethos!
+    emoji: ${ EMOJIS.CHARACTER_SARA }
+
   - label: Kuki Shinobu
     value: characters/electro/shinobu/main
     description: KQM's resources on Kuki Shinobu!

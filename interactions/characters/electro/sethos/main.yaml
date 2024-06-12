@@ -1,0 +1,29 @@
+embeds:
+  - title: Sethos
+    color: ${ COLORS.ELECTRO_PURPLE }
+    image: 
+      url: ${INFOGRAPHICS.SETHOS_1}
+    thumbnail:
+      url: ${ICON.CHARACTER_FISCHL}
+    description: |-
+      ★★★★
+      *Electro Bow*
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote (Designer) | irokei (Content)
+
+buttons:
+
+  # - label: "Guide"
+  #   url: "https://keqingmains.com/sethos/"
+  #   emoji: ${ EMOJIS.LOGO }
+  #   style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/sethos-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "TCL"
+    url: "https://library.keqingmains.com/characters/electro/sethos"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"
