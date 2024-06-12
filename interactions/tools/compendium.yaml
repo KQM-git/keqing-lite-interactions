@@ -10,12 +10,7 @@ buttons:
   - label: "KQM Compendium"
     style: LINK
     emoji: ${EMOJIS.LOGO}
-    url: "https://compendium.keqingmains.com"
-
-  - label: "KQM Rotation Bank"
-    style: LINK
-    emoji: ${EMOJIS.LOGO}
-    url: "https://compendium.keqingmains.com/rotation-bank"
+    url: "https://library.keqingmains.com/resources/compendiums"
 
   - label: "Submission Form"
     style: "LINK"
@@ -25,4 +20,4 @@ buttons:
   - label: "KQM Standards"
     style: LINK
     emoji: ${EMOJIS.LOGO}
-    url: "https://compendium.keqingmains.com/kqm-standards"
+    url: "https://compendium.keqingmains.com/"

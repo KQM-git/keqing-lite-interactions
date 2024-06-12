@@ -1,21 +1,17 @@
 embeds:
-  - title: Thoma
+  - title: Support Thoma
     color: ${ COLORS.PYRO_ORANGE }
     image: 
-      url: ${INFOGRAPHICS.THOMA_2}
+      url: ${INFOGRAPHICS.THOMA_1}
     thumbnail:
       url: ${ICON.CHARACTER_THOMA}
     description: |-
       ★★★★
       *Pyro Polearm*
     footer:
-      text: "Use \"Open original\" to view full size.\n\nCredits to: IcedSquid#3207 (Designer) | Cuzimori#1535, Praetor#3981 & Dorketh#8025 (Content)"
+      text: ${LABEL.INFOGRAPHIC_CREDITS} euphorysm (Designer) | nova_licious (Content)
       
 buttons:
-  - customId: "liveInteraction#characters/pyro/thoma/main"
-    label: "Basics"
-    style: "PRIMARY"
-    emoji: "◀️"
 
   - label: "Guide"
     url: "https://keqingmains.com/thoma/"

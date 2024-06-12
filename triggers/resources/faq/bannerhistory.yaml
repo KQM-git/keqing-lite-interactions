@@ -1,4 +1,4 @@
-interaction: faq/bannerhistory
-description: Limited Banner History
-match: ${ TRIGGER_PREFIX }bannerhistory(?:\s|$)
+interaction: faq/artifacts
+description: Artifact Guide
+match: ${ TRIGGER_PREFIX }(artifacts|artis|arti)(?:\s|$)
 ignoreCase: true

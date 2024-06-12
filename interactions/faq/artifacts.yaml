@@ -1,0 +1,16 @@
+embeds:
+  - title: Artifacts Guide
+    color: ${COLORS.KQM_PURPLE}
+    description: |-
+      Want to learn more about farming Artifacts? Click below to view our guide! You may also use the Artifact Farming calculator to determine your chances at obtaining a specific Artifact.
+
+buttons:
+  - label: "Guide"
+    style: "LINK"
+    emoji: "${EMOJIS.LOGO}"
+    url: "https://keqingmains.com/misc/artifacts/"
+
+  - label: "Articalc"
+    style: "LINK"
+    emoji: "${EMOJIS.MAGNIFY}"
+    url: "https://grumd.github.io/genshin-artifact-farm-calculator/"

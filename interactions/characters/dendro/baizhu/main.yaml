@@ -13,10 +13,10 @@ embeds:
 
 buttons:
 
-#  - label: "Guide"
-#    url: "https://keqingmains.com/baizhu"
-#    emoji: ${ EMOJIS.LOGO }
-#    style: "LINK"
+ - label: "Guide"
+   url: "https://keqingmains.com/baizhu"
+   emoji: ${ EMOJIS.LOGO }
+   style: "LINK"
 
   - label: "Quick Guide"
     url: "https://keqingmains.com/q/baizhu-quickguide/"

@@ -14,11 +14,6 @@ options:
     value: tools/template_vlad
     description: Excel template
     emoji: ${EMOJIS.EXCEL}
-  
-  - label: Jamberry's calculation template
-    value: tools/jamberry
-    description: Google Sheets template
-    emoji: ${EMOJIS.GOOGLE_SHEETS}
 
   - label: Kol's calculation template
     value: tools/kol
