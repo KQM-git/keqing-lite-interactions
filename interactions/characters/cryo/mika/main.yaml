@@ -9,7 +9,7 @@ embeds:
       ★★★★
       *Cryo Polearm*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} alphaflyte (Designer) | cuppacote (Content)
+      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote (Designer) | alphaflyte (Content)
 
 
 buttons:

@@ -10,17 +10,17 @@ options: #dropdown
   - label: Lynette Support Infographic
     value: characters/anemo/lynette/support_build
     description: KQM's resources for Lynette's Support Builds.
-    emoji: ${ COLORS.ANEMO_GREEN }
+    emoji: ${EMOJIS.CHARACTER_LYNETTE }
 
   - label: Lynette Reaction DPS Infographic
     value: characters/anemo/lynette/reaction_build
     description: KQM's resources for Lynette's Reaction DPS Builds.
-    emoji: ${ COLORS.ANEMO_GREEN }
+    emoji: ${EMOJIS.CHARACTER_LYNETTE }
   
   - label: Lynette On-Field DPS (C6) Infographic
     value: characters/anemo/lynette/onfield_build
     description: KQM's resources for Lynette's On-Field DPS Builds.
-    emoji: ${ COLORS.ANEMO_GREEN }
+    emoji: ${EMOJIS.CHARACTER_LYNETTE }
 
 buttons:
 

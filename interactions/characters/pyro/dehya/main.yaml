@@ -20,7 +20,7 @@ options: #dropdown
   - label: Support Build Infographic
     value: characters/pyro/dehya/support_build
     description: KQM's resources for Dehya's Support Builds.
-    emoji: ${EMOJIS.ELEMENT_PYRO }
+    emoji: ${EMOJIS.CHARACTER_DEHYA }
 
 buttons:
   - label: "Guide"
