@@ -48,13 +48,13 @@ INFOGRAPHICS:
   BEIDOU_1: "https://keqingmains.com/wp-content/uploads/2022/10/Beidou-Infographic-4.4.png"
   BENNETT_1: "https://keqingmains.com/wp-content/uploads/2023/12/Bennett-Infographic-4.3.png"
   CANDACE_1: "https://keqingmains.com/wp-content/uploads/2024/04/Candace-Support-Infographic-4.5.png" # support
-  CANDACE_2: "https://keqingmains.com/wp-content/uploads/2024/04/Candace-On-Field-DPS-Infographic-4.5.png" # on field dps
+  CANDACE_2: "https://keqingmains.com/wp-content/uploads/2024/02/Candace_On-Field_DPS_4.5_-_euphorysm.png" # on field dps
   CHARLOTTE_1: "https://keqingmains.com/wp-content/uploads/2023/11/Charlotte_4.2_-_Lapsy-2048x1638.png"
   CHEVREUSE_1: "https://keqingmains.com/wp-content/uploads/2024/01/Chevreuse-Infographic-4.3.png"
   CHIORI_1: "https://keqingmains.com/wp-content/uploads/2024/03/Chiori-Infographic-Updated.png"
   CHONGYUN_1: "https://keqingmains.com/wp-content/uploads/2022/10/Chongyun-Infographic-4.4.png"
   COLLEI_1: "https://keqingmains.com/wp-content/uploads/2023/12/Collei-Infographic-4.3.png"
-  CYNO_1: "https://keqingmains.com/wp-content/uploads/2023/11/Cyno.png"
+  CYNO_1: "https://keqingmains.com/wp-content/uploads/2024/05/Cyno-Infographic-4.6.png"
   DENDRO_TRAVELER_1: "https://keqingmains.com/wp-content/uploads/2023/07/DMC_1.png"
   DENDRO_TRAVELER_2: "https://keqingmains.com/wp-content/uploads/2023/07/DMC_2.png"
   DEHYA_1: "https://keqingmains.com/wp-content/uploads/2024/04/Dehya-Burgeon-Infographic-4.5.png" # burgeon
@@ -74,9 +74,9 @@ INFOGRAPHICS:
   GANYU_1: "https://keqingmains.com/wp-content/uploads/2024/03/Ganyu-Freeze-Infographic-4.4.png" # freeze
   GANYU_2: "https://keqingmains.com/wp-content/uploads/2024/03/Ganyu-Melt-Infographic-4.4.png" # melt
   GOROU_1: "https://keqingmains.com/wp-content/uploads/2024/04/Gorou-Infographic-4.5.png"
-  HEIZOU_1: "https://keqingmains.com/wp-content/uploads/2022/10/Heizou_1-1.png"
-  HEIZOU_2: "https://keqingmains.com/wp-content/uploads/2022/10/Heizou_2.png"
-  HEIZOU_3: "https://keqingmains.com/wp-content/uploads/2022/10/Heizou_3.png"
+  HEIZOU_1: "https://keqingmains.com/wp-content/uploads/2024/05/Heizou-Support-Infographic-4.6.png" # support
+  HEIZOU_2: "https://keqingmains.com/wp-content/uploads/2024/05/Heizou-DPS-Infographic-4.6.png" # DPS
+  HEIZOU_3: "https://keqingmains.com/wp-content/uploads/2024/05/Heizou-Driver-Infographic-4.6.png" # driver
   HUTAO_1: "https://keqingmains.com/wp-content/uploads/2024/03/Hu-Tao-Infographic-4.4-Update.png"
   ITTO_1: "https://keqingmains.com/wp-content/uploads/2024/04/Itto-Infographic-4.5.png"
   JEAN_1: "https://keqingmains.com/wp-content/uploads/2024/02/Jean-Support-Infographic-4.4.png" #support
@@ -92,11 +92,8 @@ INFOGRAPHICS:
   KOKOMI_1: "https://keqingmains.com/wp-content/uploads/2023/04/Kokomi_1.png"
   LAYLA_1: "https://keqingmains.com/wp-content/uploads/2024/04/Layla-Support-Infographic-4.5.png" # shielder
   LAYLA_2: https://keqingmains.com/wp-content/uploads/2024/04/Layla-DPS-Infographic-4.5.png" # off field dps
-  LISA_1: "https://keqingmains.com/wp-content/uploads/2022/10/Lisa_1.png" #support/off field build
-  LISA_2: "https://keqingmains.com/wp-content/uploads/2022/10/Lisa_2.png" #on field dps build
-  LISA_3: "https://keqingmains.com/wp-content/uploads/2022/10/Lisa_3.png" #reaction dps build
-  LISA_4: "https://keqingmains.com/wp-content/uploads/2022/10/Lisa_4.png" #teams
-  LISA_5: "https://keqingmains.com/wp-content/uploads/2022/10/Lisa_5.png" #teams
+  LISA_1: "https://keqingmains.com/wp-content/uploads/2022/10/Lisa_Off-Field_4.6_-_kol.png" #support/off field build
+  LISA_2: "https://keqingmains.com/wp-content/uploads/2022/10/Lisa_On-Field_4.6_-_kol.png" #on field dps build
   LYNETTE_1: "https://keqingmains.com/wp-content/uploads/2024/04/Lynette-Support-Infographic-4.5.png" # support
   LYNETTE_2: "https://keqingmains.com/wp-content/uploads/2024/04/Lynette-Reaction-Infographic-4.5.png" # reaction DPS
   LYNETTE_3: "https://keqingmains.com/wp-content/uploads/2024/04/Lynette-C6-DPS-Infographic-4.5.png" # c6 dps
@@ -106,7 +103,7 @@ INFOGRAPHICS:
   NAHIDA_1: "https://keqingmains.com/wp-content/uploads/2023/07/Nahida_1_3.8.png"
   NAHIDA_2: "https://keqingmains.com/wp-content/uploads/2023/07/Nahida_2.png"
   NAHIDA_3: "https://keqingmains.com/wp-content/uploads/2023/07/Nahida_3.png"
-  NAVIA_1: "https://keqingmains.com/wp-content/uploads/2023/12/Navia-_euphorysm.png"
+  NAVIA_1: "https://keqingmains.com/wp-content/uploads/2023/12/Navia_4.6_update_-_euphorysm.png"
   NEUVILLETTE_1: "https://keqingmains.com/wp-content/uploads/2024/04/Neuvillette-Infographic-4.5.png"
   NILOU_1: "https://keqingmains.com/wp-content/uploads/2024/04/Nilou-Infographic-4.5.png"
   NINGGUANG_1: "https://keqingmains.com/wp-content/uploads/2022/10/Ningguang_1.png"  #build
@@ -133,21 +130,20 @@ INFOGRAPHICS:
   TARTAGLIA_1: "https://keqingmains.com/wp-content/uploads/2024/03/Tartaglia-Infographic-4.4-Update.png"
   THOMA_1: "https://keqingmains.com/wp-content/uploads/2024/05/Thoma-Support-Infographic-4.5.png"
   THOMA_2: "https://keqingmains.com/wp-content/uploads/2024/05/Thoma-Burgeon-Infographic-4.5.png"
-  TIGHNARI_1: "https://keqingmains.com/wp-content/uploads/2022/11/Tighnari-Infographic-Main-min.png"
-  TIGHNARI_2: "https://keqingmains.com/wp-content/uploads/2022/11/Tighnari-Infographic-Teams-min.png"
+  TIGHNARI_1: "https://keqingmains.com/wp-content/uploads/2024/05/Tighnari-Infographic-4.6.png"
   VENTI_1: "https://keqingmains.com/wp-content/uploads/2024/01/Venti-Infographic-4.3.png"
   WANDERER_1: "https://keqingmains.com/wp-content/uploads/2023/12/Wanderer_4.2_-_euphorysm.png"
   WRIOTHESLEY_1: "https://keqingmains.com/wp-content/uploads/2023/11/Wriothesley_infographic_4.2.png"
   XIANYUN_1: "https://keqingmains.com/wp-content/uploads/2024/01/Xianyun-Infographic-4.4.png"
   XIAO_1: "https://keqingmains.com/wp-content/uploads/2024/03/Xiao-Infographic-4.4.png"
-  XIANGLING_1: "https://keqingmains.com/wp-content/uploads/2024/02/Xiangling-Infographic-4.4.png"
+  XIANGLING_1: "https://keqingmains.com/wp-content/uploads/2024/02/xiangling_4.6.png"
   XINGQIU_1 : "https://keqingmains.com/wp-content/uploads/2024/03/Xingqiu-Infographic-4.5.png"
   XINYAN_1: "https://keqingmains.com/wp-content/uploads/2024/03/Xinyan-Pyro-DPS-Infographic-4.5.png" # pyro dps
   XINYAN_2: "https://keqingmains.com/wp-content/uploads/2024/03/Xinyan-Shielder-Infographic-4.5.png" # shielder
   XINYAN_3: "https://keqingmains.com/wp-content/uploads/2024/03/Xinyan-Physical-DPS-Infographic-4.5.png" # phys dps
   YAE_1: "https://keqingmains.com/wp-content/uploads/2024/02/Yae-Infographic-4.4.png"
   YANFEI_1: "https://keqingmains.com/wp-content/uploads/2024/04/Yanfei-Infographic-4.5.png"
-  YAOYAO_1: "https://keqingmains.com/wp-content/uploads/2023/11/Yaoyao-Infographic-New.png"
+  YAOYAO_1: "https://keqingmains.com/wp-content/uploads/2023/11/Yaoyao_4.6_-_cote.png"
   YELAN_1: "https://keqingmains.com/wp-content/uploads/2024/03/Yelan-Infographic-4.4.png"
   YOIMIYA_1: "https://keqingmains.com/wp-content/uploads/2024/01/Yoimiya-Infographic-4.3.png"
   YUNJIN_1: "https://keqingmains.com/wp-content/uploads/2024/02/Yun-Jin-Infographic-4.4.png"

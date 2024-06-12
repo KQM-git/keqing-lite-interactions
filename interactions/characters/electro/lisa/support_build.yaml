@@ -1,15 +1,15 @@
 embeds:
-  - title: Lisa
+  - title: Support/Off-Field DPS Lisa
     color: ${COLORS.ELECTRO_PURPLE}
     image: 
-      url: ${INFOGRAPHICS.LISA_3}
+      url: ${INFOGRAPHICS.LISA_1}
     thumbnail:
       url: ${ICON.CHARACTER_LISA}
     description: |-
       ★★★★
       *Electro Catalyst*
     footer:
-      text: "Use \"Open original\" to view full size.\n\nCredits to: cuppacote (Designer) | chasing_haze & archednosi (Content)"
+      text: ${LABEL.INFOGRAPHIC_CREDITS} kolvii (Designer) | nebbles_ (Content)
 
 buttons:
   - label: "Guide"
