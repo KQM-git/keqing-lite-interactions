@@ -1,0 +1,4 @@
+interaction: faq/artifacts
+description: Artifact Guide
+match: ${ TRIGGER_PREFIX }(artifacts|artis|arti)(?:\s|$)
+ignoreCase: true
