@@ -1,0 +1,4 @@
+interaction: faq/resinless
+description: Resinless Farming Routes
+match: ${ TRIGGER_PREFIX }(?:resinless)(?:\s|$)
+ignoreCase: true
