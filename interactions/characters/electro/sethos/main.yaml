@@ -4,7 +4,7 @@ embeds:
     image: 
       url: ${INFOGRAPHICS.SETHOS_1}
     thumbnail:
-      url: ${ICON.CHARACTER_FISCHL}
+      url: ${ICON.CHARACTER_SETHOS}
     description: |-
       ★★★★
       *Electro Bow*
