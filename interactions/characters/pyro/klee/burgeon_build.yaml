@@ -1,5 +1,5 @@
 embeds:
-  - title: Klee
+  - title: On-Field Burgeon Trigger Klee
     color: ${ COLORS.PYRO_ORANGE }
     image: 
       url: ${ INFOGRAPHICS.KLEE_2 }
@@ -9,7 +9,7 @@ embeds:
       ★★★★★
       *Pyro Catalyst*
     footer:
-      text: "Use \"Open original\" to view full size.\n\nCredits to: cuppacote (Content & Designer)"
+      text: ${LABEL.INFOGRAPHIC_CREDITS} angtahimik (Designer) | clevernt (Content)
 
 buttons:
   - label: "Guide"

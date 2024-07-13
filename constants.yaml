@@ -50,7 +50,8 @@ INFOGRAPHICS:
   CANDACE_1: "https://keqingmains.com/wp-content/uploads/2024/04/Candace-Support-Infographic-4.5.png" # support
   CANDACE_2: "https://keqingmains.com/wp-content/uploads/2024/02/Candace_On-Field_DPS_4.5_-_euphorysm.png" # on field dps
   CHARLOTTE_1: "https://keqingmains.com/wp-content/uploads/2023/11/Charlotte_4.2_-_Lapsy-2048x1638.png"
-  CHEVREUSE_1: "https://keqingmains.com/wp-content/uploads/2024/01/Chevreuse-Infographic-4.3.png"
+  CHEVREUSE_1: "https://keqingmains.com/wp-content/uploads/2024/01/Chevreuse_Support_4.7_-_cote.png"
+  CHEVREUSE_2: "https://keqingmains.com/wp-content/uploads/2024/01/Chevreuse_Support__Quickswap_DPS_4.7_-_cote.png"
   CHIORI_1: "https://keqingmains.com/wp-content/uploads/2024/03/Chiori-Infographic-Updated.png"
   CHONGYUN_1: "https://keqingmains.com/wp-content/uploads/2022/10/Chongyun-Infographic-4.4.png"
   CLORINDE_1: "https://keqingmains.com/wp-content/uploads/2024/06/Clorinde-Infographic-4.7-Updated.png"
@@ -88,8 +89,8 @@ INFOGRAPHICS:
   KAVEH_1: "https://keqingmains.com/wp-content/uploads/2024/01/Kaveh-Infographic-4.3.png"
   KEQING_1: "https://keqingmains.com/wp-content/uploads/2024/04/Keqing-Infographic-4.5.png"
   KIRARA_1: "https://keqingmains.com/wp-content/uploads/2024/01/Kirara-Infographic-4.3.png"
-  KLEE_1: "https://keqingmains.com/wp-content/uploads/2022/10/Klee-Guide-3.8-scaled.webp"
-  KLEE_2: "https://keqingmains.com/wp-content/uploads/2023/07/Klee-Team-3.8-scaled.webp"
+  KLEE_1: "https://keqingmains.com/wp-content/uploads/2024/07/Klee_On-field_4.7_-_ang_tahimik.png" # on field
+  KLEE_2: "https://keqingmains.com/wp-content/uploads/2024/07/Klee_Burgeon_4.7_-_ang_tahimik.png" # burgeon
   KOKOMI_1: "https://keqingmains.com/wp-content/uploads/2023/04/Kokomi_1.png"
   LAYLA_1: "https://keqingmains.com/wp-content/uploads/2024/04/Layla-Support-Infographic-4.5.png" # shielder
   LAYLA_2: "https://keqingmains.com/wp-content/uploads/2024/04/Layla-DPS-Infographic-4.5.png" # off field dps
@@ -128,6 +129,7 @@ INFOGRAPHICS:
   SHINOBU_SUPPORT_2: "https://keqingmains.com/wp-content/uploads/2022/10/Kuki_2.png"
   SHINOBU_HYPERBLOOM_1: "https://keqingmains.com/wp-content/uploads/2023/12/Shinobu_Hyperbloom_4.2_-_cote.png"
   SHINOBU_QUICKEN_1: "https://keqingmains.com/wp-content/uploads/2023/12/Shinobu_Quicken_4.2_-_euphorysm.png"
+  SIGEWINNE_1: "https://keqingmains.com/wp-content/uploads/2024/06/Sigewinne_4.7.png"
   SUCROSE_1: "https://keqingmains.com/wp-content/uploads/2024/04/Sucrose-Infographic-4.5.png"
   TARTAGLIA_1: "https://keqingmains.com/wp-content/uploads/2024/03/Tartaglia-Infographic-4.4-Update.png"
   THOMA_1: "https://keqingmains.com/wp-content/uploads/2024/05/Thoma-Support-Infographic-4.5.png"
@@ -334,9 +336,10 @@ EMOJIS:
   CHARACTER_ROSARIA: ":Rosaria:953426426449788958"
   CHARACTER_SARA: ":Sara:953426425157931098"
   CHARACTER_SAYU: ":Sayu:953426426558808125"
-  CHARACTER_SETHOS: <:Sethos:1250533507940221009>
+  CHARACTER_SETHOS: "<:Sethos:1250533507940221009>"
   CHARACTER_SHENHE: ":Shenhe:953426426504294450"
   CHARACTER_SHINOBU: ":Shinobu:991184311841738804"
+  CHARACTER_SIGEWINNE: "<:Sigewinne:1261507649053134930>"
   CHARACTER_SUCROSE: ":Sucrose:953426427066347580"
   CHARACTER_TARTAGLIA: ":Tartaglia:953426426701434901"
   CHARACTER_THOMA: ":Thoma:953426425459920976"

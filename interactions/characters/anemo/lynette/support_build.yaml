@@ -1,5 +1,5 @@
 embeds:
-  - title: Lynette
+  - title: Support Lynette
     color: ${ COLORS.ANEMO_GREEN }
     image: 
       url: ${ INFOGRAPHICS.LYNETTE_1 }

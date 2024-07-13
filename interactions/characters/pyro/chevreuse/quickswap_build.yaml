@@ -1,0 +1,19 @@
+embeds:
+  - title: Support/Quickswap DPS Chevreuse
+    color: ${ COLORS.PYRO_ORANGE }
+    image: 
+      url: ${INFOGRAPHICS.CHEVREUSE_2}
+    thumbnail:
+      url: ${ICON.CHARACTER_CHEVREUSE}
+    description: |-
+      ★★★★
+      *Pyro Polearm*
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote (Designer) | haafr. (Content)
+
+buttons:
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/chevreuse-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"

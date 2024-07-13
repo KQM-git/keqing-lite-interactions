@@ -46,6 +46,12 @@ options:
     description: KQM's resources on Neuvillette!
     emoji: ${ EMOJIS.CHARACTER_NEUVILLETTE }
 
+  - label: Sigewinne
+    value: characters/hydro/sigewinne/main
+    description: KQM's resources on Sigewinne!
+    emoji: ${ EMOJIS.CHARACTER_SIGEWINNE }
+
+
   - label: Tartaglia
     value: characters/hydro/tartaglia/main
     description: KQM's resources on Childe!

@@ -1,16 +1,23 @@
 embeds:
   - title: Chevreuse
     color: ${ COLORS.PYRO_ORANGE }
-    image: 
-      url: ${INFOGRAPHICS.CHEVREUSE_1}
     thumbnail:
       url: ${ICON.CHARACTER_CHEVREUSE}
     description: |-
       ★★★★
       *Pyro Polearm*
-    footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote (Designer) | caramielle. & caxia5 (Content)
 
+options: #dropdown
+  - label: Chevreuse Support Infographic
+    value: characters/anemo/chevreuse/support_build
+    description: KQM's resources for Chevreuse's Support Builds.
+    emoji: ${EMOJIS.CHARACTER_CHEVREUSE }
+
+  - label: Chevreuse Quickswap DPS Infographic
+    value: characters/anemo/chevreuse/quickswap_build
+    description: KQM's resources for Chevreuse's Quickswap DPS Builds.
+    emoji: ${EMOJIS.CHARACTER_CHEVREUSE }
+  
 buttons:
 
   - label: "Quick Guide"

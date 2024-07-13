@@ -1,5 +1,5 @@
 embeds:
-  - title: Klee
+  - title: On-Field DPS Klee
     color: ${ COLORS.PYRO_ORANGE }
     image: 
       url: ${ INFOGRAPHICS.KLEE_1 }

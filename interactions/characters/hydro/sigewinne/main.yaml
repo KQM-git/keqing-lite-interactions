@@ -1,0 +1,29 @@
+embeds:
+  - title: Sigewinne
+    color: ${COLORS.HYDRO_BLUE}
+    image: 
+      url: ${INFOGRAPHICS.SIGEWINNE_1}
+    thumbnail:
+      url: ${ICON.CHARACTER_SIGEWINNE}
+    description: |-
+      ★★★★★
+      *Hydro Bow*
+      *Melusines are beautiful creatures. They are the pride of Fontaine. Be sure to befriend them, and cause them no harm.*
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} cegewinne (Designer) | baloopy (Content)
+
+buttons:
+  # - label: "Guide"
+  #   url: "https://keqingmains.com/sigewinne/"
+  #   emoji: ${ EMOJIS.LOGO }
+  #   style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/sigewinne-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  # - label: "TCL"
+  #   url: "https://library.keqingmains.com/sigewinne"
+  #   emoji: ${ EMOJIS.MAGNIFY }
+  #   style: "LINK"

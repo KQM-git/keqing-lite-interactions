@@ -1,0 +1,4 @@
+interaction: characters/hydro/sigewinne/main
+description: "Opens KQM's resources on Sigewinne"
+match: ${ TRIGGER_PREFIX }(?:sigewinne|sige|sgw|sw)(?:\s|$)
+ignoreCase: true
