@@ -9,7 +9,7 @@ embeds:
       ★★★★★
       *Pyro Catalyst*
     footer:
-      text: "Use \"Open original\" to view full size.\n\nCredits to: cuppacote (Content & Designer)"
+      text: ${LABEL.INFOGRAPHIC_CREDITS} angtahimik (Designer) | clevernt (Content)
 
 buttons:
   - label: "Guide"

@@ -4,17 +4,17 @@ embeds:
     thumbnail:
       url: ${ICON.CHARACTER_CHEVREUSE}
     description: |-
-      ★★★★
-      *Pyro Polearm*
+      *The renowned Captain of the Special Security and Surveillance Patrol, always true to her own sense of "justice."*
+
 
 options: #dropdown
   - label: Chevreuse Support Infographic
-    value: characters/anemo/chevreuse/support_build
+    value: characters/pyro/chevreuse/support_build
     description: KQM's resources for Chevreuse's Support Builds.
     emoji: ${EMOJIS.CHARACTER_CHEVREUSE }
 
   - label: Chevreuse Quickswap DPS Infographic
-    value: characters/anemo/chevreuse/quickswap_build
+    value: characters/pyro/chevreuse/quickswap_build
     description: KQM's resources for Chevreuse's Quickswap DPS Builds.
     emoji: ${EMOJIS.CHARACTER_CHEVREUSE }
   
@@ -24,3 +24,9 @@ buttons:
     url: "https://keqingmains.com/q/chevreuse-quickguide/"
     emoji: ${ EMOJIS.LOGO }
     style: "LINK"
+
+  - label: "TCL"
+    url: "https://library.keqingmains.com/characters/pyro/chevreuse"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"
+

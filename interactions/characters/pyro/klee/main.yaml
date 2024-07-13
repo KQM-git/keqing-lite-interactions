@@ -14,7 +14,7 @@ options: #dropdown
     emoji: ${EMOJIS.CHARACTER_KLEE }
 
   - label: Klee Burgeon Trigger Infographic
-    value: characters/pyro/klee/klee_teams
+    value: characters/pyro/klee/burgeon_build
     description: KQM's resources for Burgeon Trigger Klee Builds.
     emoji: ${EMOJIS.ELEMENT_PYRO }
 
