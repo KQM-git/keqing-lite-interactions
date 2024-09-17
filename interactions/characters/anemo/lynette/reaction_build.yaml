@@ -1,7 +1,7 @@
 embeds:
   - title: Reaction DPS Lynette
     color: ${ COLORS.ANEMO_GREEN }
-    image: 
+    image:
       url: ${ INFOGRAPHICS.LYNETTE_2 }
     thumbnail:
       url: ${ICON.CHARACTER_LYNETTE}
@@ -14,11 +14,11 @@ embeds:
 
 buttons:
   - label: "Quick Guide"
-    url: "https://keqingmains.com/q/lyney-quickguide/"
+    url: "https://keqingmains.com/q/lynette-quickguide/"
     emoji: ${ EMOJIS.LOGO }
     style: "LINK"
 
   - label: "TCL"
-    url: "https://library.keqingmains.com/characters/pyro/lyney"
+    url: "https://library.keqingmains.com/characters/anemo/lynette"
     emoji: ${ EMOJIS.MAGNIFY }
     style: "LINK"
