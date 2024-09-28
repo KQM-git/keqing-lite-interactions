@@ -13,10 +13,10 @@ embeds:
 
 buttons:
 
-#  - label: "Guide"
-#    url: "https://keqingmains.com/kirara"
-#    emoji: ${ EMOJIS.LOGO }
-#    style: "LINK"
+  - label: "Guide"
+    url: "https://keqingmains.com/kirara/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
 
   - label: "Quick Guide"
     url: "https://keqingmains.com/q/kirara-quickguide/"

@@ -12,10 +12,10 @@ embeds:
       text: ${LABEL.INFOGRAPHIC_CREDITS} kolvii (Designer) | mocha_biscuit (Content)
 
 buttons:
-  # - label: "Guide"
-  #   url: "https://keqingmains.com/nilou/"
-  #   emoji: ${ EMOJIS.LOGO }
-  #   style: "LINK"
+  - label: "Guide"
+    url: "https://keqingmains.com/nilou/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
 
   - label: "Quick Guide"
     url: "https://keqingmains.com/q/nilou-quickguide/"
