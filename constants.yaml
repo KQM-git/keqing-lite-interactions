@@ -42,7 +42,7 @@ INFOGRAPHICS:
   AMBER_4: "https://keqingmains.com/wp-content/uploads/2023/08/Amber_2.png"         # teams
   ARLECCHINO_1: "https://keqingmains.com/wp-content/uploads/2024/04/Arlecchino-Infographic-4.6-Updated.png"
   AYAKA_1: "https://keqingmains.com/wp-content/uploads/2024/01/Ayaka-Infographic-4.3.png"
-  AYATO_1: "https://keqingmains.com/wp-content/uploads/2023/11/Ayato.png"
+  AYATO_1: "https://keqingmains.com/wp-content/uploads/2024/01/Ayato_4.8_-_ang_tahimik__cote.png"
   BAIZHU_1: "https://keqingmains.com/wp-content/uploads/2024/04/Baizhu-Infographic-4.6.png"
   BARBARA_1: "https://keqingmains.com/wp-content/uploads/2024/04/Barbara-Infographic-4.5.png"
   BEIDOU_1: "https://keqingmains.com/wp-content/uploads/2024/01/Beidou_4.8_-_kol.pngg"
@@ -81,6 +81,7 @@ INFOGRAPHICS:
   HEIZOU_2: "https://keqingmains.com/wp-content/uploads/2024/05/Heizou-DPS-Infographic-4.6.png" # DPS
   HEIZOU_3: "https://keqingmains.com/wp-content/uploads/2024/05/Heizou-Driver-Infographic-4.6.png" # driver
   HUTAO_1: "https://keqingmains.com/wp-content/uploads/2024/03/Hu-Tao-Infographic-4.4-Update.png"
+  HYDRO_TRAVELER_1: https://keqingmains.com/wp-content/uploads/2024/08/Hydro_Traveler_4.8_-_euphorysm.png
   ITTO_1: "https://keqingmains.com/wp-content/uploads/2024/04/Itto-Infographic-4.5.png"
   JEAN_1: "https://keqingmains.com/wp-content/uploads/2024/02/Jean-Support-Infographic-4.4.png" #support
   JEAN_2: "https://keqingmains.com/wp-content/uploads/2024/02/Jean-Sunfire-Infographic.png" # sunfire
@@ -191,6 +192,7 @@ ICON:
   CHARACTER_DILUC: "https://keqingmains.com/wp-content/uploads/2021/09/Character_Diluc_Thumb-min.png"
   CHARACTER_DIONA: "https://keqingmains.com/wp-content/uploads/2021/09/Character_Diona_Thumb-min.png"
   CHARACTER_DORI: "https://keqingmains.com/wp-content/uploads/2022/09/Character_Dori_Thumb.webp"
+  CHARACTER_EMILIE: "https://keqingmains.com/wp-content/uploads/2024/08/emilie_099_icon.webp"
   CHARACTER_EULA: "https://keqingmains.com/wp-content/uploads/2021/09/Character_Eula_Thumb-min.png"
   CHARACTER_FARUZAN: "https://keqingmains.com/wp-content/uploads/2022/12/UI_AvatarIcon_Faruzan.png"
   CHARACTER_FISCHL: "https://keqingmains.com/wp-content/uploads/2021/09/UI_AvatarIcon_Fischl.png"
@@ -299,6 +301,7 @@ EMOJIS:
   CHARACTER_DILUC: ":Diluc:953426425933864961"
   CHARACTER_DIONA: ":Diona:953426425984192613"
   CHARACTER_DORI: ":Dori:1163896585252503693"
+  CHARACTER_EMILIE: <:Emilie:1289723520498139156>
   CHARACTER_EULA: ":Eula:953426426651111476"
   CHARACTER_FARUZAN: ":Faruzan:1050444217522061374"
   CHARACTER_FISCHL: ":Fischl:953426425959034920"
