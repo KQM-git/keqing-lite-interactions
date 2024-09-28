@@ -4,7 +4,7 @@ embeds:
     image:
       url: ${INFOGRAPHICS.HYDRO_TRAVELER_1}
     thumbnail: 
-      url: ${ICON.CHARACTER_TRAVELER_F}
+      url: ${ ICON.CHARACTER_TRAVELER_F }
     description: |-
       ★★★★★
       *Hydro Sword*
