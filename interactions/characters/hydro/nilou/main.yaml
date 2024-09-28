@@ -9,7 +9,7 @@ embeds:
       ★★★★★
       *Hydro Sword*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} kolvii (Designer) | mocha_biscuit (Content)
+      text: ${LABEL.INFOGRAPHIC_CREDITS} kolvii, cuppacote (Designer) | mocha_biscuit, .jdha, haafr (Content)
 
 buttons:
   - label: "Guide"
