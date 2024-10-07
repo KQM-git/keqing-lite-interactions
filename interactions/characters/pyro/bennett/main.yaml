@@ -9,7 +9,7 @@ embeds:
       ★★★★
       *Pyro Sword*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote (Designer) | irokei (Content)
+      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote (Designer) | KQM TC Staff (Content)
 
 buttons:
   - label: "Guide"

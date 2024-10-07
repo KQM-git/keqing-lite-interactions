@@ -1,15 +1,23 @@
 embeds:
   - title: Freminet
     color: ${ COLORS.CRYO_BLUE }
-    image: 
-      url: ${INFOGRAPHICS.FREMINET_1}
     thumbnail:
       url: ${ICON.CHARACTER_FREMINET}
     description: |-
-      ★★★★ 
-      *Cryo Claymore*
-    footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote (Designer) | cuppacote (Content) 
+      *A taciturn young man and an expert diver, his heart remains as innocent as the fairytales that never cease to absorb him.*
+
+options: #dropdown
+
+  - label:  Cryo DPS Freminet
+    value: characters/cryo/freminet/cryo
+    description: KQM's resources for Cryo DPS Freminet's build.
+    emoji: ${ EMOJIS.CHARACTER_FREMINET }
+    
+  - label: Physical DPS Freminet
+    value: characters/cryo/freminet/physical
+    description: KQM's resources for Physical DPS Freminet's build.
+    emoji: ${ EMOJIS.CHARACTER_FREMINET }
+  
 
 buttons:
 #  - label: "Guide"

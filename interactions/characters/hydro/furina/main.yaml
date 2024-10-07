@@ -9,20 +9,20 @@ embeds:
       ★★★★★
       *Hydro Sword*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} euphorysm (Designer & Content)
+      text: ${LABEL.INFOGRAPHIC_CREDITS} euphorysm, cuppacote (Designer) | euphorysm, caxia5, haafr (Content)
 
 buttons:
-  # - label: "Guide"
-  #   url: "https://keqingmains.com/ayato"
-  #   emoji: ${ EMOJIS.LOGO }
-  #   style: "LINK"
+  - label: "Guide"
+    url: "https://keqingmains.com/furina"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
 
   - label: "Quick Guide"
     url: "https://keqingmains.com/q/furina-quickguide/"
     emoji: ${ EMOJIS.LOGO }
     style: "LINK"
 
-  # - label: "TCL"
-  #   url: "https://library.keqingmains.com/furina"
-  #   emoji: ${ EMOJIS.MAGNIFY }
-  #   style: "LINK"
+  - label: "TCL"
+    url: "https://library.keqingmains.com/furina"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"

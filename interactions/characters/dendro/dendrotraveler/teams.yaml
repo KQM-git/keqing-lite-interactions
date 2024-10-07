@@ -4,7 +4,7 @@ embeds:
     image: 
       url: ${INFOGRAPHICS.DENDRO_TRAVELER_2}
     thumbnail:
-      url: ${ICON.CHARACTER_TRAVELER_M}
+      url:${ICON.CHARACTER_TRAVELER_F}
     description: |-
       ★★★★★
       *Dendro Sword*

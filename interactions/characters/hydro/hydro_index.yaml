@@ -25,6 +25,11 @@ options:
     value: characters/hydro/furina/main
     description: KQM's resources on Furina!
     emoji: ${ EMOJIS.CHARACTER_FURINA }
+  
+  - label: Hydro Traveler
+    value: characters/hydro/hydrotraveler/main
+    description: KQM's resources on Hydro Traveler!
+    emoji: ${ EMOJIS.CHARACTER_TRAVELER }
 
   - label: Kokomi
     value: characters/hydro/kokomi/main

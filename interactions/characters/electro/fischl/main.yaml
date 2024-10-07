@@ -9,7 +9,7 @@ embeds:
       ★★★★
       *Electro Bow*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} icedsquid (Designer) | nikatosaurus (Content)
+      text: ${LABEL.INFOGRAPHIC_CREDITS} icedsquid, cuppacote (Designer) | nikatosaurus, haafr, caxia5 (Content)
 
 buttons:
 

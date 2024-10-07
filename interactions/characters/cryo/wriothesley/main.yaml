@@ -1,16 +1,23 @@
 embeds:
   - title: Wriothesley
     color: ${COLORS.CRYO_BLUE}
-    image: 
-      url: ${INFOGRAPHICS.WRIOTHESLEY_1}
     thumbnail:
       url: ${ICON.CHARACTER_WRIOTHESLEY}
     description: |-
-      ★★★★★
-      *Cryo Catalyst*
-    footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} euphorysm (Designer) | irokei (Content)
+      *Administrator of the Fortress of Meropide, he was given Fontaine's highest honorary title of "Duke." Both low-profile and dependable.*
 
+options: #dropdown
+
+  - label: Freeze and Mono Cryo Wriothesley Build
+    value: characters/cryo/wriothesley/freeze
+    description: KQM's resources for Freeze and Mono Cryo Wriothesley's Build.
+    emoji: "<:frozen:947715728528773180>"
+    
+  - label: Melt Wriothesley Build
+    value: characters/cryo/wriothesley/melt
+    description: KQM's resources for Melt Wriothesley's Build.
+    emoji: "<:melt:947715728683991120>"
+  
 buttons:
 #  - label: "Guide"
 #    url: "https://keqingmains.com/wriothesley/"

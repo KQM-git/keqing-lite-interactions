@@ -1,0 +1,28 @@
+embeds:
+  - title: Freeze and Mono Cryo Wriothesley
+    color: ${COLORS.CRYO_BLUE}
+    image: 
+      url: ${INFOGRAPHICS.WRIOTHESLEY_1}
+    thumbnail:
+      url: ${ICON.CHARACTER_WRIOTHESLEY}
+    description: |-
+      ★★★★★
+      *Cryo Catalyst*
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} euphorysm (Designer) | irokei (Content)
+
+buttons:
+#  - label: "Guide"
+#    url: "https://keqingmains.com/wriothesley/"
+#    emoji: ${ EMOJIS.LOGO }
+#    style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/wriothesley-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  # - label: "TCL"
+  #   url: "https://library.keqingmains.com/characters/cryo/shenhe"
+  #   emoji: ${ EMOJIS.MAGNIFY }
+  #   style: "LINK"

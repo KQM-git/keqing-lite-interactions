@@ -1,0 +1,4 @@
+interaction: characters/dendro/emilie/main
+description: "Opens KQM's resources on Emilie"
+match: ${ TRIGGER_PREFIX }(?:emilie)(?:\s|$)
+ignoreCase: true
