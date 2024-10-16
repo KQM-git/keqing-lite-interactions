@@ -1,0 +1,29 @@
+embeds:
+  - title: Emilie
+    color: ${COLORS.DENDRO_GREEN}
+    image: 
+      url: ${INFOGRAPHICS.EMILIE_1}
+    thumbnail:
+      url: ${ICON.CHARACTER_EMILIE}
+    description: |-
+      ★★★★★ 
+      *Dendro Polearm*
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote (Designer) | haafr (Content)    
+
+buttons:
+  # - label: "Guide"
+  #   url: "https://keqingmains.com/emilie/"
+  #   emoji: ${ EMOJIS.LOGO }
+  #   style: "LINK"
+
+   - label: "Quick Guide"
+     url: "https://keqingmains.com/emilie-quickguide/"
+     emoji: ${ EMOJIS.LOGO }
+     style: "LINK"
+
+
+  # - label: "TCL"
+  #   url: "https://library.keqingmains.com/characters/dendro/emilie"
+  #   emoji: ${ EMOJIS.MAGNIFY }
+  #   style: "LINK"

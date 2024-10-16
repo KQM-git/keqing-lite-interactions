@@ -1,0 +1,28 @@
+embeds:
+  - title: Hydro Traveler
+    color: ${ COLORS.HYDRO_BLUE }
+    image:
+      url: ${INFOGRAPHICS.HYDRO_TRAVELER_1}
+    thumbnail: 
+      url: ${ ICON.CHARACTER_TRAVELER_F }
+    description: |-
+      ★★★★★
+      *Hydro Sword*
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} euphorysm (Designer) | nova_licious (Content)
+
+buttons:
+  # - label: "Guide"
+  #   url: "https://keqingmains.com/furina"
+  #   emoji: ${ EMOJIS.LOGO }
+  #   style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/hydro-traveler-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  # - label: "TCL"
+  #   url: "https://library.keqingmains.com/furina"
+  #   emoji: ${ EMOJIS.MAGNIFY }
+  #   style: "LINK"

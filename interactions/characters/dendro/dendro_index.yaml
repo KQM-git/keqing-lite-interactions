@@ -20,6 +20,12 @@ options:
     value: characters/dendro/collei/main
     description: KQM's resources on Collei!
     emoji: ${ EMOJIS.CHARACTER_COLLEI }
+  
+  - label: Emilie
+    value: characters/dendro/emilie/main
+    description: KQM's resources on Emilie!
+    emoji: ${ EMOJIS.CHARACTER_EMILIE }
+
 
   - label: Kaveh
     value: characters/dendro/kaveh/main

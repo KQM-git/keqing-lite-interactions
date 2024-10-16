@@ -1,0 +1,28 @@
+embeds:
+  - title: On-Field Cryo DPS Freminet
+    color: ${ COLORS.CRYO_BLUE }
+    image: 
+      url: ${INFOGRAPHICS.FREMINET_1}
+    thumbnail:
+      url: ${ICON.CHARACTER_FREMINET}
+    description: |-
+      ★★★★ 
+      *Cryo Claymore*
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote (Designer) | cuppacote (Content) 
+
+buttons:
+#  - label: "Guide"
+#    url: "https://keqingmains.com/freminet/"
+#    emoji: ${ EMOJIS.LOGO }
+#    style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/freminet-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "TCL"
+    url: "https://library.keqingmains.com/characters/cryo/freminet"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"
