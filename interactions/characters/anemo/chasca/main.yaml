@@ -6,7 +6,7 @@ embeds:
     thumbnail:
       url: ${ICON.CHARACTER_CHASCA}
     description: |-
-      ★★★★
+      ★★★★★
       *Anemo Bow*
     footer:
       text: ${LABEL.INFOGRAPHIC_CREDITS} euphorysm (Designer) | baloopy (Content)
