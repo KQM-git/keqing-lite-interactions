@@ -1,0 +1,4 @@
+interaction: characters/dendro/kinich/main
+description: "Opens KQM's resources on Kinich"
+match: ${ TRIGGER_PREFIX }kinich(?:\s|$)
+ignoreCase: true

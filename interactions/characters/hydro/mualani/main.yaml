@@ -1,0 +1,31 @@
+embeds:
+  - title: Mualani
+    color: ${ COLORS.HYDRO_BLUE }
+    image:
+      url: ${ INFOGRAPHICS.MUALANI_1 }
+    thumbnail:
+      url: ${ICON.CHARACTER_MUALANI}
+    description: |-
+      ★★★★★
+      *Hydro Catalyst*
+
+buttons:
+  # - label: "Guide"
+  #   url: "https://keqingmains.com/kokomi"
+  #   emoji: ${ EMOJIS.LOGO }
+  #   style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/mualani-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  # - label: "TCL"
+  #   url: "https://library.keqingmains.com/kokomi"
+  #   emoji: ${ EMOJIS.MAGNIFY }
+  #   style: "LINK"
+
+  # - label: "Video Guide"
+  #   url: "https://www.youtube.com/watch?v=FAI39xYCMgo"
+  #   emoji: ${ EMOJIS.YOUTUBE }
+  #   style: "LINK"
