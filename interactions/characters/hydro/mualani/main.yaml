@@ -8,6 +8,8 @@ embeds:
     description: |-
       ★★★★★
       *Hydro Catalyst*
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} icedsquid, cuppacote (Designers) | clevernt, haafr (Content)
 
 buttons:
   # - label: "Guide"
