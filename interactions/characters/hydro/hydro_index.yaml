@@ -5,7 +5,7 @@ embeds:
       icon_url: https://library.keqingmains.com/img/elements/hydro.png
 
 # Additional links that should be displayed in the initial message.
-options: 
+options:
   - label: Ayato
     value: characters/hydro/ayato/main
     description: KQM's resources on Ayato!
@@ -25,7 +25,7 @@ options:
     value: characters/hydro/furina/main
     description: KQM's resources on Furina!
     emoji: ${ EMOJIS.CHARACTER_FURINA }
-  
+
   - label: Hydro Traveler
     value: characters/hydro/hydrotraveler/main
     description: KQM's resources on Hydro Traveler!
@@ -51,11 +51,15 @@ options:
     description: KQM's resources on Neuvillette!
     emoji: ${ EMOJIS.CHARACTER_NEUVILLETTE }
 
+  - label: Mualani
+    value: characters/hydro/mualani/main
+    description: KQM's resources on Mualani!
+    emoji: ${ EMOJIS.CHARACTER_MUALANI }
+
   - label: Sigewinne
     value: characters/hydro/sigewinne/main
     description: KQM's resources on Sigewinne!
     emoji: ${ EMOJIS.CHARACTER_SIGEWINNE }
-
 
   - label: Tartaglia
     value: characters/hydro/tartaglia/main
