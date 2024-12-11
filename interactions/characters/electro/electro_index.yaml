@@ -46,6 +46,11 @@ options:
     description: KQM's resources on Lisa!
     emoji: ${ EMOJIS.CHARACTER_LISA }
 
+  - label: Ororon
+    value: characters/electro/ororon/main
+    description: KQM's resources on Ororon!
+    emoji: ${ EMOJIS.CHARACTER_ORORON }  
+
   - label: Raiden
     value: characters/electro/raiden/main
     description: KQM's resources on Raiden!
