@@ -5,7 +5,7 @@ embeds:
       icon_url: https://library.keqingmains.com/img/elements/geo.png
 
 # Additional links that should be displayed in the initial message.
-options:
+options: 
   - label: Albedo
     value: characters/geo/albedo/main
     description: KQM's resources on Albedo!
@@ -26,11 +26,6 @@ options:
     description: KQM's resources on Itto!
     emoji: ${ EMOJIS.CHARACTER_ITTO }
 
-  - label: Kachina
-    value: characters/geo/kachina/main
-    description: KQM's resources on Kachina!
-    emoji: ${ EMOJIS.CHARACTER_KACHINA }
-
   - label: Navia
     value: characters/geo/navia/main
     description: KQM's resources on Navia!
@@ -50,7 +45,7 @@ options:
     value: characters/geo/yunjin/main
     description: KQM's resources on Yunjin!
     emoji: ${ EMOJIS.CHARACTER_YUNJIN }
-
+ 
   - label: Zhongli
     value: characters/geo/zhongli/main
     description: KQM's resources on Zhongli!

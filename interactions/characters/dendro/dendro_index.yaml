@@ -5,7 +5,7 @@ embeds:
       icon_url: https://library.keqingmains.com/img/elements/dendro.png
 
 # Additional links that should be displayed in the initial message.
-options:
+options: 
   - label: Alhaitham
     value: characters/dendro/alhaitham/main
     description: KQM's resources on Alhaitham!
@@ -20,21 +20,17 @@ options:
     value: characters/dendro/collei/main
     description: KQM's resources on Collei!
     emoji: ${ EMOJIS.CHARACTER_COLLEI }
-
+  
   - label: Emilie
     value: characters/dendro/emilie/main
     description: KQM's resources on Emilie!
     emoji: ${ EMOJIS.CHARACTER_EMILIE }
 
+
   - label: Kaveh
     value: characters/dendro/kaveh/main
     description: KQM's resources on Kaveh!
     emoji: ${ EMOJIS.CHARACTER_KAVEH }
-
-  - label: Kinich
-    value: characters/dendro/kinich/main
-    description: KQM's resources on Kinich!
-    emoji: ${ EMOJIS.CHARACTER_KINICH }
 
   - label: Kirara
     value: characters/dendro/kirara/main
