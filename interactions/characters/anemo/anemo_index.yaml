@@ -5,11 +5,16 @@ embeds:
       icon_url: https://library.keqingmains.com/img/elements/anemo.png
 
 # Additional links that should be displayed in the initial message.
-options: 
+options:
   - label: Anemo Traveler
     value: characters/anemo/anemotraveler/main
     description: KQM's resources on the Anemo Main Character!
     emoji: ${ EMOJIS.CHARACTER_TRAVELER }
+
+  - label: Chasca
+    value: characters/anemo/chasca/main
+    description: KQM's resources on Chasca!
+    emoji: ${ EMOJIS.CHARACTER_CHASCA }
 
   - label: Faruzan
     value: characters/anemo/faruzan/main
