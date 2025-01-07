@@ -1,0 +1,29 @@
+embeds:
+  - title: Ororon
+    color: ${ COLORS.ELECTRO_PURPLE }
+    image: 
+      url: ${INFOGRAPHICS.ORORON}
+    thumbnail:
+      url: ${ICON.CHARACTER_ORORON}
+    description: |-
+      ★★★★
+      *Electro Bow*
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} cegewinne (Designer) | pjeljr, baloopy, and kqm staff (Content)
+
+# buttons:
+#
+# - label: "Guide"
+#    url: "https://keqingmains.com/ororon/"
+#    emoji: ${ EMOJIS.LOGO }
+#    style: "LINK"
+#
+#  - label: "Quick Guide"
+#    url: "https://keqingmains.com/q/ororon-quickguide/"
+#    emoji: ${ EMOJIS.LOGO }
+#    style: "LINK"
+#
+#  - label: "TCL"
+#    url: "https://library.keqingmains.com/characters/electro/ororon"
+#    emoji: ${ EMOJIS.MAGNIFY }
+#    style: "LINK"
