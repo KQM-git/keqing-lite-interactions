@@ -1,4 +1,0 @@
-interaction: characters/hydro/mualani/main
-description: "Opens KQM's resources on Mualani"
-match: ${ TRIGGER_PREFIX }mualani(?:\s|$)
-ignoreCase: true
