@@ -9,7 +9,7 @@ embeds:
       ★★★★
       *Pyro Claymore*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} icedsquid (Designer) | baloopy (Content)
+      text: ${LABEL.INFOGRAPHIC_CREDITS} icedsquid & cegewinne (Designer) | baloopy & haafr (Content)
 
 buttons:
   - label: "Guide"

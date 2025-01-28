@@ -9,7 +9,7 @@ embeds:
       ★★★★★ 
       *Dendro Catalyst*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} lapsy (Designer) | irokei (Content)    
+      text: ${LABEL.INFOGRAPHIC_CREDITS} lapsy & cegewinne (Designer) | irokei (Content)
 
 buttons:
   - label: "Guide"

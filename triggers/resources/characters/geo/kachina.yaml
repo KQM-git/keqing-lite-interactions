@@ -1,0 +1,4 @@
+interaction: characters/geo/kachina/main
+description: "Opens KQM's resources on Kachina"
+match: ${ TRIGGER_PREFIX }kachina(?:\s|$)
+ignoreCase: true

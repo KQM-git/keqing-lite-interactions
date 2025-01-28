@@ -1,0 +1,28 @@
+embeds:
+  - title: Citlali
+    color: ${ COLORS.CRYO_BLUE }
+    thumbnail:
+      url: ${ICON.CHARACTER_CITLALI}
+    image:
+      url: ${INFOGRAPHICS.CITLALI_1}
+    description: |-
+      ★★★★★
+      *Cryo Catalyst*
+    footer:
+      text: "Use \"Open original\" to view full size.\n\nCredits to: icedsquid (Designer) | haafr. (Content)"
+
+buttons:
+  #  - label: "Guide"
+  #    url: "https://keqingmains.com/citlali"
+  #    emoji: ${ EMOJIS.LOGO }
+  #    style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/citlali-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+#  - label: "TCL"
+#    url: "https://library.keqingmains.com/characters/cryo/citlali"
+#    emoji: ${ EMOJIS.MAGNIFY }
+#    style: "LINK"

@@ -1,0 +1,13 @@
+embeds:
+  - title: Off-Field DPS & Support Mavuika
+    color: ${ COLORS.PYRO_ORANGE }
+    image:
+      url: ${ INFOGRAPHICS.MAVUIKA_2 }
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote (Designer) | clevernt (Content)
+
+buttons:
+  - label: "TCL"
+    url: "https://library.keqingmains.com/characters/pyro/mavuika"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"

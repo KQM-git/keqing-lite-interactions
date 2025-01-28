@@ -1,0 +1,4 @@
+interaction: characters/pyro/mavuika/main
+description: "Opens KQM's resources on Mavuika"
+match: ${ TRIGGER_PREFIX }mav(?:uika)?(?:\s|$)
+ignoreCase: true

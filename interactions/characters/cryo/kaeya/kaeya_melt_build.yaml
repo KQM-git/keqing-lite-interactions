@@ -1,0 +1,33 @@
+embeds:
+  - title: Melt DPS Kaeya
+    color: ${ COLORS.CRYO_BLUE }
+    image: 
+      url: ${ INFOGRAPHICS.KAEYA_3 }
+    thumbnail:
+      url: ${ICON.CHARACTER_KAEYA}
+    description: |-
+      ★★★★
+      *Cryo Sword*
+    footer:
+      text: "Use \"Open original\" to view full size.\n\nCredits to: cuppacote (Designer) | haafr, cuppacote, baloopy (Content)"
+
+buttons:
+  - label: "Guide"
+    url: "https://keqingmains.com/kaeya/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/kaeya-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "TCL"
+    url: "https://library.keqingmains.com/characters/cryo/kaeya"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"
+
+  - label: "Video Guide"
+    url: "https://youtu.be/93J8ukjWo0k"
+    emoji: ${ EMOJIS.YOUTUBE }
+    style: "LINK"

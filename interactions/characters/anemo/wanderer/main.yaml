@@ -9,7 +9,7 @@ embeds:
       ★★★★★
       *Anemo Catalyst*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} euphorysm (Designer) | cuppacote & xsylent (Content)
+      text: ${LABEL.INFOGRAPHIC_CREDITS} euphorysm & cuppacote (Designer) | KQM TC Staff (Content)
 
 buttons:
   - label: "Guide"

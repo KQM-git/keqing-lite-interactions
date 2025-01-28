@@ -2,14 +2,14 @@ embeds:
   - title: Ororon
     color: ${ COLORS.ELECTRO_PURPLE }
     image: 
-      url: ${INFOGRAPHICS.ORORON}
+      url: ${INFOGRAPHICS.ORORON_1}
     thumbnail:
       url: ${ICON.CHARACTER_ORORON}
     description: |-
       ★★★★
       *Electro Bow*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} cegewinne (Designer) | pjeljr, baloopy, and kqm staff (Content)
+      text: ${LABEL.INFOGRAPHIC_CREDITS} cegewinne (Designer) | pjeljr, baloopy, and KQM Staff (Content)
 
 # buttons:
 #

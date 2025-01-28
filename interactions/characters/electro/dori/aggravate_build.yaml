@@ -9,7 +9,7 @@ embeds:
       ★★★★
       *Electro Claymore*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} kolvii (Designer) | nova_licious (Content)
+      text: ${LABEL.INFOGRAPHIC_CREDITS} kolvii & cegewinne (Designer) | nova_licious & haafr (Content)
 
 buttons:
   # - label: "Guide"

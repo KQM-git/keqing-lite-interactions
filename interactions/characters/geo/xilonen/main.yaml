@@ -1,0 +1,24 @@
+embeds:
+  - title: Xilonen
+    color: ${ COLORS.GEO_YELLOW }
+    image:
+      url: ${INFOGRAPHICS.XILONEN_1}
+    thumbnail:
+      url: ${ICON.CHARACTER_XILONEN}
+    description: |-
+      ★★★★★
+      *Geo Sword*
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} euphorysm (Designer) | clevernt (Content)
+
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/xilonen-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+#  TCL page doesn't exist yet, uncomment when it does
+#  - label: "TCL"
+#    url: "https://library.keqingmains.com/characters/geo/xilonen"
+#    emoji: ${ EMOJIS.MAGNIFY }
+#    style: "LINK"

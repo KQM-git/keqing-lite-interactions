@@ -1,0 +1,30 @@
+embeds:
+  - title: Bloom DPS Candace
+    color: ${ COLORS.HYDRO_BLUE }
+    image: 
+      url: ${INFOGRAPHICS.CANDACE_3}
+    thumbnail:
+      url: ${ICON.CHARACTER_CANDACE}
+    description: |-
+      ★★★★
+      *Hydro Polearm*
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} euphorysm & cuppacote (Designer) | haafr & madeofseaglass (Content)
+
+
+buttons:
+
+  - label: "Guide"
+    url: "https://keqingmains.com/candace/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/candace-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "TCL"
+    url: "https://library.keqingmains.com/characters/hydro/candace"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"

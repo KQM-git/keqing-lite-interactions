@@ -1,13 +1,27 @@
 embeds:
   - title: Sangonomiya Kokomi
     color: ${ COLORS.HYDRO_BLUE }
-    image: 
-      url: ${ INFOGRAPHICS.KOKOMI_1 }
     thumbnail:
       url: ${ICON.CHARACTER_KOKOMI}
     description: |-
       ★★★★★
       *Hydro Catalyst*
+
+options: # dropdown
+  - label: Kokomi Off-Field Support Infographic
+    value: characters/hydro/kokomi/support_build
+    description: KQM's resources for Off-Field Support Kokomi Builds.
+    emoji: ${EMOJIS.CHARACTER_KOKOMI }
+
+  - label: Kokomi On-Field Driver Infographic
+    value: characters/hydro/kokomi/onfield_build
+    description: KQM's resources for On-Field Driver Kokomi Builds.
+    emoji: ${EMOJIS.CHARACTER_KOKOMI }
+
+  - label: Kokomi Nilou Bloom Driver & Support Infographic
+    value: characters/hydro/kokomi/onfield_build
+    description: KQM's resources for Nilou BLoom Driver & Support Kokomi Builds.
+    emoji: ${EMOJIS.CHARACTER_KOKOMI }
 
 buttons:
   - label: "Guide"
