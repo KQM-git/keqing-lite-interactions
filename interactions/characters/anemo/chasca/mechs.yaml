@@ -4,7 +4,7 @@ embeds:
     image:
       url: "https://keqingmains.com/wp-content/uploads/2024/12/Chasca_Skill_Burst_Mechanics.png"
     footer:
-      text: "Use \"Open original\" to view full size."
+      text: "Use \"Open original\" to view full size.\n\nCredits to: icedsquid, cegewinne, cuppacote (Design) | baloopy, KQM TC Staff (Content)"
 
 buttons:
   - customId: "liveInteraction#characters/anemo/chasca/main"
