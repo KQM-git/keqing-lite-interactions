@@ -9,7 +9,7 @@ embeds:
       ★★★★
       *Cryo Bow* 
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote & icedsquid (Designer) | KQM TC Staff (Content)
+      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote (Designer) | chasing_haze (Content)
 
 buttons:
   - label: "Guide"

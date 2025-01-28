@@ -9,7 +9,7 @@ embeds:
       ★★★★
       *Cryo Polearm*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} kolvii & icedsquid (Designer) | KQM TC Staff (Content)
+      text: ${LABEL.INFOGRAPHIC_CREDITS} kolvii (Designer) | irokei (Content)
 
 buttons:
   - label: "Guide"

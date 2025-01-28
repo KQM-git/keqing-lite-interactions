@@ -9,7 +9,7 @@ embeds:
       ★★★★★
       *Cryo Sword*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} icedsquid (Designer) | mocha_biscuit & haafr. (Content)
+      text: ${LABEL.INFOGRAPHIC_CREDITS} icedsquid (Designer) | mocha_biscuit (Content)
 
 buttons:
   - label: "Guide"

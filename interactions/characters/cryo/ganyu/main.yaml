@@ -18,11 +18,6 @@ options: #dropdown
     description: KQM's resources for Freeze Ganyu's Build.
     emoji: "<:frozen:947715728528773180>"
 
-  - label: Quadratic Scaling (Burst)
-    value: characters/cryo/ganyu/quadratic
-    description: KQM Infographic to visualize Ganyu's quadratic scaling.
-    emoji: ${ EMOJIS.CHARACTER_GANYU }
-
 buttons:
   - label: "Guide"
     url: "https://keqingmains.com/ganyu/"

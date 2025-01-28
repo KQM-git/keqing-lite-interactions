@@ -17,11 +17,6 @@ options: # dropdown
     description: KQM's resources for On-Field DPS Candace Builds.
     emoji: ${EMOJIS.CHARACTER_CANDACE }
 
-  - label: Candace Bloom DPS Infographic
-    value: characters/hydro/candace/bloom_build
-    description: KQM's resources for Bloom DPS Candace Builds.
-    emoji: ${EMOJIS.CHARACTER_CANDACE }
-
 buttons:
 
   - label: "Guide"

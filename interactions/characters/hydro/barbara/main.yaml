@@ -9,7 +9,7 @@ embeds:
       ★★★★
       *Hydro Catalyst*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} kolvii & cegewinne (Designer) | baloopy & KQM Staff (Content)
+      text: ${LABEL.INFOGRAPHIC_CREDITS} kolvii (Designer) | baloopy (Content)
       
 
 

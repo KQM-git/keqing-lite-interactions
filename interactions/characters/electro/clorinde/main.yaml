@@ -9,7 +9,7 @@ embeds:
       ★★★★★
       *Electro Sword*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} euphorysm & cegewinne (Designer) | mikeskies (Content)
+      text: ${LABEL.INFOGRAPHIC_CREDITS} euphorysm (Designer) | nikatosaurus (Content)
 
 buttons:
   # - label: "Guide"

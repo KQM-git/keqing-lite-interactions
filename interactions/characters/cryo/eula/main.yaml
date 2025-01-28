@@ -7,9 +7,7 @@ embeds:
       url: ${ICON.CHARACTER_EULA}
     description: |-
       ★★★★★
-      *Cryo Claymore*
-    footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} icedsquid (Designer) | mocha_biscuit (Content)
+      *Cryo Claymore* 
 
 buttons:
   - label: "Guide"

@@ -1,4 +1,0 @@
-interaction: characters/geo/xilonen/main
-description: "Opens KQM's resources on Xilonen"
-match: ${ TRIGGER_PREFIX }xilo(?:nen)?(?:\s|$) # xilo, xilonen
-ignoreCase: true

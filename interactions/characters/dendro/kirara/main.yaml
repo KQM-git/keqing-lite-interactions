@@ -9,7 +9,7 @@ embeds:
       ★★★★
       *Dendro Sword*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote (Designer) | chasing_haze & caxia5 (Content)
+      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote (Designer) | chasing_haze (Content)
 
 buttons:
 

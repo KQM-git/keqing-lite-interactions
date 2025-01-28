@@ -1,22 +1,15 @@
 embeds:
   - title: Keqing
     color: ${ COLORS.ELECTRO_PURPLE }
+    image: 
+      url: ${INFOGRAPHICS.KEQING_1}
     thumbnail:
       url: ${ICON.CHARACTER_KEQING}
     description: |-
       ★★★★★
       *Electro Sword*
-
-options: #dropdown
-  - label: Electro Keqing Build
-    value: characters/electro/keqing/electro_build
-    description: KQM's resources for Electro DPS Keqing's Build.
-    emoji: ${EMOJIS.ELEMENT_ELECTRO }
-
-  - label: Aggravate Keqing Build
-    value: characters/electro/keqing/aggravate_build
-    description: KQM's resources for Aggravate DPS Keqing's Build.
-    emoji: ${EMOJIS.ELEMENT_ELECTRO }
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} euphorysm (Designer) | casdela (Content)
 
 buttons:    
   - label: "Guide"

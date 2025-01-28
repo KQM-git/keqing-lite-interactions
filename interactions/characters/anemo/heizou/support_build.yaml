@@ -9,7 +9,7 @@ embeds:
       ★★★★
       *Anemo Catalyst*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote & cegewinne (Designer) | baloopy (Content)
+      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote (Designer) | baloopy (Content)
 
 buttons:
   - label: "Guide"

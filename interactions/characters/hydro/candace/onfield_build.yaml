@@ -9,7 +9,7 @@ embeds:
       ★★★★
       *Hydro Polearm*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} euphorysm & icedsquid (Designer) | nova_licious (Content)
+      text: ${LABEL.INFOGRAPHIC_CREDITS} euphorysm (Designer) | nova_licious (Content)
 
 
 buttons:

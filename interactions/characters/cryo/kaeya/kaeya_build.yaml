@@ -1,5 +1,5 @@
 embeds:
-  - title: Freeze DPS Kaeya
+  - title: Kaeya
     color: ${ COLORS.CRYO_BLUE }
     image: 
       url: ${ INFOGRAPHICS.KAEYA_1 }
@@ -9,7 +9,7 @@ embeds:
       ★★★★
       *Cryo Sword*
     footer:
-      text: "Use \"Open original\" to view full size.\n\nCredits to: cuppacote (Designer) | haafr, cuppacote, baloopy (Content)"
+      text: "Use \"Open original\" to view full size.\n\nCredits to: cuppacote (Designer) | casdela & spphrs (Content)"
 
 buttons:
   - label: "Guide"

@@ -28,3 +28,9 @@ buttons:
     emoji: ${ EMOJIS.MAGNIFY }
     style: "LINK"
 
+  - label: "Video Guide"
+    url: "https://www.youtube.com/watch?v=m1JysEqPbOs"
+    emoji: ${ EMOJIS.YOUTUBE }
+    style: "LINK"
+    
+
