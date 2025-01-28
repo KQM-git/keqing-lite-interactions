@@ -9,7 +9,7 @@ embeds:
       ★★★★★
       *Cryo Bow*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} euphorysm (Designer) | nova_licious (Content)
+      text: ${LABEL.INFOGRAPHIC_CREDITS} euphorysm, cegewinne (Designer) | nova_licious, haafr, lesterberne, ham2105, pjeljr (Content)
 
     # fields:
     # - name: '<:ER:947725645104939079> Energy Recharge:'
