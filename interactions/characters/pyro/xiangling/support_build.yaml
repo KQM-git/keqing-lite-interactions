@@ -1,24 +1,16 @@
 embeds:
-  - title: Xiangling
+  - title: Support Xiangling
     color: ${ COLORS.PYRO_ORANGE }
+    image:
+      url: "https://keqingmains.com/wp-content/uploads/2024/12/Xiangling_5.3_-_Squid__cote.png"
     thumbnail:
       url: ${ICON.CHARACTER_XIANGLING}
     description: |-
       ★★★★
       *Pyro Polearm*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} icedsquid (Designer) | icedsquid & jamberry (Content)
+      text: ${LABEL.INFOGRAPHIC_CREDITS} icedsquid & cuppacote (Designer) | clevernt & caxia5 & haafr (Content)
 
-options: #dropdown
-  - label: Xiangling Off-Field DPS Infographic
-    value: characters/pyro/xiangling/off_field_build
-    description: KQM's resources for Xiangling's Off-Field DPS Builds.
-    emoji: ${ COLORS.PYRO_RED }
-
-  - label: Xiangling Support Infographic
-    value: characters/pyro/xiangling/support_build
-    description: KQM's resources for Xiangling's Support Builds.
-    emoji: ${ COLORS.PYRO_RED }
 
 buttons:
   - label: "Guide"
