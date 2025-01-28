@@ -26,3 +26,9 @@ buttons:
   #   url: "https://library.keqingmains.com/neuvillette"
   #   emoji: ${ EMOJIS.MAGNIFY }
   #   style: "LINK"
+
+# uncomment when C1 vs R1 infog is officially published
+#  - customId: "liveInteraction#characters/hydro/neuvillette/c1vsr1"
+#    label: "C1 vs R1"
+#    style: "PRIMARY"
+#    emoji: ${ EMOJIS.CHARACTER_NEUVILLETTE }
