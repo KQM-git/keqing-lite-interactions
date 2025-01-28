@@ -9,7 +9,7 @@ embeds:
       ★★★★★
       *Pyro Bow*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} kolvii (Designer) | kolvii (Content)
+      text: ${LABEL.INFOGRAPHIC_CREDITS} kolvii & cegewinne (Designer) | haafr & KQM Staff (Content)
 
 
 buttons:
