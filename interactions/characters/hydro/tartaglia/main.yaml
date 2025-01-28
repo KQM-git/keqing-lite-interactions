@@ -9,7 +9,7 @@ embeds:
       ★★★★★
       *Hydro Bow*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} euphorysm & cegewinne (Designer) | irokei & mystathi (Content)
+      text: ${LABEL.INFOGRAPHIC_CREDITS} euphorysm (Designer) | irokei (Content)
 
 buttons:
 

@@ -9,7 +9,7 @@ embeds:
       ★★★★
       *Anemo Claymore*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote & cegewinne (Designer) | chasing_haze (Content)
+      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote (Designer) | chasing_haze (Content)
 
 buttons:
   - label: "Quick Guide"

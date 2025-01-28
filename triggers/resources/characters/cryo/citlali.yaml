@@ -1,4 +1,0 @@
-interaction: characters/cryo/citlali/main
-description: "Opens KQM's resources on Citlali"
-match: ${ TRIGGER_PREFIX }citlali(?:\s|$)
-ignoreCase: true

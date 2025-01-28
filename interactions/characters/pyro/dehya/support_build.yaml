@@ -2,14 +2,14 @@ embeds:
   - title: Support Dehya
     color: ${ COLORS.PYRO_ORANGE }
     image: 
-      url: ${INFOGRAPHICS.DEHYA_1}
+      url: ${INFOGRAPHICS.DEHYA_3}
     thumbnail:
       url: ${ICON.CHARACTER_DEHYA}
     description: |-
       ★★★★★
       *Pyro Claymore*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} kolvii, cegewinne, cuppacote (Designer) | snowwwwww. & lesterberne (Content)
+      text: ${LABEL.INFOGRAPHIC_CREDITS} kolvii (Designer) | snowwwwww. (Content)  
         
 buttons:
   - label: "Guide"

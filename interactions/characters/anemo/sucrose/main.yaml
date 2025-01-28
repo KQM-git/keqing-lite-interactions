@@ -9,7 +9,7 @@ embeds:
       ★★★★
       *Anemo Catalyst* 
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} angtahimik & cegewinne (Designer) | KQM TC Staff (Content)
+      text: ${LABEL.INFOGRAPHIC_CREDITS} angtahimik (Designer) | baloopy (Content)
 
 buttons:
   - label: "Guide"

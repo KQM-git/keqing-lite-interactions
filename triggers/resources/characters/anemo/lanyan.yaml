@@ -1,4 +1,0 @@
-interaction: characters/anemo/lanyan/main
-description: "Opens KQM's resources on Lan Yan"
-match: ${ TRIGGER_PREFIX }(?:lanyan|ly)(?:\s|$) # lanyan, ly
-ignoreCase: true

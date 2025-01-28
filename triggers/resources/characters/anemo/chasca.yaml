@@ -1,4 +1,0 @@
-interaction: characters/anemo/chasca/main
-description: "Opens KQM's resources on Chasca"
-match: ${ TRIGGER_PREFIX }chasca(?:\s|$)
-ignoreCase: true

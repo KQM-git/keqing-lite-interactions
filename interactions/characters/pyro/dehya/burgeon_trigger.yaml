@@ -1,8 +1,8 @@
 embeds:
-  - title: On-Field DPS Dehya
+  - title: Burgeon Trigger Dehya
     color: ${ COLORS.PYRO_ORANGE }
     image: 
-      url: ${INFOGRAPHICS.DEHYA_2}
+      url: ${INFOGRAPHICS.DEHYA_1}
     thumbnail:
       url: ${ICON.CHARACTER_DEHYA}
     description: |-
