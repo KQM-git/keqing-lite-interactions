@@ -2,7 +2,7 @@ embeds:
   - title: Ororon
     color: ${ COLORS.ELECTRO_PURPLE }
     image: 
-      url: ${INFOGRAPHICS.ORORON}
+      url: ${INFOGRAPHICS.ORORON_1}
     thumbnail:
       url: ${ICON.CHARACTER_ORORON}
     description: |-
