@@ -1,0 +1,18 @@
+embeds:
+  - title: Ganyu Burst Quadratic Scaling
+    color: ${COLORS.CRYO_BLUE}
+    image:
+      url: "https://keqingmains.com/wp-content/uploads/2023/04/Ganyu_Q_Quadratic_Scaling.png"
+    footer:
+      text: "Use \"Open original\" to view full size."
+
+buttons:
+  - label: "Guide"
+    url: "https://keqingmains.com/ganyu/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/ganyu-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"

@@ -9,7 +9,7 @@ embeds:
       ★★★★
       *Dendro Bow*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote (Designer) | irokei (Content)
+      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote (Designer) | irokei & haafr (Content)
 
 buttons:
   - label: "Guide"

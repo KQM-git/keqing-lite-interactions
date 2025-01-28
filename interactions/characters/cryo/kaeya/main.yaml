@@ -7,9 +7,14 @@ embeds:
       *An accomplished swordsman and a strategic thinker in the Knights of Favonius, rumored to hail from beyond Mondstadt.*
 
 options: #dropdown
-  - label: Kaeya Build Infographics
-    value: characters/cryo/kaeya/kaeya_build
-    description: KQM's resources for Kaeya Builds.
+  - label: Kaeya Freeze Build Infographics
+    value: characters/cryo/kaeya/kaeya_freeze_build
+    description: KQM's resources for Freeze DPS Kaeya Builds.
+    emoji: ${ EMOJIS.CHARACTER_KAEYA }
+
+  - label: Kaeya Melt Build Infographics
+    value: characters/cryo/kaeya/kaeya_melt_build
+    description: KQM's resources for Melt DPS Kaeya Builds.
     emoji: ${ EMOJIS.CHARACTER_KAEYA }
 
   - label: Kaeya Teams Infographics
