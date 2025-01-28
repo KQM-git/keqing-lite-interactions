@@ -1,0 +1,19 @@
+embeds:
+  - title: Chasca Skill & Burst Mechanics
+    color: ${COLORS.ANEMO_GREEN}
+    image:
+      url: "https://keqingmains.com/wp-content/uploads/2024/12/Chasca_Skill_Burst_Mechanics.png"
+    footer:
+      text: "Use \"Open original\" to view full size."
+
+buttons:
+  - customId: "liveInteraction#characters/anemo/chasca/main"
+    label: "Basics"
+    style: "PRIMARY"
+    emoji: "◀️"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/chasca-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
