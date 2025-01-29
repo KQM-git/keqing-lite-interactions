@@ -4,7 +4,7 @@ embeds:
     thumbnail:
       url: ${ICON.CHARACTER_KOKOMI}
     image:
-      url: ${ INFOGRAPHICS.KOKOMI_3 }
+      url: ${ INFOGRAPHICS.KOKOMI_1 }
     description: |-
       ★★★★★
       *Hydro Catalyst*

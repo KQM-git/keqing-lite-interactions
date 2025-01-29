@@ -3,6 +3,9 @@ embeds:
     color: ${ COLORS.PYRO_ORANGE }
     image:
       url: ${ INFOGRAPHICS.MAVUIKA_1 }
+    description: |-
+      ★★★★★
+      *Pyro Claymore*
     footer:
       text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote (Designer) | clevernt (Content)
 

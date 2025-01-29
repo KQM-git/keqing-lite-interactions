@@ -11,7 +11,7 @@ embeds:
     footer:
       text: ${LABEL.INFOGRAPHIC_CREDITS} euphorysm (Designer) | clevernt (Content)
 
-
+buttons: 
   - label: "Quick Guide"
     url: "https://keqingmains.com/q/xilonen-quickguide/"
     emoji: ${ EMOJIS.LOGO }

@@ -4,10 +4,7 @@ embeds:
     thumbnail:
       url: ${ICON.CHARACTER_XIANGLING}
     description: |-
-      ★★★★
-      *Pyro Polearm*
-    footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} icedsquid (Designer) | icedsquid & jamberry (Content)
+      *The Head Chef at the Wanmin Restaurant and also a waitress there, Xiangling is extremely passionate about cooking and excels at her signature hot and spicy dishes. Though still young, Xiangling is a true master of the culinary arts with all the skills of a kitchen veteran. There's absolutely no need to be nervous if she wants you to sample her latest creation. It will not disappoint. Promise.*
 
 options: #dropdown
   - label: Xiangling Off-Field DPS Infographic

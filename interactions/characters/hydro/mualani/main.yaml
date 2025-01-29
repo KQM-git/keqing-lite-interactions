@@ -1,5 +1,5 @@
 embeds:
-  - title: Sangonomiya Kokomi
+  - title: Mualani
     color: ${ COLORS.HYDRO_BLUE }
     image:
       url: ${ INFOGRAPHICS.MUALANI_1 }

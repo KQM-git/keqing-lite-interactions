@@ -80,9 +80,9 @@ INFOGRAPHICS:
   GANYU_1: "https://keqingmains.com/wp-content/uploads/2025/01/Ganyu_Freeze_and_Mono_Cryo_5.3_-_euphorysm_cegewinne-1.png" # freeze
   GANYU_2: "https://keqingmains.com/wp-content/uploads/2025/01/Ganyu_Melt_5.3_-_euphorysm_cegewinne-1.png" # melt
   GOROU_1: "https://keqingmains.com/wp-content/uploads/2024/04/Gorou-Infographic-4.5.png"
-  HEIZOU_1: "https://keqingmains.com/wp-content/uploads/2025/01/Heizou_Support_5.2_-_cote__cegewinne.png" # support
-  HEIZOU_2: "https://keqingmains.com/wp-content/uploads/2025/01/Heizou_DPS_5.2_-_cote__cegewinne.png" # DPS
-  HEIZOU_3: "https://keqingmains.com/wp-content/uploads/2025/01/Heizou_Driver_5.2_-_cote__cegewinne.png" # driver
+  HEIZOU_1: "https://keqingmains.com/wp-content/uploads/2024/11/Heizou-Support-Infographic-5.1.png" # support
+  HEIZOU_2: "https://keqingmains.com/wp-content/uploads/2024/11/Heizou-DPS-Infographic-5.1.png" # DPS
+  HEIZOU_3: "https://keqingmains.com/wp-content/uploads/2024/11/Heizou-Driver-Infographic-5.1.png" # driver
   HUTAO_1: "https://keqingmains.com/wp-content/uploads/2023/01/Hu_Tao_5.1_-_icedsquid.png"
   HYDRO_TRAVELER_1: https://keqingmains.com/wp-content/uploads/2024/08/Hydro_Traveler_4.8_-_euphorysm.png
   ITTO_1: "https://keqingmains.com/wp-content/uploads/2024/04/Itto-Infographic-4.5.png"
@@ -100,9 +100,9 @@ INFOGRAPHICS:
   KIRARA_1: "https://keqingmains.com/wp-content/uploads/2024/12/Kirara_5.3_-_cote.png"
   KLEE_1: "https://keqingmains.com/wp-content/uploads/2024/07/Klee_On-field_4.7_-_ang_tahimik.png" # on field
   KLEE_2: "https://keqingmains.com/wp-content/uploads/2024/07/Klee_Burgeon_4.7_-_ang_tahimik.png" # burgeon
-  KOKOMI_1: "https://keqingmains.com/wp-content/uploads/2024/11/Kokomi-Support-Infographic-5.1.png" # off field
-  KOKOMI_2: "https://keqingmains.com/wp-content/uploads/2024/11/Kokomi-Driver-Infographic-5.1.png" # on field
-  KOKOMI_3: "https://keqingmains.com/wp-content/uploads/2024/12/Kokomi_Bloom_5.1_-_kol__cegewinne.png" # nilou driver
+  KOKOMI_1: "https://keqingmains.com/wp-content/uploads/2024/12/Kokomi_Bloom_5.1_-_kol__cegewinne.png" # nilou bloom driver & supp
+  KOKOMI_2: "https://keqingmains.com/wp-content/uploads/2024/11/Kokomi-Support-Infographic-5.1.png" # off-field support
+  KOKOMI_3: "https://keqingmains.com/wp-content/uploads/2024/11/Kokomi-Driver-Infographic-5.1.png" # on-field driver
   LANYAN_1: "https://keqingmains.com/wp-content/uploads/2025/01/Lanyan_5.3_-_cote.png"
   LAYLA_1: "https://keqingmains.com/wp-content/uploads/2024/12/Layla-Shielder-Infog-5.2.png" # shielder
   LAYLA_2: "https://keqingmains.com/wp-content/uploads/2024/12/Layla-Off-Field-DPS-Infog-5.2.png" # off field dps
@@ -118,8 +118,6 @@ INFOGRAPHICS:
   MONA_1: "https://keqingmains.com/wp-content/uploads/2024/03/Mona-Infographic-4.5.png"
   MUALANI_1: "https://keqingmains.com/wp-content/uploads/2024/01/Mualani_5.0_-_Squid__cote.png"
   NAHIDA_1: "https://keqingmains.com/wp-content/uploads/2024/10/Nahida-Infographic.png" # build
-  NAHIDA_2: "https://keqingmains.com/wp-content/uploads/2023/07/Nahida_2.png" # teams 1
-  NAHIDA_3: "https://keqingmains.com/wp-content/uploads/2023/07/Nahida_3.png" # teams 2
   NAVIA_1: "https://keqingmains.com/wp-content/uploads/2023/12/Navia_4.6_update_-_euphorysm.png"
   NEUVILLETTE_1: "https://keqingmains.com/wp-content/uploads/2024/12/Neuvillette_5.2_-_cote.png"
   NILOU_1: "https://keqingmains.com/wp-content/uploads/2024/12/Nilou_5.2_-_kol__cote.png"
@@ -148,7 +146,7 @@ INFOGRAPHICS:
   TARTAGLIA_1: "https://keqingmains.com/wp-content/uploads/2025/01/Tartaglia_Infographic_5.3_-_euphorysm_cegewinne.png"
   THOMA_1: "https://keqingmains.com/wp-content/uploads/2024/12/Thoma_Support_5.3_-_cote__euphorysm.png"
   THOMA_2: "https://keqingmains.com/wp-content/uploads/2024/12/Thoma_Burgeon_5.3_-_cote__euphorysm.png"
-  TIGHNARI_1: "https://keqingmains.com/wp-content/uploads/2025/01/Tighnari_5.2_-_cote.png"
+  TIGHNARI_1: "https://keqingmains.com/wp-content/uploads/2024/12/Tighnari_5.2_-_cote.png"
   VENTI_1: "https://keqingmains.com/wp-content/uploads/2024/04/Venti_5.0_-_kol__cote.png"
   WANDERER_1: "https://keqingmains.com/wp-content/uploads/2024/12/Wanderer_5.3_-_euphorysm__cote.png"
   WRIOTHESLEY_1: "https://keqingmains.com/wp-content/uploads/2024/11/Wriothesely-Freeze-Mono-Cryo-Infog-5.2.png" # freeze/mono

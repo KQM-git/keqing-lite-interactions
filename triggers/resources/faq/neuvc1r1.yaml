@@ -1,0 +1,4 @@
+interaction: faq/neuvc1r1
+description: Neuvillette C1 vs R1 Infographic
+match: ${ TRIGGER_PREFIX }neuvc1r1(?:\s|$)
+ignoreCase: true
