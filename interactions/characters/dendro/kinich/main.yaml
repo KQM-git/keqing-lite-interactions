@@ -1,0 +1,24 @@
+embeds:
+  - title: Kinich
+    color: ${COLORS.DENDRO_GREEN}
+    image:
+      url: ${INFOGRAPHICS.KINICH_1}
+    thumbnail:
+      url: ${ICON.CHARACTER_KINICH}
+    description: |-
+      ★★★★★
+      *Dendro Claymore*
+    footer:
+     text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote (Designer) | haafr, clevernt (Content)
+
+buttons:
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/kinich-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+#  - label: "TCL"
+#    url: "https://library.keqingmains.com/characters/dendro/kinich"
+#    emoji: ${ EMOJIS.MAGNIFY }
+#    style: "LINK"

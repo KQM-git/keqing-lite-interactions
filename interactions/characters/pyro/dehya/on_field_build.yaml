@@ -9,7 +9,7 @@ embeds:
       ★★★★★
       *Pyro Claymore*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} kolvii (Designer) | snowwwwww. (Content)  
+      text: ${LABEL.INFOGRAPHIC_CREDITS} kolvii, cegewinne, cuppacote (Designer) | snowwwwww. & lesterberne (Content)
 
 buttons:
   - label: "Guide"

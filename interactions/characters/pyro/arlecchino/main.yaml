@@ -9,7 +9,7 @@ embeds:
       ★★★★★
       *Pyro Polearm*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} euphorysm (Designer) | euphorysm (Content)
+      text: ${LABEL.INFOGRAPHIC_CREDITS} euphorysm (Designer) | KQM TC Staff (Content)
 
 buttons:
   # - label: "Guide"

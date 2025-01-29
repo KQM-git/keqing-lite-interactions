@@ -9,7 +9,7 @@ embeds:
       ★★★★★
       *Hydro Catalyst*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote (Designer) | euphorysm & caramielle (Content)
+      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote (Designer) | euphorysm & caramielle & haafr & clevernt (Content)
 
 buttons:
   - label: "Guide"
@@ -26,3 +26,8 @@ buttons:
   #   url: "https://library.keqingmains.com/neuvillette"
   #   emoji: ${ EMOJIS.MAGNIFY }
   #   style: "LINK"
+
+  - customId: "liveInteraction#faq/neuvc1r1"
+    label: "C1 vs R1"
+    style: "PRIMARY"
+    emoji: ${ EMOJIS.ELEMENT_HYDRO }

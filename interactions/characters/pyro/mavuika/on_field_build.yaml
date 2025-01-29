@@ -1,0 +1,16 @@
+embeds:
+  - title: On-Field DPS Mavuika
+    color: ${ COLORS.PYRO_ORANGE }
+    image:
+      url: ${ INFOGRAPHICS.MAVUIKA_1 }
+    description: |-
+      ★★★★★
+      *Pyro Claymore*
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote (Designer) | clevernt (Content)
+
+buttons:
+  - label: "TCL"
+    url: "https://library.keqingmains.com/characters/pyro/mavuika"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"

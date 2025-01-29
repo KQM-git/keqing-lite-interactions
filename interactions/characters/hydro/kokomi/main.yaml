@@ -1,13 +1,26 @@
 embeds:
   - title: Sangonomiya Kokomi
     color: ${ COLORS.HYDRO_BLUE }
-    image: 
-      url: ${ INFOGRAPHICS.KOKOMI_1 }
     thumbnail:
       url: ${ICON.CHARACTER_KOKOMI}
     description: |-
-      ★★★★★
-      *Hydro Catalyst*
+      *Kokomi is the Divine Priestess of Watatsumi Island, and also serves as its supreme leader. She is well-versed in the art of war, is good at strategizing, and has keen insights into military affairs. She is also adept at handling domestic affairs, diplomacy, and other matters. Still, this unfathomable leader has a mysterious side to her...*
+
+options: # dropdown
+  - label: Kokomi Off-Field Support Infographic
+    value: characters/hydro/kokomi/off_field_build
+    description: KQM's resources for Off-Field Support Kokomi Builds.
+    emoji: ${EMOJIS.CHARACTER_KOKOMI }
+
+  - label: Kokomi On-Field Driver Infographic
+    value: characters/hydro/kokomi/on_field_build
+    description: KQM's resources for On-Field Driver Kokomi Builds.
+    emoji: ${EMOJIS.CHARACTER_KOKOMI }
+
+  - label: Kokomi Nilou Bloom Driver & Support Infographic
+    value: characters/hydro/kokomi/nilou_driver_build
+    description: KQM's resources for Nilou Bloom Driver & Support Kokomi Builds.
+    emoji: ${EMOJIS.CHARACTER_KOKOMI }
 
 buttons:
   - label: "Guide"

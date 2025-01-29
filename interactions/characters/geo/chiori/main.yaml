@@ -9,7 +9,7 @@ embeds:
       ★★★★★
       *Geo Sword* 
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} pawketful (Designer) | irokei (Content)
+      text: ${LABEL.INFOGRAPHIC_CREDITS} pawketful & cegewinne (Designer) | soul_fish (Content)
 
 buttons:
   # - label: "Guide"

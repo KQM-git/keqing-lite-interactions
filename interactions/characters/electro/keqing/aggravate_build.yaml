@@ -1,0 +1,36 @@
+embeds:
+  - title: Aggravate DPS Keqing
+    color: ${ COLORS.ELECTRO_PURPLE }
+    image: 
+      url: ${INFOGRAPHICS.KEQING_2}
+    thumbnail:
+      url: ${ICON.CHARACTER_KEQING}
+    description: |-
+      ★★★★★
+      *Electro Sword*
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} euphorysm & cuppacote (Designer) | haafr & casdela (Content)
+
+buttons:    
+  - label: "Guide"
+    url: "https://keqingmains.com/keqing/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/keqing-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "TCL"
+    url: "https://library.keqingmains.com/characters/electro/keqing"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"
+
+  - label: "Video Guide"
+    url: "https://youtu.be/A9_k6p52N1o"
+    emoji: ${ EMOJIS.YOUTUBE }
+    style: "LINK"
+
+
+    

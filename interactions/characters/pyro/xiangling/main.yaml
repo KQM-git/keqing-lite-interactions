@@ -1,16 +1,22 @@
 embeds:
   - title: Xiangling
     color: ${ COLORS.PYRO_ORANGE }
-    image: 
-      url: ${INFOGRAPHICS.XIANGLING_1}
     thumbnail:
       url: ${ICON.CHARACTER_XIANGLING}
     description: |-
-      ★★★★
-      *Pyro Polearm*
-    footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} icedsquid (Designer) | icedsquid & jamberry (Content)
-      
+      *The Head Chef at the Wanmin Restaurant and also a waitress there, Xiangling is extremely passionate about cooking and excels at her signature hot and spicy dishes. Though still young, Xiangling is a true master of the culinary arts with all the skills of a kitchen veteran. There's absolutely no need to be nervous if she wants you to sample her latest creation. It will not disappoint. Promise.*
+
+options: #dropdown
+  - label: Xiangling Off-Field DPS Infographic
+    value: characters/pyro/xiangling/off_field_build
+    description: KQM's resources for Xiangling's Off-Field DPS Builds.
+    emoji: ${ COLORS.PYRO_RED }
+
+  - label: Xiangling Support Infographic
+    value: characters/pyro/xiangling/support_build
+    description: KQM's resources for Xiangling's Support Builds.
+    emoji: ${ COLORS.PYRO_RED }
+
 buttons:
   - label: "Guide"
     url: "https://keqingmains.com/xiangling/"
