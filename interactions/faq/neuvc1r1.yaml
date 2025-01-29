@@ -6,7 +6,7 @@ embeds:
     image:
       url: https://cdn.discordapp.com/attachments/1129322900265111575/1318839252993310810/Neuvillette_C1_v_R1_-_cote.png?ex=679a7e84&is=67992d04&hm=b98dc5d9d5a299897c1d897ea262db42953f05fd622dceddd33664cd3f8db78a&
     thumbnail:
-      url: "https://cdn.discordapp.com/attachments/974036281162080307/991115872661946388/Yelan_New.png"
+      url: ${ICON.CHARACTER_NEUVILLETTE}
     footer:
       text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote (Designer) | pjeljr & baloopy (Content)
 
