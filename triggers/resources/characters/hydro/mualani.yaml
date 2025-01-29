@@ -1,4 +1,4 @@
 interaction: characters/hydro/mualani/main
 description: "Opens KQM's resources on Mualani"
-match: ${ TRIGGER_PREFIX }(?:mualani|mua|lani)(?:\s|$) mualani, mua, lani
+match: "${ TRIGGER_PREFIX }(?:mualani|mua|lani)(?:\\s|$)" # mualani, mua, lani
 ignoreCase: true
