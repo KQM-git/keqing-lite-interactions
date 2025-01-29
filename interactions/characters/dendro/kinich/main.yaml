@@ -7,9 +7,9 @@ embeds:
       url: ${ICON.CHARACTER_KINICH}
     description: |-
       ★★★★★
-      *Dendro Bow*
-#    footer:
-#      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote (Designer) | snowwwwww.  (Content)
+      *Dendro Claymore*
+    footer:
+     text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote (Designer) | haafr, clevernt (Content)
 
 buttons:
 

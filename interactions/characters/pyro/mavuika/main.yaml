@@ -4,8 +4,7 @@ embeds:
     thumbnail:
       url: ${ICON.CHARACTER_MAVUIKA}
     description: |-
-      ★★★★★
-      *Pyro Claymore*
+      *The leader of Natlan who inherited the Ancient Name of "Kiongozi." She made a vow to illuminate the future of the nation of war with the Sacred Flame.*
 
 options: #dropdown
   - label: On-Field DPS Mavuika Infographic
