@@ -9,7 +9,7 @@ embeds:
       ★★★★
       *Pyro Catalyst*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} nikatosaurus (Designer) | nikatosaurus (Content)
+      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote (Designer) | nikatosaurus & haafr (Content)
 
 
 buttons:

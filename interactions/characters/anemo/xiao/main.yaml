@@ -9,7 +9,7 @@ embeds:
       ★★★★★
       *Anemo Polearm*   
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote (Designer) | casdela (Content)
+      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote & cegewinne (Designer) | casdela (Content)
 
 buttons:
   - label: "Guide"
