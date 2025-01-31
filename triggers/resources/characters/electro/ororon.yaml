@@ -1,4 +1,4 @@
 interaction: characters/electro/ororon/main
 description: "Opens KQM's resources on Ororon"
-match: ${ TRIGGER_PREFIX }(?:oro(?:ro)*n|oreo)(?:\s|$)
+match: ${ TRIGGER_PREFIX }(?:oro(ro)+n|oreo)(?:\s|$)
 ignoreCase: true
