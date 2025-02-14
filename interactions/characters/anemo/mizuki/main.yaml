@@ -1,0 +1,19 @@
+embeds:
+  - title: Yumemizuki Mizuki
+    color: ${ COLORS.ANEMO_GREEN }
+    image:
+      url: ${INFOGRAPHICS.MIZUKI_1}
+    thumbnail:
+      url: ${ICON.CHARACTER_MIZUKI}
+    description: |-
+      ★★★★★
+      *Anemo Catalyst*
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} euphorysm (Designer) | baloopy (Content)
+
+
+buttons:
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/mizuki-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
