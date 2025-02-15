@@ -32,7 +32,7 @@ IMAGES:
 INFOGRAPHICS:
   ALBEDO_1: "https://keqingmains.com/wp-content/uploads/2024/04/Albedo-Infographic-4.5.png"
   ALBEDO_2: "https://keqingmains.com/wp-content/uploads/2023/09/Albedo_Infographic_2.png"
-  ALHAITHAM_1: "https://keqingmains.com/wp-content/uploads/2024/02/Alhaitham-Infographic-4.4.png"
+  ALHAITHAM_1: "https://keqingmains.com/wp-content/uploads/2025/02/Alhaitham_5.4.png"
   ALOY_1: "https://keqingmains.com/wp-content/uploads/2024/04/Aloy-Support-Infographic-4.5.png" # support build
   ALOY_2: "https://keqingmains.com/wp-content/uploads/2024/04/Aloy-Freeze-Infographic-4.5.png" # freeze
   ALOY_3: "https://keqingmains.com/wp-content/uploads/2024/04/Aloy-Melt-Infographic-4.5.png" # melt
@@ -84,7 +84,7 @@ INFOGRAPHICS:
   HEIZOU_2: "https://keqingmains.com/wp-content/uploads/2024/11/Heizou-DPS-Infographic-5.1.png" # DPS
   HEIZOU_3: "https://keqingmains.com/wp-content/uploads/2024/11/Heizou-Driver-Infographic-5.1.png" # driver
   HUTAO_1: "https://keqingmains.com/wp-content/uploads/2023/01/Hu_Tao_5.1_-_icedsquid.png"
-  HYDRO_TRAVELER_1: https://keqingmains.com/wp-content/uploads/2024/08/Hydro_Traveler_4.8_-_euphorysm.png
+  HYDRO_TRAVELER_1: "https://keqingmains.com/wp-content/uploads/2024/08/Hydro_Traveler_4.8_-_euphorysm.png"
   ITTO_1: "https://keqingmains.com/wp-content/uploads/2024/04/Itto-Infographic-4.5.png"
   JEAN_1: "https://keqingmains.com/wp-content/uploads/2024/02/Jean-Support-Infographic-4.4.png" #support
   JEAN_2: "https://keqingmains.com/wp-content/uploads/2024/02/Jean-Sunfire-Infographic.png" # sunfire
@@ -108,13 +108,14 @@ INFOGRAPHICS:
   LAYLA_2: "https://keqingmains.com/wp-content/uploads/2024/12/Layla-Off-Field-DPS-Infog-5.2.png" # off field dps
   LISA_1: "https://keqingmains.com/wp-content/uploads/2022/10/Lisa_Off-Field_4.6_-_kol.png" #support/off field build
   LISA_2: "https://keqingmains.com/wp-content/uploads/2022/10/Lisa_On-Field_4.6_-_kol.png" #on field dps build
-  LYNETTE_1: "https://keqingmains.com/wp-content/uploads/2024/04/Lynette_Off-Field_Support_and_DPS_5.0_-_euphorysm__cote.png" # support
-  LYNETTE_2: "https://keqingmains.com/wp-content/uploads/2024/04/Lynette_Support_and_Reaction_DPS_5.0_-_euphorysm__cote.png" # reaction DPS
-  LYNETTE_3: "https://keqingmains.com/wp-content/uploads/2024/04/Lynette_On-Field_C6_DPS_5.0_-_euphorysm__cote.png" # c6 dps
-  LYNEY_1: "https://keqingmains.com/wp-content/uploads/2024/11/Lyney-Infographic-5.2.png"
+  LYNETTE_1: "https://keqingmains.com/wp-content/uploads/2025/02/Lynette_Support.png" # support
+  LYNETTE_2: "https://keqingmains.com/wp-content/uploads/2025/02/Lynette_Reaction.png" # reaction DPS
+  LYNETTE_3: "https://keqingmains.com/wp-content/uploads/2025/02/Lynette_DPS.png" # c6 dps
+  LYNEY_1: "https://keqingmains.com/wp-content/uploads/2024/04/Lyney_5.3_-_kol_cegewinne.png"
   MAVUIKA_1: "https://keqingmains.com/wp-content/uploads/2025/01/Mavuika_On-Field_DPS_5.3_-_cuppacote.png" # on field
   MAVUIKA_2: "https://keqingmains.com/wp-content/uploads/2025/01/Mavuika_Off-Field_DPS_5.3_-_cuppacote.png" # off field
   MIKA_1: "https://keqingmains.com/wp-content/uploads/2024/04/Mika-Infographic-4.5.png"
+  MIZUKI_1: "https://keqingmains.com/wp-content/uploads/2025/02/Mizuki_5.4_-_euphorysm_baloopy.png"
   MONA_1: "https://keqingmains.com/wp-content/uploads/2024/03/Mona-Infographic-4.5.png"
   MUALANI_1: "https://keqingmains.com/wp-content/uploads/2024/01/Mualani_5.0_-_Squid__cote.png"
   NAHIDA_1: "https://keqingmains.com/wp-content/uploads/2024/10/Nahida-Infographic.png" # build
@@ -152,7 +153,7 @@ INFOGRAPHICS:
   WRIOTHESLEY_1: "https://keqingmains.com/wp-content/uploads/2024/11/Wriothesely-Freeze-Mono-Cryo-Infog-5.2.png" # freeze/mono
   WRIOTHESLEY_2: "https://keqingmains.com/wp-content/uploads/2024/11/Wriothesley-Melt-Infographic-5.2.png" # melt
   XIANYUN_1: "https://keqingmains.com/wp-content/uploads/2024/01/Xianyun-Infographic-4.4.png"
-  XIAO_1: "https://keqingmains.com/wp-content/uploads/2025/01/Xiao_5.3_-_cote_cege-1.png"
+  XIAO_1: "https://keqingmains.com/wp-content/uploads/2025/02/Xiao_5.3_-_cote_cege.png"
   XIANGLING_1: "https://keqingmains.com/wp-content/uploads/2024/12/Xiangling_5.3_-_Squid.png" # off-field
   XIANGLING_2: "https://keqingmains.com/wp-content/uploads/2024/12/Xiangling_5.3_-_Squid__cote.png" # support
   XILONEN_1: "https://keqingmains.com/wp-content/uploads/2024/10/Xilonen-Infographic.png"
@@ -236,6 +237,7 @@ ICON:
   CHARACTER_LYNEY: "https://keqingmains.com/wp-content/uploads/2023/08/Lyney-Portrait-Icon.webp"
   CHARACTER_MAVUIKA: "https://keqingmains.com/wp-content/uploads/2025/01/Mavuika_Icon.webp"
   CHARACTER_MIKA: "https://keqingmains.com/wp-content/uploads/2023/04/Mika.webp"
+  CHARACTER_MIZUKI: "https://keqingmains.com/wp-content/uploads/2025/02/Mizuki_Icon.webp"
   CHARACTER_MONA: "https://keqingmains.com/wp-content/uploads/2021/09/UI_AvatarIcon_Mona.png"
   CHARACTER_MUALANI: "https://keqingmains.com/wp-content/uploads/2024/08/Mualani_Icon.webp"
   CHARACTER_NAHIDA: "https://keqingmains.com/wp-content/uploads/2022/10/nahida_073_icon-min.png"

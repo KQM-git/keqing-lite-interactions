@@ -9,7 +9,7 @@ embeds:
       ★★★★
       *Anemo Sword*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} euphorysm (Designer) | baloopy (Content)
+      text: ${LABEL.INFOGRAPHIC_CREDITS} euphorysm, cuppacote (Designer) | baloopy (Content)
 
 
 buttons:
