@@ -9,7 +9,7 @@ embeds:
       ★★★★★
       *Dendro Sword* 
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} euphorysm (Designer) | mocha_biscuit (Content)
+      text: ${LABEL.INFOGRAPHIC_CREDITS} euphorysm (Designer) | mocha_biscuit, baloopy (Content)
 
 buttons:
 #  - label: "Guide"
