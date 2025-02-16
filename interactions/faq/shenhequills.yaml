@@ -1,0 +1,15 @@
+embeds:
+  - title: Shenhe Quill Mechanics
+    color: ${COLORS.CRYO_BLUE}
+    image:
+      url: https://keqingmains.com/wp-content/uploads/2023/03/Shenhe-Icy-Quill-Infographic-Updated.webp
+    thumbnail:
+      url: "${ICON.CHARACTER_SHENHE}"
+    footer:
+      text: "Use \"Open original\" to view full size."
+
+buttons:
+  - customId: "liveInteraction#characters/cryo/shenhe/main"
+    label: "Basics"
+    style: "PRIMARY"
+    emoji: "◀️"
