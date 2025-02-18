@@ -1,4 +1,4 @@
-interaction: tcl/damage
+interaction: tcl/damage/main
 description: TCL - Damage Formula
 match: ${ TRIGGER_PREFIX }(?:damage|dmg)(?:\s|$)
 ignoreCase: true

@@ -1,3 +1,3 @@
-interaction: tcl/damage
+interaction: tcl/damage/main
 description: TCL - Damage Formula
 name: DAMAGE

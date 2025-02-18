@@ -1,0 +1,4 @@
+interaction: tcl/damage/transformative
+description: TCL - Transformative Damage Formula
+match: ${ TRIGGER_PREFIX }transformative(?:damage|dmg)?(?:\s|$)
+ignoreCase: true

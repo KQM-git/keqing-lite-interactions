@@ -1,0 +1,22 @@
+embeds:
+  - title: Transformative Damage Formula
+    color: ${COLORS.KQM_PURPLE}
+    description: An explanation as to how transformative damage is calculated.
+    image:
+      url: "https://keqingmains.com/wp-content/uploads/2024/05/Transformative-Reaction-Damage-Formula-Infographic.png"
+
+buttons:
+  - label: "TCL - Transformative Damage Formula"
+    style: "LINK"
+    emoji: ${EMOJIS.MAGNIFY}
+    url: "https://library.keqingmains.com/combat-mechanics/damage/damage-formula#transformative-reaction"
+
+  - customId: "liveInteraction#tcl/damage"
+    label: "Main Damage Formula"
+    style: "PRIMARY"
+    emoji: ${ EMOJIS.LOGO }
+
+  - customId: "liveInteraction#tcl/additive-and-amplifying.yaml"
+    label: "Additive & Amplifying Damage Formulas"
+    style: "PRIMARY"
+    emoji: ${ EMOJIS.LOGO }

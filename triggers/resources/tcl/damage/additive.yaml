@@ -1,0 +1,4 @@
+interaction: tcl/damage/additive-and-amplifying
+description: TCL - Additive Damage Formula
+match: ${ TRIGGER_PREFIX }additive(?:damage|dmg)?(?:\s|$)
+ignoreCase: true
