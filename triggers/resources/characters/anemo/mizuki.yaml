@@ -1,4 +1,4 @@
 interaction: characters/anemo/mizuki/main
 description: "Opens KQM's resources on Yumemizuki Mizuki"
-match: ${ TRIGGER_PREFIX }(?:mizu(?:ki)?|yume(?:glorb){0,2})(?:\s|$) # mizuki, mizu, yume, yumeglorb, yumeglorbglorb
+match: ${ TRIGGER_PREFIX }(?:mizu(?:ki)?|yume(?:glor[bp]){0,2})(?:\s|$) # mizuki, mizu, yume, yumeglorb/glorp
 ignoreCase: true
