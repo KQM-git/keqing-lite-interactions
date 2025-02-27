@@ -1,0 +1,4 @@
+interaction: tcl/damage/additive-and-amplifying
+description: TCL - Amplifying Reaction Formula
+match: ${ TRIGGER_PREFIX }amp(?:lifying|lified)?(?:damage|dmg)?(?:\s|$)
+ignoreCase: true

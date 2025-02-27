@@ -1,4 +1,0 @@
-interaction: tcl/vm
-description: TCL - Vape/Melt
-match: ${ TRIGGER_PREFIX }(?:vm|amp|vapemelt)(?:\s|$)
-ignoreCase: true

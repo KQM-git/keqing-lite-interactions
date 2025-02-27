@@ -1,0 +1,27 @@
+embeds:
+  - title: Additive & Amplifying Damage Formulas
+    color: ${COLORS.KQM_PURPLE}
+    description: An explanation as to how additive/amplified damage are calculated.
+    image:
+      url: "https://keqingmains.com/wp-content/uploads/2024/05/Additive-and-Amplifying-Reaction-Damage-Formula-Infographic.png"
+
+buttons:
+  - label: "TCL - Additive Reaction Formula"
+    style: "LINK"
+    emoji: ${EMOJIS.MAGNIFY}
+    url: "https://library.keqingmains.com/combat-mechanics/damage/damage-formula#additive-reaction"
+
+  - label: "TCL - Amplifying Reaction Formula"
+    style: "LINK"
+    emoji: ${EMOJIS.MAGNIFY}
+    url: "https://library.keqingmains.com/combat-mechanics/damage/damage-formula#amplifying-reaction"
+
+  - customId: "liveInteraction#tcl/damage/main"
+    label: "Main Damage Formula"
+    style: "PRIMARY"
+    emoji: ${ EMOJIS.LOGO }
+
+  - customId: "liveInteraction#tcl/damage/transformative"
+    label: "Transformative Damage Formula"
+    style: "PRIMARY"
+    emoji: ${ EMOJIS.LOGO }
