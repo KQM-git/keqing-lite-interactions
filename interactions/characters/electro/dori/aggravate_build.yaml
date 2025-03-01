@@ -2,7 +2,7 @@ embeds:
   - title: C6 Aggravate DPS Dori
     color: ${COLORS.ELECTRO_PURPLE}
     image: 
-      url: ${INFOGRAPHICS.DORI_2}
+      url: ${INFOGRAPHICS.DORI_3}
     thumbnail:
       url: ${ICON.CHARACTER_DORI}
     description: |-
