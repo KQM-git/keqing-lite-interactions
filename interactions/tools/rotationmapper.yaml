@@ -1,9 +1,9 @@
 embeds:
   - title: Genshin Rotation Mapper
     color: ${COLORS.KQM_PURPLE}
-    description: A helpful sheet to visualize cooldowns and uptimes for your team rotations!
-    footer:
-      text: Contact <@360467745743175698> for feedback and inquiries
+    description: |-
+      A helpful sheet to visualize cooldowns and uptimes for your team rotations!
+      Contact <@360467745743175698> for feedback and inquiries.
 
 buttons:
   - label: "Sheet Link"
