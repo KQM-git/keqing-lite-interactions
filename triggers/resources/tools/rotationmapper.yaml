@@ -1,0 +1,4 @@
+interaction: tools/rotationmapper
+description: Genshin Rotation Mapper
+match: ${ TRIGGER_PREFIX }(?:rot(?:ation)?)?mapper(?:\b|$)
+ignoreCase: true
