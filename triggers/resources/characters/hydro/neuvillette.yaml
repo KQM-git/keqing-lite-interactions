@@ -1,4 +1,4 @@
 interaction: characters/hydro/neuvillette/main
 description: "Opens KQM's resources on Neuvillette"
-match: ${ TRIGGER_PREFIX }(?:neuvillette|neuv)(?:\s|$)
+match: ${ TRIGGER_PREFIX }(?:neuvillette|neuvi?)(?:\s|$)
 ignoreCase: true
