@@ -91,6 +91,7 @@ INFOGRAPHICS:
   IANSAN_1: "https://keqingmains.com/wp-content/uploads/2025/08/Iansan-Infographic.png"
   IFA_1: "https://keqingmains.com/wp-content/uploads/2025/05/Ifa-Swirl-DPS-Infographic-5.6.png" # swirl
   IFA_2: "https://keqingmains.com/wp-content/uploads/2025/05/Ifa-Anemo-DPS-Infographic-5.6.png" # anemo
+  INEFFA_1: "https://keqingmains.com/wp-content/uploads/2025/08/Ineffa-Infographic.png"
   ITTO_1: "https://keqingmains.com/wp-content/uploads/2025/06/Itto-Infographic-5.6.png"
   JEAN_1: "https://keqingmains.com/wp-content/uploads/2025/04/Jean_Healer_5.4_-_kol__cote.png" # support
   JEAN_2: "https://keqingmains.com/wp-content/uploads/2025/04/Jean_Sunfire_5.4_-_radishmafan_squid.png" # sunfire
@@ -234,6 +235,8 @@ ICON:
   CHARACTER_HUTAO: "https://keqingmains.com/wp-content/uploads/2021/09/Character_Hu_Tao_Thumb-min.png"
   #TODO: add ifa
   CHARACTER_IFA: ""
+  #TODO: add ineffa
+  CHARACTER_INEFFA: ""
   CHARACTER_ITTO: "https://keqingmains.com/wp-content/uploads/2022/01/UI_AvatarIcon_Itto-min.png"
   CHARACTER_JEAN: "https://keqingmains.com/wp-content/uploads/2021/09/UI_AvatarIcon_Qin.png"
   CHARACTER_KACHINA: "https://keqingmains.com/wp-content/uploads/2024/08/Kachina_Icon.webp"
