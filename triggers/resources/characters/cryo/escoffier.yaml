@@ -1,0 +1,5 @@
+interaction: characters/cryo/escoffier/main
+description: "Opens KQM's resources on Escoffier"
+match: ${ TRIGGER_PREFIX }(?:escoffier|coffee|effie|esco(?:ff?)?)(?:\s|$) # escoffier, coffee, effie, esco, escof, escoff
+ignoreCase: true
+

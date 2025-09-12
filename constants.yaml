@@ -70,6 +70,8 @@ INFOGRAPHICS:
   DORI_2: "https://keqingmains.com/wp-content/uploads/2024/10/Dori-Hyperbloom-Infographic.png" # hyperbloom
   DORI_3: "https://keqingmains.com/wp-content/uploads/2024/10/Dori-On-Field-DPS-Infographic.png" # c6 aggravate
   EMILIE_1: "https://keqingmains.com/wp-content/uploads/2024/08/Emilie_4.8_-_cote.png"
+  ESCOFFIER_1: "https://keqingmains.com/wp-content/uploads/2025/08/Escoffier-Freeze-Infographic.png" # freeze
+  ESCOFFIER_2: "https://keqingmains.com/wp-content/uploads/2025/08/Escoffier-General-Infographic.png" # general
   EULA_1: "https://keqingmains.com/wp-content/uploads/2024/10/Eula-Infographic.png"
   FARUZAN_1: "https://keqingmains.com/wp-content/uploads/2024/04/Faruzan_5.0_-_kol.png"
   FISCHL_1: "https://keqingmains.com/wp-content/uploads/2024/12/Fischl-Infographic-5.2.png"
@@ -212,6 +214,8 @@ ICON:
   CHARACTER_DIONA: "https://keqingmains.com/wp-content/uploads/2021/09/Character_Diona_Thumb-min.png"
   CHARACTER_DORI: "https://keqingmains.com/wp-content/uploads/2022/09/Character_Dori_Thumb.webp"
   CHARACTER_EMILIE: "https://keqingmains.com/wp-content/uploads/2024/08/emilie_099_icon.webp"
+  #TODO: add escoffier
+  CHARACTER_ESCOFFIER: ""
   CHARACTER_EULA: "https://keqingmains.com/wp-content/uploads/2021/09/Character_Eula_Thumb-min.png"
   CHARACTER_FARUZAN: "https://keqingmains.com/wp-content/uploads/2022/12/UI_AvatarIcon_Faruzan.png"
   CHARACTER_FISCHL: "https://keqingmains.com/wp-content/uploads/2021/09/UI_AvatarIcon_Fischl.png"
@@ -329,6 +333,8 @@ EMOJIS:
   CHARACTER_DIONA: ":Diona:953426425984192613"
   CHARACTER_DORI: ":Dori:1163896585252503693"
   CHARACTER_EMILIE: <:Emilie:1289723520498139156>
+  #TODO: add escoffier
+  CHARACTER_ESCOFFIER: ""
   CHARACTER_EULA: ":Eula:953426426651111476"
   CHARACTER_FARUZAN: ":Faruzan:1050444217522061374"
   CHARACTER_FISCHL: ":Fischl:953426425959034920"
