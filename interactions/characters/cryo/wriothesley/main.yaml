@@ -8,9 +8,9 @@ embeds:
 
 options: #dropdown
 
-  - label: Freeze and Mono Cryo Wriothesley Build
-    value: characters/cryo/wriothesley/freeze
-    description: KQM's resources for Freeze and Mono Cryo Wriothesley's Build.
+  - label: Non-Melt Wriothesley Build
+    value: characters/cryo/wriothesley/nonmelt
+    description: KQM's resources for Non-Melt Wriothesley's Build.
     emoji: "<:frozen:947715728528773180>"
     
   - label: Melt Wriothesley Build

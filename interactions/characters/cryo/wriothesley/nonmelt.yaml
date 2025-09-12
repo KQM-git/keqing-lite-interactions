@@ -1,5 +1,5 @@
 embeds:
-  - title: Freeze and Mono Cryo Wriothesley
+  - title: Non-Melt Wriothesley
     color: ${COLORS.CRYO_BLUE}
     image: 
       url: ${INFOGRAPHICS.WRIOTHESLEY_1}
@@ -9,7 +9,7 @@ embeds:
       ★★★★★
       *Cryo Catalyst*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} euphorysm & cuppacote (Designer) | KQM TC Staff (Content)
+      text: ${LABEL.INFOGRAPHIC_CREDITS} euphorysm, cuppacote, cegewinne (Designer) | KQM TC Staff (Content)
 
 buttons:
 #  - label: "Guide"
