@@ -60,6 +60,7 @@ INFOGRAPHICS:
   CLORINDE_1: "https://keqingmains.com/wp-content/uploads/2025/01/Clorinde_5.3_-_euphorysm_cege.png"
   COLLEI_1: "https://keqingmains.com/wp-content/uploads/2024/11/Collei-Infographic-5.1.png"
   CYNO_1: "https://keqingmains.com/wp-content/uploads/2024/05/Cyno-Infographic-4.6.png"
+  DAHLIA_1: "https://keqingmains.com/wp-content/uploads/2024/02/Dahlia_5.7_-_shade.png"
   DENDRO_TRAVELER_1: "https://keqingmains.com/wp-content/uploads/2023/07/DMC_1.png"
   DENDRO_TRAVELER_2: "https://keqingmains.com/wp-content/uploads/2023/07/DMC_2.png"
   DEHYA_1: "https://keqingmains.com/wp-content/uploads/2024/02/Dehya_Off-field_Support_5.7_-_kol_cege_cote.png" # support
@@ -212,6 +213,8 @@ ICON:
   CHARACTER_COLLEI: "https://keqingmains.com/wp-content/uploads/2022/09/Character_Collei_Thumb.webp"
   CHARACTER_CHONGYUN: "https://keqingmains.com/wp-content/uploads/2021/09/UI_AvatarIcon_Chongyun.png"
   CHARACTER_CYNO: "https://keqingmains.com/wp-content/uploads/2022/10/UI_AvatarIcon_Cyno.png"
+  #TODO: add dahlia
+  CHARACTER_DAHLIA: ""
   CHARACTER_DEHYA: "https://keqingmains.com/wp-content/uploads/2023/04/Portraits-Dehya.webp"
   CHARACTER_DILUC: "https://keqingmains.com/wp-content/uploads/2021/09/Character_Diluc_Thumb-min.png"
   CHARACTER_DIONA: "https://keqingmains.com/wp-content/uploads/2021/09/Character_Diona_Thumb-min.png"
@@ -337,6 +340,8 @@ EMOJIS:
   CHARACTER_CHIORI: ":Chiori:1224961394940837908"
   CHARACTER_CHONGYUN: ":Chongyun:953426423366955018"
   CHARACTER_CYNO: ":Cyno:1042129146626703470"
+  #TODO: add dahlia
+  CHARACTER_DAHLIA: ""
   CHARACTER_DEHYA: ":Dehya:1087477435769045112"
   CHARACTER_DILUC: ":Diluc:953426425933864961"
   CHARACTER_DIONA: ":Diona:953426425984192613"
