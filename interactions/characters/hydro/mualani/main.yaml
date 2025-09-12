@@ -9,7 +9,7 @@ embeds:
       ★★★★★
       *Hydro Catalyst*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} icedsquid, cuppacote (Designer) | clevernt, haafr (Content)
+      text: ${LABEL.INFOGRAPHIC_CREDITS}  icedsquid, cuppacote, & auraolis (Designer) | clevernt, haafr, baloopy (Content)
 
 buttons:
   - label: "Quick Guide"
