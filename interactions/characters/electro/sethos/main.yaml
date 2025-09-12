@@ -9,7 +9,7 @@ embeds:
       ★★★★
       *Electro Bow*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote (Designer) | irokei & haafr (Content)
+      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote, auntyplays (Designer) | irokei & haafr (Content)
 
 buttons:
 
