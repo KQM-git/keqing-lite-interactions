@@ -1,21 +1,15 @@
 embeds:
   - title: Ningguang
     color: ${ COLORS.GEO_YELLOW }
+    image:
+      url: ${INFOGRAPHICS.NINGGUANG_1}
     thumbnail:
       url: ${ICON.CHARACTER_NINGGUANG}
     description: |-
-      *The Tianquan of the Liyue Qixing. Her wealth is unsurpassed in all of Teyvat.*
-
-options: #dropdown   
-  - label: Ningguang Build Infographic
-    value: characters/geo/ningguang/ningguang_build
-    description: KQM's resources for Ningguang's Builds.
-    emoji: ${EMOJIS.CHARACTER_NINGGUANG}
-
-  - label: Ningguang Team Infographic
-    value: characters/geo/ningguang/ningguang_teams
-    description: KQM's resources for Ningguang's Teams.
-    emoji: ${EMOJIS.ELEMENT_GEO}
+      ★★★★
+      *Geo Catalyst*
+    footer:
+      text: "${LABEL.INFOGRAPHIC_CREDITS} euphorysm & cegewinne (Designer) | lostguide, haafr, baloopy, and KQM Staff (Content)"
 
 buttons:
   - label: "Guide"
@@ -31,9 +25,4 @@ buttons:
   - label: "TCL"
     url: "https://library.keqingmains.com/characters/geo/ningguang"
     emoji: ${ EMOJIS.MAGNIFY }
-    style: "LINK"
-
-  - label: "Video Guide"
-    url: "https://youtu.be/aecxJRSn2d4"
-    emoji: ${ EMOJIS.YOUTUBE }
     style: "LINK"
