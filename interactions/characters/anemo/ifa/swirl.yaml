@@ -1,0 +1,28 @@
+embeds:
+  - title: Swirl DPS Ifa
+    color: ${COLORS.ANEMO_GREEN}
+    thumbnail:
+      url: ${ICON.CHARACTER_IFA}
+    description: |-
+      ★★★★
+      *Anemo Catalyst*
+    image:
+      url: ${INFOGRAPHICS.IFA_1}
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} kolvii (Designer) | acerbus (Content)
+
+buttons:
+  - label: "Guide"
+    url: "https://keqingmains.com/ifa/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/ifa-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "TCL"
+    url: "https://library.keqingmains.com/characters/anemo/ifa"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"
