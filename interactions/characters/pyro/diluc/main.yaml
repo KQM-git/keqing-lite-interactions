@@ -9,7 +9,7 @@ embeds:
       ★★★★★
       *Pyro Claymore*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote (Designer) | cuppacote (Content)
+      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote & auraolis (Designer) | cuppacote & marvel (Content)
 
 buttons:
 
