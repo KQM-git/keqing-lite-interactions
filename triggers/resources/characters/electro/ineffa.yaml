@@ -1,4 +1,4 @@
 interaction: characters/electro/ineffa/main
 description: "Opens KQM's resources on Ineffa"
-match: ${ TRIGGER_PREFIX }(?:ineffa)(?:\s|$)
+match: ${ TRIGGER_PREFIX }(?:ineffa|clanker)(?:\s|$)
 ignoreCase: true 
