@@ -1,0 +1,4 @@
+interaction: characters/cryo/skirk/main
+description: "Opens KQM's resources on Skirk"
+match: ${ TRIGGER_PREFIX }(?:skirk)(?:\s|$)
+ignoreCase: true 

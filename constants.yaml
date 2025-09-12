@@ -111,8 +111,8 @@ INFOGRAPHICS:
   LANYAN_1: "https://keqingmains.com/wp-content/uploads/2025/01/Lanyan_5.3_-_cote.png"
   LAYLA_1: "https://keqingmains.com/wp-content/uploads/2024/12/Layla-Shielder-Infog-5.2.png" # shielder
   LAYLA_2: "https://keqingmains.com/wp-content/uploads/2024/12/Layla-Off-Field-DPS-Infog-5.2.png" # off field dps
-  LISA_1: "https://keqingmains.com/wp-content/uploads/2022/10/Lisa_Off-Field_4.6_-_kol.png" #support/off field build
-  LISA_2: "https://keqingmains.com/wp-content/uploads/2022/10/Lisa_On-Field_4.6_-_kol.png" #on field dps build
+  LISA_1: "https://keqingmains.com/wp-content/uploads/2025/06/Lisa_Off-Field_5.6_-_kol_cege.png" #support/off field build
+  LISA_2: "https://keqingmains.com/wp-content/uploads/2025/06/Lisa_On-Field_5.6_-_kol_cege.png" #on field dps build
   LYNETTE_1: "https://keqingmains.com/wp-content/uploads/2025/02/Lynette_Support.png" # support
   LYNETTE_2: "https://keqingmains.com/wp-content/uploads/2025/02/Lynette_Reaction.png" # reaction DPS
   LYNETTE_3: "https://keqingmains.com/wp-content/uploads/2025/02/Lynette_DPS.png" # c6 dps
@@ -149,6 +149,7 @@ INFOGRAPHICS:
   SHINOBU_HYPERBLOOM_1: "https://keqingmains.com/wp-content/uploads/2024/11/Shinobu-Hyperbloom-Infographic.png"
   SHINOBU_QUICKEN_1: "https://keqingmains.com/wp-content/uploads/2024/11/Shinobu-Quicken-Infographic.png"
   SIGEWINNE_1: "https://keqingmains.com/wp-content/uploads/2025/04/Sigewinne_5.5_-_cegewinne.png"
+  SKIRK_1: "https://keqingmains.com/wp-content/uploads/2025/06/Skirk_5.7_-_euphorysm_fix.png"
   SUCROSE_1: "https://keqingmains.com/wp-content/uploads/2024/11/Sucrose-Infographic-5.2.png"
   TARTAGLIA_1: "https://keqingmains.com/wp-content/uploads/2025/01/Tartaglia_Infographic_5.3_-_euphorysm_cegewinne.png"
   THOMA_1: "https://keqingmains.com/wp-content/uploads/2024/12/Thoma_Support_5.3_-_cote__euphorysm.png"
@@ -267,6 +268,10 @@ ICON:
   CHARACTER_SETHOS: "https://keqingmains.com/wp-content/uploads/2024/06/Sethos_Icon.webp"
   CHARACTER_SHENHE: "https://keqingmains.com/wp-content/uploads/2022/01/image_2022-01-31_035109-min.png"
   CHARACTER_SHINOBU: "https://keqingmains.com/wp-content/uploads/2022/08/image_2022-08-29_210552106.png"
+  #TODO: add sige
+  CHARACTER_SIGEWINNE: ""
+  #TODO: add skirk
+  CHARACTER_SKIRK: ""
   CHARACTER_SUCROSE: "https://keqingmains.com/wp-content/uploads/2021/09/UI_AvatarIcon_Sucrose.png"
   CHARACTER_TARTAGLIA: "https://keqingmains.com/wp-content/uploads/2021/09/UI_AvatarIcon_Tartaglia.png"
   CHARACTER_THOMA: "https://keqingmains.com/wp-content/uploads/2021/11/Character_Thoma_Thumb-min.png"
@@ -383,6 +388,8 @@ EMOJIS:
   CHARACTER_SHENHE: ":Shenhe:953426426504294450"
   CHARACTER_SHINOBU: ":Shinobu:991184311841738804"
   CHARACTER_SIGEWINNE: ":Sigewinne:1261507649053134930"
+  #TODO: add skirk
+  CHARACTER_SKIRK: ""
   CHARACTER_SUCROSE: ":Sucrose:953426427066347580"
   CHARACTER_TARTAGLIA: ":Tartaglia:953426426701434901"
   CHARACTER_THOMA: ":Thoma:953426425459920976"
