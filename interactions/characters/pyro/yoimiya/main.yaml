@@ -9,7 +9,7 @@ embeds:
       ★★★★★
       *Pyro Bow*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote (Designer) | irokei & caxia5 (Content)
+      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote & auraolis (Designer) | irokei, caxia5, and KQM TC Staff (Content)
 
 options: #dropdown
 
