@@ -9,7 +9,7 @@ embeds:
       ★★★★
       *Pyro Claymore*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} kol & icedsquid (Designer) | irokei & haafr (Content)
+      text: ${LABEL.INFOGRAPHIC_CREDITS} kol, icedsquid & auraolis (Designer) | irokei, haafr, acerbus114 & pjeljr (Content)
 
 buttons:
 
