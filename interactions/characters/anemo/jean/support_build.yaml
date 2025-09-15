@@ -9,7 +9,7 @@ embeds:
       ★★★★★
       *Anemo Sword*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} kolvii (Designer) | baloopy (Content)
+      text: ${LABEL.INFOGRAPHIC_CREDITS} kol & cuppacote (Designer) | baloopy (Content)
     
 
 buttons:

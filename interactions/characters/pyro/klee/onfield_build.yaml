@@ -9,7 +9,7 @@ embeds:
       ★★★★★
       *Pyro Catalyst*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} angtahimik (Designer) | clevernt (Content)
+      text: ${LABEL.INFOGRAPHIC_CREDITS} angtahimik, cegewinne, & auraolis (Designer) | clevernt (Content)
 
 buttons:
   - label: "Guide"

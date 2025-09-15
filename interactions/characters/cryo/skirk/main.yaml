@@ -1,0 +1,28 @@
+embeds:
+  - title: Skirk
+    color: ${COLORS.CRYO_BLUE}
+    image:
+      url: ${INFOGRAPHICS.SKIRK_1}
+    thumbnail:
+      url: ${ICON.CHARACTER_SKIRK}
+    description: |-
+      ★★★★★
+      *Cryo Sword*
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} euphorysm (Designer) | plumetra (Content)
+
+buttons:
+  - label: "Guide"
+    url: "https://keqingmains.com/skirk/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/skirk-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "TCL"
+    url: "https://library.keqingmains.com/characters/cryo/skirk"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK" 

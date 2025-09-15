@@ -1,0 +1,36 @@
+embeds:
+  - title: Pyro Traveler
+    color: ${COLORS.PYRO_ORANGE}
+    thumbnail:
+      url: ${ICON.CHARACTER_TRAVELER}
+    description: |-
+      ★★★★★
+      *Pyro Sword*
+
+options: # dropdown
+  - label: Reaction DPS Infographic
+    value: characters/pyro/pyrotraveler/reaction
+    description: KQM's resources for Pyro Traveler's Reaction DPS Builds.
+    emoji: ${ EMOJIS.CHARACTER_TRAVELER }
+
+  - label: Reaction DPS Infographic
+    value: characters/pyro/pyrotraveler/support
+    description: KQM's resources for Pyro Traveler's Support Builds.
+    emoji: ${ EMOJIS.CHARACTER_TRAVELER }
+
+buttons:
+  - label: "Guide"
+    url: "https://keqingmains.com/pyro-traveler/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/pyro-traveler-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "TCL"
+    url: "https://library.keqingmains.com/characters/pyro/traveler-pyro"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"
+

@@ -9,7 +9,7 @@ embeds:
       ★★★★★
       *Cryo Sword* 
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} angtahimik (Designer) | irokei (Content)
+      text: ${LABEL.INFOGRAPHIC_CREDITS} angtahimik, cote, & auraolis (Designer) | irokei, pjeljr (Content)
 
 buttons:
   - label: "Guide"

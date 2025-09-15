@@ -1,0 +1,36 @@
+embeds:
+  - title: Ifa
+    color: ${COLORS.ANEMO_GREEN}
+    thumbnail:
+      url: ${ICON.CHARACTER_IFA}
+    description: |-
+      ★★★★
+      *Anemo Catalyst*
+
+options: #dropdown
+  - label: Ifa Swirl DPS Infographic
+    value: characters/anemo/ifa/swirl
+    description: KQM's resources for Ifa's Swirl DPS Builds.
+    emoji: ${EMOJIS.CHARACTER_IFA }
+
+  - label: Ifa Anemo DPS Infographic
+    value: characters/anemo/ifa/anemo
+    description: KQM's resources for Ifa's Anemo DPS Builds.
+    emoji: ${EMOJIS.CHARACTER_IFA }
+
+
+buttons:
+  - label: "Guide"
+    url: "https://keqingmains.com/ifa/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/ifa-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "TCL"
+    url: "https://library.keqingmains.com/characters/anemo/ifa"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK" 

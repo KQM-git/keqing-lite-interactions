@@ -9,7 +9,7 @@ embeds:
       ★★★★★
       *Anemo Bow*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} euphorysm (Designer) | baloopy (Content)
+      text: ${LABEL.INFOGRAPHIC_CREDITS} euphorysm, plumetra (Designer) | baloopy, mystathi, haafr (Content)
 
 
 buttons:

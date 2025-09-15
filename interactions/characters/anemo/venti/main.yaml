@@ -9,7 +9,7 @@ embeds:
       ★★★★★
       *Anemo Bow*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} kolvii (Designer) | mocha_biscuit (Content)
+      text: ${LABEL.INFOGRAPHIC_CREDITS} kolvii, shade.645 (Designer) | mocha_biscuit (Content)
 
 buttons:
   - label: "Guide"

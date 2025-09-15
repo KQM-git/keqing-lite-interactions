@@ -1,0 +1,37 @@
+embeds:
+  - title: Escoffier
+    color: ${COLORS.CRYO_BLUE}
+    thumbnail:
+      url: ${ICON.CHARACTER_ESCOFFIER}
+    description: |-
+      ★★★★★
+      *Cryo Polearm*
+
+options: # dropdown
+  - label: Freeze Support & Off-Field DPS Infographic
+    value: characters/cryo/escoffier/freeze
+    description: KQM's resources for Escoffier's Freeze Support & Off-Field DPS Builds.
+    emoji: ${ EMOJIS.CHARACTER_ESCOFFIER }
+
+  - label: General Support & Off-Field DPS Infographic
+    value: characters/cryo/escoffier/general
+    description: KQM's resources for Escoffier's General Support & Off-Field DPS Builds.
+    emoji: ${ EMOJIS.CHARACTER_ESCOFFIER }
+
+buttons:
+  - label: "Guide"
+    url: "https://keqingmains.com/escoffier/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/escoffier-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+
+  - label: "TCL"
+    url: "https://library.keqingmains.com/characters/cryo/escoffier"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"
+

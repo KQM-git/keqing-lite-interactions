@@ -9,7 +9,7 @@ embeds:
       ★★★★★
       *Geo Sword*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} euphorysm (Designer) | clevernt (Content)
+      text: ${LABEL.INFOGRAPHIC_CREDITS} euphorysm (Designer) | clevernt, baloopy, staryy (Content)
 
 buttons: 
   - label: "Quick Guide"

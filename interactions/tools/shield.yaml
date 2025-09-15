@@ -8,4 +8,4 @@ buttons:
   - label: "Shield Sheet"
     style: LINK
     emoji: ${EMOJIS.GOOGLE_SHEETS}
-    url: "https://docs.google.com/spreadsheets/d/15EC91O05E50puBkGWzO98iQG6RxHmi6j0nxwqjGdGd4/edit#gid=1757896286"
+    url: "https://docs.google.com/spreadsheets/d/1dx73ECNcGrGZ2OfIfchD59xLwImK9geTiKMdMXKtg-k/" # Lit's version (added 6.0|L1)

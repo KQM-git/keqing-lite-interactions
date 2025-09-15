@@ -1,0 +1,29 @@
+embeds:
+  - title: Iansan
+    color: ${COLORS.ELECTRO_PURPLE}
+    image:
+      url: ${INFOGRAPHICS.IANSAN_1}
+    thumbnail:
+      url: ${ICON.CHARACTER_IANSAN}
+    description: |-
+      ★★★★
+      *Electro Polearm*
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} shade, euphorysm & auraolis (Designer) | pjeljr & KQM TC Staff (Content)
+
+buttons:
+  - label: "Guide"
+    url: "https://keqingmains.com/iansan/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/iansan-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "TCL"
+    url: "https://library.keqingmains.com/characters/electro/iansan"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"
+

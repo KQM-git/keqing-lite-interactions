@@ -7,25 +7,21 @@ embeds:
       *Always energetic and full of life, Amber's the best — albeit only — Outrider of the Knights of Favonius.*
 
 options: #dropdown   
-  - label: Amber Melt Build Infographic
+  - label: Amber Melt CA DPS Build Infographic
     value: characters/pyro/amber/melt_build
     description: KQM's resources for Amber's Melt Build.
     emoji: ${EMOJIS.CHARACTER_AMBER}
 
-  - label: Amber C4 Melt Build Infographic
+  - label: Amber Melt Bunny Bomber DPS Build Infographic
     value: characters/pyro/amber/c4melt_build
     description: KQM's resources for Amber's C4 Melt Build.
     emoji: ${EMOJIS.CHARACTER_AMBER}
 
+#TODO: should burgeon be removed?
   - label: Amber Burgeon Build Infographic
     value: characters/pyro/amber/burgeon_build
     description: KQM's resources for Amber's Burgeon Build.
     emoji: ${EMOJIS.CHARACTER_AMBER}
-
-  - label: Amber Teams Infographic
-    value: characters/pyro/amber/amber_teams
-    description: KQM's resources for Amber's Teams.
-    emoji: ${EMOJIS.ELEMENT_PYRO}
 
 buttons:
   - label: "Guide"

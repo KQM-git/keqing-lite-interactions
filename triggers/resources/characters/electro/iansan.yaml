@@ -1,0 +1,5 @@
+interaction: characters/electro/iansan/main
+description: "Opens KQM's resources on Iansan"
+match: ${ TRIGGER_PREFIX }(?:iansan)(?:\s|$)
+ignoreCase: true
+

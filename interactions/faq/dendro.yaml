@@ -9,25 +9,25 @@ embeds:
       Information on Dendro Reactions: Burning, Quicken, Spread, Aggravate, Bloom, Hyperbloom & Burgeon
 
 buttons:
-  - customId: "liveInteraction#faq/dendro2"
-    label: "Bloom Mechanics"
-    style: "PRIMARY"
-    emoji: ${EMOJIS.ELEMENT_DENDRO}
-
-  - customId: "liveInteraction#faq/dendro3"
-    label: "Catalyze Mechanics"
-    style: "PRIMARY"
-    emoji: ${EMOJIS.ELEMENT_DENDRO}
-
-  - customId: "liveInteraction#faq/dendro4"
-    label: "Bloom Damage Formula"
-    style: "PRIMARY"
-    emoji: ${EMOJIS.ELEMENT_DENDRO}
-
-  - customId: "liveInteraction#faq/dendro5"
-    label: "Catalyze Damage Formula"
-    style: "PRIMARY"
-    emoji: ${EMOJIS.ELEMENT_DENDRO}
+#  - customId: "liveInteraction#faq/dendro2"
+#    label: "Bloom Mechanics"
+#    style: "PRIMARY"
+#    emoji: ${EMOJIS.ELEMENT_DENDRO}
+#
+#  - customId: "liveInteraction#faq/dendro3"
+#    label: "Catalyze Mechanics"
+#    style: "PRIMARY"
+#    emoji: ${EMOJIS.ELEMENT_DENDRO}
+#
+#  - customId: "liveInteraction#faq/dendro4"
+#    label: "Bloom Damage Formula"
+#    style: "PRIMARY"
+#    emoji: ${EMOJIS.ELEMENT_DENDRO}
+#
+#  - customId: "liveInteraction#faq/dendro5"
+#    label: "Catalyze Damage Formula"
+#    style: "PRIMARY"
+#    emoji: ${EMOJIS.ELEMENT_DENDRO}
 
   - label: "Guide"
     url: "https://keqingmains.com/misc/dendro"
