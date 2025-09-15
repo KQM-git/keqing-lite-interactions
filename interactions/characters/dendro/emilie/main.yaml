@@ -18,7 +18,7 @@ buttons:
   #   style: "LINK"
 
    - label: "Quick Guide"
-     url: "https://keqingmains.com/emilie-quickguide/"
+     url: "https://keqingmains.com/q/emilie-quickguide/"
      emoji: ${ EMOJIS.LOGO }
      style: "LINK"
 
