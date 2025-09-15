@@ -9,7 +9,7 @@ embeds:
       ★★★★★
       *Anemo Sword*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} mafan404 (Designer) | baloopy (Content)
+      text: ${LABEL.INFOGRAPHIC_CREDITS} mafan04 & icedsquid (Designer) | baloopy (Content)
     
 
 buttons:

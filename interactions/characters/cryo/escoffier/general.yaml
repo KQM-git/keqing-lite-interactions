@@ -1,0 +1,29 @@
+embeds:
+  - title: General Support & Off-Field DPS Escoffier
+    color: ${COLORS.CRYO_BLUE}
+    thumbnail:
+      url: ${ICON.CHARACTER_ESCOFFIER}
+    description: |-
+      ★★★★★
+      *Cryo Polearm*
+    image:
+      url: ${INFOGRAPHICS.ESCOFFIER_2}
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} kolvii (Designer) | pjeljr (Content)
+
+buttons:
+  - label: "Guide"
+    url: "https://keqingmains.com/escoffier/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/escoffier-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "TCL"
+    url: "https://library.keqingmains.com/characters/cryo/escoffier"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"
+

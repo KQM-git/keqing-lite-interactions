@@ -1,0 +1,28 @@
+embeds:
+  - title: Ineffa
+    color: ${COLORS.ELECTRO_PURPLE}
+    image:
+      url: ${INFOGRAPHICS.INEFFA_1}
+    thumbnail:
+      url: ${ICON.CHARACTER_INEFFA}
+    description: |-
+      ★★★★★
+      *Electro Polearm*
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} auraolis, euphorysm (Designer) | plumetra, acerbus (Content)
+
+buttons:
+  - label: "Guide"
+    url: "https://keqingmains.com/ineffa/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/ineffa-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "TCL"
+    url: "https://library.keqingmains.com/characters/electro/ineffa"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK" 

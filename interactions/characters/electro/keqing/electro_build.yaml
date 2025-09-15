@@ -9,7 +9,7 @@ embeds:
       ★★★★★
       *Electro Sword*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote (Designer) | haafr & casdela (Content)
+      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote & auraolis (Designer) | haafr & casdela (Content)
 
 buttons:    
   - label: "Guide"

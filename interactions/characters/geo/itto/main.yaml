@@ -9,7 +9,7 @@ embeds:
       ★★★★★
       *Geo Claymore*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} kolvii (Designer) | irokei (Content)
+      text: ${LABEL.INFOGRAPHIC_CREDITS} kolvii, cegewinne (Designer) | irokei, mr.pillow, iridescnce (Content)
 
 buttons:
 

@@ -1,0 +1,28 @@
+embeds:
+  - title: Dahlia
+    color: ${COLORS.HYDRO_BLUE}
+    image:
+      url: ${INFOGRAPHICS.DAHLIA_1}
+    thumbnail:
+      url: ${ICON.CHARACTER_DAHLIA}
+    description: |-
+      ★★★★
+      *Hydro Sword*
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} shade.645 (Designer) | plumetra (Content)
+
+buttons:
+  - label: "Guide"
+    url: "https://keqingmains.com/dahlia/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/dahlia-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "TCL"
+    url: "https://library.keqingmains.com/characters/hydro/dahlia"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK" 

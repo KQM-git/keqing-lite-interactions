@@ -1,0 +1,5 @@
+interaction: characters/electro/varesa/main
+description: "Opens KQM's resources on Varesa"
+match: ${ TRIGGER_PREFIX }(?:varesa)(?:\s|$)
+ignoreCase: true
+

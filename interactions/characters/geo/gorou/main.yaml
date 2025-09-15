@@ -9,7 +9,7 @@ embeds:
       ★★★★
       *Geo Bow*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} kolvii (Designer) | irokei (Content)
+      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote, kolvii (Designer) | irokei (Content)
 
 buttons:
   - label: "Guide"

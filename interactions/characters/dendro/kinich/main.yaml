@@ -9,7 +9,7 @@ embeds:
       ★★★★★
       *Dendro Claymore*
     footer:
-     text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote (Designer) | haafr, clevernt (Content)
+     text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote, kolvii (Designer) | haafr, clevernt (Content)
 
 buttons:
 

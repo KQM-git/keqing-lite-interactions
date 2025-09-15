@@ -1,0 +1,29 @@
+embeds:
+  - title: Reaction DPS Pyro Traveler
+    color: ${COLORS.PYRO_ORANGE}
+    thumbnail:
+      url: ${ICON.CHARACTER_TRAVELER}
+    description: |-
+      ★★★★★
+      *Pyro Sword*
+    image:
+      url: ${INFOGRAPHICS.PYRO_TRAVELER_1}
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} auraolis (Designer) | acerbus114 (Content)
+
+buttons:
+  - label: "Guide"
+    url: "https://keqingmains.com/pyro-traveler/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/pyro-traveler-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "TCL"
+    url: "https://library.keqingmains.com/characters/pyro/traveler-pyro"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"
+

@@ -1,0 +1,30 @@
+embeds:
+  - title: Varesa
+    color: ${COLORS.ELECTRO_PURPLE}
+    image:
+      url: ${INFOGRAPHICS.VARESA_1}
+    thumbnail:
+      url: ${ICON.CHARACTER_VARESA}
+    description: |-
+      ★★★★★
+      *Electro Catalyst*
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} cegewinne (Designer) | Sew (Content)
+
+buttons:
+  - label: "Guide"
+    url: "https://keqingmains.com/varesa/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/varesa-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+
+  - label: "TCL"
+    url: "https://library.keqingmains.com/characters/electro/varesa"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"
+

@@ -1,0 +1,5 @@
+interaction: characters/pyro/pyrotraveler/main
+description: "Opens KQM's resources on Pyro Traveler"
+match: ${ TRIGGER_PREFIX }(?:pyrotraveler|p(?:yro)?mc)(?:\s|$) # pyrotraveler | pyromc | pmc
+ignoreCase: true
+
