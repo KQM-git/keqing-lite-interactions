@@ -1,0 +1,29 @@
+embeds:
+  - title: Lauma
+    color: ${COLORS.DENDRO_GREEN}
+    image: 
+      url: ${INFOGRAPHICS.LAUMA_1}
+    thumbnail:
+      url: ${ICON.CHARACTER_LAUMA}
+    description: |-
+      ★★★★★
+      *Dendro Catalyst*
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} euphorysm (Designer) | plumetra (Content)
+
+buttons:
+
+  # - label: "Guide"
+  #   url: "https://keqingmains.com/lauma/"
+  #   emoji: ${ EMOJIS.LOGO }
+  #   style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/lauma-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  # - label: "TCL"
+  #   url: "https://library.keqingmains.com/Lauma"
+  #   emoji: ${ EMOJIS.MAGNIFY }
+  #   style: "LINK"

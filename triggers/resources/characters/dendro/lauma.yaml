@@ -1,0 +1,4 @@
+interaction: characters/dendro/lauma/main
+description: "Opens KQM's resources on Lauma"
+match: ${ TRIGGER_PREFIX }(?:lauma)(?:\s|$)
+ignoreCase: true
