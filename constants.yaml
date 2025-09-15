@@ -215,15 +215,13 @@ ICON:
   CHARACTER_COLLEI: "https://keqingmains.com/wp-content/uploads/2022/09/Character_Collei_Thumb.webp"
   CHARACTER_CHONGYUN: "https://keqingmains.com/wp-content/uploads/2021/09/UI_AvatarIcon_Chongyun.png"
   CHARACTER_CYNO: "https://keqingmains.com/wp-content/uploads/2022/10/UI_AvatarIcon_Cyno.png"
-  #TODO: add dahlia
-  CHARACTER_DAHLIA: ""
+  CHARACTER_DAHLIA: "https://keqingmains.com/wp-content/uploads/2025/09/Dahlia-Icon.png"
   CHARACTER_DEHYA: "https://keqingmains.com/wp-content/uploads/2023/04/Portraits-Dehya.webp"
   CHARACTER_DILUC: "https://keqingmains.com/wp-content/uploads/2021/09/Character_Diluc_Thumb-min.png"
   CHARACTER_DIONA: "https://keqingmains.com/wp-content/uploads/2021/09/Character_Diona_Thumb-min.png"
   CHARACTER_DORI: "https://keqingmains.com/wp-content/uploads/2022/09/Character_Dori_Thumb.webp"
   CHARACTER_EMILIE: "https://keqingmains.com/wp-content/uploads/2024/08/emilie_099_icon.webp"
-  #TODO: add escoffier
-  CHARACTER_ESCOFFIER: ""
+  CHARACTER_ESCOFFIER: "https://keqingmains.com/wp-content/uploads/2025/05/Escoffier_Avatar_Icon.webp"
   CHARACTER_EULA: "https://keqingmains.com/wp-content/uploads/2021/09/Character_Eula_Thumb-min.png"
   CHARACTER_FARUZAN: "https://keqingmains.com/wp-content/uploads/2022/12/UI_AvatarIcon_Faruzan.png"
   CHARACTER_FISCHL: "https://keqingmains.com/wp-content/uploads/2021/09/UI_AvatarIcon_Fischl.png"
@@ -234,10 +232,8 @@ ICON:
   CHARACTER_GOROU: "https://keqingmains.com/wp-content/uploads/2022/01/UI_AvatarIcon_Gorou-min.png"
   CHARACTER_HEIZOU: "https://keqingmains.com/wp-content/uploads/2022/07/Character_Shikanoin_Heizou_Thumb-min-1.png"
   CHARACTER_HUTAO: "https://keqingmains.com/wp-content/uploads/2021/09/Character_Hu_Tao_Thumb-min.png"
-  #TODO: add ifa
-  CHARACTER_IFA: ""
-  #TODO: add ineffa
-  CHARACTER_INEFFA: ""
+  CHARACTER_IFA: "https://keqingmains.com/wp-content/uploads/2025/05/Ifa_Icon.webp"
+  CHARACTER_INEFFA: "https://keqingmains.com/wp-content/uploads/2025/09/Ineffa-Icon.png"
   CHARACTER_ITTO: "https://keqingmains.com/wp-content/uploads/2022/01/UI_AvatarIcon_Itto-min.png"
   CHARACTER_JEAN: "https://keqingmains.com/wp-content/uploads/2021/09/UI_AvatarIcon_Qin.png"
   CHARACTER_KACHINA: "https://keqingmains.com/wp-content/uploads/2024/08/Kachina_Icon.webp"
@@ -276,10 +272,8 @@ ICON:
   CHARACTER_SETHOS: "https://keqingmains.com/wp-content/uploads/2024/06/Sethos_Icon.webp"
   CHARACTER_SHENHE: "https://keqingmains.com/wp-content/uploads/2022/01/image_2022-01-31_035109-min.png"
   CHARACTER_SHINOBU: "https://keqingmains.com/wp-content/uploads/2022/08/image_2022-08-29_210552106.png"
-  #TODO: add sige
-  CHARACTER_SIGEWINNE: ""
-  #TODO: add skirk
-  CHARACTER_SKIRK: ""
+  CHARACTER_SIGEWINNE: "https://keqingmains.com/wp-content/uploads/2025/09/Sigewinne-Icon.png"
+  CHARACTER_SKIRK: "https://keqingmains.com/wp-content/uploads/2025/06/UI_AvatarIcon_SkirkNew.webp"
   CHARACTER_SUCROSE: "https://keqingmains.com/wp-content/uploads/2021/09/UI_AvatarIcon_Sucrose.png"
   CHARACTER_TARTAGLIA: "https://keqingmains.com/wp-content/uploads/2021/09/UI_AvatarIcon_Tartaglia.png"
   CHARACTER_THOMA: "https://keqingmains.com/wp-content/uploads/2021/11/Character_Thoma_Thumb-min.png"
