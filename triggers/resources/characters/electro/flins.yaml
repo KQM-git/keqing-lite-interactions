@@ -1,0 +1,4 @@
+interaction: characters/electro/flins/main
+description: "Opens KQM's resources on Flins"
+match: ${ TRIGGER_PREFIX }(?:flins|kyryll|kyryllchudomirovichflins)(?:\s|$)
+ignoreCase: true

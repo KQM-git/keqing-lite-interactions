@@ -1,0 +1,30 @@
+embeds:
+  - title: Flins
+    color: ${ COLORS.ELECTRO_PURPLE }
+    image: 
+      url: ${INFOGRAPHICS.FLINS_1}
+    thumbnail:
+      url: ${ICON.CHARACTER_FLINS}
+    description: |-
+      ★★★★★
+      *Electro Polearm*
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} cegewinne (Designer) | acerbus (Content)
+
+buttons:
+
+  # - label: "Guide"
+  #   url: "https://keqingmains.com/flins/"
+  #   emoji: ${ EMOJIS.LOGO }
+  #   style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/flins-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "TCL"
+    url: "https://library.keqingmains.com/characters/electro/flins"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"
+
