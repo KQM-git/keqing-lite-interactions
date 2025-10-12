@@ -16,10 +16,10 @@ buttons:
   #   url: "https://keqingmains.com/flins/"
   #   emoji: ${ EMOJIS.LOGO }
   #   style: "LINK"
-
-  - customId: "characters/electro/flins/flinsrot"
+  
+  - customId: "liveInteraction#characters/electro/flins/flinsrot"
     label: "Lunar-Charged Rotations"
-    style: "PRIMARY"
+    style: PRIMARY
     emoji: ${ EMOJIS.ELEMENT_ELECTRO }
 
   - label: "Quick Guide"
