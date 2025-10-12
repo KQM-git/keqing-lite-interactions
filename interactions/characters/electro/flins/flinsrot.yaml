@@ -1,15 +1,15 @@
 embeds:
-  - title: Flins
+  - title: Flins Lunar-Charged Rotations
     color: ${ COLORS.ELECTRO_PURPLE }
     image:
-      url: ${ INFOGRAPHICS.FLINS_1 }
+      url: ${ INFOGRAPHICS.FLINS_ROT }
     thumbnail:
       url: ${ ICON.CHARACTER_FLINS }
     description: |-
       ★★★★★
       *Electro Polearm*
     footer:
-      text: ${ LABEL.INFOGRAPHIC_CREDITS } cegewinne (Designer) | acerbus (Content)
+      text: ${ LABEL.INFOGRAPHIC_CREDITS } euphorysm (Designer) | ren718.exe (Content)
 
 buttons:
   # - label: "Guide"
@@ -17,10 +17,10 @@ buttons:
   #   emoji: ${ EMOJIS.LOGO }
   #   style: "LINK"
 
-  - customId: "characters/electro/flins/flinsrot"
-    label: "Lunar-Charged Rotations"
+  - customId: "liveInteraction#characters/electro/flins/main"
+    label: "Basics"
     style: "PRIMARY"
-    emoji: ${ EMOJIS.ELEMENT_ELECTRO }
+    emoji: "◀️"
 
   - label: "Quick Guide"
     url: "https://keqingmains.com/q/flins-quickguide/"
