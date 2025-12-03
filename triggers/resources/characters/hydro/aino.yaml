@@ -1,0 +1,4 @@
+interaction: characters/hydro/aino/main
+description: Opens KQM's resources on Aino
+match: ${ TRIGGER_PREFIX }aino(?:\s|$)
+ignoreCase: true

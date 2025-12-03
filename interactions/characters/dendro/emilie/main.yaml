@@ -9,7 +9,7 @@ embeds:
       ★★★★★ 
       *Dendro Polearm*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote (Designer) | haafr (Content)    
+      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote (Designer) | haafr, pjeljr (Content)    
 
 buttons:
   # - label: "Guide"

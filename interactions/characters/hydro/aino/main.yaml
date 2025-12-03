@@ -1,0 +1,29 @@
+embeds:
+  - title: Aino
+    color: ${ COLORS.HYDRO_BLUE }
+    image:
+      url: ${INFOGRAPHICS.AINO_1}
+    thumbnail: 
+      url: ${ICON.CHARACTER_AINO}
+    description: |-
+      ★★★★
+      *Hydro Claymore*
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} plumetra (Designer) | acerbus (Content)
+
+
+buttons:
+  # - label: "Guide"
+  #   url: "https://keqingmains.com/aino"
+  #   emoji: ${ EMOJIS.LOGO }
+  #   style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/aino-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "TCL"
+    url: "https://library.keqingmains.com/aino"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"

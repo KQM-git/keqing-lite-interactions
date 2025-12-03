@@ -9,7 +9,7 @@ embeds:
       ★★★★★
       *Hydro Catalyst*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote (Designer) | baloopy (Content)
+      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote, auraolis (Designer) | baloopy, acerbus (Content)
 
 buttons:
   - label: "Guide"

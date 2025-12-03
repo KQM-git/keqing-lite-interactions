@@ -1,21 +1,17 @@
 embeds:
-  - title: Xingqiu
+  - title: Off-Field DPS Xingqiu
     color: ${ COLORS.HYDRO_BLUE }
     image: 
-      url: ${INFOGRAPHICS.XINGQIU_2}
+      url: ${INFOGRAPHICS.XINGQIU_1}
     thumbnail:
       url: ${ICON.CHARACTER_XINGQIU}
     description: |-
       ★★★★
       *Hydro Sword*
     footer:
-      text: "Use \"Open original\" to view full size.\n\nCredits to: ang tahimik#9252 (Designer) | Ayzel#7399, xf3#3123 (Content)"    
-
+      text: ${LABEL.INFOGRAPHIC_CREDITS} cote, cegewinne & auraolis (Designer) | snowwwwww. & KQM Staff (Content)
+      
 buttons:
-  - customId: "liveInteraction#characters/hydro/xingqiu/main1"
-    label: "Basics"
-    style: "PRIMARY"
-    emoji: "◀️"
 
   - label: "Guide"
     url: "https://keqingmains.com/xingqiu"

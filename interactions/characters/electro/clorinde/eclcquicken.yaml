@@ -1,0 +1,29 @@
+embeds:
+  - title: EC/LC/Quicken DPS Clorinde
+    color: ${COLORS.ELECTRO_PURPLE}
+    image: 
+      url: ${INFOGRAPHICS.CLORINDE_1}
+    thumbnail:
+      url: ${ICON.CHARACTER_CLORINDE}
+    description: |-
+      ★★★★★
+      *Electro Sword*
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} euphorysm, cegewinne, plumetra (Designer) | mikeskies & BreadCat (Content)
+
+buttons:
+  # - label: "Guide"
+  #   url: "https://keqingmains.com/clorinde/"
+  #   emoji: ${ EMOJIS.LOGO }
+  #   style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/clorinde-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+
+  - label: "TCL"
+    url: "https://library.keqingmains.com/characters/electro/clorinde"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"
