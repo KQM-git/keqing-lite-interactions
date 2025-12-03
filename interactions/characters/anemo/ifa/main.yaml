@@ -4,8 +4,7 @@ embeds:
     thumbnail:
       url: ${ICON.CHARACTER_IFA}
     description: |-
-      ★★★★
-      *Anemo Catalyst*
+      *A vet from the Flower-Feather Clan, beloved by humans and animals alike. The round creature by his side is his assistant.*
 
 options: #dropdown
   - label: Ifa Swirl DPS Infographic

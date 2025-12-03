@@ -4,8 +4,7 @@ embeds:
     thumbnail:
       url: ${ICON.CHARACTER_KEQING}
     description: |-
-      ★★★★★
-      *Electro Sword*
+      *The Yuheng of the Liyue Qixing. She firmly believes that humanity's future should be determined by humans themselves, and that they can even do better than the archons and adepti have done for them. In order to prove this, she works harder than anyone else.*
 
 options: #dropdown
   - label: Electro Keqing Build
@@ -17,6 +16,12 @@ options: #dropdown
     value: characters/electro/keqing/aggravate_build
     description: KQM's resources for Aggravate DPS Keqing's Build.
     emoji: ${EMOJIS.ELEMENT_ELECTRO }
+
+  - label: Quickbloom Keqing Build
+    value: characters/electro/keqing/quickbloom_build
+    description: KQM's resources for Quickbloom DPS Keqing's Build.
+    emoji: ${EMOJIS.ELEMENT_ELECTRO }
+
 
 buttons:    
   - label: "Guide"
