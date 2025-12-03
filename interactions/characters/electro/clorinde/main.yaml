@@ -1,15 +1,22 @@
 embeds:
   - title: Clorinde
     color: ${COLORS.ELECTRO_PURPLE}
-    image: 
-      url: ${INFOGRAPHICS.CLORINDE_1}
     thumbnail:
       url: ${ICON.CHARACTER_CLORINDE}
     description: |-
-      ★★★★★
-      *Electro Sword*
-    footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} euphorysm & cegewinne (Designer) | mikeskies & BreadCat (Content)
+      *The mightiest Champion Duelist. Sword in hand, she defends justice in the Court of Fontaine.*
+
+options: # dropdown
+    
+  - label: Clorinde EC/LC/Quicken DPS Build Infographic
+    value: characters/electro/clorinde/eclcquicken
+    description: KQM's resources for Clorinde's EC/LC/Quicken Builds.
+    emoji: ${EMOJIS.ELEMENT_ELECTRO }
+
+  - label: Clorinde Overload DPS Infographic
+    value: characters/electro/clorinde/overload
+    description: KQM's resources for Clorinde's Overload Builds.
+    emoji: ${EMOJIS.ELEMENT_ELECTRO }
 
 buttons:
   # - label: "Guide"

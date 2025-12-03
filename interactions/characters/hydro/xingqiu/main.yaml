@@ -1,16 +1,22 @@
 embeds:
   - title: Xingqiu
     color: ${ COLORS.HYDRO_BLUE }
-    image: 
-      url: ${INFOGRAPHICS.XINGQIU_1}
     thumbnail:
       url: ${ICON.CHARACTER_XINGQIU}
     description: |-
-      ★★★★
-      *Hydro Sword*
-    footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote (Designer) | snowwwwww. (Content)
-      
+      *The second son of the Feiyun Commerce Guild, Xingqiu has had a reputation for being studious and polite ever since he was a young child. But there is another side to the mild-mannered Xingqiu everyone knows. A daring, adventurous and much more mischievous side...*
+
+options: # dropdown
+  - label: Xingqiu Off-Field DPS Infographic
+    value: characters/hydro/xingqiu/hydro
+    description: KQM's resources for Off-Field DPS Xingqiu Builds.
+    emoji: ${EMOJIS.ELEMENT_HYDRO }
+
+  - label: Xingqiu Bloom DPS Infographic
+    value: characters/hydro/xingqiu/bloom
+    description: KQM's resources for Bloom DPS Xingqiu Builds.
+    emoji: ${EMOJIS.ELEMENT_HYDRO }
+
 buttons:
 
   - label: "Guide"

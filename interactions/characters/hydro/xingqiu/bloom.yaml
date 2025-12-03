@@ -1,0 +1,34 @@
+embeds:
+  - title: Off-Field Bloom DPS Xingqiu
+    color: ${ COLORS.HYDRO_BLUE }
+    image: 
+      url: ${INFOGRAPHICS.XINGQIU_2}
+    thumbnail:
+      url: ${ICON.CHARACTER_XINGQIU}
+    description: |-
+      ★★★★
+      *Hydro Sword*
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} auraolis (Designer) | acerbus114 & caxia5 (Content)
+      
+buttons:
+
+  - label: "Guide"
+    url: "https://keqingmains.com/xingqiu"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/xingqiu-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "TCL"
+    url: "https://library.keqingmains.com/xingqiu"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"
+
+  - label: "Video Guide"
+    url: "https://www.youtube.com/watch?v=EiOP60N4p58"
+    emoji: ${ EMOJIS.YOUTUBE }
+    style: "LINK"
