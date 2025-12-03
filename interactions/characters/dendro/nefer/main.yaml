@@ -1,0 +1,38 @@
+embeds:
+  - title: Nefer
+    color: ${COLORS.DENDRO_GREEN}
+    image: 
+      url: ${INFOGRAPHICS.NEFER_1}
+    thumbnail:
+      url: ${ICON.CHARACTER_NEFER}
+    description: |-
+      ★★★★★
+      *Dendro Catalyst*
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} plumetra (Designer) | plumetra (Content)
+
+buttons:
+  # - label: "Guide"
+  #   url: "https://keqingmains.com/nefer"
+  #   emoji: ${ EMOJIS.LOGO }
+  #   style: "LINK"
+
+  - customId: "liveInteraction#characters/dendro/nefer/neferrot"
+    label: "Nefer Rotations"
+    style: PRIMARY
+    emoji: ${ EMOJIS.ELEMENT_DENDRO }
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/nefer-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "TCL"
+    url: "https://library.keqingmains.com/characters/dendro/nefer"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"
+
+  # - label: "Video Guide"
+  #   url: "https://www.youtube.com/watch?v=U5FD_O-B7xM"
+  #   emoji: ${ EMOJIS.YOUTUBE }
+  #   style: "LINK"

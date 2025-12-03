@@ -1,0 +1,5 @@
+interaction: characters/dendro/nefer/main
+description: "Opens KQM's resources on Nefer"
+match: ${ TRIGGER_PREFIX }nefer(?:\s|$)
+ignoreCase: true
+
