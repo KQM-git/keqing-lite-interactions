@@ -1,15 +1,15 @@
 embeds:
-  - title: Electro DPS Keqing
+  - title: Quickbloom DPS Keqing
     color: ${ COLORS.ELECTRO_PURPLE }
     image: 
-      url: ${INFOGRAPHICS.KEQING_1}
+      url: ${INFOGRAPHICS.KEQING_3}
     thumbnail:
       url: ${ICON.CHARACTER_KEQING}
     description: |-
       ★★★★★
       *Electro Sword*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote & auraolis (Designer) | haafr, casdela, dustedwind (Content)
+      text: ${LABEL.INFOGRAPHIC_CREDITS} auraolis (Designer) | acerbus114, dustedwind (Content)
 
 buttons:    
   - label: "Guide"
