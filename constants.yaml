@@ -30,6 +30,7 @@ IMAGES:
   KQM_LOGO: "https://i2.wp.com/keqingmains.com/wp-content/uploads/2021/10/kqm-logo-full-e1633177025729.png"
 
 INFOGRAPHICS:
+  AINO_1: "https://editors.keqingmains.com/wp-content/uploads/2025/10/Aino_6.0_-_plumetra.png"
   ALBEDO_1: "https://editors.keqingmains.com/wp-content/uploads/2024/04/Albedo-Infographic-4.5.png"
   ALHAITHAM_1: "https://editors.keqingmains.com/wp-content/uploads/2025/02/Alhaitham_5.4.png"
   ALOY_1: "https://editors.keqingmains.com/wp-content/uploads/2024/04/Aloy-Support-Infographic-4.5.png" # support build
@@ -196,6 +197,7 @@ INFOGRAPHICS:
   REACTIONS: "https://editors.keqingmains.com/wp-content/uploads/2023/02/Elemental_Reactions-min.png"    
 
 ICON:
+  CHARACTER_AINO: "https://editors.keqingmains.com/wp-content/uploads/2025/09/UI_AvatarIcon_Aino.webp"
   CHARACTER_ALBEDO: "https://editors.keqingmains.com/wp-content/uploads/2021/09/UI_AvatarIcon_Albedo.png"
   CHARACTER_ALHAITHAM: "https://editors.keqingmains.com/wp-content/uploads/2023/01/Alhatham.png"
   CHARACTER_ALOY: "https://editors.keqingmains.com/wp-content/uploads/2021/09/Character_Aloy_Thumb-min.png"
