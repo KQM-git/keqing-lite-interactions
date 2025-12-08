@@ -41,6 +41,7 @@ INFOGRAPHICS:
   AMBER_3: "https://editors.keqingmains.com/wp-content/uploads/2023/08/Amber_Burgeon_1.png" # burgeon build
   AMBER_4: "https://editors.keqingmains.com/wp-content/uploads/2023/08/Amber_2.png"         # teams
   ARLECCHINO_1: "https://editors.keqingmains.com/wp-content/uploads/2025/03/Arlecchino_5.3_-_euphorysm.png"
+  ARLE_ROT: "https://editors.keqingmains.com/wp-content/uploads/2025/12/Arlecchino-Teams-6.1-euphorysm.png"
   AYAKA_1: "https://editors.keqingmains.com/wp-content/uploads/2024/04/Ayaka_6.0_-_angtahimik_cote__auraolis.png"
   AYATO_1: "https://editors.keqingmains.com/wp-content/uploads/2025/06/Ayato-Infographic-5.6.png"
   BAIZHU_1: "https://editors.keqingmains.com/wp-content/uploads/2025/05/Baizhu-Infographic-5.5.png"
@@ -71,6 +72,9 @@ INFOGRAPHICS:
   DORI_1: "https://editors.keqingmains.com/wp-content/uploads/2024/10/Dori-Support-Infographic.png" # support
   DORI_2: "https://editors.keqingmains.com/wp-content/uploads/2024/10/Dori-Hyperbloom-Infographic.png" # hyperbloom
   DORI_3: "https://editors.keqingmains.com/wp-content/uploads/2024/10/Dori-On-Field-DPS-Infographic.png" # c6 aggravate
+  DURIN_1: "https://editors.keqingmains.com/wp-content/uploads/2025/11/Durin-Off-Field-Support-Light-6.3-cegewinne-1.png" # light
+  DURIN_2: "https://editors.keqingmains.com/wp-content/uploads/2025/11/Durin-Burst-DPS-Dark-6.2-cegewinne.png" # dark
+  DURIN_ROT: "https://editors.keqingmains.com/wp-content/uploads/2025/12/Durin-Off-Field-White-Form-Rotations.png"
   EMILIE_1: "https://editors.keqingmains.com/wp-content/uploads/2025/05/Emilie_6.0_-_cote_plumetra.png"
   ESCOFFIER_1: "https://editors.keqingmains.com/wp-content/uploads/2025/08/Escoffier-Freeze-Infographic.png" # freeze
   ESCOFFIER_2: "https://editors.keqingmains.com/wp-content/uploads/2025/08/Escoffier-General-Infographic.png" # general
@@ -228,6 +232,7 @@ ICON:
   CHARACTER_DILUC: "https://editors.keqingmains.com/wp-content/uploads/2021/09/Character_Diluc_Thumb-min.png"
   CHARACTER_DIONA: "https://editors.keqingmains.com/wp-content/uploads/2021/09/Character_Diona_Thumb-min.png"
   CHARACTER_DORI: "https://editors.keqingmains.com/wp-content/uploads/2022/09/Character_Dori_Thumb.webp"
+  CHARACTER_DURIN: "https://editors.keqingmains.com/wp-content/uploads/2025/11/Durin_Icon.webp"
   CHARACTER_EMILIE: "https://editors.keqingmains.com/wp-content/uploads/2024/08/emilie_099_icon.webp"
   CHARACTER_ESCOFFIER: "https://editors.keqingmains.com/wp-content/uploads/2025/05/Escoffier_Avatar_Icon.webp"
   CHARACTER_EULA: "https://editors.keqingmains.com/wp-content/uploads/2021/09/Character_Eula_Thumb-min.png"

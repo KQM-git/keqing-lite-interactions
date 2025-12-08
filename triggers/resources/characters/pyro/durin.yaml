@@ -1,0 +1,4 @@
+interaction: characters/pyro/durin/main
+description: "Opens KQM's resources on Durin"
+match: ${ TRIGGER_PREFIX }durin(?:\s|$)
+ignoreCase: true
