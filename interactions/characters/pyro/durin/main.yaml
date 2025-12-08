@@ -1,0 +1,34 @@
+embeds:
+  - title: Durin
+    color: ${ COLORS.PYRO_ORANGE }
+    thumbnail:
+      url: ${ICON.CHARACTER_DURIN}
+    description: |-
+      *Once a dragon who lived in a fairy tale, he now strives to learn how to live as a human.*
+
+options: #dropdown
+  - label: Off-Field Support (Light) Build Infographic
+    value: characters/pyro/durin/light
+    description: KQM's resources for Durin's Off-Field Support Builds.
+    emoji: ${EMOJIS.CHARACTER_DURIN }
+
+  - label: Burst DPS (Dark) Build Infographic
+    value: characters/pyro/durin/dark
+    description: KQM's resources for Durin's Burst DPS Builds.
+    emoji: ${EMOJIS.CHARACTER_DURIN }
+
+buttons:
+  # - label: "Guide"
+  #   url: "https://keqingmains.com/durin/"
+  #   emoji: ${ EMOJIS.LOGO }
+  #   style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/durin-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "TCL"
+    url: "https://library.keqingmains.com/characters/pyro/durin"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"

@@ -1,0 +1,28 @@
+embeds:
+  - title: Off-Field Support Durin (Light)
+    color: ${ COLORS.PYRO_ORANGE }
+    image: 
+      url: ${INFOGRAPHICS.DURIN_1}
+    thumbnail:
+      url: ${ICON.CHARACTER_DURIN}
+    description: |-
+      ★★★★★
+      *Pyro Sword*
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} cegewinne (Designer) | irokei (Content)
+
+buttons:
+  - customId: "liveInteraction#characters/pyro/durin/durinrot"
+    label: "Durin Rotations (Light)"
+    style: PRIMARY
+    emoji: ${ EMOJIS.ELEMENT_PYRO }
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/durin-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "TCL"
+    url: "https://library.keqingmains.com/characters/pyro/durin"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"
