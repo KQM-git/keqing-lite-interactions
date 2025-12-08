@@ -1,8 +1,8 @@
 embeds:
-  - title: Arlecchino
+  - title: Arlecchino Rotations
     color: ${ COLORS.PYRO_ORANGE }
     image: 
-      url: ${INFOGRAPHICS.ARLECCHINO_1}
+      url: ${INFOGRAPHICS.ARLE_ROT}
     thumbnail:
       url: ${ICON.CHARACTER_ARLECCHINO}
     description: |-
@@ -16,10 +16,10 @@ buttons:
   #   url: "https://keqingmains.com/arlecchino/"
   #   emoji: ${ EMOJIS.LOGO }
   #   style: "LINK"
-  - customId: "liveInteraction#characters/pyro/arlecchino/arlerot"
-    label: "Arlecchino Rotations"
-    style: PRIMARY
-    emoji: ${ EMOJIS.ELEMENT_PYRO }
+  - customId: "liveInteraction#characters/pyro/arlecchino/main"
+    label: "Basics"
+    style: "PRIMARY"
+    emoji: "◀️"
 
   - label: "Quick Guide"
     url: "https://keqingmains.com/q/arlecchino-quickguide/"
