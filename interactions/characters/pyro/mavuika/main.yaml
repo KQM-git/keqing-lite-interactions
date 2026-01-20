@@ -19,7 +19,7 @@ options: #dropdown
 
 
 buttons:
-  - label: "TCL"
-    url: "https://library.keqingmains.com/characters/pyro/mavuika"
-    emoji: ${ EMOJIS.MAGNIFY }
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/mavuika-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
     style: "LINK"
