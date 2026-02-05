@@ -16,6 +16,12 @@ buttons:
   #   url: "https://keqingmains.com/yunjin/"
   #   emoji: ${ EMOJIS.LOGO }
   #   style: "LINK"
+
+  - customId: "liveInteraction#characters/geo/zibai/zibairot"
+    label: "Zibai Rotations"
+    style: PRIMARY
+    emoji: ${ EMOJIS.ELEMENT_HYDRO }
+
   - label: "Quick Guide"
     url: "https://keqingmains.com/q/zibai-quickguide/"
     emoji: ${ EMOJIS.LOGO }
