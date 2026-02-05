@@ -20,7 +20,7 @@ buttons:
   - customId: "liveInteraction#characters/geo/zibai/zibairot"
     label: "Zibai Rotations"
     style: PRIMARY
-    emoji: ${ EMOJIS.ELEMENT_HYDRO }
+    emoji: ${ EMOJIS.ELEMENT_GEO }
 
   - label: "Quick Guide"
     url: "https://keqingmains.com/q/zibai-quickguide/"
