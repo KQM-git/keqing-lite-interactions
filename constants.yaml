@@ -58,9 +58,12 @@ INFOGRAPHICS:
   CHIORI_1: "https://editors.keqingmains.com/wp-content/uploads/2024/10/Chiori-Infographic-1-1536x1229.png"
   CHONGYUN_1: "https://editors.keqingmains.com/wp-content/uploads/2024/04/Chongyun_5.0_-_cote.png"
   CITLALI_1: "https://editors.keqingmains.com/wp-content/uploads/2025/08/Citlali-Infographic.png" #
-  CLORINDE_1: "https://editors.keqingmains.com/wp-content/uploads/2025/05/Clorinde_6.0_-_euphorysm_cege_shade_plumetra.png"
-  CLORINDE_2: "https://editors.keqingmains.com/wp-content/uploads/2025/05/Clorinde_Overload_6.0_-_euphorysm_cege_shade_plumetra.png" # overload
+  CLORINDE_1: "https://editors.keqingmains.com/wp-content/uploads/2026/02/Clorinde_6.3_-_euphorysm_cege_shade_plumetra.png" # ec/lc/quicken
+  CLORINDE_2: "https://editors.keqingmains.com/wp-content/uploads/2026/02/Clorinde_Overload_6.3_-_euphorysm_cege_shade_plumetra.png" # overload
   COLLEI_1: "https://editors.keqingmains.com/wp-content/uploads/2025/09/Collei_6dot0.png"
+  COLUMBINA_1: "https://editors.keqingmains.com/wp-content/uploads/2026/01/Columbina_Off-Field_Support_and_DPS_6.3_-_euphorysm-1.png" # off field support
+  COLUMBINA_2: "https://editors.keqingmains.com/wp-content/uploads/2026/01/Columbina_On-Field_DPS_6.3_-_euphorysm-2.png" # onfield dps
+  COLUMBINA_ROT: "https://editors.keqingmains.com/wp-content/uploads/2026/01/Columbina_Off-Field_Rotations_6.3.png" # off field rotations
   CYNO_1: "https://editors.keqingmains.com/wp-content/uploads/2024/05/Cyno-Infographic-4.6.png"
   DAHLIA_1: "https://editors.keqingmains.com/wp-content/uploads/2024/02/Dahlia_5.7_-_shade.png"
   DENDRO_TRAVELER_1: "https://editors.keqingmains.com/wp-content/uploads/2023/07/DMC_1.png"
@@ -98,22 +101,23 @@ INFOGRAPHICS:
   IANSAN_1: "https://editors.keqingmains.com/wp-content/uploads/2025/08/Iansan-Infographic.png"
   IFA_1: "https://editors.keqingmains.com/wp-content/uploads/2025/11/Ifa-Swirl-DPS-6.1-kol.png" # swirl
   IFA_2: "https://editors.keqingmains.com/wp-content/uploads/2025/11/Ifa-Anemo-DPS-6.1-kol.png" # anemo
-  INEFFA_1: "https://editors.keqingmains.com/wp-content/uploads/2025/08/Ineffa-Infographic.png"
+  INEFFA_1: "https://editors.keqingmains.com/wp-content/uploads/2026/01/Ineffa_Infographic_6.3_-_auraolis.png"
   ITTO_1: "https://editors.keqingmains.com/wp-content/uploads/2025/06/Itto-Infographic-5.6.png"
+  JADOHA_1: "https://editors.keqingmains.com/wp-content/uploads/2026/01/Jahoda_6.2.png"
   JEAN_1: "https://editors.keqingmains.com/wp-content/uploads/2025/04/Jean_Healer_5.4_-_kol__cote.png" # support
   JEAN_2: "https://editors.keqingmains.com/wp-content/uploads/2025/04/Jean_Sunfire_5.4_-_radishmafan_squid.png" # sunfire
   KACHINA_1: "https://editors.keqingmains.com/wp-content/uploads/2025/01/Kachina_5.3_-_cote.png"
   KAEYA_1: "https://editors.keqingmains.com/wp-content/uploads/2024/12/Kaeya_Freeze_5.2_-_cote.png" # freeze
   KAEYA_2: "https://editors.keqingmains.com/wp-content/uploads/2022/11/Kaeya_2.png" # teams
   KAEYA_3: "https://editors.keqingmains.com/wp-content/uploads/2024/12/Kaeya_Melt_5.2_-_cote.png" # melt
-  KAVEH_1: "https://editors.keqingmains.com/wp-content/uploads/2025/06/Kaveh_5.7_-_cote.png"
+  KAVEH_1: "https://editors.keqingmains.com/wp-content/uploads/2026/01/Kaveh_6.3_-_cote.png"
   KAZUHA_1: "https://editors.keqingmains.com/wp-content/uploads/2024/04/Kazuha_5.0_-_cote.png"
   KEQING_1: "https://editors.keqingmains.com/wp-content/uploads/2025/10/KQM_Keqing_Electro_Luna_I.png" # electro
   KEQING_2: "https://editors.keqingmains.com/wp-content/uploads/2025/10/KQM_Keqing_Aggravate_Luna_I.png" # aggravate
   KEQING_3: "https://editors.keqingmains.com/wp-content/uploads/2025/10/Keqing_Quickbloom_Luna_I.png" # quickbloom
   KINICH_1: "https://editors.keqingmains.com/wp-content/uploads/2025/06/Kinich-Infographic-5.6.png"
   KIRARA_1: "https://editors.keqingmains.com/wp-content/uploads/2024/12/Kirara_5.3_-_cote.png"
-  KLEE_1: "https://editors.keqingmains.com/wp-content/uploads/2025/08/Klee-Infographic.png" # on field
+  KLEE_1: "https://editors.keqingmains.com/wp-content/uploads/2026/02/Klee_On-field_6.3_-_ang_tahimik_cegewinne_auraolis.png" # on field
   KLEE_2: "https://editors.keqingmains.com/wp-content/uploads/2024/07/Klee_Burgeon_4.7_-_ang_tahimik.png" # burgeon
   KOKOMI_1: "https://editors.keqingmains.com/wp-content/uploads/2024/12/Kokomi_Bloom_5.1_-_kol__cegewinne.png" # nilou bloom driver & supp
   KOKOMI_2: "https://editors.keqingmains.com/wp-content/uploads/2024/11/Kokomi-Support-Infographic-5.1.png" # off-field support
@@ -138,8 +142,8 @@ INFOGRAPHICS:
   NAVIA_1: "https://editors.keqingmains.com/wp-content/uploads/2025/08/Navia_5.8_-_euphorysm_cege_auraolis.png"
   NEFER_1: "https://editors.keqingmains.com/wp-content/uploads/2025/10/Nefer-Infographic.png"
   NEFER_ROT: "https://editors.keqingmains.com/wp-content/uploads/2025/12/koYjMxt.png"
-  NEUVILLETTE_1: "https://editors.keqingmains.com/wp-content/uploads/2024/12/Neuvillette_5.2_-_cote.png"
-  NILOU_1: "https://editors.keqingmains.com/wp-content/uploads/2024/12/Nilou_5.2_-_kol__cote.png"
+  NEUVILLETTE_1: "https://editors.keqingmains.com/wp-content/uploads/2026/02/Neuvillette_6.3_-_cote_auntyplays.png"
+  NILOU_1: "https://editors.keqingmains.com/wp-content/uploads/2026/02/Nilou_6.3.png"
   NINGGUANG_1: "https://editors.keqingmains.com/wp-content/uploads/2025/03/Ningguang_5.4_-_euphorysm_cegewinne.png"
   NOELLE_1: "https://editors.keqingmains.com/wp-content/uploads/2024/04/Noelle-Infographic-4.5.png"
   ORORON_1: "https://editors.keqingmains.com/wp-content/uploads/2024/11/Ororon-Infographic-5.2.png"
@@ -169,7 +173,7 @@ INFOGRAPHICS:
   THOMA_2: "https://editors.keqingmains.com/wp-content/uploads/2024/12/Thoma_Burgeon_5.3_-_cote__euphorysm.png"
   TIGHNARI_1: "https://editors.keqingmains.com/wp-content/uploads/2024/12/Tighnari_5.2_-_cote.png"
   VARESA_1: "https://editors.keqingmains.com/wp-content/uploads/2025/03/Varesa-Infographic-1.png"
-  VENTI_1: "https://editors.keqingmains.com/wp-content/uploads/2025/06/Venti_5.6_-_kol__cote_shade.645_Update.png"
+  VENTI_1: "https://editors.keqingmains.com/wp-content/uploads/2026/02/Venti_On-Field_DPS_6.2_-_shade.645.png"
   WANDERER_1: "https://editors.keqingmains.com/wp-content/uploads/2024/12/Wanderer_5.3_-_euphorysm__cote.png"
   WRIOTHESLEY_1: "https://editors.keqingmains.com/wp-content/uploads/2025/03/Wriothesley_Non-Melt_DPS_5.4_-_euphorysm__cote__cege.png" # non-melt
   WRIOTHESLEY_2: "https://editors.keqingmains.com/wp-content/uploads/2025/03/Wriothesley_Melt_5.4_-_euphorysm__cote.png" # melt
@@ -190,6 +194,8 @@ INFOGRAPHICS:
   YOIMIYA_1: "https://editors.keqingmains.com/wp-content/uploads/2025/06/Yoimiya_5.7_cuppacote_auraolis.png"
   YUNJIN_1: "https://editors.keqingmains.com/wp-content/uploads/2025/05/Yun-Jin-Infographic-5.6.png"
   ZHONGLI_1: "https://editors.keqingmains.com/wp-content/uploads/2024/12/Zhongli-Infographic.png"
+  ZIBAI_1: "https://editors.keqingmains.com/wp-content/uploads/2026/02/Zibai_6.3_-_hearttofhope-1.png"
+  ZIBAI_ROT: "https://editors.keqingmains.com/wp-content/uploads/2026/02/Zibai_Teams_6.3_-_euphorysm.png"
   DENDRO_1: "https://editors.keqingmains.com/wp-content/uploads/2022/08/Dendro-Basics-V21.png" # basic mechs
 #  DENDRO_2: "https://media.discordapp.net/attachments/1039459939854336030/1039744184065740870/Bloom_Mechanics_V2.png" # bloom
 #  DENDRO_3: "https://media.discordapp.net/attachments/1039459939854336030/1039744184439017472/Catalyze_Mechanics_V2.png" # catalyze
@@ -225,6 +231,7 @@ ICON:
   CHARACTER_CITLALI: "https://editors.keqingmains.com/wp-content/uploads/2025/01/Citlali_Icon.webp"
   CHARACTER_CLORINDE: "https://editors.keqingmains.com/wp-content/uploads/2024/06/Clorinde_Icon.webp"
   CHARACTER_COLLEI: "https://editors.keqingmains.com/wp-content/uploads/2022/09/Character_Collei_Thumb.webp"
+  CHARACTER_COLUMBINA: "https://editors.keqingmains.com/wp-content/uploads/2026/01/UI_AvatarIcon_Columbina.webp"
   CHARACTER_CHONGYUN: "https://editors.keqingmains.com/wp-content/uploads/2021/09/UI_AvatarIcon_Chongyun.png"
   CHARACTER_CYNO: "https://editors.keqingmains.com/wp-content/uploads/2022/10/UI_AvatarIcon_Cyno.png"
   CHARACTER_DAHLIA: "https://editors.keqingmains.com/wp-content/uploads/2025/09/Dahlia-Icon.png"
@@ -249,6 +256,7 @@ ICON:
   CHARACTER_IFA: "https://editors.keqingmains.com/wp-content/uploads/2025/05/Ifa_Icon.webp"
   CHARACTER_INEFFA: "https://editors.keqingmains.com/wp-content/uploads/2025/09/Ineffa-Icon.png"
   CHARACTER_ITTO: "https://editors.keqingmains.com/wp-content/uploads/2022/01/UI_AvatarIcon_Itto-min.png"
+  CHARACTER_JAHODA: "https://editors.keqingmains.com/wp-content/uploads/2026/01/Jahoda_Icon.webp"
   CHARACTER_JEAN: "https://editors.keqingmains.com/wp-content/uploads/2021/09/UI_AvatarIcon_Qin.png"
   CHARACTER_KACHINA: "https://editors.keqingmains.com/wp-content/uploads/2024/08/Kachina_Icon.webp"
   CHARACTER_KAEYA: "https://editors.keqingmains.com/wp-content/uploads/2021/09/UI_AvatarIcon_Kaeya.png"
@@ -312,6 +320,7 @@ ICON:
   CHARACTER_YOIMIYA: "https://editors.keqingmains.com/wp-content/uploads/2021/09/Character_Yoimiya_Thumb-min.png"
   CHARACTER_YUNJIN: "https://editors.keqingmains.com/wp-content/uploads/2021/08/yunjin-png.png"
   CHARACTER_ZHONGLI: "https://editors.keqingmains.com/wp-content/uploads/2021/09/UI_AvatarIcon_Zhongli.png"
+  CHARACTER_ZIBAI: "https://editors.keqingmains.com/wp-content/uploads/2026/01/UI_AvatarIcon_Zibai.webp"
 
 
 EMOJIS:

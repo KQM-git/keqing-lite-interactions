@@ -9,7 +9,7 @@ embeds:
       ★★★★
       *Hydro Claymore*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} plumetra (Designer) | acerbus (Content)
+      text: ${LABEL.INFOGRAPHIC_CREDITS} hearttofhope (Designer) | acerbus (Content)
 
 
 buttons:

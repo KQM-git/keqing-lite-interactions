@@ -9,7 +9,7 @@ embeds:
       ★★★★★
       *Electro Polearm*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} auraolis, euphorysm (Designer) | plumetra, acerbus (Content)
+      text: ${LABEL.INFOGRAPHIC_CREDITS} auraolis, euphorysm (Designer) | hearttofhope, acerbus (Content)
 
 buttons:
   - label: "Guide"

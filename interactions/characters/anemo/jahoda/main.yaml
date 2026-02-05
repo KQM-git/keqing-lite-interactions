@@ -1,0 +1,29 @@
+embeds:
+  - title: Jahoda
+    color: ${ COLORS.ANEMO_GREEN }
+    image:
+      url: ${INFOGRAPHICS.JAHODA_1 }
+    thumbnail:
+      url: ${ICON.CHARACTER_JAHODA}
+    description: |-
+      ★★★★
+      *Anemo Bow*
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} hearttofhope (Designer) | acerbus114 (Content)
+
+
+buttons:
+  # - label: "Guide"
+  #   url: "https://keqingmains.com/jahoda/"
+  #   emoji: ${ EMOJIS.LOGO }
+  #   style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/jahoda-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "TCL"
+    url: "https://library.keqingmains.com/characters/anemo/jahoda"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"

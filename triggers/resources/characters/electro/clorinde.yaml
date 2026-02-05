@@ -1,4 +1,4 @@
 interaction: characters/electro/clorinde/main
 description: "Opens KQM's resources on Clorinde"
-match: ${ TRIGGER_PREFIX }clorinde(?:\s|$)
+match: ${ TRIGGER_PREFIX }(?:clorinde|clor)(?:\s|$)
 ignoreCase: true

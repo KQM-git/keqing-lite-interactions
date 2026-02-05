@@ -9,7 +9,7 @@ embeds:
       ★★★★★
       *Cryo Sword*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} euphorysm (Designer) | plumetra (Content)
+      text: ${LABEL.INFOGRAPHIC_CREDITS} euphorysm (Designer) | hearttofhope (Content)
 
 buttons:
   - label: "Guide"

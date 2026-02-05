@@ -9,7 +9,7 @@ embeds:
       ★★★★
       *Hydro Sword*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} shade.645 (Designer) | plumetra (Content)
+      text: ${LABEL.INFOGRAPHIC_CREDITS} shade.645 (Designer) | hearttofhope (Content)
 
 buttons:
   - label: "Guide"

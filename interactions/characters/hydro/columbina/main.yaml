@@ -1,0 +1,40 @@
+embeds:
+  - title: Columbina
+    color: ${ COLORS.HYDRO_BLUE }
+    thumbnail:
+      url: ${ICON.CHARACTER_COLUMBINA}
+    description: |-
+      *Kuutar, the Moon Goddess of Nod-Krai, and formerly The Damselette, Third of the Fatui Harbingers. Still, her friends call her Columbina Hyposelenia, and she prefers it that way.*
+
+options: # dropdown
+  - label: Columbina Off-Field Support and DPS Infographic
+    value: characters/hydro/columbina/offfield
+    description: KQM's resources for Off-Field Support and DPS Columbina Builds.
+    emoji: ${EMOJIS.ELEMENT_HYDRO }
+
+  - label: Columbina On-Field DPS Infographic
+    value: characters/hydro/columbina/onfield
+    description: KQM's resources for On-Field DPS Columbina Builds.
+    emoji: ${EMOJIS.ELEMENT_HYDRO }
+
+buttons:
+
+  # - label: "Guide"
+  #   url: "https://keqingmains.com/columbina"
+  #   emoji: ${ EMOJIS.LOGO }
+  #   style: "LINK"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/columbina-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "TCL"
+    url: "https://library.keqingmains.com/columbina"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"
+
+  # - label: "Video Guide"
+  #   url: "https://www.youtube.com/watch?v=EiOP60N4p58"
+  #   emoji: ${ EMOJIS.YOUTUBE }
+  #   style: "LINK"

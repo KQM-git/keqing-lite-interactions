@@ -1,0 +1,4 @@
+interaction: characters/geo/zibai/main
+description: "Opens KQM's resources on Zibai"
+match: ${ TRIGGER_PREFIX }(?:zibai|horse|neigh)(?:\s|$)
+ignoreCase: true
