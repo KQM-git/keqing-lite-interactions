@@ -9,7 +9,7 @@ embeds:
       ★★★★★
       *Dendro Catalyst*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} plumetra (Designer) | plumetra (Content)
+      text: ${LABEL.INFOGRAPHIC_CREDITS} hearttofhope (Designer) | hearttofhope (Content)
 
 buttons:
   # - label: "Guide"
