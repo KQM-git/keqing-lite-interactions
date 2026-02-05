@@ -17,7 +17,7 @@ buttons:
   #   emoji: ${ EMOJIS.LOGO }
   #   style: "LINK"
 
-  - customId: "liveInteraction#characters/hydro/columbina/main"
+  - customId: "liveInteraction#characters/hydro/columbina/offfield"
     label: "Basics"
     style: "PRIMARY"
     emoji: "◀️"
