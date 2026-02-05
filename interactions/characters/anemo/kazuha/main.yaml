@@ -7,7 +7,7 @@ embeds:
       url: ${ICON.CHARACTER_KAZUHA}
     description: |-
       ★★★★★
-      *Kazuha Sword*
+      *Anemo Sword*
     footer:
       text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote (Designer) | irokei (Content)
 

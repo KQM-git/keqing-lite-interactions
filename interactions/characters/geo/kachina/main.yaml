@@ -9,7 +9,7 @@ embeds:
       ★★★★
       *Geo Polearm*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote (Designer) | clevernt & baloopy & haafr (Content)"
+      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote (Designer) | hearttofhope & baloopy & haafr (Content)"
 
 buttons:
   - label: "Quick Guide"

@@ -1,0 +1,4 @@
+interaction: characters/hydro/columbina/main
+description: "Opens KQM's resources on Columbina"
+match: ${ TRIGGER_PREFIX }(?:columbina|bina|columbinahyposelenia)(?:\s|$)
+ignoreCase: true

@@ -9,7 +9,7 @@ embeds:
       ★★★★★
       *Electro Sword*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} euphorysm, cegewinne, plumetra (Designer) | mikeskies & BreadCat (Content)
+      text: ${LABEL.INFOGRAPHIC_CREDITS} euphorysm, cegewinne, hearttofhope (Designer) | mikeskies & BreadCat (Content)
 
 buttons:
   # - label: "Guide"

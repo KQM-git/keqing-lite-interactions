@@ -1,15 +1,15 @@
 embeds:
-  - title: Nefer Rotations
-    color: ${COLORS.DENDRO_GREEN}
+  - title: Zibai Rotations
+    color: ${COLORS.GEO_YELLOW}
     image: 
-      url: ${INFOGRAPHICS.NEFER_ROT}
+      url: ${INFOGRAPHICS.ZIBAI_ROT}
     thumbnail:
-      url: ${ICON.CHARACTER_NEFER}
+      url: ${ICON.CHARACTER_ZIBAI}
     description: |-
       ★★★★★
-      *Dendro Catalyst*
+      *Geo Sword*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} euphorysm (Designer) | hearttofhope (Content)
+      text: ${LABEL.INFOGRAPHIC_CREDITS} euphorysm (Designer) | acerbus114 (Content)
 
 buttons:
   # - label: "Guide"
@@ -17,18 +17,18 @@ buttons:
   #   emoji: ${ EMOJIS.LOGO }
   #   style: "LINK"
 
-  - customId: "liveInteraction#characters/dendro/nefer/main"
+  - customId: "liveInteraction#characters/geo/zibai/main"
     label: "Basics"
     style: "PRIMARY"
     emoji: "◀️"
 
   - label: "Quick Guide"
-    url: "https://keqingmains.com/q/nefer-quickguide/"
+    url: "https://keqingmains.com/q/zibai-quickguide/"
     emoji: ${ EMOJIS.LOGO }
     style: "LINK"
 
   - label: "TCL"
-    url: "https://library.keqingmains.com/characters/dendro/nefer"
+    url: "https://library.keqingmains.com/characters/geo/zibai"
     emoji: ${ EMOJIS.MAGNIFY }
     style: "LINK"
 

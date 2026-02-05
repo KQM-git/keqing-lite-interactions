@@ -1,0 +1,4 @@
+interaction: characters/anemo/jahoda/main
+description: "Opens KQM's resources on Jahoda"
+match: ${ TRIGGER_PREFIX }jahoda(?:\s|$)
+ignoreCase: true

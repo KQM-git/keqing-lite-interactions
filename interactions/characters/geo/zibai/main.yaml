@@ -1,0 +1,27 @@
+embeds:
+  - title: Zibai
+    color: ${ COLORS.GEO_YELLOW }
+    image: 
+      url: ${INFOGRAPHICS.ZIBAI_1}
+    thumbnail:
+      url: ${ICON.CHARACTER_ZIBAI}
+    description: |-
+      ★★★★★
+      *Geo Sword*
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} hearttofhope (Designer) | acerbus114 (Content)"
+    
+buttons:
+  # - label: "Guide"
+  #   url: "https://keqingmains.com/yunjin/"
+  #   emoji: ${ EMOJIS.LOGO }
+  #   style: "LINK"
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/zibai-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "TCL"
+    url: "https://library.keqingmains.com/characters/geo/zibai"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"
