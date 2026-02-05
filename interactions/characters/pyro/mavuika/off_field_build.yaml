@@ -7,7 +7,7 @@ embeds:
       ★★★★★
       *Pyro Claymore*
     footer:
-      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote & auraolis (Designer) | clevernt (Content)
+      text: ${LABEL.INFOGRAPHIC_CREDITS} cuppacote & auraolis (Designer) | hearttofhope (Content)
 
 buttons:
   - label: "TCL"
