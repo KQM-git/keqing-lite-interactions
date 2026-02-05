@@ -1,0 +1,24 @@
+embeds:
+  - title: On-Field DPS Columbina
+    color: ${ COLORS.HYDRO_BLUE }
+    image: 
+      url: ${INFOGRAPHICS.COLUMBINA_2}
+    thumbnail:
+      url: ${ICON.CHARACTER_COLUMBINA}
+    description: |-
+      ★★★★★
+      *Hydro Catalyst*
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} euphorysm (Designer) | acerbus114  (Content)
+      
+buttons:
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/columbina-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "TCL"
+    url: "https://library.keqingmains.com/columbina"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"

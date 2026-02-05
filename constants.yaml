@@ -61,6 +61,9 @@ INFOGRAPHICS:
   CLORINDE_1: "https://editors.keqingmains.com/wp-content/uploads/2025/05/Clorinde_6.0_-_euphorysm_cege_shade_plumetra.png"
   CLORINDE_2: "https://editors.keqingmains.com/wp-content/uploads/2025/05/Clorinde_Overload_6.0_-_euphorysm_cege_shade_plumetra.png" # overload
   COLLEI_1: "https://editors.keqingmains.com/wp-content/uploads/2025/09/Collei_6dot0.png"
+  COLUMBINA_1: "https://editors.keqingmains.com/wp-content/uploads/2026/01/Columbina_Off-Field_Support_and_DPS_6.3_-_euphorysm-1.png" # off field support
+  COLUMBINA_2: "https://editors.keqingmains.com/wp-content/uploads/2026/01/Columbina_On-Field_DPS_6.3_-_euphorysm-2.png" # onfield dps
+  COLUMBINA_ROT: "https://editors.keqingmains.com/wp-content/uploads/2026/01/Columbina_Off-Field_Rotations_6.3.png" # off field rotations
   CYNO_1: "https://editors.keqingmains.com/wp-content/uploads/2024/05/Cyno-Infographic-4.6.png"
   DAHLIA_1: "https://editors.keqingmains.com/wp-content/uploads/2024/02/Dahlia_5.7_-_shade.png"
   DENDRO_TRAVELER_1: "https://editors.keqingmains.com/wp-content/uploads/2023/07/DMC_1.png"
@@ -226,6 +229,7 @@ ICON:
   CHARACTER_CITLALI: "https://editors.keqingmains.com/wp-content/uploads/2025/01/Citlali_Icon.webp"
   CHARACTER_CLORINDE: "https://editors.keqingmains.com/wp-content/uploads/2024/06/Clorinde_Icon.webp"
   CHARACTER_COLLEI: "https://editors.keqingmains.com/wp-content/uploads/2022/09/Character_Collei_Thumb.webp"
+  CHARACTER_COLUMBINA: "https://editors.keqingmains.com/wp-content/uploads/2026/01/UI_AvatarIcon_Columbina.webp"
   CHARACTER_CHONGYUN: "https://editors.keqingmains.com/wp-content/uploads/2021/09/UI_AvatarIcon_Chongyun.png"
   CHARACTER_CYNO: "https://editors.keqingmains.com/wp-content/uploads/2022/10/UI_AvatarIcon_Cyno.png"
   CHARACTER_DAHLIA: "https://editors.keqingmains.com/wp-content/uploads/2025/09/Dahlia-Icon.png"

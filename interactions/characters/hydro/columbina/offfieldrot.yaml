@@ -1,0 +1,38 @@
+embeds:
+  - title: Off-Field Support and DPSColumbina Rotations
+    color: ${COLORS.HYDRO_BLUE}
+    image: 
+      url: ${INFOGRAPHICS.COLUMBINA_ROT}
+    thumbnail:
+      url: ${ICON.CHARACTER_COLUMBINA}
+    description: |-
+      ★★★★★
+      *Hydro Catalyst*
+    footer:
+      text: ${LABEL.INFOGRAPHIC_CREDITS} euphorysm (Designer) | acerbus114  (Content)
+
+buttons:
+  # - label: "Guide"
+  #   url: "https://keqingmains.com/nefer"
+  #   emoji: ${ EMOJIS.LOGO }
+  #   style: "LINK"
+
+  - customId: "liveInteraction#characters/hydro/columbina/main"
+    label: "Basics"
+    style: "PRIMARY"
+    emoji: "◀️"
+
+  - label: "Quick Guide"
+    url: "https://keqingmains.com/q/columbina-quickguide/"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
+
+  - label: "TCL"
+    url: "https://library.keqingmains.com/columbina"
+    emoji: ${ EMOJIS.MAGNIFY }
+    style: "LINK"
+
+  # - label: "Video Guide"
+  #   url: "https://www.youtube.com/watch?v=U5FD_O-B7xM"
+  #   emoji: ${ EMOJIS.YOUTUBE }
+  #   style: "LINK"
